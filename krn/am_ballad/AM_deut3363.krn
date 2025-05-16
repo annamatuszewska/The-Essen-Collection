@@ -1,0 +1,56 @@
+!!!OTL: Die verkaufte Muellerin Es gieng ein Mueller wol ueber Feld,
+!!!ARE: Europa, Mitteleuropa, Deutschland (), Brandenburg
+!!!YOR: 4, S. 338
+!!    1856 gedruckt in Berlin
+!!!SCT: Q0086D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Mäßig.	!
+!LO:TX:a:t=60a Brandenburg	!
+{8d	Es
+=1	=1
+8g	gieng
+8d	ein
+4g	Müller
+4dd	wol
+=2	=2
+8b	ü-
+16bL	-ber
+16aJ	.
+4.g}	Feld,
+{8b	der
+=3	=3
+8a	hatt
+8a	ein
+4e	Beutel
+4a	und
+=4	=4
+8f#	hatt
+16f#L	kein
+16eJ	.
+4.d}	Geld
+{8d	er
+=5	=5
+8g	wirds
+8d	en
+4g	wol
+4b	be
+=6	=6
+4a	kom-
+4.g}	-men.
+==	==
+!!!AGN: Ballade, Menschenhandel, Rettung, Hinrichtung
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Vierter Band. Berlin 1959.
+!!!page: 338
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/26
+*-	*-

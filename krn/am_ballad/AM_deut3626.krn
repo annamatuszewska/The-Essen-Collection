@@ -1,0 +1,76 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Graf und Nonne (Die Nonne)
+!!!OTL-incipit:Steig' hinauf auf hohe Berge,
+!!!ARE: Europa, Mitteleuropa, Deutschland (BRD), Wuerttemberg, Lauingen
+!!!YOR: 8, S. 65
+!!    1921 aufgezeichnet
+!!!SCT: Q0155Q
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Mixed meters:  3/4; 6/8; 2/4
+*M3/4	*
+*k[]	*
+*C:	*
+{8.gL	Steig'
+16gJ	hin-
+=1	=1
+4cc	-auf
+4ee	auf
+8ddL	ho-
+8ccJ	-he
+=2	=2
+4dd	Ber-
+4ff}	-ge,
+{8.ddL	schau
+16ddJ	hin-
+=3	=3
+4ee	-ab
+4ee	ins
+8ggL	tie-
+8eeJ	-fe
+=4	=4
+2dd}	Tal,
+{8ccL	da
+8eeJ	sah
+=5	=5
+*M6/8	*
+4gg	ich
+8gg	ein
+(8ggL	Schiff-
+8ff)	.
+8eeJ	-lein
+=6	=6
+*M2/4	*
+8eeL	fah-
+8ddJ	-ren,
+8r}	.
+{8g	wo-
+=7	=7
+*M6/8	*
+(8gL	-rin
+8b)	.
+8ddJ	drei
+(8aaL	Gra-
+8gg)	.
+8ffJ	-fen
+=8	=8
+*M3/4	*
+2ee}	warn.
+==	==
+!!!AGN: Ballade, Standesunterschied, vergebliche Werbung, Liebe, Klage
+!! Grundton in der zweigestrichenen Oktave.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Vorgesungen von Frau Marie Bock in Lauingen Württemberg. 1921; 
+!!auſgeʒeichnet von Erich Scemann (DVa = a 90 128)"
+!!@@END:
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Achter Teil. Freiburg/Breisgau 1988.
+!!!page: 65
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/10
+*-	*-

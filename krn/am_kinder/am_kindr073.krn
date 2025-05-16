@@ -1,0 +1,57 @@
+!!!OTL: 1239. Der Schneider und die Maus.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Zwickau
+!!!SCT: K1239
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+{8c	Ein
+=1	=1
+8.f	Schnei-
+16f	-der
+8.f	fing
+16f	'ne
+=2	=2
+4.f}	Maus,
+{8g	ein
+=3	=3
+8.a	Schnei-
+16a	-der
+8.a	fing
+16a	'ne
+=4	=4
+4.a}	Maus,
+{8cc	ein
+=5	=5
+8.cc	Schnei-
+16cc	-der
+8.cc	fing
+16cc	'ne
+=6	=6
+(8dd	Mi-
+8cc)	.
+(8b-/	-Ma-
+8a)	.
+=7	=7
+4g	-Mau-
+4cc	-ſe-
+=8	=8
+4cc	-maus.
+8r}	.
+==	==
+!!!AGN: Kinder -, Spass - Lied, Neck - Maerchen
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: VIII. Lustige geschichten. [Thiermaerchen, Neck- und Luegenmaerchen und Zaehlgeschichten.]
+!!@@COMMENT:"Mündlich aus Ʒwickau (mit Mel.) 1890. Ʒiemlich gleich bei Simrock 443: "Der Schneider hat eine Maus", und Eskuche 199."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/252/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/02/09
+*-	*-

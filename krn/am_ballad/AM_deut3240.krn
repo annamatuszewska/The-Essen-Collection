@@ -1,0 +1,75 @@
+!!!OTL: Der grausame Bruder.
+!!!OTL-incipit: Es fuhr ein Bauer ueber den Rhein,
+!!!ARE: Europa, Mitteleuropa, Deutschland (BRD), Wuerttemberg
+!!!YOR: 3, S. 262
+!!    ????
+!!!SCT: Q0068R
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*MX	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=27 "Aria"	!
+{4g	Es
+=1	=1
+4cc	fuhr
+4dd	ein
+=2:	=2:
+16eeL	Bauer
+16dd	.
+16ee	.
+16ffJ	.
+=3:	=3:
+16ggL	über
+16aa	.
+8ggJ	.
+4ff	den
+=4:	=4:
+4ee}	Rhein,
+{4gg	beym
+=5:	=5:
+4aa	jungen
+4gg	.
+=6:	=6:
+(4ff	Margraf
+4ee)	.
+4dd	.
+4dd	da
+=7:	=7:
+8eeL	kehrt'
+8ffJ	.
+8ggL	er
+8ffJ	.
+=8:	=8:
+4ee}	ein,
+{4g	beym
+=9:	=9:
+4cc	jungen
+4cc	.
+4dd	Margraf
+=10:	=10:
+4ee	.
+8eeL	da
+8ffJ	.
+=11:	=11:
+4gg	kehrt'
+8ggL	er
+8ffJ	.
+=12:	=12:
+4ee}	ein.
+==:||	==:||
+!!!AGN: Ballade, Schwangerschaft, Moral, Mord
+!! Finaltoene zweistimmig. Oberen kodiert. Grundton in der
+!!    zweigestrichenen Oktave.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Dritter Band Balladen. Berlin 1954.
+!!!page: 262
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/21
+*-	*-

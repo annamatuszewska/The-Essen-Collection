@@ -1,0 +1,65 @@
+!!!OTL: 338. 'Sist ein Mann in Brunn gefalln.
+!!!OPR: Schaukelliedchen. Wenn man das Kind auf den Armen wiegt, singt man:
+!!!ARE: Europa, Mitteleuropa, Deutschland, Thueringen
+!!!SCT: K0338
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[f#c#]	*
+*D:	*
+=1	=1
+{8d	'Siſt
+8e	ein
+8f#	Mann
+8g	in
+=2	=2
+8a	Brunn
+8a	ge-
+8a	-falln,
+8r}	.
+=3	=3
+{8d	hab
+8e	ihn
+8f#	hö-
+8g	-ren
+=4	=4
+8a	plum-
+8a	.
+8a	-pen:
+8r}	.
+=5	=5
+{8d	Wär
+8e	der
+8f#	Kerl
+8g	nicht
+=6	=6
+8a	nein
+8a	ge-
+8a	-falln,
+8r}	.
+=7	=7
+{8g	wär
+8g	er
+8f#	nicht
+8d	er-
+=8	=8
+4e	-trun-
+8d	-ken.
+8r}	.
+==	==
+!!!AGN: Kinder -, Schaukel -, Kniereiter -, Spiel - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: III. Schaukel- und Kniereiterliedchen, wie sie von Papa und Mama den Schosskindern vorgesungen werden.
+!!Aus Thuerigen (Erfurts Umgegend).
+!!@@COMMENT:"Jn vielen Varianten in ganz Deutschland gekannt."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/77/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/30/08
+*-	*-

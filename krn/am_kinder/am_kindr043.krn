@@ -1,0 +1,65 @@
+!!!OTL: 313. Bum, bam, beier! de Koester mag kie'n Eier.
+!!!OPR: Schaukelliedchen. Wenn man das Kind auf den Armen wiegt, singt man:
+!!!ARE: Europa, Mitteleuropa, Deutschland, Oldenburg
+!!!SCT: K0313
+!!!TXL: @@NDS
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+{4cc	Bum,
+4dd	bam,
+=2	=2
+4cc	bei-
+8a}	-er!
+{8a	de
+=3	=3
+8cc	Kö-
+8cc	-ſter
+8dd	mag
+8dd	kie'n
+=4	=4
+4cc	Ei-
+8a}	-er.
+{8a	Wat
+=5	=5
+8cc	mag
+8cc	heu
+4a	denn?
+=6	=6
+8cc	Beer
+16cc	en
+16cc	de
+4a	Kann,
+=7	=7
+8cc	Speck
+16cc	en
+16cc	de
+4a}	Pann.
+=8	=8
+{8cc	Oh,
+8cc	wat
+8dd	dat
+8dd	för'n
+=9	=9
+8cc	le-
+8cc	-ckern
+4a}	Mann.
+==	==
+!!!AGN: Kinder -, Schaukel -, Knierreiter -, Spiel - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: III. Schaukel- und Kniereiterliedchen, wie sie von Papa und Mama den Schosskindern vorgesungen werden.
+!!Muendlich aus dem Oldenburgischen.
+!!@@COMMENT:"Aehnlich am Niederrhein: Erk III. 29: Bom, bam, beiet! de Koester mag keen Eier."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/73/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/30/08
+*-	*-

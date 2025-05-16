@@ -1,0 +1,81 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Erloesung vom Galgen.
+!!!OTL-incipit: Es ritten drei Reiter zum kuehlen Wein,
+!!!ARE: Europa, Mitteleuropa, Deutschland / Polen, Ober - Schlesien,
+!!    Waltdorf bei Neisse
+!!!YOR: 1, S. 235
+!!    1844 aufgezeichnet
+!!!SCT: Q0022A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[f#c#]	*
+*D:	*
+{8a	Es
+=1	=1
+4dd	rit-
+8dd	-ten
+8ee	drei
+=2	=2
+4ff#	Rei-
+8ee	-ter
+8dd	ʒum
+=3	=3
+8ff#	küh-
+8ee	-len
+8dd}	Wein,
+{8a	Es
+=4	=4
+4dd	rit-
+8dd	-ten
+8ee	drei
+=5	=5
+4ff#	Rei-
+8ee	-ter
+8dd	ʒum
+=6	=6
+8ff#	küh-
+8ee	-len
+8dd}	Wein,
+{8a	ſie
+=7	=7
+8dd	woll-
+8dd	-ten
+8cc#	al-
+8dd	-le
+=8	=8
+4ee	drei
+8ddL	nicht
+8cc#J	.
+=9	=9
+8dd	lan-
+8a	-ge
+8f#}	ſein.
+{8a	ſie
+=10	=10
+8dd	woll-
+8dd	-ten
+8cc#	al-
+8dd	-le
+=11	=11
+4ee	drei
+8ddL	nicht
+8cc#J	.
+=12	=12
+8dd	lan-
+8a	-ge
+8f#}	ſein.
+==	==
+!!!AGN: Spiel, Hinrichtung, Opfer, Rettung
+!! Grundton in der zweigestrichenen Oktave.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Erster Band Balladen. Berlin und Leipzig 1935.
+!!!page: 235
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/14
+*-	*-

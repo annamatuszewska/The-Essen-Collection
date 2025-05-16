@@ -1,0 +1,89 @@
+!!!OTL: 298. D'r Hans hat Hosen a.
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: K0298
+!!!TXL: @@SWG
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+{4f	D'r_Hans
+4g	hat
+=2	=2
+8.a	Ho-
+16g	-ſen
+8f}	a,
+{8a	un
+=3	=3
+4g	die
+4e	ſind
+=4	=4
+4f	bunt;
+4r}	.
+=5	=5
+{8f	'sGret-
+8f	-le
+8g	hot
+8g	ä
+=6	=6
+8.a	Hiät-
+16g	-le
+8f}	uf,
+{8a	un
+=7	=7
+4g	das
+4e	iſch
+=8	=8
+4f	rund.
+4r}	.
+=9	=9
+{8cc	Das
+8b-	iſch
+8g	nit,
+8g	's_wurd
+=10	=10
+8cc	an-
+8a	-ders
+8f	kum-
+8f}	-me.
+=11	=11
+{8cc	Das
+8b-	iſch
+8g	nit,
+8g	's_wurd
+=12	=12
+8cc	an-
+8a	-ders
+8f	kum-
+8f}	-me.
+=13	=13
+{4f	D'r_Hans
+4g	hat
+=14	=14
+8.a	Ho-
+16g	-ſen
+8f}	an
+{8a	un
+=15	=15
+4g	die
+4e	ſin
+=16	=16
+4f	bunt.
+4r}	.
+==	==
+!!!AGN: Kinder -, Kose -, Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: II. Koselieder und Schmerzreime der Muetter Ammen.
+!!Aus dem Elsass: Weckerlin II. Nr. 12.
+!!@@COMMENT:"Schon in M. Frank's Faso. quodlib. 1611. Nr. 2 das Fragment: "Hans hat Hosen an, Wammes dazu"."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/68/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/30/08
+*-	*-

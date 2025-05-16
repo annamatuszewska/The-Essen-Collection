@@ -1,0 +1,58 @@
+!!!OTL: Das mannstolle Maedchen
+!!!OTL-incipit:'Hett ich ein jungen Knaben,
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 6, S. 92
+!!    1611 gedruckt; Satz: Melchior Franck
+!!!SCT: Q0126D
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[]	*
+!LO:TX:a:t=22	!
+{8a	'Hett
+=1	=1
+8.aL	ich
+16aJ	ein
+8bL	Jun-
+8cc#J	-gen
+=2	=2
+4dd	Kna-
+8cc#}	-ben,
+{8a	[get
+=3	=3
+8bL	mir
+8ddJ	ein
+8ddL	tänt-
+8cc#J	-ze-
+=4	=4
+4dd}	-lein.]
+{8fL	vnd
+8aJ	ein
+=5	=5
+8gL	klei-
+8fJ	-nes
+8eL	geig-
+8dJ	-lein
+=6	=6
+8fL	mit
+8eJ	sich
+4dL	trüg.'
+=7	=7
+4.r}	.
+==	==
+!!!AGN: Ballade, Werbung, Betrug
+!! Rekonstruktion der Balladenmelodie aus einem mehrstimmigen Satz von
+!!    Melchior Franck. Schlusspause ergaenzt und Notenwert am Ende
+!!    der ersten Zeile rhythmisch korrigiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Sechster Band. Freiburg/Breisgau 1976.
+!!!page: 92
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/06
+*-	*-

@@ -1,0 +1,121 @@
+!!!OTL: Das juengere Hildebrandslied.
+!!!OTL-incipit: 'Ich wil zu Land aussreiten'
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 1, S. 1
+!!    1545 gedruckt in Wittenberg
+!!!SCT: Q0001
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*MX	*
+*k[b-]	*
+*d:	*
+!LO:TX:a:t=Sehr frei im Takt; erzählend.	!
+{4g	'Jch
+=1:	=1:
+4b-	wil
+4b-	ʒu
+4cc	Land
+4cc	aus-
+=2:	=2:
+2dd	-reiten',
+2dd	.
+4r}	.
+{2dd	ſprach
+4dd	ſich
+=3:	=3:
+4dd	mei-
+4ee	-ſter
+4ff	Hil-
+4dd	-te-
+=4:	=4:
+2dd	-brant;
+4r}	.
+{4dd	'der
+=5:	=5:
+4dd	mir
+4ee	die
+4ff	weg
+4dd	thet
+=6:	=6:
+2ee-	wei-
+2dd	-ſen
+4r}	.
+{4dd	gen
+=7:	=7:
+4cc	Bern
+4b-	wol
+4dd	jnn
+4b-	die
+=8:	=8:
+2b-	Land;
+4r}	.
+{4b-	ſie
+=9:	=9:
+8b-/	ſind
+8b-/	mir
+4b-	un-
+4cc	-kund
+4cc	ge-
+=10:	=10:
+2dd	-wor-
+2dd	-den
+4r}	.
+{4dd	viel
+=11:	=11:
+4cc	man-
+4b-	-chen
+4b-	lie-
+4b-	-ben
+=12:	=12:
+*lig	*
+2g	tag,
+2f	.
+*Xlig	*
+4r}	.
+{4dd	Ey
+=13:	=13:
+(4.dd	ia,
+8cc	.
+2b-)	.
+4r}	.
+{4dd	jnn
+=14:	=14:
+4ee-	ʒwey-
+4dd	-und-
+4dd	-dreiſ-
+4b-	-ſig
+=15:	=15:
+2cc	ja-
+2dd	-ren
+4r}	.
+{4cc	Fraw
+=16:	=16:
+8b-/	Vt-
+8b-/	-ten
+4g	ich
+4g	nie
+4e	ge-
+=17:	=17:
+2f#i	-ſach'.
+2g;	.
+4r}	.
+==	==
+!!!AGN: Ballade, Kampf
+!! Anhaengsel, textiert mit "EYIA", in der siebten Zeile.
+!!    Kleinere Melodievarianten aus anderen Quellen abgedruckt.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Melodie und unterlegter Text: Rhaw, Bicinia 1545, 1 Nr 94."
+!!@@END:
+!!!RDF**kern: i = editorial accidental
+!!!source: Deutsche Volkslieder mit ihren Melodien. Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Erster Band Balladen. Berlin und Leipzig 1935.
+!!!page: 1
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/13
+*-	*-

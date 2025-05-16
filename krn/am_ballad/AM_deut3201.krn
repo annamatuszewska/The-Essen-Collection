@@ -1,0 +1,115 @@
+!!!OTL: Der junge Held.
+!!!OTL-incipit: Des Abends in dem Mondensching
+!!!ARE: Europa, Mitteleuropa, Deutschland (BRD), Rheinland, Bergisches Land
+!!!YOR: 3, S. 152
+!!    ????
+!!!SCT: Q0060D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Mixed meters:  4/4; 3/4
+*M4/4	*
+*met(c)	*
+*k[]	*
+!LO:TX:a:t=Moderato.	!
+{4d	Des
+=1	=1
+4d	Abends
+4a	.
+4a	in
+8bL	dem
+8ccJ	.
+=2	=2
+4.b	Mondenſching
+8a	.
+4g}	.
+{8g	das
+8a	.
+=3	=3
+4.b	Mädchen
+8b	.
+4b	in
+4dd	Baumgarten
+=4	=4
+4.cc	.
+8b	.
+4a	ging,
+8r}	.
+{8a	begegnet
+=5	=5
+4.dd	.
+8dd	ihm
+4cc#	ein
+4a	.
+=6	=6
+2dd	Held,
+4.a}	hei;
+{8a	er
+=7	=7
+4.g	grüßt
+8g	das
+4.a	Mädchen
+8a	.
+=8	=8
+*M3/4	*
+2e;}	ſchnell!
+{4a	Er
+=9	=9
+!LO:TX:a:t=Allegro.	!
+2dd	grüßt
+4dd	das
+=10	=10
+(4cc#	Mädchen
+4b)	.
+4a	.
+=11	=11
+2.dd	ſih-
+=12	=12
+2a}	-re,
+{4a	ein
+=13	=13
+2b-	Nacht
+4a	ʒu
+=14	=14
+4g	ſchlafen
+4f	.
+4g	.
+=15	=15
+2.a	bei
+=16	=16
+2f}	ihre,
+{4e	ein
+=17	=17
+2d	Nacht
+4e	bei
+=18	=18
+2f	ihm
+4g	ʒu
+=19	=19
+2.a	ſein,
+=20	=20
+2b}	hei
+{4a	.
+=21	=21
+4g	du
+4g	wackres
+4e	.
+=22	=22
+2f	brauns
+4e	Mäddelein!
+=23	=23
+2d	.
+4r}	.
+==	==
+!!!AGN: Ballade, Verfuehrung, Standesunterschied
+!! Tempowechsel beim Taktwechsel.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Dritter Band Balladen. Berlin 1954.
+!!!page: 152
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/20
+*-	*-

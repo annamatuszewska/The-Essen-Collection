@@ -1,0 +1,131 @@
+!!!OTL: Graserin und Reiter
+!!!OTL-incipit:Nun ist es doch kein Reuter,
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 7, S. 146
+!!    1540 gedruckt; Satz: Hans Teuglin
+!!!SCT: Q0149D
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*MX	*
+*M3/4	*
+*k[b-]	*
+*F:	*
+=1:	=1:
+4r	.
+4r	.
+{4ff	Nun
+=2:	=2:
+2ff	ist
+2ff	es
+=3:	=3:
+4ee	doch
+4ff	kein
+=4:	=4:
+4.gg	Reu-
+8ff	.
+4ee	.
+=5:	=5:
+2dd}	-ter,
+{4ee	es
+=6:	=6:
+2ff	ist
+2ff	ein
+=7:	=7:
+4ee	E-
+4cc	-del-
+=8:	=8:
+(4.dd	-mann,
+8cc	.
+4a)	.
+=9:	=9:
+*lig	*
+4dd	E-
+4cc	.
+*Xlig	*
+4a	-del-
+=10:	=10:
+2f}	-mann,
+{2f	und
+=11:	=11:
+4cc	wenn
+4cc	er
+=12:	=12:
+2dd	aus
+4ee	will
+=13:	=13:
+4ff	rei-
+4ff}	-ten,
+{4ee	so
+=14:	=14:
+4dd	legt
+4cc	er
+4b-	sein
+=15:	=15:
+4a	Har-
+2g	-nisch
+=16:	=16:
+4f	an.
+4r}	.
+{4ff	Treib
+=17:	=17:
+4ff	ein-
+4ff	-her,
+4ff	braun's
+=18:	=18:
+4ff	Maid-
+4ee	-lein,
+4cc	laß
+=19:	=19:
+(8ddL	um-
+8cc	.
+8b-	.
+8aJ)	.
+4g	-her
+=20:	=20:
+4f	gahn.
+4r}	.
+{4cc	Herr-
+=21:	=21:
+4cc	-io
+8cc	po-
+8cc	-pe-
+8cc	-ri,
+8b-	her-
+=22:	=22:
+4a	-io
+8a	po-
+8a	-pe-
+8g	-ri,
+8g	her-
+=23:	=23:
+4f	-io,
+8a	her-
+8g	-io
+8f	her-
+=24:	=24:
+4a	-io
+8a	po-
+8a	-pe-
+8b-	-ri
+8g	her-
+=25:	=25:
+2f}	-io.
+==	==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!! Tenorstimme aus einem vierstimmigen Satz von Hans Teuglin mit
+!!    aehnlichem Text. Zusammengehoerigkeit mit der Balladengruppe
+!!    fraglich. Taktart in "FREI" geaendert. Letzte Zeile = Refrain auf
+!!    sinnfreie Silben.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Siebenterer Band. Freiburg/Breisgau 1982.
+!!!page: 146
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/07
+*-	*-

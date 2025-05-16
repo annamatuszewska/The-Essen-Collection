@@ -1,0 +1,157 @@
+!!!OTL: Graserin und Reiter
+!!!OTL-incipit:Es wolt ein meydlin grasen gan:
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 7, S. 126
+!!    1546 gedruckt (1535 bis 1546) ; Satz: Heinrich Isaac
+!!!SCT: Q0149
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefC3	*
+*M2/2	*
+*k[b-]	*
+=1	=1
+!LO:N:vis=1	!
+2r	.
+!LO:N:vis=1	!
+{2G	Es
+=2	=2
+!LO:N:vis=1	!
+2B-	wollt
+!LO:N:vis=1	!
+2B-	ein
+=3	=3
+!LO:N:vis=1	!
+2c	meyd-
+!LO:N:vis=1	!
+2c	-lein
+=4	=4
+!LO:N:vis=1	!
+2d	gra-
+!LO:N:vis=1	!
+2d	-sen
+=5	=5
+!LO:N:vis=0	!
+1d}	gan:
+=6	=6
+!LO:N:vis=1.	!
+{2.c	Juck
+!LO:N:vis=2	!
+4d	mich,
+=7	=7
+!LO:N:vis=1	!
+2e	lie-
+!LO:N:vis=1	!
+2f	-ber
+=8	=8
+*lig	*
+!LO:N:vis=2	!
+4e	Pe-
+!LO:N:vis=2	!
+4d	.
+*Xlig	*
+!LO:N:vis=1	!
+2e	.
+=9	=9
+!LO:N:vis=0	!
+1d	-ter.
+=10	=10
+!LO:N:vis=1	!
+2r}	.
+!LO:N:vis=1	!
+{2d	Von
+=11	=11
+!LO:N:vis=1	!
+2g	do
+!LO:N:vis=1	!
+2e	die
+=12	=12
+!LO:N:vis=1	!
+2f	ro-
+!LO:N:vis=1	!
+2d	-ten
+=13	=13
+!LO:N:vis=1	!
+2c	röss-
+!LO:N:vis=1	!
+2B-	-lein
+=14	=14
+!LO:N:vis=0	!
+1A}	ston.
+=15	=15
+!LO:N:vis=1	!
+{2c	Juck
+!LO:N:vis=1	!
+2c	mich
+=16	=16
+!LO:N:vis=1	!
+2c	mer,
+!LO:N:vis=1	!
+2c	du
+=17	=17
+!LO:N:vis=1	!
+2d	hast
+!LO:N:vis=1	!
+2e	sein
+=18	=18
+!LO:N:vis=0	!
+1d}	ehr
+=19	=19
+!LO:N:vis=1.	!
+{2.c	Kan-
+!LO:N:vis=2	!
+4c	-stus
+=20	=20
+!LO:N:vis=1	!
+2c	nit,
+!LO:N:vis=1	!
+2c	ich
+=21	=21
+!LO:N:vis=1	!
+2d	wil
+!LO:N:vis=1	!
+2e	dichs
+=22	=22
+!LO:N:vis=1	!
+2d	lern.
+!LO:N:vis=1	!
+2r}	.
+=23	=23
+!LO:N:vis=1	!
+{2c	Juck
+!LO:N:vis=1	!
+2B-	mich,
+=24	=24
+!LO:N:vis=1	!
+2c	lie-
+!LO:N:vis=1	!
+2A	-ber
+=25	=25
+*lig	*
+!LO:N:vis=0	!
+[1G	Pe-
+=26	=26
+!LO:N:vis=0	!
+1G]	.
+*Xlig	*
+=27	=27
+!LO:N:vis=0	!
+1G}	-ter!
+==	==
+!!!AGN: Ballade, Verfuehrung, Verlassen des Elternhauses
+!! Tenor - Stimme (cf) aus einem vierstimmigen Satz von Heinrich Isaac.
+!!    Notenwerte halbiert. Satzbedingte Pausen weggelassen.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Heinrich Isaac, Weltliche Werke. DTO 14/1. S. 9. Nr. 4 7 (Tenor; nach Forster 4.
+!!Schöffer 1 und Stimmbüchern der UB Basel [datien 1535 bis 1546; Vsaac als Autor genannt) und der UB München)."
+!!@@END:
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Siebenterer Band. Freiburg/Breisgau 1982.
+!!!page: 126
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/07
+*-	*-

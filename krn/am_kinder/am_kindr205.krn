@@ -1,0 +1,83 @@
+!!!OTL: 610. O du schoene Hobelbank! (Pfaenderspiel.)
+!!!ARE: Europa, Mitteleuropa, Deutschland, Rheinland
+!!!SCT: K2610
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+{8f	Das
+8g	iſt
+8a	kurʒ
+8a	und
+=2	=2
+8g	das
+8g	iſt
+8f	lang,
+8r}	.
+=3	=3
+{8a	und
+8b-	das
+8cc	iſt
+8cc	'ne
+=4	=4
+8b-	Ho-
+8b-	-bel-
+8a	-bank.
+8r}	.
+=5	=5
+!LO:TX:a:t=*	!
+{8cc	kurʒ
+8cc	und
+8dd	lang.
+8r	.
+=6	=6
+8b-	Ho-
+8b-	-bel-
+4cc}	-bank.
+=7	=7
+*M4/4	*
+*met(c)	*
+!LO:TX:a:t=*Chor, langſam.	!
+{4.a	O,
+8cc	du
+8ccL	ſchö-
+8b-J	.
+4b-}	-ne,
+=8	=8
+{4.g	o,
+8dd	du
+8ddL	ſchö-
+8ccJ	.
+4cc}	-ne,
+=9	=9
+{4.a	o,
+8cc	du
+8ccL	ſchö-
+8b-J	.
+4b-}	-ne
+=10	=10
+{4g	Ho-
+4g	-bel-
+4f	-bank.
+4r}	.
+==	==
+!!!AGN: Kinder - Lied, Pfaender - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Vom Rhein: Erk III. 1, 45.
+!!!GTL: Zweites Buch. Kinderspiel: 10. Gesellschafts- und Pfaenderspiele. / [Nur um Theil fuer Kinder gehoerend; das meiste ist altes Erbgut der heranwachsenden Jugend.]
+!!@@COMMENT:"Während der Ausführung des Liedes ʒeichnet der Vorſänger die im Text genannten Gegenſtände mit Kreide auf den Tiſch. Sind die ʒwei erſten Strophen ʒu Ende, ſo müſſen die übrigen Mitſpieler 
+!!der Reihe nach ähnliche aus dem Stegreife hinʒuſetʒen. Wer das nicht kann oder ſich irrt beim Rückwärtswiederholen der Ʒeilen, giebt ein Pfand. *Die 
+!!zwischen* eingeschlossenen Takte werden in 2. Strophe zweimal, in 3.dreimal etc. gesungen.[...]"
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/665/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/05/09
+*-	*-

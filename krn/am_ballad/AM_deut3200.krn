@@ -1,0 +1,106 @@
+!!!OTL: Der junge Held Des Abends in dem Mondensching
+!!!ARE: Europa, Mitteleuropa, Deutschland (BRD), Rheinland, Bergisches Land,
+!!    Paffrath
+!!!YOR: 3, S. 144
+!!    ????
+!!!SCT: Q0060A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/8	*
+*k[]	*
+!LO:TX:a:t=Lebhaft.	!
+{8d	1._Des
+=1	=1
+4d	Abends
+8a	.
+8aL	in
+8bJ	.
+8cc	dem
+=2	=2
+4b	Mondenſching
+8a	.
+4g}	.
+{8g	ſchön
+=3	=3
+4a	Mädchen
+8a	.
+4b	in
+8cc#	Brunn-
+=4	=4
+4dd	-gar-
+8dd	-ten
+4a}	ging,
+{8e	begegnet
+=5	=5
+4a	.
+8a	.
+4b	ihm
+8cc#	ein
+=6	=6
+4.dd	Held.
+4ee}	Hei!
+{8dd	er
+=7	=7
+4cc#	grüßt
+8a	das
+8g#L	Mädchen
+8aJ	.
+8b	.
+=8	=8
+4.a	ſchnell.
+4r}	.
+{8a	Er
+=9	=9
+4dd	grüßt
+8dd	ſie
+8a	über
+8b	.
+8cc#	die
+=10	=10
+4.dd	Maſ-
+4a}	-ſen,
+{8a	ein'
+=11	=11
+4b-	Nacht
+8a	bei
+4gn	ihm
+8g	ʒu
+=12	=12
+4.a	ſchla-
+4e}	-fen,
+{16fL	ein'
+16eJ	.
+=13	=13
+4d	Nacht
+8d	bei
+8eL	ihm
+8fJ	.
+8g	ʒu
+=14	=14
+4.a	ſein.
+4b-}	Hei!
+{8a	Du
+=15	=15
+8g	wackres
+8g	.
+8f	brauns
+4e	.
+8f	Mägde-
+=16	=16
+4.d	-lein!
+4r}	.
+==	==
+!!!AGN: Ballade, Verfuehrung, Standesunterschied
+!! "Hei" am Ende der dritten und siebten Zeile.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Dritter Band Balladen. Berlin 1954.
+!!!page: 144
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/20
+*-	*-

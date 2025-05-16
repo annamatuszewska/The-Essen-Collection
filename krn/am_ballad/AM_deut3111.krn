@@ -1,0 +1,108 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Graf Friedrich.
+!!!OTL-incipit: Graf Friedrich wollt' ausreiten
+!!!ARE: Europa, Mitteleuropa, Deutschland / Polen, Schlesien, Zobten, Kapsdorf
+!!!YOR: 2, S. 216
+!!    1840 aufgezeichnet
+!!!SCT: Q0048H
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Schleſien (Kapsdorf bei Ʒobten) 1840	!
+{8g	Graf
+=1	=1
+8.cc	Fried-
+16g	-rich
+8a	wollt'
+16ccL	aus-
+16aJ	.
+=2	=2
+8.gL	-rei-
+16fJ	.
+8e}	-ten
+{8g	mit
+=3	=3
+8.cc	ſei-
+16g	-nen
+8a	Hoch-
+16ccL	-ʒeit-
+16aJ	.
+=4	=4
+8.gL	-leu-
+16fJ	.
+8e}	-ten,
+{8cc	ʒu
+=5	=5
+16ddL	ho-
+16ccJ	.
+16bL	-len
+16aJ	.
+8g	ſei-
+8cc	-ne
+=6	=6
+16eeL	Jung-
+16ffJ	.
+16eeL	-fer
+16ddJ	.
+16eeL	Braut,
+16ddJ}	.
+{16cc	die
+16cc	da
+=7	=7
+16ddL	ihm
+16ccJ	.
+16bL	ʒur
+16aJ	.
+8g	Eh'
+8cc	ward
+=8	=8
+16eeL	an-
+16ddJ	.
+8dd	-ge-
+8cc}	-traut.
+{8cc	ʒu
+=9	=9
+16ddL	ho-
+16ccJ	.
+16bL	-len
+16aJ	.
+8g	ſei-
+8cc	-ne
+=10	=10
+16eeL	Jung-
+16ffJ	.
+16eeL	-fer
+16ddJ	.
+16eeL	Braut,
+16ddJ}	.
+{16cc	die
+16cc	da
+=11	=11
+16ddL	ihm
+16ccJ	.
+16bL	ʒur
+16aJ	.
+8g	Eh'
+8cc	ward
+=12	=12
+16eeL	an-
+16ddJ	.
+8dd	-ge-
+8cc}	-traut.
+==	==
+!!!AGN: Ballade, Hochzeit, Mord / Unfall, Tod
+!! Grundton in der zweigestrichenen Oktave.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Zweiter Band Balladen. Berlin 1939.
+!!!page: 216
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/17
+*-	*-

@@ -1,0 +1,113 @@
+!!!OTL: Sangeslohn
+!!!OTL-incipit:O Christe Morgensterne,
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 6, S. 60
+!!    1586 gedruckt
+!!!SCT: Q0124B
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/4	*
+*met(3)	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=(1586)	!
+!LO:N:vis=2	!
+{4f	O
+=1	=1
+!LO:N:vis=1	!
+2f	Chri-
+!LO:N:vis=2	!
+4f	-ste
+!LO:N:vis=1	!
+2f	Mor
+!LO:N:vis=2	!
+4d	gen-
+=2	=2
+!LO:N:vis=1	!
+(2c	-ster-
+!LO:N:vis=2	!
+4g)	.
+!LO:N:vis=1	!
+2g}	-ne,
+!LO:N:vis=2	!
+{4g	leucht
+=3	=3
+!LO:N:vis=1	!
+2a	uns
+!LO:N:vis=1	!
+2b-	mit
+!LO:N:vis=2	!
+4g	hel-
+!LO:N:vis=2	!
+4g	-lem
+=4	=4
+!LO:N:vis=1.	!
+[2.f	schein,
+!LO:N:vis=1	!
+2f]}	.
+!LO:N:vis=2	!
+{4a	Schein
+=5	=5
+!LO:N:vis=1	!
+2b-	uns
+!LO:N:vis=2	!
+4b-	vons
+!LO:N:vis=1	!
+2b-	Him-
+!LO:N:vis=2	!
+4a	-mels
+=6	=6
+!LO:N:vis=1.	!
+2.g	Thro-
+!LO:N:vis=1	!
+2g}	-ne
+!LO:N:vis=2	!
+{4g	an
+=7	=7
+2a	die-
+!LO:N:vis=2	!
+4cc	-sen
+!LO:N:vis=2.	!
+(4.cc	dunk-
+!LO:N:vis=4	!
+8b-)	.
+!LO:N:vis=2	!
+4a	-len
+=8	=8
+!LO:N:vis=1.	!
+[2.g	Ort,
+!LO:N:vis=1	!
+2g]}	.
+!LO:N:vis=2	!
+{4g	mit
+=9	=9
+!LO:N:vis=1	!
+2a	dei-
+!LO:N:vis=1	!
+2b-	-nem
+!LO:N:vis=2	!
+4g	rei-
+!LO:N:vis=2	!
+4g	-nen
+=10	=10
+!LO:N:vis=1.	!
+[2.f	Wort.
+!LO:N:vis=1	!
+2f]}	.
+==	==
+!!!AGN: geistlich
+!! Tonangabe zur Ballade "Sangeslohn" - moegliche Melodie (??) .
+!!    Taktart von "3er" in 6/4 geaendert. Dabei Notenwerte halbiert und
+!!    zwei Notenwerte rhythmisch korrigiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Sechster Band. Freiburg/Breisgau 1976.
+!!!page: 60
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/05
+*-	*-

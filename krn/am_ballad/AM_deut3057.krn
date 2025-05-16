@@ -1,0 +1,109 @@
+!!!OTL: Vriesken.
+!!!OTL-incipit: De Velden stonden groen en daertoe breydt,
+!!!ARE: Europa, Mitteleuropa, Deutschland / Niederlande
+!!!YOR: 2, S. 3
+!!    1540 gedruckt in Antwerpen
+!!!SCT: Q0032
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*M3/2	*
+*met(3)	*
+*k[]	*
+4r	.
+4r	.
+{4d	1._De
+=1:	=1:
+2d	Vel-
+4d	-den
+2a	ſton-
+4a	-den
+=2:	=2:
+2f	groen_en
+4g	daertoe
+2a}	breydt,
+{4a	tot
+=3:	=3:
+2a	rey-ſen
+4a	ſoo
+2cc	waſſer
+4a	den
+=4:	=4:
+2f	Vrieſeman
+4e	be-
+2f	-reyt
+=-	=-
+*M4/4	*
+*met(c|)	*
+4r}	.
+{4f	'Vrieſe-
+=5:	=5:
+4f	-man,
+4f	waer
+4e	wilt
+4d	ghy
+=6:	=6:
+8eL	va-
+8dJ	.
+4.f	.
+8e	.
+2d	.
+4c#i	.
+=7:	=7:
+2d	-ren?
+=-	=-
+*M3/2	*
+*met(3)	*
+4r	.
+4r}	.
+{4d	Doe
+=8:	=8:
+2a	ick
+4a	die
+4cc	kleyderen
+4cc	.
+4a	.
+=9:	=9:
+2f	leſt-
+4e	-mael
+2f	ſagh,
+2r}	.
+=-	=-
+*M4/4	*
+*met(c|)	*
+{4r	.
+4f	doen
+=10:	=10:
+4f	meen-
+8f	-den
+8f	ick,
+4e	dat
+4d	ſe
+=11:	=11:
+8eL	mij-
+8dJ	.
+4.f	.
+8e	-ne
+2d	wa-
+4c#i	.
+=12:	=12:
+2.d}	-ren.'
+==	==
+!!!AGN: Ballade, Ehebruch, Zweikampf, Tod
+!! Melodie = geistliche Kontrafaktur. Kleinere Melodievariante aus
+!!    anderer Quelle abgedruckt.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Souternliedekens (1540), Psalm 86. Tonangabe:'Een boerman had eenen dommen sin.'
+!!Text: Ldb. Amst. (um 1590) S. 49, Str. 1 'Stemme: Een Boerman had een domme sin etc.'"
+!!@@END:
+!!!RDF**kern: i = editorial accidental
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Zweiter Band Balladen. Berlin 1939.
+!!!page: 3
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/14
+*-	*-

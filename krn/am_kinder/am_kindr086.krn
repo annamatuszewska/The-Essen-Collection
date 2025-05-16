@@ -1,0 +1,68 @@
+!!!OTL: 1701. Die heiligen drei Koenige.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Franken
+!!!SCT: K1701
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+{4g	1._Drei
+=1	=1
+2b/	König'
+4a	.
+=2	=2
+4g	füh-
+4a	-ret
+4b/	die
+=3	=3
+4dd	gött-
+4cc	-li-
+4b	-che
+=4	=4
+2a}	Hand
+{4a	mit
+=5	=5
+2a	ei-
+4a	-nem
+=6	=6
+4a	Sterne
+4b/	.
+4cc	aus
+=7	=7
+2b/	Morgenland.
+4a	.
+=8	=8
+2g}	.
+{4a	mit
+=9	=9
+2a	ei-
+4a	-nem
+=10	=10
+4a	Sterne
+4b/	.
+4cc	aus
+=11	=11
+2b/	Morgenland.
+4a	.
+=12	=12
+2g}	.
+==	==
+!!!AGN: Kinder -, Ansinge - Lied, Bettel - Reim
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!W. v. Ditfurth, Fraenkische Volkslieder I. Nr. 12.
+!!!GTL: XIV. Ansingelieder und Bettelreime der Jugend bei den Umzuegen an den Jahresfesten.
+!!@@COMMENT:"Nach einer vorangegangenen Erʒählung, an welcher alle drei Könige ſich betheiligen, knieen die Darſtellenden, Melchior und Balthaſar, nieder und halten 
+!!ihre Schwerter anfrecht kreuʒweis gegen einander. Gegenüber ſteht Kaſpar und bewegt ſeinen Scepter ʒwiſchen den beiden Schwertſpitʒen im Takte des 
+!!vorſtehenden, von Melchior und Balthaſar gefungenen Liedes. 
+"
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/376/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/02/09
+*-	*-

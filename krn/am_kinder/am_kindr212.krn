@@ -1,0 +1,68 @@
+!!!OTL: 47. Eins, zwei, drei, vier, fuenf, sechs, sieb'n. / (Zum Schottisch gesungen.)
+!!!ARE: Europa, Mitteleuropa, Deutschland, Saarland
+!!!SCT: K3047
+!!!TXL: @@NDS
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+=1	=1
+{4d	Eins,
+4g	ʒwei,
+4g	drei,
+4g	vier,
+=2	=2
+4g	fünf,
+4f#	ſechs,
+4a	ſieb'n,
+4r}	.
+=3	=3
+{4d	wo
+4a	iſt
+4a	denn
+4a	mein
+=4	=4
+*	*^
+4a	Schiebock	(Mädchen)
+*	*v	*v
+4g	.
+4b	blieb'm?
+4r}	.
+=5	=5
+{4g	Ju
+4b	Ber-
+4dd	-lin,
+4r	.
+=6	=6
+4ee	in
+4ee	Stet-
+4dd	-tin,
+4r}	.
+=7	=7
+{4cc	wo
+4cc	die
+4b	ſchö-
+4b	-nen
+=8	=8
+4a	Mäd-
+4a	-chen
+4g	ſinn.
+4r}	.
+==	==
+!!!AGN: Kinder - Lied, Auszaehl - Reim
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Vom Mittelthein und der Saargegend 1895.
+!!!GTL: Zweites Buch. Kinderspiel: Anhang. Nachtraege und Zusaetze. Allerlei Reime.
+!!@@COMMENT:"Vergl. oben den Ausʒählſpruch Rr. 1812."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/708/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/06/09
+*-	*-

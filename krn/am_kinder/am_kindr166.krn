@@ -1,0 +1,102 @@
+!!!OTL: 305. Meiersche Bruecke.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Kassel
+!!!SCT: K2305A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M6/8	*
+*k[f#c#]	*
+*D:	*
+{8a	Die
+=1	=1
+8a	Mei-
+8a	-er-
+8a	-ſche
+8f#	Brü-
+8d	-cke,
+8b	die
+=2	=2
+4a	iſt
+8a	ʒer-
+8f#	-bro-
+8d}	-chen.
+{8a	Wer
+=3	=3
+8a	hat
+8a	ſie
+8a	ʒer-
+8f#	-bro-
+8d;}	-chen?
+{8b	Der
+=4	=4
+4.a	Goldſchmied,
+4f#	.
+8b	der
+=5	=5
+4.a	Goldſchmied
+4f#}	.
+{8d	mit
+=6	=6
+4a	ſei-
+8a	-ner
+4b	jüng-
+8b	-ſten
+=7	=7
+4.a	Tochter.
+4f#}	.
+{8d	Wir
+=8	=8
+8a	wol-
+8a	-len
+8a	ſie
+4b	wie-
+8b	-der
+=9	=9
+4a	bau-
+8g	-en
+8f#	laſ-
+8d}	-ſen
+{8b	mit
+=10	=10
+4a	E-
+8g	-del-
+4f#	-ſtein,
+8b	mit
+=11	=11
+4a	Be-
+8g	-del-
+4f#}	-ſtein,
+{8a	den
+=12	=12
+!LO:TX:a:t=Zimmer.	!
+8ff#	hin-
+8dd	-ter-
+8a	-ſten
+8a	wol-
+8g	-len
+8e	wir
+=13	=13
+8d	fan-
+8d	-gen.
+8r	.
+4r}	.
+==	==
+!!!AGN: Kinder - Lied, Reigen, Tanz - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mel. u. Text aus Kassel: Zimmer 50c. Mit mangelhaftem Texte ("Meier zur Bruecken") bei Lewalier I Nr. 18.
+!!!GTL: Zweites Buch. Kinderspiel: 2. Reigen und Tanzspiele. / H. Thorbilden, Durchkriegen und Ziehkampf.
+!!@@COMMENT:"Die beiden größten Kinder, die ſich ohne Mitwiſſen der Andern Namen gegeben haben, bilden durch Hochhalten der Arme ein Thor. Die übrigen faſſen ſich 
+!!hintereinander an den Kleidern und gehen während des Geſanges durch's Thor. Jſt das hinterſte Kind unter das Thor gekommen, ſo laſſen die beiden größten 
+!!die Arme fallen und fangen daſſelbe. Sie fragen es dann: Willſt du hinter das ſilberne Löffelchen Name eins der größten Kinder), oder hinter das goldene 
+!!Gäbelchen? (Name des andern). Je nach der Antwort wird das gefragte Kind hinter das den obigen Namen führende geſtellt. Dann wird weiter geſpielt, bis 
+!!alle Kinder gefangen ſind."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/527/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/05/09
+*-	*-

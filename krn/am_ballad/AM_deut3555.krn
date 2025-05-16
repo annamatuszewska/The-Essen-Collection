@@ -1,0 +1,80 @@
+!!!OTL: Die Unbestechliche
+!!!OTL-incipit:Es reyt ein ritter wolgemut,
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 7, S. 33
+!!    1535 gedruckt
+!!!SCT: Q0144A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[b-]	*
+!LO:TX:a:t=3	!
+{2g	Es
+=1	=1
+4g	reyt
+4a	ein
+4b-	rit-
+4g	-ter
+=2	=2
+2cc	wol-
+2b-	-ge-
+=3	=3
+2a}	-mut,
+{2a	er
+=4	=4
+8gL	hat
+8gJ	ein
+4a	strauß-
+4f	-fe-
+4b-	-der
+=5	=5
+(4a	auf
+4g)	.
+4f	sei-
+4e	-nen
+=6	=6
+2d}	hut,
+{2g	er
+=7	=7
+4f	hat
+4f	ein
+2g	strauß-
+=8	=8
+(8fL	-fe-
+8gJ	.
+4a)	.
+4b-	-der
+([4cc	auf
+=9	=9
+4cc]	.
+(8ddL	.
+8ccJ))	.
+(8b-L	sei-
+8aJ)	.
+4g	-nem
+=10	=10
+2a}	hut,
+{2f	auf
+=11	=11
+(4b-	sei-
+4cc)	.
+2a	-nem
+=12	=12
+2g}	hut.
+==	==
+!!!AGN: Ballade, Liebes - Handel
+!! Rekonstruktion der fehlenden cf - Stimme aus einem dreistimmigen
+!!    Satz.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Siebenterer Band. Freiburg/Breisgau 1982.
+!!!page: 33
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/07
+*-	*-

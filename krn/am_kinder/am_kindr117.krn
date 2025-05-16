@@ -1,0 +1,102 @@
+!!!OTL: 167. Der Spielmann (Altes Tanzlied).
+!!!ARE: Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein
+!!!SCT: K2167
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+{16dd	Gu-
+16dd	-ten
+=1	=1
+4dd	A-
+8b	-bend,
+8dd	Herr
+=2	=2
+4dd	Spielmann,
+8b}	.
+{8b	wie
+=3	=3
+4cc	geht
+8a	es
+8cc	euch
+=4	=4
+4b	denn,
+8r}	.
+{16dd	Mit
+16dd	der
+=5	=5
+4dd	klei-
+8b	-nen
+8dd	Vio-
+=6	=6
+4dd	-li-
+8b}	-ne,
+{16b	mit
+16dd/	der
+=7	=7
+4cc	gro-
+8a	-ßen
+8cc	Schrumſchrum?
+=8	=8
+4b	.
+8r}	.
+{8b	Da
+=9	=9
+4cc	raſ-
+8cc	-ſelt
+8a	der
+=10	=10
+4cc	Keſ-
+8cc}	-ſel,
+{8a	da
+=11	=11
+4cc	klin-
+8cc	-gelt
+16ccL	der
+16eeJ	.
+=12	=12
+(4a	Topf,
+8ee)}	.
+{8b	da
+=13	=13
+4cc	tan-
+8cc	-ʒen
+8a	die
+=14	=14
+4dd	Mäd-
+4dd}	-chen
+=15	=15
+{4dd	ei-
+8ee	-nen
+8ff#	Ga-
+=16	=16
+4gg	-lopp.
+4r}	.
+=17	=17
+{8dd	Tral-
+16dd	-la-
+16dd	-la-
+8dd	-la-
+8dd	-la-
+=18	=18
+4gg	-la.
+8r}	.
+==	==
+!!!AGN: Kinder - Lied, Reigen, Tanz - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Aus Oberdiebach bei Bacharach am Rhein 1896.
+!!!GTL: Zweites Buch. Kinderspiel: 2. Reigen und Tanzspiele. / C. Ringelreihen mit Aufloesen des Kreises und Haschenspiel.
+!!@@COMMENT:"Alle Kinder bilden einen Kreis und ſingen. Mit dem Worte Galopp fangen ſie alle an, drauf los ʒu tanʒen, jedes allein oder ʒu ʒweien. - Das iſt ein ſpäter 
+!!Nachkömmling eines altſchwäbiſchen und rheiniſchen Tanʒliedes, daß die Wunderhornherausgeber 1808 überarbeitet und mit Ʒuſätʒen verſehen haben und ſo anhebbt[...]"
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/467/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/03/09
+*-	*-

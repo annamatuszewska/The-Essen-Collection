@@ -1,0 +1,91 @@
+!!!OTL: 358. Der tanzende Moench im Kinderspiel.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Oberdiebach am Rhein
+!!!SCT: K2358
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M4/4	*
+*met(c|)	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Einer.	!
+{4cc	Häns-
+4cc	-chen,
+4a	willſt
+4dd	du
+=2	=2
+2cc	tan-
+4a}	-ʒen,
+{4f	ſo
+=3	=3
+4cc	geb'
+4cc	ich
+4cc	dir
+4cc	ein
+=4	=4
+2ff	Ei.
+2r}	.
+=5	=5
+{4cc	Nein,
+4cc	ich
+4a	will
+4dd	nicht
+=6	=6
+2cc	tan-
+4a}	-ʒen,
+{4f	und
+=7	=7
+4cc	gäbſt
+4cc	du
+4cc	mir
+4cc	auch
+=8	=8
+2ff	ʒwei.
+4r}	.
+!LO:TX:a:t=Alle.	!
+{4cc	Jn
+=9	=9
+4cc	un-
+4f	-ſerm
+4f	Hau-
+4dd	-ſe
+=10	=10
+4cc	geht
+4cc	das
+4a}	nicht,
+{4a	die
+=11	=11
+4cc	klei-
+4cc	-nen
+4cc	Kin-
+4dd	-der
+=12	=12
+4cc	tan-
+4cc	-ʒen
+4a}	nicht
+{4f	und
+=13	=13
+4cc	tan-
+4cc	-ʒen
+4cc	kann
+4cc	ich
+=14	=14
+2f	nicht.
+2r}	.
+==	==
+!!!AGN: Kinder - Lied, Reigen, Tanz - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Zweites Buch. Kinderspiel: 2. Reigen und Tanzspiele. / F. Ringeltaenze ueber alte Balladen- und Maerchenstoffe.
+!!@@COMMENT:"Aus Oberdiebach a. Rh. - Die Kinder bilden einen Kreis. Jn dieſem gehen ʒwei. Die eine fragt fingend, die andre antwortet und Alle fingen beſtätigend den Schluß.
+!!Hier begegnet uns die Umbildung eines alten Volksliedes Kappelmönch, willſt du tanʒen? ſo geb ich dir ein Ei". rc. ſ. Liederhort II, 745."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/551/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/05/09
+*-	*-

@@ -1,0 +1,85 @@
+!!!OTL: 619. Rundgesang.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Kassel
+!!!SCT: K2619
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+{8c	Es
+=1	=1
+8f	geht
+8f	ein
+8cc	gro-
+8cc	-ßer
+=2	=2
+8.a	Rund-
+16a	-ge-
+8f}	-ſang
+{8f	an
+=3	=3
+8g	un-
+8g	-ſerm
+8c	Tiſch
+8c	her-
+=4	=4
+4f	-um*.
+4r}	.
+=5	=5
+{8g	Drei-
+8g	-mal
+8g	drei
+8g	iſt
+=6	=6
+8a/L	neu-
+8ccJ	.
+8cc}	-ne,
+{8g	du
+=7	=7
+8g	weißt
+8g	ja
+8g	wie
+8g	ich's
+=8	=8
+8a/L	mei-
+8ccJ	.
+8cc}	-ne.
+{8c	Es
+=9	=9
+8f	geht
+8f	ein
+8cc	gro-
+8cc	-ßer
+=10	=10
+8.a	Rund-
+16g	-ge-
+8f}	-ſang
+{8f	an
+=11	=11
+8g	un-
+8g	-ſerm
+8c	Tiſch
+8c	her-
+=12	=12
+4f	-um.
+8r}	.
+==	==
+!!!AGN: Kinder - Lied, Gesellschafts - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Zweites Buch. Kinderspiel: 10. Gesellschafts- und Pfaenderspiele. / [Nur um Theil fuer Kinder gehoerend; das meiste ist altes Erbgut der heranwachsenden Jugend.]
+!!Aus Kassel 1896 durch Lewalter.
+!!@@COMMENT:"Umbildung eines Studentenſcherʒes: * Nachdem die erſten vier Takte wiederholt worden ſind, ſingt ein mitſpielendes Kind ein Liedchen ſolo (ʒ. B. "Hänschen klein" rc. Alles neu" r. "Goldne 
+!!Abendſonne rc. "Kuckuk, Kuckuk" rc. . Jſt's damit fertig, ſingen alle "Dreimal drei iſt" rc. , bis ʒum Schluß. Dann werden wieder die vier Anfangstakte wiederholt und ein ʒweites Kind, 
+!!das links nachbarliche von dem, das den erſten Vortrag hielt, ſingt wieder irgend ein Liedchen, das der Chor wieder beſchließt mit Dreimal drei" rc. - So geht das Singen und Spielen 
+!!weiter, bis alle einmal Solo geſungen haben. - Aehnliche Singſpiele bei Ʒimmer Rr. 29, aber andere Melodie, die Studentenweiſe."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/672/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/05/09
+*-	*-

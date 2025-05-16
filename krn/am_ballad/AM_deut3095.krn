@@ -1,0 +1,83 @@
+!!!OTL: Die Bluthochzeit.
+!!!OTL-incipit: Es fuhr ein Pfalzgraf ueber den Rhein,
+!!!ARE: Europa, Mitteleuropa, Deutschland (BRD), Rheinprovinz, Siebengebirge
+!!!YOR: 2, S. 157
+!!    1860 aufgezeichnet
+!!!SCT: Q0046
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[b-e-]	*
+*g:	*
+{8d	Es
+=1	=1
+4.g	fuhr
+8a	ein
+4.b-	Pfalʒgraf
+8a	.
+=2	=2
+8gL	ü-
+8aJ	.
+8b-	-ber
+8cc	den
+4dd	Rhein,
+8r}	.
+{8dd	er
+=3	=3
+4dd	freit'
+8cc	um
+8b-	des
+4.a	Kö-
+8dd	-nigs
+=4	=4
+4dd	Töchter-
+8ccL	.
+8b-J	.
+4a	-lein.
+8r}	.
+{8a	Er
+=5	=5
+4.dd	konnt'
+8ee	es
+4.ff	nicht
+8ee	er-
+=6	=6
+(4dd	-wer-
+8ccL	.
+8b-J)	.
+4a	-ben,
+8r}	.
+{8dd	es
+=7	=7
+8ee-	müſſen
+8dd	.
+8cc	ihrer
+8b-	.
+4a	ſieb'n
+4dd	drum
+=8	=8
+(<4b-	ſter-
+8.aL	.
+16gJ)	.
+4g	-ben.
+8r}	.
+==	==
+!!!AGN: Ballade, Entfuehrung, Mord, Vergeltung
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Mel.: F. W. Arnold, Deutſche Volkslieder (Elberfeld o. J. ſum 1863)), Heft 7 
+!!Siebengebirge, 1860.
+!!Text: Simrock S. 25 Nr. 10 (11). Aus Menʒenberg (Rheinland)."
+!!@@END:
+!!!RDF**kern: <= below
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Zweiter Band Balladen. Berlin 1939.
+!!!page: 157
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/17
+*-	*-

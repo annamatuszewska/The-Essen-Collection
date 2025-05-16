@@ -1,0 +1,78 @@
+!!!OTL: Der Tannhaeuser.
+!!!OTL-incipit: Nun wil ichs aber heben an
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 1, S. 145
+!!    1500 Handschrift Muenchen
+!!!SCT: Q0015
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*MX	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Erʒählend, frei im Takt.	!
+{4g	1._Nun
+=1:	=1:
+4g	wil
+4g	ichs
+4a	a-
+4b	-ber
+=2:	=2:
+4cc	he-
+4cc	-ben
+(4b	an
+4a)	.
+4r}	.
+{4b	von_dem
+=3:	=3:
+4dd	Dan-
+4dd	-heü-
+4cc	-ſer
+4g	ʒu
+=4:	=4:
+(4a	ſin-
+4b)	.
+2cc	-gen,
+4r}	.
+{4a	vnd
+=5:	=5:
+4b	was
+4cc	er
+4dd	wun-
+4ee	-ders
+=6:	=6:
+4dd	hat
+8ccL	ge-
+8bJ	.
+2a	-than
+4r}	.
+{4b	mit
+=7:	=7:
+4g	ſei-
+8.a	-ner
+16b	fraw
+4.cc	Ve-
+16bL	.
+16aJ	.
+2g	-nuſ-
+=8:	=8:
+2a	-ſin-
+2g;	-nen.
+4r}	.
+==	==
+!!!AGN: Ballade, Wallfahrt, religioes
+!! eingeklammerte Note und Pause notiert.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Melodie: Staatsbibl. München: mus. ma. 3154 Bl. 534 Nr. 35 (um 1500).
+!!Text: Fl. Bl. Nürnberg, Jobſt Gutknecht, 1515. Univ. -Bibl. Erlangen Jnc. 1446a Nr. 24."
+!!@@END:
+!!!source: Deutsche Volkslieder mit ihren Melodien. Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Erster Band Balladen. Berlin und Leipzig 1935.
+!!!page: 145
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/14
+*-	*-

@@ -1,0 +1,85 @@
+!!!OTL: Gerstebinden
+!!!OTL-incipit:Es war eins Bauren Toechterlein,
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 6, S. 208
+!!    1534 gedruckt in Nuernberg; Satz: Ludwig Senfl
+!!!SCT: Q0135C
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*MX	*
+*k[]	*
+{4g	Es
+=1:	=1:
+4g	war
+4g	eins
+4g	Bau-
+4g	-ren
+=2:	=2:
+4a	Töch-
+4a	-ter-
+2a}	-lein,
+{2ee	wollt'
+=3:	=3:
+4.ff	Ger-
+8ee	-sten
+2dd	auf-
+2cc	-bin-
+=4:	=4:
+2dd	-den,
+4r}	.
+{4dd	do
+=5:	=5:
+2ee	sta-
+4ee	-chen
+2ee	sie
+4ee	die
+=6:	=6:
+2ff	Die-
+2ee}	-stel
+{2dd	wohl
+2cc	in
+2a	die
+=7:	=7:
+(4b	Fin-
+4cc)	.
+2dd}	.-ger
+{4dd	Ho-
+4dd	-scho-
+4cc	-hei-
+4b	-a-
+=8:	=8:
+2g	-ho,
+4r}	.
+{4g	(wohl
+=9:	=9:
+(4.a	in
+4b	.
+8cc)	.
+2dd	die
+=10:	=10:
+(4ee	Fin-
+4dd	.
+2cc	.
+4b	.
+2a)	.
+=11:	=11:
+!LO:N:vis=0	!
+1g}	-ger.)
+==	==
+!!!AGN: Ballade, Beischlaf, Leiden
+!! Tenor - Stimme in einem fuenfstimmigen Satz (cf.) von Ludwig Senfl.
+!!    Grundton in der kleinen Oktave. Fuenfte Zeile = Refrain auf
+!!    sinnfreie Silben.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Sechster Band. Freiburg/Breisgau 1976.
+!!!page: 208
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/06
+*-	*-

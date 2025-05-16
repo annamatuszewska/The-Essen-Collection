@@ -1,0 +1,110 @@
+!!!OTL: Der heimkehrende Soldat
+!!!OTL-incipit:Soldat kommt aus dem Kriege, hurra!
+!!!ARE: Europa, Mitteleuropa, Deutschland (BRD), Hessen, Nassau,
+!!    Kr. St. Goarshausen, Lierscheid
+!!!YOR: 5, S. 147
+!!    ????
+!!!SCT: Q0103A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/4	*
+*k[b-]	*
+*F:	*
+{4c	1._Sol-
+=1	=1
+2f	-dat
+4f	kommt
+2f	aus
+4f	dem
+=2	=2
+(2e	Krie-
+4g)	.
+2b-	-ge,
+4g	hur-
+=3	=3
+[2.f	-ra!
+2f]}	.
+{4c	1._Sol-
+=4	=4
+2f	-dat
+4f	kommt
+2f	aus
+4f	dem
+=5	=5
+(2e	Krie-
+4g)	.
+2b-	-ge,
+4g	hur-
+=6	=6
+[2.f	-ra!
+2f]}	.
+{4cc	Er
+=7	=7
+2cc	kommt
+4a	zer-
+4a	-ris-
+4a	-sen,
+4cc	zer-
+=8	=8
+2cc	-lumpt
+4b-	da-
+2b-}	-her;
+{4a	'mein
+=9	=9
+4a	schö-
+4a	-ner
+4g	Sol-
+2g	-dat,
+4dd	wo
+=10	=10
+2dd	kommst
+4cc	.
+2cc	du
+4b-	her?'
+=11	=11
+[2.a	hur-
+2a]}	-ra!
+{4cc	Er
+=12	=12
+2cc	kommt
+4a	zer-
+4a	-ris-
+4a	-sen,
+4cc	zer-
+=13	=13
+2cc	-lumpt
+4b-	da-
+2b-}	-her;
+{4a	'mein
+=14	=14
+4a	schö-
+4a	-ner
+4g	Sol-
+2g	-dat,
+4dd	wo
+=15	=15
+2dd	kommst
+4cc	.
+2cc	du
+4b-	her?'
+=16	=16
+[2.a	hur-
+2a]}	-ra!
+==	==
+!!!AGN: Ballade, Ehe, Betrug
+!! Anhaengsel an einigen Zeilen.
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"A 101 687. Aufgereichnet von Karl Toenges in
+!!Lierechied. Kr. St. Goarshausen/ Hessen-Nassau."
+!!@@END:
+!!!source: Deutsche Volkslieder mit ihren Melodien Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Fünfter Teil. Freiburg/Breisgau 1965.
+!!!page: 147
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/04
+*-	*-

@@ -1,0 +1,69 @@
+!!!OTL: 522. Finger-Errathen (Rompel-Liedchen).
+!!!ARE: Europa, Mitteleuropa, Deutschland, Elberfeld
+!!!SCT: K2522
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*clefG2	*
+*M2/4	*
+*k[]	*
+*C:	*
+=1	=1
+{8cc	Rom-
+8cc	-pel
+8b	tom-
+8dd	-pel
+=2	=2
+8cc	to-
+8cc	-ri
+4g}	a!
+=3	=3
+{8cc	Rod
+8cc	ens,
+8b	wä
+8dd	do
+=4	=4
+!LO:TX:a:t=Einer raeth. Dümmling/ Pipling etc.	!
+4cc	ſteht?
+4r}	.
+=5	=5
+!LO:TX:a:t=Chor	!
+{8cc	Hät'ſt
+8cc	du
+8b	nu
+8g	den
+=6	=6
+*	*^
+8cc	Pip-	Dümmling
+16cc	-ling	.
+*	*v	*v
+16cc	ge-
+8g	-ro-
+8g}	-den,
+=7	=7
+{8cc	wärſt
+8cc	du
+8b	nit
+8g	ge-
+=8	=8
+8cc	-rom-
+8cc	-pelt
+8g	wo-
+8g}	-ren.
+==	==
+!!!AGN: Kinder - Lied, Rate - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: KINDER
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Zweites Buch. Kinderspiel: 8. Such- und Rathespiele.
+!!@@COMMENT:"Aus Elberfeld, Crefeld und dem Bergiſchen: Erk I. 3, 40. Daher Guts Muths 379.Mehrere Knaben trommeln (rompeln) unter Abſingen dieſes Reims (bis ʒur 
+!!Frage) taktmäßig mit geballten Fäuſten auf dem Rücken eines ihrer Kameraden.
+!!Einer der Trommler ſtellt beliebig einen Finger mit der Spitʒe feſt auf den Rücken und läßt rathen. Hai der Gefragte den richtigen Finger errathen, ſo muß der Knabe, deſſen Finger 
+!!auflag, an des vorigen Stelle. Hat der Rathende es nicht getroffen, ſo wird ſtrafend und trommelnd weiter geſungen."
+!!@@END:
+!!!URL-scan: https://archive.org/details/DeutschesKinderliedUndKinderspiel/page/632/mode/1up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/05/09
+*-	*-

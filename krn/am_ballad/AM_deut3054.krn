@@ -1,0 +1,71 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Frau von Weissenburg.
+!!!OTL-incipit: Was wollen wir aber singen,
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!YOR: 1, S. 304
+!!    1557 gedruckt
+!!!SCT: Q0030A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/4	*
+*k[]	*
+*C:	*
+{4cc	1._Was
+=1:	=1:
+2cc	wollen
+4ee	wir
+2ee	a-
+4cc	-ber
+=2:	=2:
+2ee	ſin-
+8ffL	.
+8ggJ	.
+2ff}	-gen,
+{8eeL	was
+8ddJ	.
+=3:	=3:
+4cc	wol-
+4cc	-len
+4cc	wir
+2gg	he-
+4ff	-ben
+=4:	=4:
+2.ee	an?
+2r}	.
+{8ffL	Ein
+8ggJ	.
+=5:	=5:
+2ff	Liedt
+4ee	von_der
+2cc	Frawen
+4ee	ʒur
+=6:	=6:
+2dd	Wey-
+4dd	-ſſen-
+2g}	-burgk,
+{4ee	wie
+=7:	=7:
+2ff	ſie
+8ee	yh-
+8dd	-ren
+2cc	Her-
+8a	-ren
+8b	ver-
+=8:	=8:
+2.cc	-rieth.
+2r}	.
+==	==
+!!!AGN: Ballade, Ehebruch, Mord, Moral
+!! Grundton in der zweigestrichenen Oktave; Taktart ergaenzt
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!source: Deutsche Volkslieder mit ihren Melodien. Balladen. Herausgegeben vom Deutschen Volksliedarchiv. Erster Band Balladen. Berlin und Leipzig 1935.
+!!!page: 304
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/14
+*-	*-

@@ -1,0 +1,43 @@
+!!!OTL: Die Todesbraut.
+!!!OTL-incipit: Dixit Dominus Domino meo:
+!!!ARE: Europa, Mitteleuropa, Deutschland / France, Lothringen
+!!!YOR: 2, S. 237
+!!    1933 gedruckt in Heidelberg
+!!!SCT: Q1049F
+!!!TXL: @@LAT
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Irregular meter.
+*MX	*
+*k[f#]	*
+*G:	*
+{0g	Dixit_Dominus
+=1	=1
+4g	Do-
+4a	-mi-
+4b	-no
+(4cc	me-
+4b)	.
+4a}	-o:
+{0dd	'Sede_a
+(<4a	dex-
+4b)	.
+4cc	-tris
+(<4b	me-
+4a)	.
+4g}	.is!'
+==	==
+!!!AGN: geistlich, lutherische Vesper
+!! Melodievergleich zu Q0049 ff., anderes Lied
+!!!ONB: ESAC (Essen Associative Code) Database: BALLADE
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: <= below
+!!!source: Deutsche Volkslieder mit ihren Melodien. Herausgegeben vom Deutschen Volksliedarchiv. Zweiter Band Balladen. Berlin 1939.
+!!!page: 237
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/17
+*-	*-
