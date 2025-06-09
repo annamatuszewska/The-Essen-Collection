@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Sternlied von den heiligen drei Koenigen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0536]
+KEY[A0536   02  F 3/2]
+MEL[1  111  -7-73  21-7  -6_
+    -5  -6_-7  1_1  1-7-6  -5_ //]
+BEM[]
+MEL_SEM[0 0 0 -1 0 5 -2 -2 -1 -2 -2 2 2 1 0 0 -1 -2 -2]
+MEL_RAW[1  111  -7-73  21-7  -6
+    -5  -6-7  11  1-7-6  -5]
+NO_REP[1-7321-7-6
+    -5-6-71-7-6-5]
+RTM[x  xxx  xxx  xxx  x_
+    x  x_x  x_x  xxx  x_]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

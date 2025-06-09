@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Von dem heiligen Ritter sanct Joergen (Georg)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0613]
+KEY[A0613   04  G 4/2]
+MEL[1_  4_4_1_1_  4_4_5_.
+    4  5__4_6_  5__4__  0_
+    4_4_6_  5_5_1_2_  1__
+    3b_.4  5__4_.3b  1__. //]
+BEM[]
+MEL_SEM[5 0 -5 0 5 0 2 -2 2 -2 4 -2 -2 0 0 4 -2 0 -7 2 -2 3 2 2 -2 -2 -3]
+MEL_RAW[1  4411  445
+    4  546  54  0
+    446  5512  1
+    3b4  543b  1]
+NO_REP[14145
+    4546540
+    465121
+    3b4543b1]
+RTM[x_  x_x_x_x_  x_x_x_.
+    x  x__x_x_  x__x__  x_
+    x_x_x_  x_x_x_x_  x__
+    x_.x  x__x_.x  x__.]
+SCL_DEG[123b456]
+SCL_SEM[2 1 2 2 2]
+

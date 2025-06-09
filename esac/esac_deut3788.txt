@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Tanhaeuser]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0021]
+KEY[A0021   02  F 4/1]
+MEL[1_1_1_  2_3_4_4_  3_2_0_
+    2_  5_5_4_1_  2_3_4_0_
+    2_4_3_.2  5_4_3__  0_
+    2_3_4_  5_1_2__  1___  0_ //]
+BEM[]
+MEL_SEM[0 0 2 2 1 0 -1 -2 0 5 0 -2 -5 2 2 1 -3 3 -1 -2 5 -2 -1 -2 2 1 2 -7 2 -2]
+MEL_RAW[111  2344  320
+    2  5541  2340
+    2432  543  0
+    234  512  1  0]
+NO_REP[1234320
+    25412340
+    24325430
+    23451210]
+RTM[x_x_x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_x_
+    x_x_x_.x  x_x_x__  x_
+    x_x_x_  x_x_x__  x___  x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

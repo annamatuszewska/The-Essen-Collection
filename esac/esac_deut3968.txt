@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Brautlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0239]
+KEY[A0239   04  G 4/2 6/2]
+MEL[1_  3b_3b_4_5_  4_3b_2_
+    6_  7b_+1_7b_6_  5_4#_5__0_
+    5_  +1_7b_6_5_  7b_6_5_
+    5_  5_.55_3b_  1_.23b_
+    3b_  2_1_1_1_  -7_1__ //]
+BEM[]
+MEL_SEM[3 0 2 2 -2 -2 -1 7 1 2 -2 -1 -2 -1 1 0 5 -2 -1 -2 3 -1 -2 0 0 0 0 -4 -3 2 1 0 -1 -2 0 0 -1 1]
+MEL_RAW[1  3b3b45  43b2
+    6  7b+17b6  54#50
+    5  +17b65  7b65
+    5  5553b  123b
+    3b  2111  -71]
+NO_REP[13b4543b2
+    67b+17b654#50
+    5+17b657b65
+    53b123b
+    3b21-71]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x_.xx_
+    x_  x_x_x_x_  x_x__]
+SCL_DEG[-7123b44#567b+1]
+SCL_SEM[1 2 1 2 1 1 2 1 2]
+

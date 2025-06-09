@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Wiegenlied des 16. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0492]
+KEY[A0492   04  D 4/4]
+MEL[1_-6-7b  1_0
+    1  11-6-7b  1__ //]
+BEM[]
+MEL_SEM[-3 1 2 0 0 0 -3 1 2]
+MEL_RAW[1-6-7b  10
+    1  11-6-7b  1]
+NO_REP[1-6-7b10
+    1-6-7b1]
+RTM[x_xx  x_x
+    x  xxxx  x__]
+SCL_DEG[-6-7b1]
+SCL_SEM[1 2]
+

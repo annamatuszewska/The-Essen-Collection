@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der kleine Knie - Reiter]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0510]
+KEY[A0510   04  C 4/4]
+MEL[5_34  5_0_
+    3454  321_
+    3454  321_
+    3_22  1__ //]
+BEM[]
+MEL_SEM[-3 1 2 -3 1 2 -2 -1 -2 -2 4 1 2 -2 -1 -2 -2 4 -2 0 -2]
+MEL_RAW[534  50
+    3454  321
+    3454  321
+    322  1]
+NO_REP[53450
+    3454321
+    3454321
+    321]
+RTM[x_xx  x_x_
+    xxxx  xxx_
+    xxxx  xxx_
+    x_xx  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

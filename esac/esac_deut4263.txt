@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Jesus im Garten]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0542A]
+KEY[A0542A  02  G 6/2]
+MEL[5  5_55_5  1_11_
+    2  3_45_2  3_45_
+    3  4_56_5  4_34_
+    3  2_34_2  5_43_ //]
+BEM[]
+MEL_SEM[0 0 0 0 -7 0 0 2 2 1 2 -5 2 1 2 -3 1 2 2 -2 -2 -1 1 -1 -2 2 1 -3 5 -2 -1]
+MEL_RAW[5  5555  111
+    2  3452  345
+    3  4565  434
+    3  2342  543]
+NO_REP[51
+    23452345
+    34565434
+    32342543]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

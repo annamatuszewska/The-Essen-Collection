@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der verlorene Rosenkranz]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0066B]
+KEY[A0066B  08  F 4/4]
+MEL[1_  3_3_4_4_  5_5_5_
+    5_  4_3_4_5_  4_2_1_
+    5_  3_3_2_2_  111_-5_
+    3_  3_1_3_.4  5__4_3_  2__1__  0__. //]
+BEM[]
+MEL_SEM[4 0 1 0 2 0 0 0 -2 -1 1 2 -2 -3 -2 7 -3 0 -2 0 -2 0 0 -5 9 0 -4 4 1 2 -2 -1 -2 -2]
+MEL_RAW[1  3344  555
+    5  4345  421
+    5  3322  111-5
+    3  3134  543  21  0]
+NO_REP[1345
+    54345421
+    5321-5
+    3134543210]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  xxx_x_
+    x_  x_x_x_.x  x__x_x_  x__x__  x__.]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

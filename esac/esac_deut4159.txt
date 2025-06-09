@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Der arme Reutersknab]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0428]
+KEY[A0428   02  D 3/1]
+MEL[+1_  +1_+1_+3b_  +2_+2_+1_  7b__5_  3b__
+    3b_  5__5_  7b__7b_  +1_.+2+3b_  +2__
+    +1_  7b__3b_  5__1_  2__.  1__ //]
+BEM[]
+MEL_SEM[0 0 3 -1 0 -2 -2 -3 -4 0 4 0 3 0 2 2 1 -1 -2 -2 -7 4 -7 2 -2]
+MEL_RAW[+1  +1+1+3b  +2+2+1  7b5  3b
+    3b  55  7b7b  +1+2+3b  +2
+    +1  7b3b  51  2  1]
+NO_REP[+1+3b+2+17b53b
+    3b57b+1+2+3b+2
+    +17b3b5121]
+RTM[x_  x_x_x_  x_x_x_  x__x_  x__
+    x_  x__x_  x__x_  x_.xx_  x__
+    x_  x__x_  x__x_  x__.  x__]
+SCL_DEG[123b57b+1+2+3b]
+SCL_SEM[2 1 4 3 2 2 1]
+

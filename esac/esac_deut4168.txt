@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Liebesjagd (Jaeger und Nonne)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0439]
+KEY[A0439   04  D 4/2 6/2]
+MEL[5_  5_5_7b_7b_  +1__5_
+    +1_  +2__+1_7b_6__  5__0_
+    +1_  7b_5_5_3b_  5__7b_
+    7b_  7b_5_5_3b_  1__3b_
+    3b_  3b_4_3b_2_  1__
+    5__  5_.43b_2_  1__. //]
+BEM[]
+MEL_SEM[0 0 3 0 2 -5 5 2 -2 -2 -1 -2 5 -2 -3 0 -4 4 3 0 0 -3 0 -4 -3 3 0 0 2 -2 -1 -2 7 0 -2 -2 -1 -2]
+MEL_RAW[5  557b7b  +15
+    +1  +2+17b6  50
+    +1  7b553b  57b
+    7b  7b553b  13b
+    3b  3b43b2  1
+    5  543b2  1]
+NO_REP[57b+15
+    +1+2+17b650
+    +17b53b57b
+    7b53b13b
+    3b43b21
+    543b21]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x__x_x_x__  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__
+    x__  x_.xx_x_  x__.]
+SCL_DEG[123b4567b+1+2]
+SCL_SEM[2 1 2 2 2 1 2 2]
+

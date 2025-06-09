@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ein Kinderlied auf die Weihnachten]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0518]
+KEY[A0518   02  F 4/1]
+MEL[+1  7_6_7_5_  6_7_+1_0
+    +1  +1_5_5_3_  5_4_3_0
+    3  6_6_5_7_  +1_6_5_0
+    +1  7_6_5_6_  432_1_. //]
+BEM[]
+MEL_SEM[-1 -2 2 -4 2 2 1 0 0 -5 0 -3 3 -2 -1 0 5 0 -2 4 1 -3 -2 5 -1 -2 -2 2 -4 -1 -2 -2]
+MEL_RAW[+1  7675  67+10
+    +1  +1553  5430
+    3  6657  +1650
+    +1  7656  4321]
+NO_REP[+1767567+10
+    +1535430
+    3657+1650
+    +176564321]
+RTM[x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  xxx_x_.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

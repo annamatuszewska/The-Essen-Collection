@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ringeltanz]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0285]
+KEY[A0285   02  F 3/2]
+MEL[1_1  3_4  5_5  5_
+    5  111  3_4  5_.  5_
+    5  6_5  5_4  3_3  3_
+    3  222  2_2  5_3  42_  1_. //]
+BEM[]
+MEL_SEM[0 4 1 2 0 0 0 -7 0 0 4 1 2 0 0 2 -2 0 -2 -1 0 0 0 -2 0 0 0 0 5 -3 1 -3 -2]
+MEL_RAW[11  34  55  5
+    5  111  34  5  5
+    5  65  54  33  3
+    3  222  22  53  42  1]
+NO_REP[1345
+    51345
+    56543
+    3253421]
+RTM[x_x  x_x  x_x  x_
+    x  xxx  x_x  x_.  x_
+    x  x_x  x_x  x_x  x_
+    x  xxx  x_x  x_x  xx_  x_.]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

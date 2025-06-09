@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Es taget minnecliche]
+REG[Europa, Mitteleuropa, Deutschland, Niederdeutschland]
+TRD[]
+FKT[]
+SIG[A0017]
+KEY[A0017   04  G 3/2]
+MEL[1_  1__4_  3__2_  4_5_3_  2__
+    6_  5__5_  3__3_  4_5_3_  2__
+    1_  3__4_  5__6_  5_432_  1__
+    2_  5__4_  3__2_  1__ //]
+BEM[]
+MEL_SEM[0 5 -1 -2 3 2 -3 -2 7 -2 0 -3 0 1 2 -3 -2 -2 4 1 2 2 -2 -2 -1 -2 -2 2 5 -2 -1 -2 -2]
+MEL_RAW[1  14  32  453  2
+    6  55  33  453  2
+    1  34  56  5432  1
+    2  54  32  1]
+NO_REP[14324532
+    6534532
+    1345654321
+    254321]
+RTM[x_  x__x_  x__x_  x_x_x_  x__
+    x_  x__x_  x__x_  x_x_x_  x__
+    x_  x__x_  x__x_  x_xxx_  x__
+    x_  x__x_  x__x_  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

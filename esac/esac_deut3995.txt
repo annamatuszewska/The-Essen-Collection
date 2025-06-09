@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Buchsbaum und Felbinger]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0273A]
+KEY[A0273A  04  G 6/2 4/2]
+MEL[1_  1__1__2_3_  4__4_4__
+    4_  4__4__3_2_  3_2_1_2__
+    2_  -7b__-7_-6__-6_  -5_.-6-7b_1__
+    1_  4_3_2_1_  2__1__ //]
+BEM[]
+MEL_SEM[0 0 2 2 1 0 0 0 0 0 -1 -2 2 -2 -2 2 0 -4 1 -2 0 -2 2 1 2 0 5 -1 -2 -2 2 -2]
+MEL_RAW[1  1123  444
+    4  4432  3212
+    2  -7b-7-6-6  -5-6-7b1
+    1  4321  21]
+NO_REP[1234
+    4323212
+    2-7b-7-6-5-6-7b1
+    1432121]
+RTM[x_  x__x__x_x_  x__x_x__
+    x_  x__x__x_x_  x_x_x_x__
+    x_  x__x_x__x_  x_.xx_x__
+    x_  x_x_x_x_  x__x__]
+SCL_DEG[-5-6-7b-71234]
+SCL_SEM[2 1 1 1 2 2 1]
+

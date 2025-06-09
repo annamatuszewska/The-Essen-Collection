@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Halewyn]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0015A]
+KEY[A0015A  04  C 3/4]
+MEL[1-6-7b  1_1  21-7b  -6_.
+    1-7b-6  -5-4-5  -6-7b1  2_.
+    23b2  1_2  1-6-7b  1_. //]
+BEM[]
+MEL_SEM[-3 1 2 0 2 -2 -2 -1 3 -2 -1 -2 -2 2 2 1 2 2 0 1 -1 -2 2 -2 -3 1 2]
+MEL_RAW[1-6-7b  11  21-7b  -6
+    1-7b-6  -5-4-5  -6-7b1  2
+    23b2  12  1-6-7b  1]
+NO_REP[1-6-7b121-7b-6
+    1-7b-6-5-4-5-6-7b12
+    23b2121-6-7b1]
+RTM[xxx  x_x  xxx  x_.
+    xxx  xxx  xxx  x_.
+    xxx  x_x  xxx  x_.]
+SCL_DEG[-4-5-6-7b123b]
+SCL_SEM[2 2 1 2 2 1]
+

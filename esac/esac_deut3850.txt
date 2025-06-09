@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Die verkaufte Muellerin]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0093]
+KEY[A0093   08  G 4/4]
+MEL[-5_  1_3b_225_  4_3b_2_
+    -5_  1_3b_225_  4_3b_2_.
+    5  5_4_5_3b2  3b_1_0_ //]
+BEM[]
+MEL_SEM[5 3 -1 0 5 -2 -2 -1 -7 5 3 -1 0 5 -2 -2 -1 5 0 -2 2 -4 -1 1 -3]
+MEL_RAW[-5  13b225  43b2
+    -5  13b225  43b2
+    5  5453b2  3b10]
+NO_REP[-513b2543b2
+    -513b2543b2
+    5453b23b10]
+RTM[x_  x_x_xxx_  x_x_x_
+    x_  x_x_xxx_  x_x_x_.
+    x  x_x_x_xx  x_x_x_]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

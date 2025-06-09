@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Bittfahrtslied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0568C]
+KEY[A0568C  02  G 4/1]
+MEL[1  1_1_1_1_  123_4_0
+    4  5_5_4_1_  2_3_4_0
+    4  5_5_4_1_  2_1_-7b_0
+    -7b  2_3b_4_4_  3b_1_3b__
+    212_1-71_ //]
+BEM[]
+MEL_SEM[0 0 0 0 0 2 2 1 0 2 0 -2 -5 2 2 1 0 2 0 -2 -5 2 -2 -2 0 4 1 2 0 -2 -3 3 -1 -2 2 -2 -1 1]
+MEL_RAW[1  1111  12340
+    4  5541  2340
+    4  5541  21-7b0
+    -7b  23b44  3b13b
+    2121-71]
+NO_REP[12340
+    45412340
+    454121-7b0
+    -7b23b43b13b
+    2121-71]
+RTM[x  x_x_x_x_  xxx_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x__
+    xxx_xxx_]
+SCL_DEG[-7b-7123b345]
+SCL_SEM[1 1 2 1 1 1 2]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Die Passion aus den vier Evangelisten]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0543B]
+KEY[A0543B  02  G 4/2 6/2]
+MEL[1  1531  2565_4#  5_0
+    5  3_45_5  4_32_
+    1  3_45_5  4_32_
+    1  3_45_4  3121_ //]
+BEM[]
+MEL_SEM[0 7 -3 -4 2 5 2 -2 -1 1 0 -3 1 2 0 -2 -1 -2 -2 4 1 2 0 -2 -1 -2 -2 4 1 2 -2 -1 -4 2 -2]
+MEL_RAW[1  1531  25654#  50
+    5  3455  432
+    1  3455  432
+    1  3454  3121]
+NO_REP[153125654#50
+    5345432
+    1345432
+    134543121]
+RTM[x  xxxx  xxxx_x  x_x
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  xxxx_]
+SCL_DEG[12344#56]
+SCL_SEM[2 2 1 1 1 2]
+

@@ -1,0 +1,40 @@
+ALTDEU
+CUT[Tageweis von der Koenigstochter und dem jungen Grafen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0020D]
+KEY[A0020D  02  F 4/2 6/2]
+MEL[1_  3344  5_5_0
+    5  5543  2_1_
+    1_  3344  5_5_0
+    5  5543  2_1_
+    3_  3323  123_  0_
+    5_  6553  54_3  2_1_  0_
+    -5_  1234  2_1_ //]
+BEM[]
+MEL_SEM[4 0 1 0 2 0 0 0 0 -2 -1 -2 -2 0 4 0 1 0 2 0 0 0 0 -2 -1 -2 -2 4 0 0 -2 2 -4 2 2 3 2 -2 0 -3 3 -2 -1 -2 -2 -5 5 2 2 1 -3 -2]
+MEL_RAW[1  3344  550
+    5  5543  21
+    1  3344  550
+    5  5543  21
+    3  3323  123  0
+    5  6553  543  21  0
+    -5  1234  21]
+NO_REP[13450
+    54321
+    13450
+    54321
+    3231230
+    5653543210
+    -5123421]
+RTM[x_  xxxx  x_x_x
+    x  xxxx  x_x_
+    x_  xxxx  x_x_x
+    x  xxxx  x_x_
+    x_  xxxx  xxx_  x_
+    x_  xxxx  xx_x  x_x_  x_
+    x_  xxxx  x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

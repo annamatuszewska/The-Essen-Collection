@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Daheim]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0660]
+KEY[A0660   04  D 4/2]
+MEL[1_  4_3b1-7b_-7b_  3b_4_5_
+    3b_  6b_541_4_  142_1_ //]
+BEM[]
+MEL_SEM[5 -2 -3 -2 0 5 2 2 -4 5 -1 -2 -5 5 -5 5 -3 -2]
+MEL_RAW[1  43b1-7b-7b  3b45
+    3b  6b5414  1421]
+NO_REP[143b1-7b3b45
+    3b6b54141421]
+RTM[x_  x_xxx_x_  x_x_x_
+    x_  x_xxx_x_  xxx_x_]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

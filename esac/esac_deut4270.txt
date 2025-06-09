@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Passionslied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0546B]
+KEY[A0546B  04  D 4/2]
+MEL[1  1_5_23b45  3b_2_1_0
+    1  5_6_7b_6_  5_4#_5_0
+    5  +1_6_7b_5_  4_3b_2_0
+    2  1_5_23b45  3b_2_1_0
+    1  -7_1_2_03b  543b21_0
+    5  5_5_4_5_  3b_2_1_0 //]
+BEM[]
+MEL_SEM[0 7 -5 1 2 2 -4 -1 -2 0 7 2 1 -1 -2 -1 1 0 5 -3 1 -3 -2 -2 -1 0 -2 7 -5 1 2 2 -4 -1 -2 0 -1 1 2 1 4 -2 -2 -1 -2 7 0 0 -2 2 -4 -1 -2]
+MEL_RAW[1  1523b45  3b210
+    1  567b6  54#50
+    5  +167b5  43b20
+    2  1523b45  3b210
+    1  -71203b  543b210
+    5  5545  3b210]
+NO_REP[1523b453b210
+    1567b654#50
+    5+167b543b20
+    21523b453b210
+    1-71203b543b210
+    5453b210]
+RTM[x  x_x_xxxx  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_xxxx  x_x_x_x
+    x  x_x_x_xx  xxxxx_x
+    x  x_x_x_x_  x_x_x_x]
+SCL_DEG[-7123b44#567b+1]
+SCL_SEM[1 2 1 2 1 1 2 1 2]
+

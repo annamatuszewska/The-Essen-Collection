@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Badeliedlein]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0485B]
+KEY[A0485B  02  F 4/2]
+MEL[2_  4321  5_3_
+    555_  +1+155  6_5_  0_ //]
+BEM[]
+MEL_SEM[3 -1 -2 -2 7 -3 3 0 0 5 0 -5 0 2 -2]
+MEL_RAW[2  4321  53
+    555  +1+155  65  0]
+NO_REP[2432153
+    5+15650]
+RTM[x_  xxxx  x_x_
+    xxx_  xxxx  x_x_  x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

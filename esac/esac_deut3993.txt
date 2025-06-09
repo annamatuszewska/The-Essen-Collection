@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Kranzsingen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0271D]
+KEY[A0271D  04  F 4/2]
+MEL[1  5_5_6_5_  3_423_0
+    1  5_5_5_34  532_1_0
+    -5  1_2_3_3_  1_2_3_0
+    1  5_5_5_34  532_1_0 //]
+BEM[]
+MEL_SEM[7 0 2 -2 -3 1 -3 2 -4 7 0 0 -3 1 2 -3 -2 -2 -5 5 2 2 0 -4 2 2 -4 7 0 0 -3 1 2 -3 -2 -2]
+MEL_RAW[1  5565  34230
+    1  55534  53210
+    -5  1233  1230
+    1  55534  53210]
+NO_REP[156534230
+    153453210
+    -51231230
+    153453210]
+RTM[x  x_x_x_x_  x_xxx_x
+    x  x_x_x_xx  xxx_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_xx  xxx_x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

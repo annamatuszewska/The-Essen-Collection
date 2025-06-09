@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Geistliches Lied ueber Psalm 43]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0638B]
+KEY[A0638B  02  G 4/2]
+MEL[1  1_3b_  2_5_  4_3b_  2_0
+    1  1_5_  4_5_  1_23b  4_0
+    2  3b_5_  4_3b_  2_0
+    1  3b3b44  553b
+    5  43b45  3b_2_  1_. //]
+BEM[]
+MEL_SEM[0 3 -1 5 -2 -2 -1 -2 0 7 -2 2 -7 2 1 2 -3 1 4 -2 -2 -1 -2 3 0 2 0 2 0 -4 4 -2 -2 2 2 -4 -1 -2]
+MEL_RAW[1  13b  25  43b  20
+    1  15  45  123b  40
+    2  3b5  43b  20
+    1  3b3b44  553b
+    5  43b45  3b2  1]
+NO_REP[13b2543b20
+    1545123b40
+    23b543b20
+    13b453b
+    543b453b21]
+RTM[x  x_x_  x_x_  x_x_  x_x
+    x  x_x_  x_x_  x_xx  x_x
+    x  x_x_  x_x_  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x_  x_.]
+SCL_DEG[123b45]
+SCL_SEM[2 1 2 2]
+

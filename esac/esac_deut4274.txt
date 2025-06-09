@@ -1,0 +1,28 @@
+ALTDEU
+CUT[O Traurigkeit!]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0550]
+KEY[A0550   04  A 4/4]
+MEL[5_  3b22_  0-711  -7_0
+    5  556b5  4_3b_
+    23b45  43b2_
+    123b4  2_1_  0_ //]
+BEM[]
+MEL_SEM[-4 -1 0 -3 1 0 -1 8 0 0 1 -1 -2 -2 -1 1 2 2 -2 -2 -1 -2 2 1 2 -3 -2]
+MEL_RAW[5  3b22  0-711  -70
+    5  556b5  43b
+    23b45  43b2
+    123b4  21  0]
+NO_REP[53b20-71-70
+    56b543b
+    23b4543b2
+    123b4210]
+RTM[x_  xxx_  xxxx  x_x
+    x  xxxx  x_x_
+    xxxx  xxx_
+    xxxx  x_x_  x_]
+SCL_DEG[-7123b456b]
+SCL_SEM[1 2 1 2 2 1]
+

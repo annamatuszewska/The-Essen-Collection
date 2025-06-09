@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Susanna, willt du mit?]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0290B]
+KEY[A0290B  04  G 4/4]
+MEL[1  3b23b4  5_0
+    1  3b23b4  5_0
+    5  5555  43b2
+    1  5555  43b2
+    3b  211-7  1_.
+    5  3b422  1_. //]
+BEM[]
+MEL_SEM[3 -1 1 2 2 -7 3 -1 1 2 2 0 0 0 0 0 -2 -2 -1 -2 7 0 0 0 -2 -2 -1 1 -1 -2 0 -1 1 7 -4 2 -3 0 -2]
+MEL_RAW[1  3b23b4  50
+    1  3b23b4  50
+    5  5555  43b2
+    1  5555  43b2
+    3b  211-7  1
+    5  3b422  1]
+NO_REP[13b23b450
+    13b23b450
+    543b2
+    1543b2
+    3b21-71
+    53b421]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_.
+    x  xxxx  x_.]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

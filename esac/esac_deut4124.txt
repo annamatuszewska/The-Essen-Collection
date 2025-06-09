@@ -1,0 +1,60 @@
+ALTDEU
+CUT[Mahnlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0399A]
+KEY[A0399A  02  G 3/2]
+MEL[111  3b_1  3b_4  5_
+    5  6b_5  43b4  5_0
+    111  3b_1  3b_4  5_
+    5  6b_5  43b4  5_0
+    555  5_3b  42
+    5  4_2  3b1_  -7b_0
+    555  5_1  3b_4  5_
+    5  5_3b  42_  1_.
+    555  5_3b  42
+    5  4_2  3b1_  -7b_0
+    555  5_1  3b_4  5_
+    5  5_3b  42_  1_. //]
+BEM[]
+MEL_SEM[0 0 3 -3 3 2 2 0 1 -1 -2 -2 2 2 -7 0 0 3 -3 3 2 2 0 1 -1 -2 -2 2 2 0 0 0 0 -4 2 -3 5 -2 -3 1 -3 -2 9 0 0 0 -7 3 2 2 0 0 -4 2 -3 -2 7 0 0 0 -4 2 -3 5 -2 -3 1 -3 -2 9 0 0 0 -7 3 2 2 0 0 -4 2 -3 -2]
+MEL_RAW[111  3b1  3b4  5
+    5  6b5  43b4  50
+    111  3b1  3b4  5
+    5  6b5  43b4  50
+    555  53b  42
+    5  42  3b1  -7b0
+    555  51  3b4  5
+    5  53b  42  1
+    555  53b  42
+    5  42  3b1  -7b0
+    555  51  3b4  5
+    5  53b  42  1]
+NO_REP[13b13b45
+    56b543b450
+    13b13b45
+    56b543b450
+    53b42
+    5423b1-7b0
+    513b45
+    53b421
+    53b42
+    5423b1-7b0
+    513b45
+    53b421]
+RTM[xxx  x_x  x_x  x_
+    x  x_x  xxx  x_x
+    xxx  x_x  x_x  x_
+    x  x_x  xxx  x_x
+    xxx  x_x  xx
+    x  x_x  xx_  x_x
+    xxx  x_x  x_x  x_
+    x  x_x  xx_  x_.
+    xxx  x_x  xx
+    x  x_x  xx_  x_x
+    xxx  x_x  x_x  x_
+    x  x_x  xx_  x_.]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Spottlied auf den 1574 aus Krakau entflohenen Polenkoenig]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0412]
+KEY[A0412   04  G 4/4]
+MEL[-5  1122  3_2
+    2  311-7  1_0
+    -5  1122  3_2
+    2  311-7  1_0
+    3  3322  332
+    2  3322  332_  0231  1-71 //]
+BEM[]
+MEL_SEM[5 0 2 0 2 -2 0 2 -4 0 -1 1 -5 5 0 2 0 2 -2 0 2 -4 0 -1 1 4 0 0 -2 0 2 0 -2 0 2 0 -2 0 2 0 -2 0 2 -4 0 -1 1]
+MEL_RAW[-5  1122  32
+    2  311-7  10
+    -5  1122  32
+    2  311-7  10
+    3  3322  332
+    2  3322  332  0231  1-71]
+NO_REP[-51232
+    231-710
+    -51232
+    231-710
+    3232
+    232320231-71]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx_  xxxx  xxx]
+SCL_DEG[-5-7123]
+SCL_SEM[4 1 2 2]
+

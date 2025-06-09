@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Abendlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0254C]
+KEY[A0254C  02  F 4/2 6/2]
+MEL[3  1235  4_3
+    3  5523  1_-7
+    -7  1233  2_0
+    3  1235  4_3
+    3  5523  1_-7
+    -5  1234  321 //]
+BEM[]
+MEL_SEM[-4 2 2 3 -2 -1 0 3 0 -5 2 -4 -1 0 1 2 2 0 -2 2 -4 2 2 3 -2 -1 0 3 0 -5 2 -4 -1 -4 5 2 2 1 -1 -2 -2]
+MEL_RAW[3  1235  43
+    3  5523  1-7
+    -7  1233  20
+    3  1235  43
+    3  5523  1-7
+    -5  1234  321]
+NO_REP[3123543
+    35231-7
+    -712320
+    3123543
+    35231-7
+    -51234321]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

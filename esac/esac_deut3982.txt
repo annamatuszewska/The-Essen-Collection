@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Sehnsucht]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0259]
+KEY[A0259   02  D 6/2 4/2]
+MEL[4  5_55+1_  7b_53b4_  3b_0
+    4  5+1_7b+16  5_0
+    4  56b7b7b  +1_5_
+    +1_  7b_6b56b4  3b_
+    7b_  6b543b  2_1_
+    23b  7b_57b4_  3b_0
+    3b  557b7b  +1_5_
+    4_  54_3b2_  1_. //]
+BEM[]
+MEL_SEM[2 0 0 5 -2 -3 -4 2 -2 2 2 5 -2 2 -3 -2 -2 2 1 2 0 2 -5 5 -2 -2 -1 1 -3 -2 7 -2 -1 -2 -2 -1 -2 2 1 7 -3 3 -5 -2 0 4 0 3 0 2 -5 -2 2 -2 -2 -1 -2]
+MEL_RAW[4  555+1  7b53b4  3b0
+    4  5+17b+16  50
+    4  56b7b7b  +15
+    +1  7b6b56b4  3b
+    7b  6b543b  21
+    23b  7b57b4  3b0
+    3b  557b7b  +15
+    4  543b2  1]
+NO_REP[45+17b53b43b0
+    45+17b+1650
+    456b7b+15
+    +17b6b56b43b
+    7b6b543b21
+    23b7b57b43b0
+    3b57b+15
+    4543b21]
+RTM[x  x_xxx_  x_xxx_  x_x
+    x  xx_xxx  x_x
+    x  xxxx  x_x_
+    x_  x_xxxx  x_
+    x_  xxxx  x_x_
+    xx  x_xxx_  x_x
+    x  xxxx  x_x_
+    x_  xx_xx_  x_.]
+SCL_DEG[123b456b67b+1]
+SCL_SEM[2 1 2 2 1 1 1 2]
+

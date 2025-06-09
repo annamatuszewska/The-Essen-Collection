@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Reuzelied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0500]
+KEY[A0500   04  C 3/4]
+MEL[1_3  5_5  6_6  5_5  6_6  5_
+    5  432  3_5  4_2  3_4  3_2  1_
+    1  3_4  5_.  432  3_. //]
+BEM[]
+MEL_SEM[4 3 0 2 0 -2 0 2 0 -2 0 -2 -1 -2 2 3 -2 -3 2 1 -1 -2 -2 0 4 1 2 -2 -1 -2 2]
+MEL_RAW[13  55  66  55  66  5
+    5  432  35  42  34  32  1
+    1  34  5  432  3]
+NO_REP[1356565
+    5432354234321
+    13454323]
+RTM[x_x  x_x  x_x  x_x  x_x  x_
+    x  xxx  x_x  x_x  x_x  x_x  x_
+    x  x_x  x_.  xxx  x_.]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

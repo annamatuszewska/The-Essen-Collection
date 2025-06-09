@@ -1,0 +1,99 @@
+!!!OTL: Ich will dir mein Schicksal erzaehlen
+!!!OTL-incipit: Ich will dir mein Schicksal erzaehlen, wie mir's in der Fremde erging
+!!!ARE: Europa, Mitteleuropa, Deutschland, Schleswig - Holstein
+!!!SCT: D0230
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+{4g	Ich
+=1	=1
+4c	will
+8e	dir
+8g	mein
+4a	Schicksal
+8g	.
+8f#	erzählen,
+=2	=2
+4a	.
+4g	.
+4r}	.
+{4g	wie
+=3	=3
+4c	mir's
+8e	in
+8g	der
+4a	Fremde
+8g	.
+8cc	erging,
+=4	=4
+2b/	.
+4r}	.
+{8g	meinen
+8g	.
+=5	=5
+4e	Namen
+8g	.
+8cc	den
+4ee	darf
+8dd	ich
+8cc	nicht
+=6	=6
+4cc	nennen;
+4a	.
+4r}	.
+{8dd	denn
+8dd	ich
+=7	=7
+4cc	war
+8g	ja
+8cc	für
+4b/	jeden
+8a	.
+8b/	bereit,
+=8	=8
+2cc	.
+4r}	.
+{8g	meinen
+8g	.
+=9	=9
+4e	Namen
+8g	.
+8cc	den
+4ee	darf
+8dd	ich
+8cc	nicht
+=10	=10
+(8cc	nennen;
+8ff)	.
+4ff	.
+4r}	.
+{8dd	denn
+8dd	ich
+=11	=11
+4cc	war
+8g	ja
+8cc	für
+4b/	jeden
+8a	.
+8b/	bereit.
+=12	=12
+2cc	.
+4r}	.
+==	==
+!!!AGN: Staende - Lied, Dirne
+!! moduliert in die Dominanttonart; Inzipit = Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!YOR: https://freidok.uni-freiburg.de/data/150373
+!!!EFL: A142475
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/06/04
+*-	*-

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Das Dollerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0374B]
+KEY[A0374B  04  D 4/4]
+MEL[6  6543b  2_23b  4564  3b_0
+    6  6543b  2_23b  4564  3b_0
+    3b  3b23b4  5_53b  3b3b22  1_0
+    5  5556  5_3b3b  5564  3b_53b  3b12-7b  -6_0 //]
+BEM[]
+MEL_SEM[0 -2 -2 -2 -1 0 1 2 2 2 -4 -2 6 0 -2 -2 -2 -1 0 1 2 2 2 -4 -2 0 0 -1 1 2 2 0 -4 0 0 -1 0 -2 7 0 0 0 2 -2 -4 0 4 0 2 -4 -2 4 -4 0 -3 2 -4 -1]
+MEL_RAW[6  6543b  223b  4564  3b0
+    6  6543b  223b  4564  3b0
+    3b  3b23b4  553b  3b3b22  10
+    5  5556  53b3b  5564  3b53b  3b12-7b  -60]
+NO_REP[6543b23b45643b0
+    6543b23b45643b0
+    3b23b453b210
+    5653b5643b53b12-7b-60]
+RTM[x  xxxx  x_xx  xxxx  x_x
+    x  xxxx  x_xx  xxxx  x_x
+    x  xxxx  x_xx  xxxx  x_x
+    x  xxxx  x_xx  xxxx  x_xx  xxxx  x_x]
+SCL_DEG[-6-7b123b456]
+SCL_SEM[1 2 2 1 2 2 2]
+

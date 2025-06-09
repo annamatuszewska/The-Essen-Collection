@@ -1,0 +1,40 @@
+ALTDEU
+CUT[Ritter und Herzogstochter]
+REG[Europa, Mitteleuropa, Deutschland, Heidelberg]
+TRD[]
+FKT[]
+SIG[A0019]
+KEY[A0019   02  A 3/1]
+MEL[1  3b_3b4_4  5_5_
+    5_  7b_7b6b_4  5_4_0
+    4  5_55_7b  6b_5_
+    5_  4_3b5_3b  2_1_0
+    5  4_43b_1  23b4_
+    4_  4_44_5  6b_5_
+    5_  4_3b5_3b  2_1_0 //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 0 3 0 -2 -3 2 -2 0 2 0 0 3 -2 -1 0 -2 -2 4 -4 -1 -2 7 -2 0 -2 -3 2 1 2 0 0 0 0 2 1 -1 0 -2 -2 4 -4 -1 -2]
+MEL_RAW[1  3b3b44  55
+    5  7b7b6b4  540
+    4  5557b  6b5
+    5  43b53b  210
+    5  443b1  23b4
+    4  4445  6b5
+    5  43b53b  210]
+NO_REP[13b45
+    57b6b4540
+    457b6b5
+    543b53b210
+    543b123b4
+    456b5
+    543b53b210]
+RTM[x  x_xx_x  x_x_
+    x_  x_xx_x  x_x_x
+    x  x_xx_x  x_x_
+    x_  x_xx_x  x_x_x
+    x  x_xx_x  xxx_
+    x_  x_xx_x  x_x_
+    x_  x_xx_x  x_x_x]
+SCL_DEG[123b456b7b]
+SCL_SEM[2 1 2 2 1 2]
+

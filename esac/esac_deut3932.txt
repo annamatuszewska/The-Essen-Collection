@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Von einem stolzen Dirnelein]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0201B]
+KEY[A0201B  04  F 6/4 4/4]
+MEL[1  1_1553  423_
+    111553  423
+    3  1133  1_2 //]
+BEM[]
+MEL_SEM[0 0 7 0 -3 1 -3 2 -4 0 0 7 0 -3 1 -3 2 0 -4 0 4 0 -4 2]
+MEL_RAW[1  11553  423
+    111553  423
+    3  1133  12]
+NO_REP[153423
+    153423
+    31312]
+RTM[x  x_xxxx  xxx_
+    xxxxxx  xxx
+    x  xxxx  x_x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

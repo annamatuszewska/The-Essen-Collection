@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Geistliche Lieder im Jacobston]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0611C]
+KEY[A0611C  02  A 4/2]
+MEL[1_3b2  3b455  5_
+    5_  456b5  434_
+    4_54  3b3b1_  -7b__
+    5_3b3b  1143  4_
+    5_  3b213b  2_1_ //]
+BEM[]
+MEL_SEM[3 -1 1 2 2 0 0 0 -2 2 1 -1 -2 -1 1 0 2 -2 -2 0 -3 -2 9 -4 0 -3 0 5 -1 1 2 -4 -1 -2 3 -1 -2]
+MEL_RAW[13b2  3b455  5
+    5  456b5  434
+    454  3b3b1  -7b
+    53b3b  1143  4
+    5  3b213b  21]
+NO_REP[13b23b45
+    5456b5434
+    4543b1-7b
+    53b1434
+    53b213b21]
+RTM[x_xx  xxxx  x_
+    x_  xxxx  xxx_
+    x_xx  xxx_  x__
+    x_xx  xxxx  x_
+    x_  xxxx  x_x_]
+SCL_DEG[-7b123b3456b]
+SCL_SEM[2 2 1 1 1 2 1]
+

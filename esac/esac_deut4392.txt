@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der geistliche Tannebaum]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0656B]
+KEY[A0656B  08  G 4/4]
+MEL[5_  5_.55_7b_  4_.44_5_  4_4_3b_.4  2__0_
+    5_  5_.55_7b_  4_.44_5_  4_4_3b_.4  2__0_
+    2_  3b_3b_4_4_  5__5_7b_  6b_5_4_.4  3b__0_
+    2_  3b_4_5_3b_  4__4_5_  3b_4_2_.2  1__. //]
+BEM[]
+MEL_SEM[0 0 0 3 -5 0 0 2 -2 0 -2 2 -3 5 0 0 0 3 -5 0 0 2 -2 0 -2 2 -3 0 1 0 2 0 2 0 3 -2 -1 -2 0 -2 -1 1 2 2 -4 2 0 2 -4 2 -3 0 -2]
+MEL_RAW[5  5557b  4445  443b4  20
+    5  5557b  4445  443b4  20
+    2  3b3b44  557b  6b544  3b0
+    2  3b453b  445  3b422  1]
+NO_REP[57b4543b420
+    57b4543b420
+    23b457b6b543b0
+    23b453b453b421]
+RTM[x_  x_.xx_x_  x_.xx_x_  x_x_x_.x  x__x_
+    x_  x_.xx_x_  x_.xx_x_  x_x_x_.x  x__x_
+    x_  x_x_x_x_  x__x_x_  x_x_x_.x  x__x_
+    x_  x_x_x_x_  x__x_x_  x_x_x_.x  x__.]
+SCL_DEG[123b456b7b]
+SCL_SEM[2 1 2 2 1 2]
+

@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Reigen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0502]
+KEY[A0502   04  F 4/2]
+MEL[3_3_4_4_  5_5_2_
+    4_  3_.21__  0__.
+    2_  3_3_4_4_  5__2_4_  3_.21__ //]
+BEM[]
+MEL_SEM[0 1 0 2 0 -5 3 -1 -2 -2 2 2 0 1 0 2 -5 3 -1 -2 -2]
+MEL_RAW[3344  552
+    4  321  0
+    2  3344  524  321]
+NO_REP[3452
+    43210
+    234524321]
+RTM[x_x_x_x_  x_x_x_
+    x_  x_.xx__  x__.
+    x_  x_x_x_x_  x__x_x_  x_.xx__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

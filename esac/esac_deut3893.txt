@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Jahreszeiten und Liebe]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0151A]
+KEY[A0151A  04  G 3/2]
+MEL[1_  1__1_  5__5_  5_.43b_  2__
+    1_  4__4_  5__4_  3b_2__  1__
+    1_  2__2_  2__4_  3b__2_  1__
+    3b_  2__1_  -7__1_  2__2_  5__4_  3b_2__  1__ //]
+BEM[]
+MEL_SEM[0 0 7 0 0 -2 -2 -1 -2 5 0 2 -2 -2 -1 -2 0 2 0 0 3 -2 -1 -2 3 -1 -2 -1 1 2 0 5 -2 -2 -1 -2]
+MEL_RAW[1  11  55  543b  2
+    1  44  54  3b2  1
+    1  22  24  3b2  1
+    3b  21  -71  22  54  3b2  1]
+NO_REP[1543b2
+    14543b21
+    1243b21
+    3b21-712543b21]
+RTM[x_  x__x_  x__x_  x_.xx_  x__
+    x_  x__x_  x__x_  x_x__  x__
+    x_  x__x_  x__x_  x__x_  x__
+    x_  x__x_  x__x_  x__x_  x__x_  x_x__  x__]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

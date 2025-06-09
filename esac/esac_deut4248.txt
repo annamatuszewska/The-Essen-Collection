@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ansingelied zum Neujahre]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0530B]
+KEY[A0530B  02  C 3/1]
+MEL[1_  -5-61_2_  121_
+    3_  432_-5_  -6-71_0
+    2  223_2_  1-6-5_
+    5_  432_1_  1-71_ //]
+BEM[]
+MEL_SEM[-5 2 3 2 -2 2 -2 4 1 -1 -2 -7 2 2 1 2 0 0 2 -2 -2 -3 -2 12 -2 -1 -2 -2 0 -1 1]
+MEL_RAW[1  -5-612  121
+    3  432-5  -6-710
+    2  2232  1-6-5
+    5  4321  1-71]
+NO_REP[1-5-612121
+    3432-5-6-710
+    2321-6-5
+    54321-71]
+RTM[x_  xxx_x_  xxx_
+    x_  xxx_x_  xxx_x
+    x  xxx_x_  xxx_
+    x_  xxx_x_  xxx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

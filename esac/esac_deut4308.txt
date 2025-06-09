@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Jesus, das Bluemelein]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0585C]
+KEY[A0585C  02  G 4/2 4/1 3/1]
+MEL[111  -5_3b_2_1_  -7_0
+    -7-7-7  1_-6_-7-7  1_0
+    1  3_53_3  1234_4  3_2_1_0
+    1  112_-6_-72  1__  0 //]
+BEM[]
+MEL_SEM[0 0 -5 8 -1 -2 -1 0 0 0 1 -3 2 0 1 0 4 3 -3 0 -4 2 2 1 0 -1 -2 -2 0 0 0 2 -5 2 3 -2]
+MEL_RAW[111  -53b21  -70
+    -7-7-7  1-6-7-7  10
+    1  3533  12344  3210
+    1  112-6-72  1  0]
+NO_REP[1-53b21-70
+    -71-6-710
+    135312343210
+    12-6-7210]
+RTM[xxx  x_x_x_x_  x_x
+    xxx  x_x_xx  x_x
+    x  x_xx_x  xxxx_x  x_x_x_x
+    x  xxx_x_xx  x__  x]
+SCL_DEG[-5-6-7123b345]
+SCL_SEM[2 2 1 2 1 1 1 2]
+

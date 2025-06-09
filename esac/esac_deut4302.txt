@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Lied auf Franz von Assisi]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0574]
+KEY[A0574   08  D 4/4]
+MEL[1_  1_1_3b_3b_  1__-7b_-7b_  3b_3b_4_4_  5__0_
+    5_  5_5_5_5_  7b__5_5_  6b_5_4_4_  3b__0_
+    3b_  6b_6b_5_3b_  4__1_4_  3b_2b_1_-7b_  -6__0_
+    -6_  3b_4_56b7b_  6b__5_4_  3b_2_1_-7b_  456b7b5__  4__
+    3b_3b_  2__1__ //]
+BEM[]
+MEL_SEM[0 0 3 0 -3 -2 0 5 0 2 0 2 0 0 0 0 0 3 -3 0 1 -1 -2 0 -2 0 5 0 -1 -4 2 -5 5 -2 -2 -1 -2 -1 0 6 2 2 1 2 -2 -1 -2 -2 -1 -2 -2 7 2 1 2 -3 -2 -2 0 -1 -2]
+MEL_RAW[1  113b3b  1-7b-7b  3b3b44  50
+    5  5555  7b55  6b544  3b0
+    3b  6b6b53b  414  3b2b1-7b  -60
+    -6  3b456b7b  6b54  3b21-7b  456b7b5  4
+    3b3b  21]
+NO_REP[13b1-7b3b450
+    57b56b543b0
+    3b6b53b4143b2b1-7b-60
+    -63b456b7b6b543b21-7b456b7b54
+    3b21]
+RTM[x_  x_x_x_x_  x__x_x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_x_  x_x_x_x_  x__x_
+    x_  x_x_xxx_  x__x_x_  x_x_x_x_  xxxxx__  x__
+    x_x_  x__x__]
+SCL_DEG[-6-7b12b23b456b7b]
+SCL_SEM[1 2 1 1 1 2 2 1 2]
+

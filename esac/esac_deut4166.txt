@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Jaeger - Romanze]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0437]
+KEY[A0437   04  C 6/2]
+MEL[1_  1__3_2__3_  1_.-7-6_-5__
+    5_  5__4_3_.21_  -7__1_2__4_  3__1__2_2_  1__.0__ //]
+BEM[]
+MEL_SEM[0 4 -2 2 -4 -1 -2 -2 12 0 -2 -1 -2 -2 -1 1 2 3 -1 -4 2 0 -2]
+MEL_RAW[1  1323  1-7-6-5
+    5  54321  -7124  3122  10]
+NO_REP[13231-7-6-5
+    54321-712431210]
+RTM[x_  x__x_x__x_  x_.xx_x__
+    x_  x__x_x_.xx_  x__x_x__x_  x__x__x_x_  x__.x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

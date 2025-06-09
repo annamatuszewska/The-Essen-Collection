@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Alte Kuckukslieder (Kuckuks Noth)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0170C]
+KEY[A0170C  04  F 3/4 4/4]
+MEL[1  222  -6_1  -7-6_  -5_0
+    -5  1-512  3_22  3322  3_2
+    2  1_3_  5353  5353  4_2_  1_. //]
+BEM[]
+MEL_SEM[2 0 0 -5 3 -1 -2 -2 0 5 -5 5 2 2 -2 0 2 0 -2 0 2 -2 0 -2 4 3 -3 3 -3 3 -3 3 -3 1 -3 -2]
+MEL_RAW[1  222  -61  -7-6  -50
+    -5  1-512  322  3322  32
+    2  13  5353  5353  42  1]
+NO_REP[12-61-7-6-50
+    -51-512323232
+    21353535353421]
+RTM[x  xxx  x_x  xx_  x_x
+    x  xxxx  x_xx  xxxx  x_x
+    x  x_x_  xxxx  xxxx  x_x_  x_.]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Die geistliche Weinbeer]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0587A]
+KEY[A0587A  04  G 4/2]
+MEL[1_  3b_3b_43b4_  5_.45_0
+    3b  4_5_6b54_  3b__0_
+    3b_  3b_4_5_5_  4_3b21_
+    -7b_  123b_4_3b2  1__. //]
+BEM[]
+MEL_SEM[3 0 2 -2 2 2 -2 2 -4 2 2 1 -1 -2 -2 0 0 2 2 0 -2 -2 -1 -2 -2 2 2 1 2 -2 -1 -2]
+MEL_RAW[1  3b3b43b4  5450
+    3b  456b54  3b0
+    3b  3b455  43b21
+    -7b  123b43b2  1]
+NO_REP[13b43b45450
+    3b456b543b0
+    3b4543b21
+    -7b123b43b21]
+RTM[x_  x_x_xxx_  x_.xx_x
+    x  x_x_xxx_  x__x_
+    x_  x_x_x_x_  x_xxx_
+    x_  xxx_x_xx  x__.]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

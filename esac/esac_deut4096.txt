@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Lindenschmid]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0377A]
+KEY[A0377A  04  A 4/2 6/2]
+MEL[1_  1_1_-7b_-7b_  3b_2_3b__  0_
+    3b_3b_3b_  4_3b_1_2_  1__0_
+    4_  4__4_4__3b_  -7b_.12_-7b_0_
+    2_  3b__4_5__4_  3b__2_3b__0_
+    5_5_5_4__3b_  2__1__. //]
+BEM[]
+MEL_SEM[0 0 -2 0 5 -1 1 0 0 0 2 -2 -3 2 -2 5 0 0 0 -2 -5 2 2 -4 4 1 2 2 -2 -2 -1 1 4 0 0 -2 -2 -1 -2]
+MEL_RAW[1  11-7b-7b  3b23b  0
+    3b3b3b  43b12  10
+    4  4443b  -7b12-7b0
+    2  3b454  3b23b0
+    55543b  21]
+NO_REP[1-7b3b23b0
+    3b43b1210
+    43b-7b12-7b0
+    23b4543b23b0
+    543b21]
+RTM[x_  x_x_x_x_  x_x_x__  x_
+    x_x_x_  x_x_x_x_  x__x_
+    x_  x__x_x__x_  x_.xx_x_x_
+    x_  x__x_x__x_  x__x_x__x_
+    x_x_x_x__x_  x__x__.]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

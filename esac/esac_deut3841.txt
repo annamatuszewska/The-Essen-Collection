@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Der Reuter]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0081]
+KEY[A0081   04  G 4/2]
+MEL[5  5_5_555_  6_5_4_0
+    3  555_3455  4_321_
+    3_  4_3_2_1_  -7__0_. //]
+BEM[]
+MEL_SEM[0 0 0 0 0 2 -2 -2 -1 3 0 0 -3 1 2 0 -2 -1 -2 -2 4 1 -1 -2 -2 -1]
+MEL_RAW[5  55555  6540
+    3  5553455  4321
+    3  4321  -70]
+NO_REP[56540
+    353454321
+    34321-70]
+RTM[x  x_x_xxx_  x_x_x_x
+    x  xxx_xxxx  x_xxx_
+    x_  x_x_x_x_  x__x_.]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

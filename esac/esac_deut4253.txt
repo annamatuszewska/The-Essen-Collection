@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Drei Koenige]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0534]
+KEY[A0534   02  G 3/2]
+MEL[5_5  3_4  5_5  3_.
+    5_5  3_4  5_5  3_.
+    3_3  3_2  3_5  4_.
+    3_3  2_1  2_2  1_. //]
+BEM[]
+MEL_SEM[0 -3 1 2 0 -3 3 0 -3 1 2 0 -3 0 0 0 -2 2 3 -2 -1 0 -2 -2 2 0 -2]
+MEL_RAW[55  34  55  3
+    55  34  55  3
+    33  32  35  4
+    33  21  22  1]
+NO_REP[53453
+    53453
+    32354
+    32121]
+RTM[x_x  x_x  x_x  x_.
+    x_x  x_x  x_x  x_.
+    x_x  x_x  x_x  x_.
+    x_x  x_x  x_x  x_.]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

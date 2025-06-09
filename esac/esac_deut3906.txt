@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Alte Kuckukslieder (Kuckuks Verachtung)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0170B]
+KEY[A0170B  08  F 3/4]
+MEL[1_  3__2_  3__4_  5__
+    5_  5_.43_  4_3_2_  1__
+    3_  4__4_  3__1_  2__2_  1_1_
+    1_  4__4_  3__1_  2__2_  1_1_ //]
+BEM[]
+MEL_SEM[4 -2 2 1 2 0 0 -2 -1 1 -1 -2 -2 4 1 0 -1 -4 2 0 -2 0 0 5 0 -1 -4 2 0 -2 0]
+MEL_RAW[1  32  34  5
+    5  543  432  1
+    3  44  31  22  11
+    1  44  31  22  11]
+NO_REP[132345
+    5434321
+    343121
+    143121]
+RTM[x_  x__x_  x__x_  x__
+    x_  x_.xx_  x_x_x_  x__
+    x_  x__x_  x__x_  x__x_  x_x_
+    x_  x__x_  x__x_  x__x_  x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

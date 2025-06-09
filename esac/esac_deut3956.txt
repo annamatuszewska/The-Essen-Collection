@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Abfertigung]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0221]
+KEY[A0221   04  A 4/4]
+MEL[111  2_22  5543b  2_0_
+    3b3b44  5_44  5543b  2_0_
+    223b3b  212_  22-5-5  -7b-7b11  2_0
+    2  4123b  543b3b  211_ //]
+BEM[]
+MEL_SEM[0 0 2 0 0 5 0 -2 -2 -1 1 0 2 0 2 -2 0 2 0 -2 -2 -1 0 0 1 0 -1 -2 2 0 0 -7 0 3 0 2 0 2 0 3 -5 2 1 4 -2 -2 0 -1 -2 0]
+MEL_RAW[111  222  5543b  20
+    3b3b44  544  5543b  20
+    223b3b  212  22-5-5  -7b-7b11  20
+    2  4123b  543b3b  211]
+NO_REP[12543b20
+    3b454543b20
+    23b212-5-7b120
+    24123b543b21]
+RTM[xxx  x_xx  xxxx  x_x_
+    xxxx  x_xx  xxxx  x_x_
+    xxxx  xxx_  xxxx  xxxx  x_x
+    x  xxxx  xxxx  xxx_]
+SCL_DEG[-5-7b123b45]
+SCL_SEM[3 2 2 1 2 2]
+

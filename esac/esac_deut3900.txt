@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Frau Nachtigall]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0158B]
+KEY[A0158B  08  D 4/4]
+MEL[1_1_1_  5_5_7b_.5  3b__0_
+    3b_  5_6b_7b_+1_  6b__5__  0_
+    1_1_2_  3b_4_5_.5  1__0_
+    5_  7b_5_4_.3b  2__1__  0_ //]
+BEM[]
+MEL_SEM[0 0 7 0 3 -3 -4 0 4 1 2 2 -4 -1 -7 0 2 1 2 2 0 -7 7 3 -3 -2 -2 -1 -2]
+MEL_RAW[111  557b5  3b0
+    3b  56b7b+1  6b5  0
+    112  3b455  10
+    5  7b543b  21  0]
+NO_REP[157b53b0
+    3b56b7b+16b50
+    123b4510
+    57b543b210]
+RTM[x_x_x_  x_x_x_.x  x__x_
+    x_  x_x_x_x_  x__x__  x_
+    x_x_x_  x_x_x_.x  x__x_
+    x_  x_x_x_.x  x__x__  x_]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

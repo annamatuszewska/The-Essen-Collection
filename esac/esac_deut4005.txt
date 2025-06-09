@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Abendreihen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0283B]
+KEY[A0283B  02  F 4/2]
+MEL[1  3_4_  5_.4  3_2_  1_0
+    1  3_4_  5_.4  3_2_  1_0
+    4  3_2_  -6_-5_  2_3_  1_0
+    4  3_2_  -6_-5_  2_3_  1_0 //]
+BEM[]
+MEL_SEM[4 1 2 -2 -1 -2 -2 0 4 1 2 -2 -1 -2 -2 5 -1 -2 -5 -2 7 2 -4 5 -1 -2 -5 -2 7 2 -4]
+MEL_RAW[1  34  54  32  10
+    1  34  54  32  10
+    4  32  -6-5  23  10
+    4  32  -6-5  23  10]
+NO_REP[134543210
+    134543210
+    432-6-52310
+    432-6-52310]
+RTM[x  x_x_  x_.x  x_x_  x_x
+    x  x_x_  x_.x  x_x_  x_x
+    x  x_x_  x_x_  x_x_  x_x
+    x  x_x_  x_x_  x_x_  x_x]
+SCL_DEG[-5-612345]
+SCL_SEM[2 3 2 2 1 2]
+

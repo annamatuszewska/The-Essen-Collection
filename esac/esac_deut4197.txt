@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Pfaff und Ziegeldeckers Frau]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0473]
+KEY[A0473   04  F 4/2]
+MEL[5_  5_5_5_4_  3_3_2_
+    4_  3_1_2__  1__0_
+    1_  4_4_5_5_  6_6_5_
+    6_  5_4_5_2_  3_6_5_.4  3_1_2__  1__. //]
+BEM[]
+MEL_SEM[0 0 0 -2 -1 0 -2 3 -1 -4 2 -2 0 5 0 2 0 2 0 -2 2 -2 -2 2 -5 2 5 -2 -2 -1 -4 2 -2]
+MEL_RAW[5  5554  332
+    4  312  10
+    1  4455  665
+    6  5452  3654  312  1]
+NO_REP[5432
+    431210
+    14565
+    6545236543121]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x__  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_.x  x_x_x__  x__.]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

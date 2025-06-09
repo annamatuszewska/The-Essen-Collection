@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Das Stortebekerlied (1402)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0366]
+KEY[A0366   04  G 4/4]
+MEL[4_4_  4_42  1234  5_0
+    5  6_55  4_42  1234  5_0
+    5  6_55  4_.4  3_2_  1__ //]
+BEM[]
+MEL_SEM[0 0 0 -3 -2 2 2 1 2 0 2 -2 0 -2 0 -3 -2 2 2 1 2 0 2 -2 0 -2 0 -1 -2 -2]
+MEL_RAW[44  442  1234  50
+    5  655  442  1234  50
+    5  655  44  32  1]
+NO_REP[42123450
+    56542123450
+    5654321]
+RTM[x_x_  x_xx  xxxx  x_x
+    x  x_xx  x_xx  xxxx  x_x
+    x  x_xx  x_.x  x_x_  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der Bauer ins Holz]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0472B]
+KEY[A0472B  04  D 4/4]
+MEL[1  1156  7b_6
+    5  +1553b  222_  0
+    111  567b_  6
+    554  3b211  1_. //]
+BEM[]
+MEL_SEM[0 0 7 2 1 -1 -2 5 -5 0 -4 -1 0 0 -2 0 0 7 2 1 -1 -2 0 -2 -2 -1 -2 0 0]
+MEL_RAW[1  1156  7b6
+    5  +1553b  222  0
+    111  567b  6
+    554  3b211  1]
+NO_REP[1567b6
+    5+153b20
+    1567b6
+    543b21]
+RTM[x  xxxx  x_x
+    x  xxxx  xxx_  x
+    xxx  xxx_  x
+    xxx  xxxx  x_.]
+SCL_DEG[123b4567b+1]
+SCL_SEM[2 1 2 2 2 1 2]
+

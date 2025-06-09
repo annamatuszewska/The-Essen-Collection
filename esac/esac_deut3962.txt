@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Letzter Versuch]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0232A]
+KEY[A0232A  04  F 4/2]
+MEL[5__5_5_  5_5_4_5_  3__1__
+    3_.45_6_  ^_5__4_  3___
+    5__5_5_  5_5_4_5_  3__1__
+    3_456_5_  5_432_2_  1___ //]
+BEM[]
+MEL_SEM[0 0 0 0 -2 2 -3 -4 4 1 2 2 -2 -2 -1 3 0 0 0 0 -2 2 -3 -4 4 1 2 2 -2 0 -2 -1 -2 0 -2]
+MEL_RAW[555  5545  31
+    3456  ^54  3
+    555  5545  31
+    34565  54322  1]
+NO_REP[54531
+    3456^543
+    54531
+    345654321]
+RTM[x__x_x_  x_x_x_x_  x__x__
+    x_.xx_x_  x_x__x_  x___
+    x__x_x_  x_x_x_x_  x__x__
+    x_xxx_x_  x_xxx_x_  x___]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

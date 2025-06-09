@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Schuettensam]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0373B]
+KEY[A0373B  02  G 3/1]
+MEL[111  5__6_  7b__6_  4__
+    5_  7b_6_.5  5__4_  5_. //]
+BEM[]
+MEL_SEM[0 0 7 2 1 -1 -4 2 3 -1 -2 0 -2 2]
+MEL_RAW[111  56  7b6  4
+    5  7b65  54  5]
+NO_REP[1567b64
+    57b6545]
+RTM[xxx  x__x_  x__x_  x__
+    x_  x_x_.x  x__x_  x_.]
+SCL_DEG[14567b]
+SCL_SEM[5 2 2 1]
+

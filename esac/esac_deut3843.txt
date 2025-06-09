@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Der schelmische Bauer]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0082B]
+KEY[A0082B  04  D 3/2 4/2]
+MEL[1_  1__1_  5__5_  3b__4_  5__
+    5_  5__5_  7b__5_  3b__2_  3b__0_  0_
+    3b_3b_3b_  2_1_213b_  3b21__-7_  1__0__  0__
+    1_  5_5_5_  7b_7b_5_  3b__2_  3b__0_  0_
+    3b_3b_3b_  2_1_213b_  3b21__-7_  1__0__  0__ //]
+BEM[]
+MEL_SEM[0 0 7 0 -4 2 2 0 0 0 3 -3 -4 -1 1 0 0 0 -1 -2 2 -2 3 0 -1 -2 -1 1 0 7 0 0 3 0 -3 -4 -1 1 0 0 0 -1 -2 2 -2 3 0 -1 -2 -1 1]
+MEL_RAW[1  11  55  3b4  5
+    5  55  7b5  3b2  3b0  0
+    3b3b3b  21213b  3b21-7  10  0
+    1  555  7b7b5  3b2  3b0  0
+    3b3b3b  21213b  3b21-7  10  0]
+NO_REP[153b45
+    57b53b23b0
+    3b21213b21-710
+    157b53b23b0
+    3b21213b21-710]
+RTM[x_  x__x_  x__x_  x__x_  x__
+    x_  x__x_  x__x_  x__x_  x__x_  x_
+    x_x_x_  x_x_xxx_  xxx__x_  x__x__  x__
+    x_  x_x_x_  x_x_x_  x__x_  x__x_  x_
+    x_x_x_  x_x_xxx_  xxx__x_  x__x__  x__]
+SCL_DEG[-7123b457b]
+SCL_SEM[1 2 1 2 2 3]
+

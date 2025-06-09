@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Schenkenbachs Reuterlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0426B]
+KEY[A0426B  02  F 4/2 6/2]
+MEL[1  1155  6_5_
+    +1_  55432_  1_0
+    +1  +1_+1+1+1+1  7_5_0
+    5  3_34_4  5_0 //]
+BEM[]
+MEL_SEM[0 0 7 0 2 -2 5 -5 0 -2 -1 -2 -2 12 0 0 0 0 0 -1 -4 0 -3 0 1 0 2]
+MEL_RAW[1  1155  65
+    +1  55432  10
+    +1  +1+1+1+1+1  750
+    5  3344  50]
+NO_REP[1565
+    +1543210
+    +1750
+    53450]
+RTM[x  xxxx  x_x_
+    x_  xxxxx_  x_x
+    x  x_xxxx  x_x_x
+    x  x_xx_x  x_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

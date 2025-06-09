@@ -1,0 +1,16 @@
+ALTDEU
+CUT[Der Benzenauer]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0381C]
+KEY[A0381C  02  F 4/2 6/2]
+MEL[+1  7675  3_1_5_  6_5_.3  4_2__  1_. //]
+BEM[]
+MEL_SEM[-1 -2 2 -4 -3 -4 7 2 -2 -3 1 -3 -2]
+MEL_RAW[+1  7675  315  653  42  1]
+NO_REP[+17675315653421]
+RTM[x  xxxx  x_x_x_  x_x_.x  x_x__  x_.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

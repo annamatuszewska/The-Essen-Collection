@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Geistliches Minnelied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0651]
+KEY[A0651   04  D 4/2]
+MEL[1_1_1_  5_5_7b_7b_  5__0_
+    4_  5_7b_5_.7b  6b_543b_0
+    3b  4_6b_5_3b_  1_4_3b_
+    -7b_  1_1_4_4_  4_3b21__  0_ //]
+BEM[]
+MEL_SEM[0 0 7 0 3 0 -3 -2 2 3 -3 3 -2 -1 -2 -2 0 2 3 -1 -4 -3 5 -2 -5 2 0 5 0 0 -2 -1 -2]
+MEL_RAW[111  557b7b  50
+    4  57b57b  6b543b0
+    3b  46b53b  143b
+    -7b  1144  43b21  0]
+NO_REP[157b50
+    457b57b6b543b0
+    3b46b53b143b
+    -7b143b210]
+RTM[x_x_x_  x_x_x_x_  x__x_
+    x_  x_x_x_.x  x_xxx_x
+    x  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_xxx__  x_]
+SCL_DEG[-7b123b456b7b]
+SCL_SEM[2 2 1 2 2 1 2]
+

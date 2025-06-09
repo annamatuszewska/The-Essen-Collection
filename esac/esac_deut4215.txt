@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Kinderreim beim Abzaehlen zum Spiel]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0501A]
+KEY[A0501A  08  D 4/4]
+MEL[4_  4_4_+1_+1_  4_4_5_
+    5_  6_.7b+1_7b_  6_6_5__  4_2_1_ //]
+BEM[]
+MEL_SEM[0 0 7 0 -7 0 2 0 2 1 2 -2 -1 0 -2 -2 -3 -2]
+MEL_RAW[4  44+1+1  445
+    5  67b+17b  665  421]
+NO_REP[4+145
+    567b+17b65421]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x_x_x__  x_x_x_]
+SCL_DEG[124567b+1]
+SCL_SEM[2 3 2 2 1 2]
+

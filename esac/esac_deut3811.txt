@@ -1,0 +1,40 @@
+ALTDEU
+CUT[Die stolze (schoene) Muellerin]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0043]
+KEY[A0043   04  E 4/2 6/2]
+MEL[5_  6b_7b_7b_+1_  7b_6b54_
+    5_  6b_7b_5_7b6b  5_.43b_.2b1_
+    5_  6b_7b_7b_+1_  7b_6b54_
+    5_  6b_7b_5_7b6b  5_.43b_.2b1_
+    3b_  6b_5_4_1_  -7b__-6b_
+    3b_  4_5_7b_.7b  6b__5_
+    3b_  4_3b_2b_1_  1__. //]
+BEM[]
+MEL_SEM[1 2 0 2 -2 -2 -1 -2 2 1 2 -3 3 -2 -1 -2 -2 -2 -1 7 1 2 0 2 -2 -2 -1 -2 2 1 2 -3 3 -2 -1 -2 -2 -2 -1 3 5 -1 -2 -5 -2 -2 7 2 2 3 0 -2 -1 -4 2 -2 -2 -1 0]
+MEL_RAW[5  6b7b7b+1  7b6b54
+    5  6b7b57b6b  543b2b1
+    5  6b7b7b+1  7b6b54
+    5  6b7b57b6b  543b2b1
+    3b  6b541  -7b-6b
+    3b  457b7b  6b5
+    3b  43b2b1  1]
+NO_REP[56b7b+17b6b54
+    56b7b57b6b543b2b1
+    56b7b+17b6b54
+    56b7b57b6b543b2b1
+    3b6b541-7b-6b
+    3b457b6b5
+    3b43b2b1]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_xx  x_.xx_.xx_
+    x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_xx  x_.xx_.xx_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_.x  x__x_
+    x_  x_x_x_x_  x__.]
+SCL_DEG[-6b-7b12b3b456b7b+1]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

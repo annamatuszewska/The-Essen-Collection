@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Rosengarten]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0549]
+KEY[A0549   02  G 2/1]
+MEL[1  3b_3b_  4_4_  5_54  5_0
+    4  3b45_  5_5_  4_3_  4_0
+    4  5_54  3b_3b2  123b1  2_0
+    5  5_5_  3b_5_  4_3b_  4_0
+    5  3b21_  3b543b  212_  1_. //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 -2 2 -2 -2 2 2 0 0 -2 -1 1 0 2 0 -2 -2 0 -1 -2 2 1 -3 2 5 0 0 -4 4 -2 -2 2 2 -4 -1 -2 3 4 -2 -2 -1 -2 2 -2]
+MEL_RAW[1  3b3b  44  554  50
+    4  3b45  55  43  40
+    4  554  3b3b2  123b1  20
+    5  55  3b5  43b  40
+    5  3b21  3b543b  212  1]
+NO_REP[13b45450
+    43b454340
+    4543b2123b120
+    53b543b40
+    53b213b543b2121]
+RTM[x  x_x_  x_x_  x_xx  x_x
+    x  xxx_  x_x_  x_x_  x_x
+    x  x_xx  x_xx  xxxx  x_x
+    x  x_x_  x_x_  x_x_  x_x
+    x  xxx_  xxxx  xxx_  x_.]
+SCL_DEG[123b345]
+SCL_SEM[2 1 1 1 2]
+

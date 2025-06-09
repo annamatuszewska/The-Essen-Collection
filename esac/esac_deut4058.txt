@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Abendlust]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0334B]
+KEY[A0334B  04  A 4/4]
+MEL[5522  332
+    2  5522  332
+    5  5322  3_0_ //]
+BEM[]
+MEL_SEM[0 -5 0 2 0 -2 0 5 0 -5 0 2 0 -2 5 0 -3 -2 0 2]
+MEL_RAW[5522  332
+    2  5522  332
+    5  5322  30]
+NO_REP[5232
+    25232
+    53230]
+RTM[xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_x_]
+SCL_DEG[235]
+SCL_SEM[2 3]
+

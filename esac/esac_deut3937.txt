@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Dunkles Woelklein]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0207]
+KEY[A0207   02  G 3/2]
+MEL[1  5_5  4_2  3b_4  2_
+    5  5_5  4_2  3b_4  2_
+    1  -7b_-6  -5_5  7b_.  5_.
+    43b4  2_2  1_ //]
+BEM[]
+MEL_SEM[7 0 -2 -3 1 2 -3 5 0 0 -2 -3 1 2 -3 -2 -2 -1 -2 12 3 -3 -2 -2 2 -3 0 -2]
+MEL_RAW[1  55  42  3b4  2
+    5  55  42  3b4  2
+    1  -7b-6  -55  7b  5
+    43b4  22  1]
+NO_REP[15423b42
+    5423b42
+    1-7b-6-57b5
+    43b421]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_.  x_.
+    xxx  x_x  x_]
+SCL_DEG[-5-6-7b123b457b]
+SCL_SEM[2 1 2 2 1 2 2 3]
+

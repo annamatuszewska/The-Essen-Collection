@@ -1,0 +1,40 @@
+ALTDEU
+CUT[Ain Tagweis von den heyligen dreyn kuennigen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0512B]
+KEY[A0512B  04  D 4/4]
+MEL[111  567b5  45_0
+    543b2  11-7b1  3b21_  0
+    111  567b5  45_0
+    543b2  11-7b1  3b21_  0
+    123b  4543b  4_0
+    1  23b45  43b4_
+    543b2  21-7b1  3b21_  0 //]
+BEM[]
+MEL_SEM[0 0 7 2 1 -3 -2 2 0 -2 -2 -1 -2 0 -2 2 3 -1 -2 0 0 0 7 2 1 -3 -2 2 0 -2 -2 -1 -2 0 -2 2 3 -1 -2 0 2 1 2 2 -2 -2 2 -5 2 1 2 2 -2 -2 2 2 -2 -2 -1 0 -2 -2 2 3 -1 -2]
+MEL_RAW[111  567b5  450
+    543b2  11-7b1  3b21  0
+    111  567b5  450
+    543b2  11-7b1  3b21  0
+    123b  4543b  40
+    1  23b45  43b4
+    543b2  21-7b1  3b21  0]
+NO_REP[1567b5450
+    543b21-7b13b210
+    1567b5450
+    543b21-7b13b210
+    123b4543b40
+    123b4543b4
+    543b21-7b13b210]
+RTM[xxx  xxxx  xx_x
+    xxxx  xxxx  xxx_  x
+    xxx  xxxx  xx_x
+    xxxx  xxxx  xxx_  x
+    xxx  xxxx  x_x
+    x  xxxx  xxx_
+    xxxx  xxxx  xxx_  x]
+SCL_DEG[-7b123b4567b]
+SCL_SEM[2 2 1 2 2 2 1]
+

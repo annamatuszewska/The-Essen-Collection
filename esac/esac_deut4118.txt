@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Lobt Gott ihr Christen alle]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0395]
+KEY[A0395   02  G 4/2]
+MEL[5  5556  7b_7b
+    7b  +1566  5_0
+    5  5555  4_4
+    5  3b122  1_0
+    1  2222  3b_2
+    2  5554  2_0
+    5  5566  7b_7b
+    6  53b42  1_. //]
+BEM[]
+MEL_SEM[0 0 0 2 1 0 0 2 -5 2 0 -2 0 0 0 0 0 -2 0 2 -4 -3 2 0 -2 0 2 0 0 0 1 -1 0 5 0 0 -2 -3 5 0 0 2 0 1 0 -1 -2 -4 2 -3 -2]
+MEL_RAW[5  5556  7b7b
+    7b  +1566  50
+    5  5555  44
+    5  3b122  10
+    1  2222  3b2
+    2  5554  20
+    5  5566  7b7b
+    6  53b42  1]
+NO_REP[567b
+    7b+15650
+    54
+    53b1210
+    123b2
+    25420
+    567b
+    653b421]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_.]
+SCL_DEG[123b4567b+1]
+SCL_SEM[2 1 2 2 2 1 2]
+

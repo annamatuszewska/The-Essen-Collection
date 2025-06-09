@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Wiegenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0493]
+KEY[A0493   02  F 4/2]
+MEL[1  1131  555
+    5  6534  5_0
+    5  5553  553
+    5  4322  1_3_  5322  1_. //]
+BEM[]
+MEL_SEM[0 0 4 -4 7 0 0 0 2 -2 -3 1 2 0 0 0 0 -3 3 0 -3 3 -2 -1 -2 0 -2 4 3 -3 -2 0 -2]
+MEL_RAW[1  1131  555
+    5  6534  50
+    5  5553  553
+    5  4322  13  5322  1]
+NO_REP[1315
+    5653450
+    5353
+    5432135321]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x_  xxxx  x_.]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

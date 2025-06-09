@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Muscatellerlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0335B]
+KEY[A0335B  02  F 3/2]
+MEL[111  2_5  5_3  2_
+    5  3_1  2_-7  1_.  1_0 //]
+BEM[]
+MEL_SEM[0 0 2 5 0 -3 -2 5 -3 -4 2 -3 1 0]
+MEL_RAW[111  25  53  2
+    5  31  2-7  1  10]
+NO_REP[12532
+    5312-710]
+RTM[xxx  x_x  x_x  x_
+    x  x_x  x_x  x_.  x_x]
+SCL_DEG[-71235]
+SCL_SEM[1 2 2 3]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Nun laube, Lindlein, laube]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0175]
+KEY[A0175   02  G 4/2]
+MEL[4_12  432_  1_0
+    5  6543  2_1_
+    023b2  13b1_  -7b_0
+    2  4212  1__ //]
+BEM[]
+MEL_SEM[-5 2 3 -1 -2 -2 7 2 -2 -2 -1 -2 -2 2 1 -1 -2 3 -3 -2 4 3 -3 -2 2 -2]
+MEL_RAW[412  432  10
+    5  6543  21
+    023b2  13b1  -7b0
+    2  4212  1]
+NO_REP[41243210
+    5654321
+    023b213b1-7b0
+    242121]
+RTM[x_xx  xxx_  x_x
+    x  xxxx  x_x_
+    xxxx  xxx_  x_x
+    x  xxxx  x__]
+SCL_DEG[-7b123b3456]
+SCL_SEM[2 2 1 1 1 2 2]
+

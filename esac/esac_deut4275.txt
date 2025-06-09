@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Alter Ostergesang]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0552A]
+KEY[A0552A  02  G FREI]
+MEL[5457b+15  5453b23b1  3b441-7b  3b45
+    5453b23b12  -7b121  5457b+15  7b57b543b  53b12-71 //]
+BEM[]
+MEL_SEM[-2 2 3 2 -5 0 -2 2 -4 -1 1 -3 3 2 0 -5 -2 5 2 2 0 -2 2 -4 -1 1 -3 2 -4 2 2 -2 7 -2 2 3 2 -5 3 -3 3 -3 -2 -2 4 -4 -3 2 -3 1]
+MEL_RAW[5457b+15  5453b23b1  3b441-7b  3b45
+    5453b23b12  -7b121  5457b+15  7b57b543b  53b12-71]
+NO_REP[5457b+15453b23b13b41-7b3b45
+    5453b23b12-7b1215457b+157b57b543b53b12-71]
+RTM[xxxxxx  xxxxxxx  xxxxx  xxx
+    xxxxxxxx  xxxx  xxxxxx  xxxxxx  xxxxxx]
+SCL_DEG[-7b-7123b457b+1]
+SCL_SEM[1 1 2 1 2 2 3 2]
+

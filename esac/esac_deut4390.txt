@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der geistliche Vogelgesang]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0655]
+KEY[A0655   04  G 4/4]
+MEL[354  4332  2343  321_  0
+    354  4332  2343  321_  0
+    -5-6-7  123_  2343  212_  0
+    351  432_  2343  321_  0 //]
+BEM[]
+MEL_SEM[3 -2 0 -1 0 -2 0 2 1 -1 0 -2 -2 4 3 -2 0 -1 0 -2 0 2 1 -1 0 -2 -2 -5 2 2 1 2 2 -2 2 1 -1 -2 -2 2 2 3 -7 5 -1 -2 0 2 1 -1 0 -2 -2]
+MEL_RAW[354  4332  2343  321  0
+    354  4332  2343  321  0
+    -5-6-7  123  2343  212  0
+    351  432  2343  321  0]
+NO_REP[35432343210
+    35432343210
+    -5-6-712323432120
+    351432343210]
+RTM[xxx  xxxx  xxxx  xxx_  x
+    xxx  xxxx  xxxx  xxx_  x
+    xxx  xxx_  xxxx  xxx_  x
+    xxx  xxx_  xxxx  xxx_  x]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

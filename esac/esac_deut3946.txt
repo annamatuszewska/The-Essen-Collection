@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Untreue]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0215A]
+KEY[A0215A  04  E 4/2 6/2]
+MEL[4_  4_4_6b_6b_  5__4_
+    4_  4__1_3b_2b__  1__.
+    4_  4_4_6b_6b_  5__4_
+    4_  4__1_3b_2b__  1__.
+    6b_  6b_6b__5__6b_  7b__.6b54__  3b__
+    6b__  5__6b_7b_  ^_6b__5_  6b__0_
+    6b_  7b__7b__+1__  7b_6b__54  5__4__
+    5__  6b__3b_4_  ^_3b_2b__  1__. //]
+BEM[]
+MEL_SEM[0 0 3 0 -1 -2 0 0 -5 3 -2 -1 5 0 0 3 0 -1 -2 0 0 -5 3 -2 -1 8 0 0 -1 1 2 -2 -1 -2 -2 5 -1 1 2 -2 -1 1 0 2 0 2 -2 -2 -1 -2 2 -2 2 1 -5 2 -2 -2 -1]
+MEL_RAW[4  446b6b  54
+    4  413b2b  1
+    4  446b6b  54
+    4  413b2b  1
+    6b  6b6b56b  7b6b54  3b
+    6b  56b7b  ^6b5  6b0
+    6b  7b7b+1  7b6b54  54
+    5  6b3b4  ^3b2b  1]
+NO_REP[46b54
+    413b2b1
+    46b54
+    413b2b1
+    6b56b7b6b543b
+    6b56b7b^6b56b0
+    6b7b+17b6b5454
+    56b3b4^3b2b1]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x__x_x_x__  x__.
+    x_  x_x_x_x_  x__x_
+    x_  x__x_x_x__  x__.
+    x_  x_x__x__x_  x__.xxx__  x__
+    x__  x__x_x_  x_x__x_  x__x_
+    x_  x__x__x__  x_x__xx  x__x__
+    x__  x__x_x_  x_x_x__  x__.]
+SCL_DEG[12b3b456b7b+1]
+SCL_SEM[1 2 2 2 1 2 2]
+

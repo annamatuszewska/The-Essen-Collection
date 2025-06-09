@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Am Brunnen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0063]
+KEY[A0063   02  G 4/2]
+MEL[111  5544  5_0
+    5  123b4  2_2_  0
+    111  5544  5_0
+    5  123b4  2_2_  0
+    2-7b1  23b42  1
+    122  -7b-7b1_  -5_0
+    -5  -7b123b  421
+    1  3b454  2_43b  1_3b2  -7_1_  0 //]
+BEM[]
+MEL_SEM[0 0 7 0 -2 0 2 0 -7 2 1 2 -3 0 -2 0 0 7 0 -2 0 2 0 -7 2 1 2 -3 0 0 -4 2 2 1 2 -3 -2 0 2 0 -4 0 2 -5 0 3 2 2 1 2 -3 -2 0 3 2 2 -2 -3 3 -2 -3 3 -1 -3 1]
+MEL_RAW[111  5544  50
+    5  123b4  22  0
+    111  5544  50
+    5  123b4  22  0
+    2-7b1  23b42  1
+    122  -7b-7b1  -50
+    -5  -7b123b  421
+    1  3b454  243b  13b2  -71  0]
+NO_REP[15450
+    5123b420
+    15450
+    5123b420
+    2-7b123b421
+    12-7b1-50
+    -5-7b123b421
+    13b454243b13b2-710]
+RTM[xxx  xxxx  x_x
+    x  xxxx  x_x_  x
+    xxx  xxxx  x_x
+    x  xxxx  x_x_  x
+    xxx  xxxx  x
+    xxx  xxx_  x_x
+    x  xxxx  xxx
+    x  xxxx  x_xx  x_xx  x_x_  x]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

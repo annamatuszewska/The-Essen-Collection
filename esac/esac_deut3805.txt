@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Die drei Grafen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0036]
+KEY[A0036   04  G 4/2]
+MEL[1_  1_1_2_3_  4__6_
+    5_  4_1_2_3_  4__0_
+    4_  6_+1_+2_+2_  +17654_
+    5_  6_5_4_3_  2__. //]
+BEM[]
+MEL_SEM[0 0 2 2 1 4 -2 -2 -5 2 2 1 0 4 3 2 0 -2 -1 -2 -2 -2 2 2 -2 -2 -1 -2]
+MEL_RAW[1  1123  46
+    5  4123  40
+    4  6+1+2+2  +17654
+    5  6543  2]
+NO_REP[12346
+    5412340
+    46+1+2+17654
+    565432]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  xxxxx_
+    x_  x_x_x_x_  x__.]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

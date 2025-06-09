@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ein Abendreihen vom Herrn Christo]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0287]
+KEY[A0287   04  F 4/4]
+MEL[1  5511  551_
+    5_65  4322  1_0
+    2  2221  -712_  0
+    431  2211  1_0 //]
+BEM[]
+MEL_SEM[7 0 -7 0 7 0 -7 7 2 -2 -2 -1 -2 0 -2 2 0 0 0 -2 -1 1 2 3 -1 -4 2 0 -2 0 0]
+MEL_RAW[1  5511  551
+    565  4322  10
+    2  2221  -712  0
+    431  2211  10]
+NO_REP[15151
+    56543210
+    21-7120
+    431210]
+RTM[x  xxxx  xxx_
+    x_xx  xxxx  x_x
+    x  xxxx  xxx_  x
+    xxx  xxxx  x_x]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Der grimme Tod]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0649]
+KEY[A0649   02  D 4/2]
+MEL[5_55  453b2  1_
+    5_  7b+156  7b_5_
+    5_55  453b2  1_
+    5_  7b+156  7b_5_
+    7b_7b7b  5_3b_  443b_  0_
+    5_  5545  3b21_
+    5_54  5_6_  7b54_  0_
+    +1_  +2+157b  6_5_ //]
+BEM[]
+MEL_SEM[0 0 -2 2 -4 -1 -2 7 3 2 -5 2 1 -3 0 0 0 -2 2 -4 -1 -2 7 3 2 -5 2 1 -3 3 0 0 -3 -4 2 0 -2 4 0 0 -2 2 -4 -1 -2 7 0 -2 2 2 1 -3 -2 7 2 -2 -5 3 -1 -2]
+MEL_RAW[555  453b2  1
+    5  7b+156  7b5
+    555  453b2  1
+    5  7b+156  7b5
+    7b7b7b  53b  443b  0
+    5  5545  3b21
+    554  56  7b54  0
+    +1  +2+157b  65]
+NO_REP[5453b21
+    57b+1567b5
+    5453b21
+    57b+1567b5
+    7b53b43b0
+    5453b21
+    54567b540
+    +1+2+157b65]
+RTM[x_xx  xxxx  x_
+    x_  xxxx  x_x_
+    x_xx  xxxx  x_
+    x_  xxxx  x_x_
+    x_xx  x_x_  xxx_  x_
+    x_  xxxx  xxx_
+    x_xx  x_x_  xxx_  x_
+    x_  xxxx  x_x_]
+SCL_DEG[123b4567b+1+2]
+SCL_SEM[2 1 2 2 2 1 2 2]
+

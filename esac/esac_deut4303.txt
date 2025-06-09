@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ruf um fruchtbares Wetter]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0575]
+KEY[A0575   04  G 4/2]
+MEL[1__1_1_  2_4_5_5_  4__
+    5_7b_  6_5_423_  2__0_
+    4_  4_4_5_4_  3b_1_-7b__  0_
+    1_2_.3  4_323b_2_  1___ //]
+BEM[]
+MEL_SEM[0 0 2 3 2 0 -2 2 3 -1 -2 -2 -3 2 -2 3 0 0 2 -2 -2 -3 -2 2 2 2 1 -1 -2 1 -1 -2]
+MEL_RAW[111  2455  4
+    57b  65423  20
+    4  4454  3b1-7b  0
+    123  4323b2  1]
+NO_REP[12454
+    57b6542320
+    4543b1-7b0
+    1234323b21]
+RTM[x__x_x_  x_x_x_x_  x__
+    x_x_  x_x_xxx_  x__x_
+    x_  x_x_x_x_  x_x_x__  x_
+    x_x_.x  x_xxx_x_  x___]
+SCL_DEG[-7b123b34567b]
+SCL_SEM[2 2 1 1 1 2 2 1]
+

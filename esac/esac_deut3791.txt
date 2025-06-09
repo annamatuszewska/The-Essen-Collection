@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Zwei Wasser. (Schwimmersage)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0024A]
+KEY[A0024A  02  G 3/1]
+MEL[1_  1__3b_  2__1_  2_.3b4_  5__
+    5_  4__2_  3b_1__  -7b__.  0__
+    -7b_  2__3b_  4__3b_  1_.23b_  2__
+    1_  -7b_-5__  1__-7_  1__ //]
+BEM[]
+MEL_SEM[0 3 -1 -2 2 1 2 2 0 -2 -3 1 -3 -2 0 4 1 2 -2 -3 2 1 -1 -2 -2 -3 5 -1 1]
+MEL_RAW[1  13b  21  23b4  5
+    5  42  3b1  -7b  0
+    -7b  23b  43b  123b  2
+    1  -7b-5  1-7  1]
+NO_REP[13b2123b45
+    5423b1-7b0
+    -7b23b43b123b2
+    1-7b-51-71]
+RTM[x_  x__x_  x__x_  x_.xx_  x__
+    x_  x__x_  x_x__  x__.  x__
+    x_  x__x_  x__x_  x_.xx_  x__
+    x_  x_x__  x__x_  x__]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

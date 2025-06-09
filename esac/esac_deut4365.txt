@@ -1,0 +1,36 @@
+ALTDEU
+CUT["Kommt her zu mir" spricht Gottes Sohn]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0636B]
+KEY[A0636B  04  G 4/2]
+MEL[1__2_1_  5__.4_  5_3b_2__  0_
+    2_3b_2_  3b_5_4_3b_  2__0_
+    2_  1_1_4_.3b  2_3b_1__  -7b__0__
+    2__3b_2_  3b_5_4_3b_  2__0_
+    2_  3b_2_3b_5_  4_3b_2__  0__
+    4__  3b_2_3b_1_  2__1__ //]
+BEM[]
+MEL_SEM[2 -2 7 -2 2 -4 -1 0 1 -1 1 4 -2 -2 -1 0 -2 0 5 -2 -1 1 -3 -2 4 1 -1 1 4 -2 -2 -1 0 1 -1 1 4 -2 -2 -1 3 -2 -1 1 -3 2 -2]
+MEL_RAW[121  54  53b2  0
+    23b2  3b543b  20
+    2  1143b  23b1  -7b0
+    23b2  3b543b  20
+    2  3b23b5  43b2  0
+    4  3b23b1  21]
+NO_REP[1215453b20
+    23b23b543b20
+    2143b23b1-7b0
+    23b23b543b20
+    23b23b543b20
+    43b23b121]
+RTM[x__x_x_  x__.x_  x_x_x__  x_
+    x_x_x_  x_x_x_x_  x__x_
+    x_  x_x_x_.x  x_x_x__  x__x__
+    x__x_x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x__  x__
+    x__  x_x_x_x_  x__x__]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

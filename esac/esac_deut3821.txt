@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Das wackere Maegdlein]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0055]
+KEY[A0055   04  G 3/2]
+MEL[1_  1_1_1_  5__4_  5__3b_  2__
+    5_  5_5_4_  3b__2_  1__3b_  2__0_
+    1_-7_1_  -5__
+    2_  3b__3b_  1__1_  3b_.45_  5__
+    4_  3b_5_4_  3b_2__  1__ //]
+BEM[]
+MEL_SEM[0 0 0 7 -2 2 -4 -1 5 0 0 -2 -2 -1 -2 3 -1 -2 -1 1 -5 7 1 0 -3 0 3 2 2 0 -2 -2 4 -2 -2 -1 -2]
+MEL_RAW[1  111  54  53b  2
+    5  554  3b2  13b  20
+    1-71  -5
+    2  3b3b  11  3b45  5
+    4  3b54  3b2  1]
+NO_REP[15453b2
+    543b213b20
+    1-71-5
+    23b13b45
+    43b543b21]
+RTM[x_  x_x_x_  x__x_  x__x_  x__
+    x_  x_x_x_  x__x_  x__x_  x__x_
+    x_x_x_  x__
+    x_  x__x_  x__x_  x_.xx_  x__
+    x_  x_x_x_  x_x__  x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

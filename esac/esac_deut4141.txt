@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Zug der Hilfstruppen nach Portugal]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0413]
+KEY[A0413   04  G 4/2]
+MEL[1_  1_1_-7_1_  2_.31_
+    1_  -7_-6_-7_1_  2_.11_0
+    4  3_2_1_-7b_  -6__-4__
+    -5_-5_-6_-7_  1__0_ //]
+BEM[]
+MEL_SEM[0 0 -1 1 2 2 -4 0 -1 -2 2 1 2 -2 0 5 -1 -2 -2 -2 -1 -4 2 0 2 2 1]
+MEL_RAW[1  11-71  231
+    1  -7-6-71  2110
+    4  321-7b  -6-4
+    -5-5-6-7  10]
+NO_REP[1-71231
+    1-7-6-71210
+    4321-7b-6-4
+    -5-6-710]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_.xx_x
+    x  x_x_x_x_  x__x__
+    x_x_x_x_  x__x_]
+SCL_DEG[-4-5-6-7b-71234]
+SCL_SEM[2 2 1 1 1 2 2 1]
+

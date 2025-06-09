@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Beim Herumtrinken]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0321]
+KEY[A0321   02  G 4/2]
+MEL[111  556b6b  4_
+    56b  7b+16b_  5_0
+    5  +1+16b6b  7b7b5_  421_
+    3b45_  3b45_  123b4  2_1_
+    3b45_  3b45_  123b4  2_1_
+    123b4  2_1_  0 //]
+BEM[]
+MEL_SEM[0 0 7 0 1 0 -3 2 1 2 2 -4 -1 0 5 0 -4 0 2 0 -3 -2 -3 -2 3 2 2 -4 2 2 -7 2 1 2 -3 -2 3 2 2 -4 2 2 -7 2 1 2 -3 -2 0 2 1 2 -3 -2]
+MEL_RAW[111  556b6b  4
+    56b  7b+16b  50
+    5  +1+16b6b  7b7b5  421
+    3b45  3b45  123b4  21
+    3b45  3b45  123b4  21
+    123b4  21  0]
+NO_REP[156b4
+    56b7b+16b50
+    5+16b7b5421
+    3b453b45123b421
+    3b453b45123b421
+    123b4210]
+RTM[xxx  xxxx  x_
+    xx  xxx_  x_x
+    x  xxxx  xxx_  xxx_
+    xxx_  xxx_  xxxx  x_x_
+    xxx_  xxx_  xxxx  x_x_
+    xxxx  x_x_  x]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

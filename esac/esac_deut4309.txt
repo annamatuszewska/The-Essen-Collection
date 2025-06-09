@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Christus, die edle Blume]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0586]
+KEY[A0586   02  A 4/1 6/1]
+MEL[1  1_1_2_2_  3b_3b_2_.
+    2  5_4_3b_2_  1_.23b_
+    4_  4_2_5_5_  3b_4_4_.
+    4  5_5_3b_4_  3b__1__2__  1__.0 //]
+BEM[]
+MEL_SEM[0 0 2 0 1 0 -1 0 5 -2 -2 -1 -2 2 1 2 0 -3 5 0 -4 2 0 0 2 0 -4 2 -2 -3 2 -2]
+MEL_RAW[1  1122  3b3b2
+    2  543b2  123b
+    4  4255  3b44
+    4  553b4  3b12  10]
+NO_REP[123b2
+    2543b2123b
+    4253b4
+    453b43b1210]
+RTM[x  x_x_x_x_  x_x_x_.
+    x  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_x_x_.
+    x  x_x_x_x_  x__x__x__  x__.x]
+SCL_DEG[123b45]
+SCL_SEM[2 1 2 2]
+

@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Heiligen - Anrufung]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0605]
+KEY[A0605   02  F 4/1]
+MEL[1_3_5_5  6_4_5__
+    55555_4_  332_1__
+    1_2_3_5_  2_1_-6_-5_
+    3_4_5_6_  5_443_2_
+    132_1__ //]
+BEM[]
+MEL_SEM[4 3 0 2 -4 2 0 0 0 0 0 -2 -1 0 -2 -2 0 2 2 3 -5 -2 -3 -2 9 1 2 2 -2 -2 0 -1 -2 -2 4 -2 -2]
+MEL_RAW[1355  645
+    555554  3321
+    1235  21-6-5
+    3456  54432
+    1321]
+NO_REP[135645
+    54321
+    123521-6-5
+    34565432
+    1321]
+RTM[x_x_x_x  x_x_x__
+    xxxxx_x_  xxx_x__
+    x_x_x_x_  x_x_x_x_
+    x_x_x_x_  x_xxx_x_
+    xxx_x__]
+SCL_DEG[-5-6123456]
+SCL_SEM[2 3 2 2 1 2 2]
+

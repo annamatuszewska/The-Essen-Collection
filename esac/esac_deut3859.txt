@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Melodie eines Waechterliedes]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0106]
+KEY[A0106   02  D 3/2 4/2]
+MEL[1  4_5  6_6  +1_
+    7b  6_5  6_5  4_
+    4  5_6  6_5  4_
+    3b  2_2  4_2  1_
+    2  -7b_1  2_2  3b_2  1_
+    1  4_7b  6_4  4_6  6_5  4_
+    1  4_7b  6_4  4_6  6_5  4_
+    3b  2_1_  5_43b  2_5_  2_. //]
+BEM[]
+MEL_SEM[5 2 2 0 3 -2 -1 -2 2 -2 -2 0 2 2 0 -2 -2 -2 -1 0 3 -3 -2 2 -4 2 2 0 1 -1 -2 0 5 5 -1 -4 0 4 0 -2 -2 -5 5 5 -1 -4 0 4 0 -2 -2 -2 -1 -2 7 -2 -2 -1 5 -5]
+MEL_RAW[1  45  66  +1
+    7b  65  65  4
+    4  56  65  4
+    3b  22  42  1
+    2  -7b1  22  3b2  1
+    1  47b  64  46  65  4
+    1  47b  64  46  65  4
+    3b  21  543b  25  2]
+NO_REP[1456+1
+    7b65654
+    45654
+    3b2421
+    2-7b123b21
+    147b64654
+    147b64654
+    3b21543b252]
+RTM[x  x_x  x_x  x_
+    x  x_x  x_x  x_
+    x  x_x  x_x  x_
+    x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_x  x_
+    x  x_x_  x_xx  x_x_  x_.]
+SCL_DEG[-7b123b4567b+1]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

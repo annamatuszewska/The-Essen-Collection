@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Reiters Trostlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0431A]
+KEY[A0431A  04  G 4/2 6/2]
+MEL[1_1_1_  5_5_7b654#  5__0_
+    5_  5_5_7b_7b_  5_43b4_4_  3b__
+    3b__  5_7b_6_5_  4__.3b21-7b1_  -7b___  0_
+    -7b_1_2_  3b_5_4_3b_  6b_5_4__  3b___
+    3b__5_5_  7b__6b_5__43b  43b212__  1___  0_ //]
+BEM[]
+MEL_SEM[0 0 7 0 3 -1 -2 -1 1 0 0 0 3 0 -3 -2 -2 2 0 -2 0 4 3 -1 -2 -2 -2 -1 -2 -2 2 -2 0 2 2 1 4 -2 -2 5 -1 -2 -2 0 4 0 3 -2 -1 -2 -2 2 -2 -1 -2 2 -2]
+MEL_RAW[111  557b654#  50
+    5  557b7b  543b44  3b
+    3b  57b65  43b21-7b1  -7b  0
+    -7b12  3b543b  6b54  3b
+    3b55  7b6b543b  43b212  1  0]
+NO_REP[157b654#50
+    57b543b43b
+    3b57b6543b21-7b1-7b0
+    -7b123b543b6b543b
+    3b57b6b543b43b21210]
+RTM[x_x_x_  x_x_xxxx  x__x_
+    x_  x_x_x_x_  x_xxx_x_  x__
+    x__  x_x_x_x_  x__.xxxxx_  x___  x_
+    x_x_x_  x_x_x_x_  x_x_x__  x___
+    x__x_x_  x__x_x__xx  xxxxx__  x___  x_]
+SCL_DEG[-7b123b44#56b67b]
+SCL_SEM[2 2 1 2 1 1 1 1 1]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ritter und Maid]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0069B]
+KEY[A0069B  08  G 4/4]
+MEL[1_  5_5_5_3b_  7b_7b6b5_
+    7b_  +1_5_4_3b_  4__5_
+    7b_  4_7b6b5_4_  3b_2_1_
+    2_  3b_4_5_3b_  2__1_ //]
+BEM[]
+MEL_SEM[7 0 0 -4 7 0 -2 -1 3 2 -5 -2 -2 2 2 3 -5 5 -2 -1 -2 -2 -1 -2 2 1 2 2 -4 -1 -2]
+MEL_RAW[1  5553b  7b7b6b5
+    7b  +1543b  45
+    7b  47b6b54  3b21
+    2  3b453b  21]
+NO_REP[153b7b6b5
+    7b+1543b45
+    7b47b6b543b21
+    23b453b21]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_xxx_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der Brautmoerder]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0014]
+KEY[A0014   08  E 4/4]
+MEL[-5-5-5  1_.23b_2_  1__0
+    555  4_.45_4_  3b__0
+    7b7b7b  3b_.3b6b_5_  4__0
+    -7b-7b-7b  3b4543b_2_  1__0 //]
+BEM[]
+MEL_SEM[0 0 5 2 1 -1 -2 7 0 0 -2 0 2 -2 -2 7 0 0 -7 0 5 -1 -2 -7 0 0 5 2 2 -2 -2 -1 -2]
+MEL_RAW[-5-5-5  123b2  10
+    555  4454  3b0
+    7b7b7b  3b3b6b5  40
+    -7b-7b-7b  3b4543b2  10]
+NO_REP[-5123b210
+    54543b0
+    7b3b6b540
+    -7b3b4543b210]
+RTM[xxx  x_.xx_x_  x__x
+    xxx  x_.xx_x_  x__x
+    xxx  x_.xx_x_  x__x
+    xxx  xxxxx_x_  x__x]
+SCL_DEG[-5-7b123b456b7b]
+SCL_SEM[3 2 2 1 2 2 1 2]
+

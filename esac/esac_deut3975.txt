@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Ich fahr dahin]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0252]
+KEY[A0252   02  F 3/2]
+MEL[-7  1_1  -5_4  3_2  1_
+    -5  1_2  3_2  4_3  1_
+    1  3_4  5_6  5_3  1_
+    2  1-71  4_3  132  1_ //]
+BEM[]
+MEL_SEM[1 0 -5 10 -1 -2 -2 -5 5 2 2 -2 3 -1 -4 0 4 1 2 2 -2 -3 -4 2 -2 -1 1 5 -1 -4 4 -2 -2]
+MEL_RAW[-7  11  -54  32  1
+    -5  12  32  43  1
+    1  34  56  53  1
+    2  1-71  43  132  1]
+NO_REP[-71-54321
+    -51232431
+    13456531
+    21-71431321]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  xxx  x_x  xxx  x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Das Regina coeli deutsch, auf die osterliche Zeit zu singen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0595A]
+KEY[A0595A  02  F 4/1]
+MEL[1_5_3_1_  234_3__  0_5_6_54  3_1__0_
+    4_2_3_1_  2_123_11  2_1-7-6_-5_
+    5_543_1_  4__3_1_  2__1__ //]
+BEM[]
+MEL_SEM[7 -3 -4 2 2 1 -1 3 2 -2 -2 -1 -4 5 -3 2 -4 2 -2 2 2 -4 0 2 -2 -1 -2 -2 12 0 -2 -1 -4 5 -1 -4 2 -2]
+MEL_RAW[1531  2343  05654  310
+    4231  212311  21-7-6-5
+    55431  431  21]
+NO_REP[1531234305654310
+    42312123121-7-6-5
+    543143121]
+RTM[x_x_x_x_  xxx_x__  x_x_x_xx  x_x__x_
+    x_x_x_x_  x_xxx_xx  x_xxx_x_
+    x_xxx_x_  x__x_x_  x__x__]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

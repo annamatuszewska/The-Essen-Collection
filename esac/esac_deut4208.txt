@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Tannebaum]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0491]
+KEY[A0491   08  G 4/4]
+MEL[1_  1_.-71_2_  3b_.3b1_
+    2_  3b_-7b_1_2_  3b__0_
+    3b_  3b_.3b3b_3b_  2__2_
+    5_  1_1_-7_-7_  1__0_ //]
+BEM[]
+MEL_SEM[0 -1 1 2 1 0 -3 2 1 -5 2 2 1 0 0 0 0 0 -1 0 5 -7 0 -1 0 1]
+MEL_RAW[1  1-712  3b3b1
+    2  3b-7b12  3b0
+    3b  3b3b3b3b  22
+    5  11-7-7  10]
+NO_REP[1-7123b1
+    23b-7b123b0
+    3b2
+    51-710]
+RTM[x_  x_.xx_x_  x_.xx_
+    x_  x_x_x_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-7b-7123b5]
+SCL_SEM[1 1 2 1 4]
+

@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Kindelwiegenlied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0526]
+KEY[A0526   04  F 2/2]
+MEL[3_5_  6_5_  543_
+    3_5_  6_5_  543_
+    2_3_  4_3_  221_  0_
+    1_  2_3_  3_3_  1_2_  3__  0_
+    12  3_3_  3__  2343  221_ //]
+BEM[]
+MEL_SEM[3 2 -2 0 -2 -1 0 3 2 -2 0 -2 -1 -2 2 1 -1 -2 0 -2 0 2 2 0 0 -4 2 2 -4 2 2 0 0 -2 2 1 -1 -2 0 -2]
+MEL_RAW[35  65  543
+    35  65  543
+    23  43  221  0
+    1  23  33  12  3  0
+    12  33  3  2343  221]
+NO_REP[356543
+    356543
+    2343210
+    1231230
+    123234321]
+RTM[x_x_  x_x_  xxx_
+    x_x_  x_x_  xxx_
+    x_x_  x_x_  xxx_  x_
+    x_  x_x_  x_x_  x_x_  x__  x_
+    xx  x_x_  x__  xxxx  xxx_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

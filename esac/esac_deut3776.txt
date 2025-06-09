@@ -1,0 +1,48 @@
+ALTDEU
+CUT[Herzog Ernst]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0004C]
+KEY[A0004C  01  E 4/1]
+MEL[4  4144  456b6b  540
+    6b  6b6b6b6b  7b6b5
+    4  6b544  110
+    4  4144  456b6b  540
+    6b  6b6b6b6b  7b6b5
+    4  6b544  11
+    57b  6b543b  3b3b1-6b
+    03b3b3b  3b3b3b4  3b0
+    45  6b543b  41_2b  1__ //]
+BEM[]
+MEL_SEM[0 -5 5 0 0 2 1 0 -1 -2 3 0 0 0 0 2 -2 -1 -2 3 -1 -2 0 -5 0 5 0 -5 5 0 0 2 1 0 -1 -2 3 0 0 0 0 2 -2 -1 -2 3 -1 -2 0 -5 0 7 3 -2 -1 -2 -2 0 0 -3 -4 7 0 0 0 0 0 2 -2 2 2 1 -1 -2 -2 2 -5 1 -1]
+MEL_RAW[4  4144  456b6b  540
+    6b  6b6b6b6b  7b6b5
+    4  6b544  110
+    4  4144  456b6b  540
+    6b  6b6b6b6b  7b6b5
+    4  6b544  11
+    57b  6b543b  3b3b1-6b
+    03b3b3b  3b3b3b4  3b0
+    45  6b543b  412b  1]
+NO_REP[41456b540
+    6b7b6b5
+    46b5410
+    41456b540
+    6b7b6b5
+    46b541
+    57b6b543b1-6b
+    03b43b0
+    456b543b412b1]
+RTM[x  xxxx  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xx
+    xx  xxxx  xxxx
+    xxxx  xxxx  xx
+    xx  xxxx  xx_x  x__]
+SCL_DEG[-6b12b3b456b7b]
+SCL_SEM[4 1 2 2 2 1 2]
+

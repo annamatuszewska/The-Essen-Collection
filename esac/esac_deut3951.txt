@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Venus, du und dein Kind]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0219B]
+KEY[A0219B  02  D 4/2]
+MEL[1  1554#  5_0
+    5  543b4  2_0
+    2  3b455  54#5
+    2  3b455  4_5_  0
+    556b  7b54_  4
+    454  3b42_  1_. //]
+BEM[]
+MEL_SEM[0 7 0 -1 1 0 0 -2 -2 2 -3 0 1 2 2 0 0 -1 1 -5 1 2 2 0 -2 2 0 0 1 2 -3 -2 0 0 2 -2 -2 2 -3 -2]
+MEL_RAW[1  1554#  50
+    5  543b4  20
+    2  3b455  54#5
+    2  3b455  45  0
+    556b  7b54  4
+    454  3b42  1]
+NO_REP[154#50
+    543b420
+    23b454#5
+    23b45450
+    56b7b54
+    4543b421]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x_  x
+    xxx  xxx_  x
+    xxx  xxx_  x_.]
+SCL_DEG[123b44#56b7b]
+SCL_SEM[2 1 2 1 1 1 2]
+

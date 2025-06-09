@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Springtanz der Ditmarsen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0292]
+KEY[A0292   04  D 4/2]
+MEL[1_  1_.-71-712  3b__2_
+    2_  1_2_1_-7b_  -6__0_
+    11  -5_-6_-7b_1_  2_1-7b-6_
+    2_  2123b5_4_  3b_21-7b_
+    1_  2_1_-7-61-7  1__. //]
+BEM[]
+MEL_SEM[0 -1 1 -1 1 2 1 -1 0 -2 2 -2 -2 -1 3 0 -5 2 1 2 2 -2 -2 -1 5 0 -2 2 1 4 -2 -2 -1 -2 -2 2 2 -2 -1 -2 3 -1 1]
+MEL_RAW[1  1-71-712  3b2
+    2  121-7b  -60
+    11  -5-6-7b1  21-7b-6
+    2  2123b54  3b21-7b
+    1  21-7-61-7  1]
+NO_REP[1-71-7123b2
+    2121-7b-60
+    1-5-6-7b121-7b-6
+    2123b543b21-7b
+    121-7-61-71]
+RTM[x_  x_.xxxxx  x__x_
+    x_  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x_xxx_
+    x_  xxxxx_x_  x_xxx_
+    x_  x_x_xxxx  x__.]
+SCL_DEG[-5-6-7b-7123b45]
+SCL_SEM[2 1 1 1 2 1 2 2]
+

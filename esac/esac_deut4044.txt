@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Die Katze auf dem Dach]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0317]
+KEY[A0317   02  G 3/2]
+MEL[3b  3b_3b  2_2  3b_3b  2_
+    2  3b_3b  4_3b  21-7  1_ //]
+BEM[]
+MEL_SEM[0 0 -1 0 1 0 -1 0 1 0 2 -2 -1 -2 -1 1]
+MEL_RAW[3b  3b3b  22  3b3b  2
+    2  3b3b  43b  21-7  1]
+NO_REP[3b23b2
+    23b43b21-71]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  xxx  x_]
+SCL_DEG[-7123b4]
+SCL_SEM[1 2 1 2]
+

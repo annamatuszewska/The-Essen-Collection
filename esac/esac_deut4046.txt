@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Weingruss]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0319]
+KEY[A0319   02  D 3/1]
+MEL[5_  5_5_66  7b_7b7b_
+    5  4_4_56  7b_.5_.  0__
+    4_  5_7b_65  4_23b_
+    1  2_3b_44  0__
+    2_  3b_4_55  0__
+    7b_  6_5_4_  3b_4__  1__ //]
+BEM[]
+MEL_SEM[0 0 2 0 1 0 0 -3 -2 0 2 2 1 -3 -2 2 3 -1 -2 -2 -3 1 -3 2 1 2 0 -3 1 2 2 0 3 -1 -2 -2 -2 2 -5]
+MEL_RAW[5  5566  7b7b7b
+    5  4456  7b5  0
+    4  57b65  423b
+    1  23b44  0
+    2  3b455  0
+    7b  654  3b4  1]
+NO_REP[567b
+    54567b50
+    457b65423b
+    123b40
+    23b450
+    7b6543b41]
+RTM[x_  x_x_xx  x_xx_
+    x  x_x_xx  x_.x_.  x__
+    x_  x_x_xx  x_xx_
+    x  x_x_xx  x__
+    x_  x_x_xx  x__
+    x_  x_x_x_  x_x__  x__]
+SCL_DEG[123b4567b]
+SCL_SEM[2 1 2 2 2 1]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Fische verkaufen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0506A]
+KEY[A0506A  04  F 4/4]
+MEL[123_  5_3_
+    5_3_  5432  3_1_
+    3454  321_  2_1_
+    432-5  1_1_ //]
+BEM[]
+MEL_SEM[2 2 3 -3 3 -3 3 -2 -1 -2 2 -4 4 1 2 -2 -1 -2 -2 2 -2 5 -1 -2 -7 5 0]
+MEL_RAW[123  53
+    53  5432  31
+    3454  321  21
+    432-5  11]
+NO_REP[12353
+    53543231
+    345432121
+    432-51]
+RTM[xxx_  x_x_
+    x_x_  xxxx  x_x_
+    xxxx  xxx_  x_x_
+    xxxx  x_x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

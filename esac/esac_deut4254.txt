@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Dreikoenigslied]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0535]
+KEY[A0535   02  G 3/2]
+MEL[1  1_1  5_5  4_3b  2_
+    5  5_6  7b_5  42_  1_
+    3b  5_5  4_5  56_  7b_.
+    7b7b7b  5_7b  54_  3b_
+    3b  3b_3b  3b_2  1_1  2_
+    2  4_4  5_4  3b2_  1_ //]
+BEM[]
+MEL_SEM[0 0 7 0 -2 -2 -1 5 0 2 1 -3 -2 -3 -2 3 4 0 -2 2 0 2 1 0 0 0 -3 3 -3 -2 -2 0 0 0 0 -1 -2 0 2 0 3 0 2 -2 -2 -1 -2]
+MEL_RAW[1  11  55  43b  2
+    5  56  7b5  42  1
+    3b  55  45  56  7b
+    7b7b7b  57b  54  3b
+    3b  3b3b  3b2  11  2
+    2  44  54  3b2  1]
+NO_REP[1543b2
+    567b5421
+    3b54567b
+    7b57b543b
+    3b212
+    24543b21]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  xx_  x_
+    x  x_x  x_x  xx_  x_.
+    xxx  x_x  xx_  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  xx_  x_]
+SCL_DEG[123b4567b]
+SCL_SEM[2 1 2 2 2 1]
+

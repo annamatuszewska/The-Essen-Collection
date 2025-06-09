@@ -1,0 +1,36 @@
+ALTDEU
+CUT[Passion]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0545]
+KEY[A0545   04  D 4/2]
+MEL[1_  5_5_5_5_  7b_.65_
+    3b_  5_7b_7b_6_  5__
+    1__  5_5_5_5_  7b_.65_
+    3b_  5_7b_7b_6_  5__0_
+    5_  567b_7b_65  4__1_
+    -7b_  3b_3b_4_2_  1__. //]
+BEM[]
+MEL_SEM[7 0 0 0 3 -1 -2 -4 4 3 0 -1 -2 -7 7 0 0 0 3 -1 -2 -4 4 3 0 -1 -2 0 0 2 1 0 -1 -2 -2 -5 -2 5 0 2 -3 -2]
+MEL_RAW[1  5555  7b65
+    3b  57b7b6  5
+    1  5555  7b65
+    3b  57b7b6  50
+    5  567b7b65  41
+    -7b  3b3b42  1]
+NO_REP[157b65
+    3b57b65
+    157b65
+    3b57b650
+    567b6541
+    -7b3b421]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__
+    x__  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x_
+    x_  xxx_x_xx  x__x_
+    x_  x_x_x_x_  x__.]
+SCL_DEG[-7b123b4567b]
+SCL_SEM[2 2 1 2 2 2 1]
+

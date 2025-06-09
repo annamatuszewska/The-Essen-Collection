@@ -1,0 +1,95 @@
+!!!OTL-incipit: Jetzt fahr'n mer uebern See, vidrom, jetzt fahr'n mer uebern See.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Untermainfranken, Spessart
+!!!SCT: D0174
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+{8c	Jetzt
+=1	=1
+8a	fahr'n
+8a	mer
+8a	übern
+8b-	.
+=2	=2
+8cc	See,
+8cc	vidrom,
+8cc	.
+8a	jetzt
+=3	=3
+8b-	fahr'n
+8b-	mer
+8b-	übern
+8cc	.
+=4	=4
+4a	See.
+8r}	.
+{8c	Jetzt
+=5	=5
+8a	fahr'n
+8a	mer
+8a	übern
+8b-	.
+=6	=6
+8cc	See,
+8cc	vidrom,
+8cc	.
+8a	jetzt
+=7	=7
+8b-/	fahr'n
+8b-/	mer
+8b-/	übern
+8cc	.
+=8	=8
+4r	.
+8r}	.
+{8cc	mit
+=9	=9
+8dd	einem
+8cc	.
+8b-/	hölzer'n
+8a	.
+=10	=10
+4b-/	Wolga',
+4g	.
+=11	=11
+8b-/	Wolga',
+8b-/	.
+8dd	Wolga',
+8dd	.
+=12	=12
+8cc	Wolga',
+4a;}	.
+{8cc	mit
+=13	=13
+8dd	einem
+8cc	.
+8b-/	hölzern
+8a	.
+=14	=14
+4b-/	Wolga',
+8g	.
+8cc	kein
+=15	=15
+8cc	Ruder
+8cc	.
+8cc	war
+8b-	nicht
+=16	=16
+4.a}	dran.
+==	==
+!!!AGN: Bauern - Lied
+!! Grundton ??; Inzipit = entfernte Variante zum Lied
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!YOR: https://freidok.uni-freiburg.de/data/150373
+!!!EFL: A110179
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/06/04
+*-	*-

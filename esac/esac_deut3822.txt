@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Laemmerweide]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0056A]
+KEY[A0056A  04  D 4/2 6/2]
+MEL[1_1_1_  5__6_7b_6__  5__0_
+    +1_  +1__+1_+1_+1_+1_  7b_5_3b456  7b__0_
+    5_  6b_5_4_3_  1__-7b__0_
+    7b_  7b_7b_6_7b_  +1__5__0_
+    +1_  7b_7b_5_3b__2_  3b_.45_5__43b  2__1_ //]
+BEM[]
+MEL_SEM[0 0 7 2 1 -1 -2 5 0 0 0 0 0 -2 -3 -4 2 2 2 1 -3 1 -1 -2 -1 -4 -2 12 0 0 -1 1 2 -5 5 -2 0 -3 -4 -1 1 2 2 0 -2 -2 -1 -2]
+MEL_RAW[111  567b6  50
+    +1  +1+1+1+1+1  7b53b456  7b0
+    5  6b543  1-7b0
+    7b  7b7b67b  +150
+    +1  7b7b53b2  3b45543b  21]
+NO_REP[1567b650
+    +17b53b4567b0
+    56b5431-7b0
+    7b67b+150
+    +17b53b23b4543b21]
+RTM[x_x_x_  x__x_x_x__  x__x_
+    x_  x__x_x_x_x_  x_x_xxxx  x__x_
+    x_  x_x_x_x_  x__x__x_
+    x_  x_x_x_x_  x__x__x_
+    x_  x_x_x_x__x_  x_.xx_x__xx  x__x_]
+SCL_DEG[-7b123b3456b67b+1]
+SCL_SEM[2 2 1 1 1 2 1 1 1 2]
+

@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Volksmeldie des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0302]
+KEY[A0302   08  C 3/4]
+MEL[1__2_  3__1_  4_3_2_  121__
+    553432  121__  +1__76  565__
+    565432  121_5_  6_543_  4_3_2_  121__ //]
+BEM[]
+MEL_SEM[2 2 -4 5 -1 -2 -2 2 -2 7 0 -3 1 -1 -2 -2 2 -2 12 -1 -2 -2 2 -2 0 2 -2 -2 -1 -2 -2 2 -2 7 2 -2 -2 -1 1 -1 -2 -2 2 -2]
+MEL_RAW[12  31  432  121
+    553432  121  +176  565
+    565432  1215  6543  432  121]
+NO_REP[1231432121
+    53432121+176565
+    56543212156543432121]
+RTM[x__x_  x__x_  x_x_x_  xxx__
+    xxxxxx  xxx__  x__xx  xxx__
+    xxxxxx  xxx_x_  x_xxx_  x_x_x_  xxx__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

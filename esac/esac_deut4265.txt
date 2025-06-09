@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Aus der Passion]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0543A]
+KEY[A0543A  02  F 6/2]
+MEL[1  1_53_1  5_65_
+    5  3_4554  3_12_2  1_.0_
+    3  3_3345  5432_
+    3  1235_4  3132_2  1_.^_ //]
+BEM[]
+MEL_SEM[0 7 -3 -4 7 2 -2 0 -3 1 2 0 -2 -1 -4 2 0 -2 4 0 0 0 1 2 0 -2 -1 -2 2 -4 2 2 3 -2 -1 -4 4 -2 0 -2]
+MEL_RAW[1  1531  565
+    5  34554  3122  10
+    3  33345  5432
+    3  12354  31322  1^]
+NO_REP[1531565
+    5345431210
+    345432
+    31235431321^]
+RTM[x  x_xx_x  x_xx_
+    x  x_xxxx  x_xx_x  x_.x_
+    x  x_xxxx  xxxx_
+    x  xxxx_x  xxxx_x  x_.x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

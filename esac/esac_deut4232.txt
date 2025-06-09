@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Weihnachtslied des 14. Jahrhunderts]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0517]
+KEY[A0517   04  G 3/2 4/2]
+MEL[1_  1__1_  2__2_  3b_4_5_  5__
+    5_  4__4_  1__2_  3b_0_
+    3b_  5_7b_+1_+1_  7b6b543b_
+    4_  5_4_3b_2_  1__ //]
+BEM[]
+MEL_SEM[0 0 2 0 1 2 2 0 0 -2 0 -5 2 1 0 4 3 2 0 -2 -2 -1 -2 -2 2 2 -2 -2 -1 -2]
+MEL_RAW[1  11  22  3b45  5
+    5  44  12  3b0
+    3b  57b+1+1  7b6b543b
+    4  543b2  1]
+NO_REP[123b45
+    54123b0
+    3b57b+17b6b543b
+    4543b21]
+RTM[x_  x__x_  x__x_  x_x_x_  x__
+    x_  x__x_  x__x_  x_x_
+    x_  x_x_x_x_  xxxxx_
+    x_  x_x_x_x_  x__]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

@@ -1,0 +1,40 @@
+ALTDEU
+CUT[Tageweise von Kristes geburt und von den heiligen drei kuenigen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0513]
+KEY[A0513   08  D 4/4 6/4]
+MEL[1_1_1_  5_6_7b_5_  5__0_
+    543b_2_  1_1_-7b_1_  5_2_1__  0_
+    1_1_1_  5_6_7b_5_  5__0_
+    543b_2_  1_1_-7b_1_  5_2_1__  0_
+    1_2_3b_  4_5_4_3b_  4__0_
+    1_  2_3b_4_5_  4_3b_4__  0_
+    543b_2_  2_1_-7b_1_  3b_2_1__  0_ //]
+BEM[]
+MEL_SEM[0 0 7 2 1 -3 0 0 -2 -2 -1 -2 0 -2 2 7 -5 -2 0 0 0 7 2 1 -3 0 0 -2 -2 -1 -2 0 -2 2 7 -5 -2 0 2 1 2 2 -2 -2 2 -5 2 1 2 2 -2 -2 2 2 -2 -2 -1 0 -2 -2 2 3 -1 -2]
+MEL_RAW[111  567b5  50
+    543b2  11-7b1  521  0
+    111  567b5  50
+    543b2  11-7b1  521  0
+    123b  4543b  40
+    1  23b45  43b4  0
+    543b2  21-7b1  3b21  0]
+NO_REP[1567b50
+    543b21-7b15210
+    1567b50
+    543b21-7b15210
+    123b4543b40
+    123b4543b40
+    543b21-7b13b210]
+RTM[x_x_x_  x_x_x_x_  x__x_
+    xxx_x_  x_x_x_x_  x_x_x__  x_
+    x_x_x_  x_x_x_x_  x__x_
+    xxx_x_  x_x_x_x_  x_x_x__  x_
+    x_x_x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x__  x_
+    xxx_x_  x_x_x_x_  x_x_x__  x_]
+SCL_DEG[-7b123b4567b]
+SCL_SEM[2 2 1 2 2 2 1]
+

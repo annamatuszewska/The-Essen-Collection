@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Heirathslust]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0232B]
+KEY[A0232B  08  G 4/4]
+MEL[1_  3b_3b_4_4_  5_5_5__
+    3b45_3b45_  4_3b_2_
+    5_  5_2_3b_1_  1_1_2__
+    3b_2_1_1_  1_-7_1_ //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 0 -4 2 2 -4 2 2 -2 -2 -1 5 0 -5 1 -3 0 0 2 1 -1 -2 0 0 -1 1]
+MEL_RAW[1  3b3b44  555
+    3b453b45  43b2
+    5  523b1  112
+    3b211  1-71]
+NO_REP[13b45
+    3b453b4543b2
+    523b12
+    3b21-71]
+RTM[x_  x_x_x_x_  x_x_x__
+    xxx_xxx_  x_x_x_
+    x_  x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x_]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Herori matori!]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0244]
+KEY[A0244   02  F 3/2]
+MEL[1  1_1  2_3  4_4  2_4  323  11
+    1  5_5  5_5  3_3  2_
+    5  2_3  2_3  432  1_1  345  42_  1_ //]
+BEM[]
+MEL_SEM[0 0 2 2 1 0 -3 3 -1 -2 2 -4 0 0 7 0 0 0 -3 0 -2 5 -5 2 -2 2 1 -1 -2 -2 0 4 1 2 -2 -3 -2]
+MEL_RAW[1  11  23  44  24  323  11
+    1  55  55  33  2
+    5  23  23  432  11  345  42  1]
+NO_REP[1234243231
+    1532
+    523234321345421]
+RTM[x  x_x  x_x  x_x  x_x  xxx  xx
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  xxx  x_x  xxx  xx_  x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

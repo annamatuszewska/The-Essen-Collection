@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Der Bremberger]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0023A]
+KEY[A0023A  04  G 4/2]
+MEL[1_1_.1  3b_3b_5_5_  5__4__  3b__0__  0__.
+    3b_  3b_21-7b_3b_  2__1__  -7b__0__  0__.
+    -7b_  -7b__-6b_-5_  -7b__3b__  1__-7b__  1__0_
+    3b_  4_3b21_-7b_  -6b___  -5___  0_ //]
+BEM[]
+MEL_SEM[0 0 3 0 4 0 0 -2 -2 0 0 -1 -2 -2 5 -1 -2 -2 0 0 -2 -1 3 5 -3 -2 2 3 2 -2 -1 -2 -2 -2 -1]
+MEL_RAW[111  3b3b55  54  3b0  0
+    3b  3b21-7b3b  21  -7b0  0
+    -7b  -7b-6b-5  -7b3b  1-7b  10
+    3b  43b21-7b  -6b  -5  0]
+NO_REP[13b543b0
+    3b21-7b3b21-7b0
+    -7b-6b-5-7b3b1-7b10
+    3b43b21-7b-6b-50]
+RTM[x_x_.x  x_x_x_x_  x__x__  x__x__  x__.
+    x_  x_xxx_x_  x__x__  x__x__  x__.
+    x_  x__x_x_  x__x__  x__x__  x__x_
+    x_  x_xxx_x_  x___  x___  x_]
+SCL_DEG[-5-6b-7b123b45]
+SCL_SEM[1 2 2 2 1 2 2]
+

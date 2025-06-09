@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Der geistliche Buchsbaum]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0654D]
+KEY[A0654D  04  A 4/4]
+MEL[111  2343  2_03  4431  232_  0
+    211  1-6-7_  1_02  3443  1_2_  0
+    134  432_  1__  0 //]
+BEM[]
+MEL_SEM[0 0 2 2 1 -1 -2 2 1 0 -1 -4 2 2 -2 0 -2 0 0 -3 2 1 2 2 1 0 -1 -4 2 -2 4 1 0 -1 -2 -2]
+MEL_RAW[111  2343  203  4431  232  0
+    211  1-6-7  102  3443  12  0
+    134  432  1  0]
+NO_REP[123432034312320
+    21-6-7102343120
+    1343210]
+RTM[xxx  xxxx  x_xx  xxxx  xxx_  x
+    xxx  xxx_  x_xx  xxxx  x_x_  x
+    xxx  xxx_  x__  x]
+SCL_DEG[-6-71234]
+SCL_SEM[2 1 2 2 1]
+

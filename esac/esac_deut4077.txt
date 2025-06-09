@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Der Schlemmer]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0358]
+KEY[A0358   02  G 4/2 6/2]
+MEL[1  3b3b21  5_4
+    4  54_3b2_  1_0
+    1  3b3b21  5_4
+    4  54_3b2_  1_0
+    3b  2_-7b1-6_  -5_0
+    3b  2_14_3b  2_0
+    1  3b3b21  5_4
+    4  5_43b2_  1_0 //]
+BEM[]
+MEL_SEM[3 0 -1 -2 7 -2 0 2 -2 -2 -1 -2 0 3 0 -1 -2 7 -2 0 2 -2 -2 -1 -2 3 -1 -4 2 -3 -2 8 -1 -2 5 -2 -1 -2 3 0 -1 -2 7 -2 0 2 -2 -2 -1 -2]
+MEL_RAW[1  3b3b21  54
+    4  543b2  10
+    1  3b3b21  54
+    4  543b2  10
+    3b  2-7b1-6  -50
+    3b  2143b  20
+    1  3b3b21  54
+    4  543b2  10]
+NO_REP[13b2154
+    4543b210
+    13b2154
+    4543b210
+    3b2-7b1-6-50
+    3b2143b20
+    13b2154
+    4543b210]
+RTM[x  xxxx  x_x
+    x  xx_xx_  x_x
+    x  xxxx  x_x
+    x  xx_xx_  x_x
+    x  x_xxx_  x_x
+    x  x_xx_x  x_x
+    x  xxxx  x_x
+    x  x_xxx_  x_x]
+SCL_DEG[-5-6-7b123b45]
+SCL_SEM[2 1 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Mahnung]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0652]
+KEY[A0652   04  D 4/2]
+MEL[1_1_1_  5_5_7b_7b_  543b_0_
+    4_  5_7b57b6b54  3b__3b_
+    3b_  456b543b1_  1_5_4_
+    1_  3b_-7b_543b2  1__1__  0_ //]
+BEM[]
+MEL_SEM[0 0 7 0 3 0 -3 -2 -2 2 2 3 -3 3 -2 -1 -2 -2 0 0 2 2 1 -1 -2 -2 -3 0 7 -2 -5 3 -5 9 -2 -2 -1 -2 0]
+MEL_RAW[111  557b7b  543b0
+    4  57b57b6b54  3b3b
+    3b  456b543b1  154
+    1  3b-7b543b2  11  0]
+NO_REP[157b543b0
+    457b57b6b543b
+    3b456b543b154
+    13b-7b543b210]
+RTM[x_x_x_  x_x_x_x_  xxx_x_
+    x_  x_xxxxxx  x__x_
+    x_  xxxxxxx_  x_x_x_
+    x_  x_x_xxxx  x__x__  x_]
+SCL_DEG[-7b123b456b7b]
+SCL_SEM[2 2 1 2 2 1 2]
+

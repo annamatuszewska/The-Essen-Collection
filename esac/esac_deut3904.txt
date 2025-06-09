@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Kuckuks Fall]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0168]
+KEY[A0168   02  G 3/2]
+MEL[1  1_1  1_2  3b_3b  3b_
+    3b  3b_3b  54_  3b_.  3b_
+    3b  3b_3b  3b_3b  2_1  -7b_
+    1  2_3b  4_3b  12_  1_ //]
+BEM[]
+MEL_SEM[0 0 0 2 1 0 0 0 0 0 4 -2 -2 0 0 0 0 0 0 -1 -2 -2 2 2 1 2 -2 -3 2 -2]
+MEL_RAW[1  11  12  3b3b  3b
+    3b  3b3b  54  3b  3b
+    3b  3b3b  3b3b  21  -7b
+    1  23b  43b  12  1]
+NO_REP[123b
+    3b543b
+    3b21-7b
+    123b43b121]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  xx_  x_.  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  xx_  x_]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

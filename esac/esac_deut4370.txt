@@ -1,0 +1,44 @@
+ALTDEU
+CUT[Was mein Gott will, das gscheh allzeit]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0640A]
+KEY[A0640A  04  D 4/2]
+MEL[1__  3b__4__  3b_6b_6b_5_  6b_
+    6b_5_4_  7b__6b_5_  544__3_  4__
+    1__  3b__4__  3b_6b_6b_5_  6b_
+    6b_5_4_  7b__6b_5_  544__3_  4__0__  0_
+    4_4_4_  543b23b_4_  ^_3b__2_  3b__0_
+    3b_  3b_.45_6b_  ^_5_4__  3b__0_
+    1_  3b__4__  3b_6b_6b_5_  6b_
+    6b_5_4_  7b__6b_5_  544__3_  4___ //]
+BEM[]
+MEL_SEM[3 2 -2 5 0 -1 1 0 -1 -2 5 -2 -1 0 -2 0 -1 1 -5 3 2 -2 5 0 -1 1 0 -1 -2 5 -2 -1 0 -2 0 -1 1 0 0 0 2 -2 -2 -1 1 2 -2 -1 1 0 0 2 2 1 -1 -2 -2 -3 3 2 -2 5 0 -1 1 0 -1 -2 5 -2 -1 0 -2 0 -1 1]
+MEL_RAW[1  3b4  3b6b6b5  6b
+    6b54  7b6b5  5443  4
+    1  3b4  3b6b6b5  6b
+    6b54  7b6b5  5443  40  0
+    444  543b23b4  ^3b2  3b0
+    3b  3b456b  ^54  3b0
+    1  3b4  3b6b6b5  6b
+    6b54  7b6b5  5443  4]
+NO_REP[13b43b6b56b
+    6b547b6b5434
+    13b43b6b56b
+    6b547b6b54340
+    4543b23b4^3b23b0
+    3b456b^543b0
+    13b43b6b56b
+    6b547b6b5434]
+RTM[x__  x__x__  x_x_x_x_  x_
+    x_x_x_  x__x_x_  xxx__x_  x__
+    x__  x__x__  x_x_x_x_  x_
+    x_x_x_  x__x_x_  xxx__x_  x__x__  x_
+    x_x_x_  xxxxx_x_  x_x__x_  x__x_
+    x_  x_.xx_x_  x_x_x__  x__x_
+    x_  x__x__  x_x_x_x_  x_
+    x_x_x_  x__x_x_  xxx__x_  x___]
+SCL_DEG[123b3456b7b]
+SCL_SEM[2 1 1 1 2 1 2]
+

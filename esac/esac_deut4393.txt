@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Vom juengsten Tag]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0657]
+KEY[A0657   02  A 4/1]
+MEL[1_  1_1_3b_1_  -6b_1_-6b_0
+    1  1_1_3b_1_  -6b_1_-6b_0
+    -6b  2b_1_-7b_2b_  1_-6b_-4_0
+    1  2b_1_-7b_2b_  1_-6b_-4_0
+    2b  1_-7b_-6b_-4_  -6b-6b-7b-7b1_ //]
+BEM[]
+MEL_SEM[0 0 3 -3 -4 4 -4 4 0 0 3 -3 -4 4 -4 0 5 -1 -2 3 -1 -4 -3 7 1 -1 -2 3 -1 -4 -3 8 -1 -2 -2 -3 3 0 2 0 2]
+MEL_RAW[1  113b1  -6b1-6b0
+    1  113b1  -6b1-6b0
+    -6b  2b1-7b2b  1-6b-40
+    1  2b1-7b2b  1-6b-40
+    2b  1-7b-6b-4  -6b-6b-7b-7b1]
+NO_REP[13b1-6b1-6b0
+    13b1-6b1-6b0
+    -6b2b1-7b2b1-6b-40
+    12b1-7b2b1-6b-40
+    2b1-7b-6b-4-6b-7b1]
+RTM[x_  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  xxxxx_]
+SCL_DEG[-4-6b-7b12b3b]
+SCL_SEM[3 2 2 1 2]
+

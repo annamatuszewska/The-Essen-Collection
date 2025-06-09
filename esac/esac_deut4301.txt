@@ -1,0 +1,48 @@
+ALTDEU
+CUT[Wallfahrtsgesang]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0573]
+KEY[A0573   04  G 4/2 6/2]
+MEL[1_  1_1_3b_3b_  1__-7b_
+    -7b_  3b_3b_4_4_  5__0_
+    4_  5_555_4_  5__3b_
+    4_  5_5_4_4_  3b__0_
+    3b_  4_3b_4_4_  5__5_
+    3b_  4_.43b_3b_  1__-7b__0_
+    -7b_  4_3b_4_4_  5__5_
+    3b_  4_3b_2_1_  4__5__
+    3b3b3b_2__  1__. //]
+BEM[]
+MEL_SEM[0 0 3 0 -3 -2 0 5 0 2 0 2 -2 2 0 0 0 -2 2 -4 2 2 0 -2 0 -2 0 2 -2 2 0 2 0 -4 2 0 -2 0 -3 -2 0 7 -2 2 0 2 0 -4 2 -2 -1 -2 5 2 -4 0 0 -1 -2]
+MEL_RAW[1  113b3b  1-7b
+    -7b  3b3b44  50
+    4  55554  53b
+    4  5544  3b0
+    3b  43b44  55
+    3b  443b3b  1-7b0
+    -7b  43b44  55
+    3b  43b21  45
+    3b3b3b2  1]
+NO_REP[13b1-7b
+    -7b3b450
+    45453b
+    4543b0
+    3b43b45
+    3b43b1-7b0
+    -7b43b45
+    3b43b2145
+    3b21]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_xxx_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_.xx_x_  x__x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x__
+    xxx_x__  x__.]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

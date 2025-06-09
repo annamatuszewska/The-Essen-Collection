@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Alter Reihen um das erste Veilchen]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0280B]
+KEY[A0280B  04  G 4/4]
+MEL[1  1_11  -7_-7-7  13b21  -7_0
+    1  1_11  -7_-7-7  13b21  -7_0
+    3b  3b3b3b3b  2_22  11-7-7  1_. //]
+BEM[]
+MEL_SEM[0 0 0 -1 0 0 1 3 -1 -2 -1 1 0 0 0 -1 0 0 1 3 -1 -2 -1 4 0 0 0 0 -1 0 0 -2 0 -1 0 1]
+MEL_RAW[1  111  -7-7-7  13b21  -70
+    1  111  -7-7-7  13b21  -70
+    3b  3b3b3b3b  222  11-7-7  1]
+NO_REP[1-713b21-70
+    1-713b21-70
+    3b21-71]
+RTM[x  x_xx  x_xx  xxxx  x_x
+    x  x_xx  x_xx  xxxx  x_x
+    x  xxxx  x_xx  xxxx  x_.]
+SCL_DEG[-7123b]
+SCL_SEM[1 2 1]
+

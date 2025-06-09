@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Der gefangene Hans]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0032]
+KEY[A0032   04  E 3/2]
+MEL[1_  3b_.3b3b_  3b_.3b3b_  4__3b_  4__
+    4_  6b__6b_  5_4_3b_  2b__1-7b  1__
+    1_  4_4_4_  4__4_  3b__1_  -6b__
+    -6b_  3b__1_  2b__3b_  4__.  3b__
+    6b_  5_.43b2b  1__ //]
+BEM[]
+MEL_SEM[3 0 0 0 0 0 2 -2 2 0 3 0 -1 -2 -2 -2 -1 -2 2 0 5 0 0 0 0 -2 -3 -4 0 7 -3 1 2 2 -2 5 -1 -2 -2 -2 -1]
+MEL_RAW[1  3b3b3b  3b3b3b  43b  4
+    4  6b6b  543b  2b1-7b  1
+    1  444  44  3b1  -6b
+    -6b  3b1  2b3b  4  3b
+    6b  543b2b  1]
+NO_REP[13b43b4
+    46b543b2b1-7b1
+    143b1-6b
+    -6b3b12b3b43b
+    6b543b2b1]
+RTM[x_  x_.xx_  x_.xx_  x__x_  x__
+    x_  x__x_  x_x_x_  x__xx  x__
+    x_  x_x_x_  x__x_  x__x_  x__
+    x_  x__x_  x__x_  x__.  x__
+    x_  x_.xxx  x__]
+SCL_DEG[-6b-7b12b3b456b]
+SCL_SEM[2 2 1 2 2 2 1]
+

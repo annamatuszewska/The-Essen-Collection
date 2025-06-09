@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Schwabentoechterlein]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0052]
+KEY[A0052   04  G 4/2]
+MEL[1__1_1_  2__1__  4__3__  4__0_
+    4_  4__4__  3_.21__  2__2__  5__0_
+    5_  4_.32_1_  2__1__  5_5_5_.4  3__2_2_  1___ //]
+BEM[]
+MEL_SEM[0 0 2 -2 5 -1 1 0 0 0 -1 -2 -2 2 0 5 0 -2 -1 -2 -2 2 -2 7 0 0 -2 -1 -2 0 -2]
+MEL_RAW[111  21  43  40
+    4  44  321  22  50
+    5  4321  21  5554  322  1]
+NO_REP[1214340
+    4321250
+    543212154321]
+RTM[x__x_x_  x__x__  x__x__  x__x_
+    x_  x__x__  x_.xx__  x__x__  x__x_
+    x_  x_.xx_x_  x__x__  x_x_x_.x  x__x_x_  x___]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

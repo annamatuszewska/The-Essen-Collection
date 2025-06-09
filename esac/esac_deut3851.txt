@@ -1,0 +1,20 @@
+ALTDEU
+CUT[Die Kindsmoerderin]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[A0094]
+KEY[A0094   04  F 4/4]
+MEL[1  3b155  5_3b3b  2_21  2_0
+    2  23b45  6b_54  3b_22  1_0 //]
+BEM[]
+MEL_SEM[3 -3 7 0 0 -4 0 -1 0 -2 2 0 0 1 2 2 1 -1 -2 -2 -1 0 -2]
+MEL_RAW[1  3b155  53b3b  221  20
+    2  23b45  6b54  3b22  10]
+NO_REP[13b153b2120
+    23b456b543b210]
+RTM[x  xxxx  x_xx  x_xx  x_x
+    x  xxxx  x_xx  x_xx  x_x]
+SCL_DEG[123b456b]
+SCL_SEM[2 1 2 2 1]
+

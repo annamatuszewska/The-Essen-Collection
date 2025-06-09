@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Alte Kuckukslieder (Kuckuks Ausflug)]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0170A]
+KEY[A0170A  02  F 4/2]
+MEL[1  1553  5_5
+    4  3234  2_1
+    1  3234  5_2
+    2  3234  5_23  1_. //]
+BEM[]
+MEL_SEM[0 7 0 -3 3 0 -2 -1 -2 2 1 -3 -2 0 4 -2 2 1 2 -5 0 2 -2 2 1 2 -5 2 -4]
+MEL_RAW[1  1553  55
+    4  3234  21
+    1  3234  52
+    2  3234  523  1]
+NO_REP[1535
+    4323421
+    1323452
+    232345231]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_xx  x_.]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

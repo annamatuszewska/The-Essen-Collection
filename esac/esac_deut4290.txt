@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Osterruf von Sanct Thoman]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0563]
+KEY[A0563   02  C 3/2]
+MEL[1  3_4  5_3  4_5  1_
+    1  3_4  5_3  4_5  1_
+    4  321  -6_-5  242  1_
+    4  321  -6_-5  242  1_ //]
+BEM[]
+MEL_SEM[4 1 2 -3 1 2 -7 0 4 1 2 -3 1 2 -7 5 -1 -2 -2 -3 -2 7 3 -3 -2 5 -1 -2 -2 -3 -2 7 3 -3 -2]
+MEL_RAW[1  34  53  45  1
+    1  34  53  45  1
+    4  321  -6-5  242  1
+    4  321  -6-5  242  1]
+NO_REP[13453451
+    13453451
+    4321-6-52421
+    4321-6-52421]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  xxx  x_x  xxx  x_
+    x  xxx  x_x  xxx  x_]
+SCL_DEG[-5-612345]
+SCL_SEM[2 3 2 2 1 2]
+

@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Osterjubel]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0564B]
+KEY[A0564B  02  F 3/2]
+MEL[1  1_3  5_6  534  5_
+    +1  767  +1_5  5_4  3_
+    1  234  321  -7-6-7  1_ //]
+BEM[]
+MEL_SEM[0 4 3 2 -2 -3 1 2 5 -1 -2 2 1 -5 0 -2 -1 -4 2 2 1 -1 -2 -2 -1 -2 2 1]
+MEL_RAW[1  13  56  534  5
+    +1  767  +15  54  3
+    1  234  321  -7-6-7  1]
+NO_REP[13565345
+    +1767+1543
+    1234321-7-6-71]
+RTM[x  x_x  x_x  xxx  x_
+    x  xxx  x_x  x_x  x_
+    x  xxx  xxx  xxx  x_]
+SCL_DEG[-6-71234567+1]
+SCL_SEM[2 1 2 2 1 2 2 2 1]
+

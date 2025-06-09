@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Schlaefert dich noch?]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0237]
+KEY[A0237   04  D 3/2]
+MEL[1_  1__1_  2__2_  3b_.21_  -7b__
+    -7b_  -3b__-3b_  -7b__-7b_  1_.23b_  2__0_
+    -5_.-6-7_  1__0_  -5_.-6-7_  1__ //]
+BEM[]
+MEL_SEM[0 0 2 0 1 -1 -2 -2 0 -7 0 7 0 2 2 1 -1 -7 2 2 1 -5 2 2 1]
+MEL_RAW[1  11  22  3b21  -7b
+    -7b  -3b-3b  -7b-7b  123b  20
+    -5-6-7  10  -5-6-7  1]
+NO_REP[123b21-7b
+    -7b-3b-7b123b20
+    -5-6-710-5-6-71]
+RTM[x_  x__x_  x__x_  x_.xx_  x__
+    x_  x__x_  x__x_  x_.xx_  x__x_
+    x_.xx_  x__x_  x_.xx_  x__]
+SCL_DEG[-3b-5-6-7b-7123b]
+SCL_SEM[4 2 1 1 1 2 1]
+

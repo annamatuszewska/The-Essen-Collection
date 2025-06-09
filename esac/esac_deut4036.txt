@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Alter Sommerwendfest - Tanz]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0310B]
+KEY[A0310B  04  G 4/2]
+MEL[1_.11_1_  3b_.3b3b_
+    3b_  1_.12_1_  -7__1__  0_
+    1_2_.3b  4_4_3b_.2  3b_
+    3b_-7b_-7b_  3b_3b_2_2_  3b_.
+    3b2_1_  2_1_-7__  1___ //]
+BEM[]
+MEL_SEM[0 0 0 3 0 0 0 -3 0 2 -2 -1 1 0 2 1 2 0 -2 -1 1 0 -5 0 5 0 -1 0 1 0 -1 -2 2 -2 -1 1]
+MEL_RAW[1111  3b3b3b
+    3b  1121  -71  0
+    123b  443b2  3b
+    3b-7b-7b  3b3b22  3b
+    3b21  21-7  1]
+NO_REP[13b
+    3b121-710
+    123b43b23b
+    3b-7b3b23b
+    3b2121-71]
+RTM[x_.xx_x_  x_.xx_
+    x_  x_.xx_x_  x__x__  x_
+    x_x_.x  x_x_x_.x  x_
+    x_x_x_  x_x_x_x_  x_.
+    xx_x_  x_x_x__  x___]
+SCL_DEG[-7b-7123b4]
+SCL_SEM[1 1 2 1 2]
+

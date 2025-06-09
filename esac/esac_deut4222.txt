@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Vom reichen Bauer]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0506B]
+KEY[A0506B  08  F 4/4]
+MEL[1__5__  5_.26_4_  2__1__
+    1_1_-7_-7_  1_1_-5__
+    1_1_-7_-7_  1_1_-5__ //]
+BEM[]
+MEL_SEM[7 0 -5 7 -4 -3 -2 0 0 -1 0 1 0 -5 5 0 -1 0 1 0 -5]
+MEL_RAW[15  5264  21
+    11-7-7  11-5
+    11-7-7  11-5]
+NO_REP[1526421
+    1-71-5
+    1-71-5]
+RTM[x__x__  x_.xx_x_  x__x__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__]
+SCL_DEG[-5-712456]
+SCL_SEM[4 1 2 3 2 2]
+

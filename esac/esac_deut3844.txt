@@ -1,0 +1,32 @@
+ALTDEU
+CUT[Die Wise van Potteren]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0084]
+KEY[A0084   04  A 4/2 6/2]
+MEL[5_5_5_  6b_5__4_5__  4__0_
+    5_5_5_  6b_5__4_5__  4__0_
+    4_  5_5_5_6b_  7b_6b54__  3b__0_
+    5_  6b_6b_6b_5_5_55  4_4_4_1__
+    1_  -7b__4__  3b__6b_5_43b2_  1__.0__.  0_ //]
+BEM[]
+MEL_SEM[0 0 1 -1 -2 2 -2 2 0 0 1 -1 -2 2 -2 0 2 0 0 1 2 -2 -1 -2 -2 4 1 0 0 -1 0 0 0 -2 0 0 -5 0 -2 7 -2 5 -1 -2 -2 -1 -2]
+MEL_RAW[555  6b545  40
+    555  6b545  40
+    4  5556b  7b6b54  3b0
+    5  6b6b6b5555  4441
+    1  -7b4  3b6b543b2  10  0]
+NO_REP[56b54540
+    56b54540
+    456b7b6b543b0
+    56b541
+    1-7b43b6b543b210]
+RTM[x_x_x_  x_x__x_x__  x__x_
+    x_x_x_  x_x__x_x__  x__x_
+    x_  x_x_x_x_  x_xxx__  x__x_
+    x_  x_x_x_x_x_xx  x_x_x_x__
+    x_  x__x__  x__x_x_xxx_  x__.x__.  x_]
+SCL_DEG[-7b123b456b7b]
+SCL_SEM[2 2 1 2 2 1 2]
+

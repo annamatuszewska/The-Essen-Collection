@@ -1,0 +1,24 @@
+ALTDEU
+CUT[Der Faltenrock]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0461]
+KEY[A0461   08  F 4/4]
+MEL[1_  5_556_6_  5_5_3_
+    1_  5_556_6_  5_5_3_
+    5_  4_3_2_5_  4_3_2_4_  3_2_1_ //]
+BEM[]
+MEL_SEM[7 0 0 2 0 -2 0 -3 -4 7 0 0 2 0 -2 0 -3 3 -2 -1 -2 5 -2 -1 -2 3 -1 -2 -2]
+MEL_RAW[1  55566  553
+    1  55566  553
+    5  4325  4324  321]
+NO_REP[15653
+    15653
+    543254324321]
+RTM[x_  x_xxx_x_  x_x_x_
+    x_  x_xxx_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_x_  x_x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+
