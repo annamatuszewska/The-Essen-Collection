@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[ICH WOLLT EINMAL RECHT FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0056]
+KEY[Z0056   16  D 3/4 2/4]
+MEL[1_1_3_  2__0_5_+1653  2__0_
+    5_5_5_  5_434_4_4_4_  4_323__0_
+    54  3__2__  5__0_ //]
+BEM[]
+MEL_SEM[0 4 -2 5 5 -3 -2 -3 -2 5 0 0 0 -2 -1 1 0 0 0 0 -1 -2 2 3 -2 -1 -2 5]
+MEL_RAW[113  205+1653  20
+    555  5434444  43230
+    54  32  50]
+NO_REP[13205+165320
+    54343230
+    543250]
+RTM[x_x_x_  x__x_x_xxxx  x__x_
+    x_x_x_  x_xxx_x_x_x_  x_xxx__x_
+    xx  x__x__  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

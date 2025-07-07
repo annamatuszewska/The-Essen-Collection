@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Das bucklichte Maennlein
+    WILL ICH IN MEIN GAERTLEIN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1364]
+KEY[Z1364   08  A 2/4]
+MEL[1111  222_
+    31-71  2_-5_
+    1111  222_
+    31-72  1_1_ //]
+BEM[]
+MEL_SEM[0 0 0 2 0 0 2 -4 -1 1 2 -7 5 0 0 0 2 0 0 2 -4 -1 3 -2 0]
+MEL_RAW[1111  222
+    31-71  2-5
+    1111  222
+    31-72  11]
+NO_REP[12
+    31-712-5
+    12
+    31-721]
+RTM[xxxx  xxx_
+    xxxx  x_x_
+    xxxx  xxx_
+    xxxx  x_x_]
+SCL_DEG[-5-7123]
+SCL_SEM[4 1 2 2]
+

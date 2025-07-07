@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der heimkehrende Braeutigam
+    Sankt Michel, der will bauen]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+TRD[5, S. 144
+    1915 aufgezeichnet]
+FKT[]
+SIG[Q1102I]
+KEY[Q1102I  08  G 6/8]
+MEL[5  533345  5_64_
+    4  5_55_4  3_.0_
+    5  533345  5_64_
+    4  5_55_4  3_.0_ //]
+BEM[]
+MEL_SEM[0 -3 0 0 1 2 0 2 -4 0 2 0 0 -2 -1 3 0 -3 0 0 1 2 0 2 -4 0 2 0 0 -2 -1]
+MEL_RAW[5  533345  564
+    4  5554  30
+    5  533345  564
+    4  5554  30]
+NO_REP[534564
+    45430
+    534564
+    45430]
+RTM[x  xxxxxx  x_xx_
+    x  x_xx_x  x_.x_
+    x  xxxxxx  x_xx_
+    x  x_xx_x  x_.x_]
+SCL_DEG[3456]
+SCL_SEM[1 2 2]
+

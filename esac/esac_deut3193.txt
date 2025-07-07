@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Jungfer Doertchen
+    Es ritt ein Jaeger wohlgemut,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+TRD[3, S. 104
+    ????]
+FKT[]
+SIG[Q0057Y]
+KEY[Q0057Y  16  G 3/4 2/4 3/8]
+MEL[-5_  1_1_3__.1_  1_-7b_-6__.
+    1_  -7-71_2__-7__  1_-6_-5__0__
+    1__-5__  -6_-5_-5_.
+    -5  1_-5_-5-5  -6_-5_
+    -5_  112_3__1__  4_2_1__ //]
+BEM[]
+MEL_SEM[5 0 4 -4 0 -2 -1 3 -1 0 1 2 -3 1 -3 -2 5 -5 2 -2 0 0 5 -5 0 0 2 -2 0 5 0 2 2 -4 5 -3 -2]
+MEL_RAW[-5  1131  1-7b-6
+    1  -7-712-7  1-6-50
+    1-5  -6-5-5
+    -5  1-5-5-5  -6-5
+    -5  11231  421]
+NO_REP[-5131-7b-6
+    1-712-71-6-50
+    1-5-6-5
+    -51-5-6-5
+    -51231421]
+RTM[x_  x_x_x__.x_  x_x_x__.
+    x_  xxx_x__x__  x_x_x__x__
+    x__x__  x_x_x_.
+    x  x_x_xx  x_x_
+    x_  xxx_x__x__  x_x_x__]
+SCL_DEG[-5-6-7b-71234]
+SCL_SEM[2 1 1 1 2 2 1]
+

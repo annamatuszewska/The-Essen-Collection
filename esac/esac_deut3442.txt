@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die Rabenmutter
+    Es wollt' ein Hirtlein treiben aus,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[5, S. 267
+    1842 gedruckt in Leipzig]
+FKT[]
+SIG[Q0114E]
+KEY[Q0114E  08  G 3/4]
+MEL[134  5_5434  5_0
+    235  432132  1_0 //]
+BEM[]
+MEL_SEM[4 1 2 0 -2 -1 1 2 -5 2 3 -2 -1 -2 -2 4 -2 -2]
+MEL_RAW[134  55434  50
+    235  432132  10]
+NO_REP[134543450
+    23543213210]
+RTM[xxx  x_xxxx  x_x
+    xxx  xxxxxx  x_x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

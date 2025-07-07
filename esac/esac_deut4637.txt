@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[GUTN ABEND GUTN ABEND FRAU MUELLERIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0136]
+KEY[Z0136   08  G 4/4]
+MEL[-5_  1_1_3_3_  5_5_5_-5_  1__.
+    -5_  1_1_3_3_  5_555_
+    -5-5  1_113_33  5_5_5_
+    -5-5  1_113_-5-5  1__. //]
+BEM[]
+MEL_SEM[5 0 4 0 3 0 0 -12 5 -5 5 0 4 0 3 0 0 0 -12 0 5 0 0 4 0 0 3 0 0 -12 0 5 0 0 4 -9 0 5]
+MEL_RAW[-5  1133  555-5  1
+    -5  1133  5555
+    -5-5  111333  555
+    -5-5  1113-5-5  1]
+NO_REP[-5135-51
+    -5135
+    -5135
+    -513-51]
+RTM[x_  x_x_x_x_  x_x_x_x_  x__.
+    x_  x_x_x_x_  x_xxx_
+    xx  x_xxx_xx  x_x_x_
+    xx  x_xxx_xx  x__.]
+SCL_DEG[-5135]
+SCL_SEM[5 4 3]
+

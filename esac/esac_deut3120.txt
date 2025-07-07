@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die erzwungene Ehe
+    Es hat sich ein Bauer ein Toechterlein fein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[2, S. 250
+    1933 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0050D]
+KEY[Q0050D  04  F 3/4]
+MEL[-5  111  112  -7-7-6  -50
+    -5  112  30
+    3  225  432  -6-62  10 //]
+BEM[]
+MEL_SEM[5 0 0 0 0 2 -3 0 -2 -2 0 5 0 2 2 0 -2 0 5 -2 -1 -2 -5 0 5 -2]
+MEL_RAW[-5  111  112  -7-7-6  -50
+    -5  112  30
+    3  225  432  -6-62  10]
+NO_REP[-512-7-6-50
+    -51230
+    325432-6210]
+RTM[x  xxx  xxx  xxx  xx
+    x  xxx  xx
+    x  xxx  xxx  xxx  xx]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

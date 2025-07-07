@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der schwatzhafte Junggeselle
+    Nechten war ich trunken,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 312
+    1611 gedruckt in Coburg]
+FKT[]
+SIG[Q0139M]
+KEY[Q0139M  16  G 4/4]
+MEL[1__3__5__.4_  3__2__1__0_
+    -5_  1__3__5__.4_  3__2__1__0_
+    3_  3_3_3_2_3__2_1_  3_5_4_3_2__0_
+    2_  1_2_3_4#_5_.55_4_  3_3_2_2_1___ //]
+BEM[]
+MEL_SEM[4 3 -2 -1 -2 -2 -5 5 4 3 -2 -1 -2 -2 4 0 0 0 -2 2 -2 -2 4 3 -2 -1 -2 0 -2 2 2 2 1 0 0 -2 -1 0 -2 0 -2]
+MEL_RAW[1354  3210
+    -5  1354  3210
+    3  3332321  354320
+    2  1234#5554  33221]
+NO_REP[13543210
+    -513543210
+    32321354320
+    21234#54321]
+RTM[x__x__x__.x_  x__x__x__x_
+    x_  x__x__x__.x_  x__x__x__x_
+    x_  x_x_x_x_x__x_x_  x_x_x_x_x__x_
+    x_  x_x_x_x_x_.xx_x_  x_x_x_x_x___]
+SCL_DEG[-512344#5]
+SCL_SEM[5 2 2 1 1 1]
+

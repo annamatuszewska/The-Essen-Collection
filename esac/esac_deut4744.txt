@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[DANN WANN DIE HAEHNE KRAEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0245]
+KEY[Z0245   08  E 2/4]
+MEL[1  123b4  5_5
+    5  6b54#4#  5_0
+    5  43b21  -7_5
+    4  3b21-7  1_0 //]
+BEM[]
+MEL_SEM[0 2 1 2 2 0 0 1 -1 -1 0 1 0 -2 -2 -1 -2 -1 8 -2 -2 -1 -2 -1 1]
+MEL_RAW[1  123b4  55
+    5  6b54#4#  50
+    5  43b21  -75
+    4  3b21-7  10]
+NO_REP[123b45
+    56b54#50
+    543b21-75
+    43b21-710]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x]
+SCL_DEG[-7123b44#56b]
+SCL_SEM[1 2 1 2 1 1 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Spielmannssohn
+    Agnus Dei,]
+REG[Mitteleuropa]
+TRD[3, S. 178
+    ????]
+FKT[]
+SIG[Q1062F]
+KEY[Q1062F  04  F FREI]
+MEL[135325_65
+    567+176565
+    +167+176565
+    34554321231211 //]
+BEM[]
+MEL_SEM[4 3 -3 -2 5 2 -2 0 2 2 1 -1 -2 -2 2 -2 5 -3 2 1 -1 -2 -2 2 -2 -3 1 2 0 -2 -1 -2 -2 2 2 -4 2 -2 0]
+MEL_RAW[13532565
+    567+176565
+    +167+176565
+    34554321231211]
+NO_REP[13532565
+    567+176565
+    +167+176565
+    345432123121]
+RTM[xxxxxx_xx
+    xxxxxxxxx
+    xxxxxxxxx
+    xxxxxxxxxxxxxx]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[WOHL AUF IHR NARREN ZIEHT ALL MIT MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0160]
+KEY[Z0160   16  G 2/4]
+MEL[-5_  1_2_3_4#_  5_.65_
+    1_  5_.65_6_  -6_4_3_
+    2_  2__1-513  2__1_ //]
+BEM[]
+MEL_SEM[5 2 2 2 1 2 -2 -7 7 2 -2 2 -12 8 -1 -2 0 -2 -5 5 4 -2 -2]
+MEL_RAW[-5  1234#  565
+    1  5656  -643
+    2  21-513  21]
+NO_REP[-51234#565
+    15656-643
+    21-51321]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_.xx_x_  x_x_x_
+    x_  x__xxxx  x__x_]
+SCL_DEG[-5-612344#56]
+SCL_SEM[2 3 2 2 1 1 1 2]
+

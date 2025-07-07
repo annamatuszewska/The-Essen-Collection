@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Kornschneiden
+    Idt is ein Boicken kamen int landt,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 210
+    1608 Handschrift (1603 - 08)]
+FKT[]
+SIG[Q0136]
+KEY[Q0136   04  F 3/4]
+MEL[1  1_-5  1_2  3_3  2_
+    1  1_-5  1_2  3_.  2_
+    1  2_3  4_5  3_3  2_
+    2  1_1  -5-6-7b  -6_.  -5_ //]
+BEM[]
+MEL_SEM[0 -5 5 2 2 0 -2 -2 0 -5 5 2 2 -2 -2 2 2 1 2 -3 0 -2 0 -2 0 -5 2 1 -1 -2]
+MEL_RAW[1  1-5  12  33  2
+    1  1-5  12  3  2
+    1  23  45  33  2
+    2  11  -5-6-7b  -6  -5]
+NO_REP[1-51232
+    1-51232
+    1234532
+    21-5-6-7b-6-5]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_.  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  xxx  x_.  x_]
+SCL_DEG[-5-6-7b12345]
+SCL_SEM[2 1 2 2 2 1 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Jungfer Doertchen
+    Es war ein Jaeger wohlgemut,]
+REG[Mitteleuropa, Deutschland (BRD) , Baden]
+TRD[3, S. 102
+    ????]
+FKT[]
+SIG[Q0057T]
+KEY[Q0057T  16  G 6/8]
+MEL[1_1__3_  5__6_5__6_  5_3_
+    3_2__5_  4_4_5_2__4_  4_3_
+    1_1__3_  3_2_4_4__6_  4_3_
+    123__34  5__5_2__4_  4_3_ //]
+BEM[]
+MEL_SEM[0 4 3 2 -2 2 -2 -3 0 -2 5 -2 0 2 -5 3 0 -1 -4 0 4 0 -2 3 0 4 -4 -1 -4 2 2 0 1 2 0 -5 3 0 -1]
+MEL_RAW[113  5656  53
+    325  44524  43
+    113  32446  43
+    12334  5524  43]
+NO_REP[13565653
+    32545243
+    1324643
+    12345243]
+RTM[x_x__x_  x__x_x__x_  x_x_
+    x_x__x_  x_x_x_x__x_  x_x_
+    x_x__x_  x_x_x_x__x_  x_x_
+    xxx__xx  x__x_x__x_  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

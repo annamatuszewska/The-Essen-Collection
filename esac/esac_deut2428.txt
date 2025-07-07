@@ -1,0 +1,32 @@
+BOEHME
+CUT[FREUNDLICH GLAENZT AN STILLER QUELLE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0192]
+KEY[B0192   08  F 4/4]
+MEL[5_4_  3_2_1_2_  3_1_
+    +1_7_  6_5_5_.4  3_0_
+    2_3_  4_2_3_4_  5_3_
+    +17+16  5_3_4_5_  4_30
+    +17+16  5_.34_2_  1_0_ //]
+BEM[]
+MEL_SEM[-2 -1 -2 -2 2 2 -4 12 -1 -2 -2 0 -2 -1 -2 2 1 -3 2 1 2 -3 8 -1 1 -3 -2 -3 1 2 -2 -1 8 -1 1 -3 -2 -3 1 -3 -2]
+MEL_RAW[54  3212  31
+    +17  6554  30
+    23  4234  53
+    +17+16  5345  430
+    +17+16  5342  10]
+NO_REP[54321231
+    +1765430
+    23423453
+    +17+165345430
+    +17+16534210]
+RTM[x_x_  x_x_x_x_  x_x_
+    x_x_  x_x_x_.x  x_x_
+    x_x_  x_x_x_x_  x_x_
+    xxxx  x_x_x_x_  x_xx
+    xxxx  x_.xx_x_  x_x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

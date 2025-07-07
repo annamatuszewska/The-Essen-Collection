@@ -1,0 +1,40 @@
+ZUCCAL
+CUT[SAGT MIR O SCHOENSTE SCHAEFRIN MEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0193]
+KEY[Z0193   08  C 6/8]
+MEL[5  1_31_3  1_32_
+    4  3_21_2  -5_.^_
+    5  1_31_3  1_32_
+    4  3_21_2  -5_.^_
+    1  4_44_4  3_21_
+    1  4_44_4  3_21_
+    3  1_31_3  1_.^_ //]
+BEM[]
+MEL_SEM[-7 4 -4 4 -4 4 -2 3 -1 -2 -2 2 -7 12 -7 4 -4 4 -4 4 -2 3 -1 -2 -2 2 -7 5 5 0 0 0 -1 -2 -2 0 5 0 0 0 -1 -2 -2 4 -4 4 -4 4 -4]
+MEL_RAW[5  1313  132
+    4  3212  -5^
+    5  1313  132
+    4  3212  -5^
+    1  4444  321
+    1  4444  321
+    3  1313  1^]
+NO_REP[51313132
+    43212-5^
+    51313132
+    43212-5^
+    14321
+    14321
+    313131^]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

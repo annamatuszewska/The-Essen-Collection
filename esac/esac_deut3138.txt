@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die elfjaehrige Markgraefin
+    Maria die ist geritten aus,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[2, S. 298
+    193? aufgezeichnet]
+FKT[]
+SIG[Q1053O]
+KEY[Q1053O  04  F 6/4]
+MEL[5556  5_+1+167  +1_
+    5+1+1+2  +1765_6  5_
+    5565  3231-6-7  1_
+    3565  3231-6-7  1_ //]
+BEM[]
+MEL_SEM[0 0 2 -2 5 0 -3 2 1 -5 5 0 2 -2 -1 -2 -2 2 -2 0 0 2 -2 -3 -2 2 -4 -3 2 1 4 3 2 -2 -3 -2 2 -4 -3 2 1]
+MEL_RAW[5556  5+1+167  +1
+    5+1+1+2  +17656  5
+    5565  3231-6-7  1
+    3565  3231-6-7  1]
+NO_REP[565+167+1
+    5+1+2+176565
+    5653231-6-71
+    35653231-6-71]
+RTM[xxxx  x_xxxx  x_
+    xxxx  xxxx_x  x_
+    xxxx  xxxxxx  x_
+    xxxx  xxxxxx  x_]
+SCL_DEG[-6-7123567+1+2]
+SCL_SEM[2 1 2 2 3 2 2 1 2]
+

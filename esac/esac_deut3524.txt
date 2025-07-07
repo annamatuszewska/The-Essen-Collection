@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Gerstebinden
+    Da kam bruder Hanigken,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 203
+    1544 gedruckt in Nuernberg; Satz: Wolfgang Schmeltzl]
+FKT[]
+SIG[Q0135A]
+KEY[Q0135A  04  G 4/2]
+MEL[1_  1__1__  ^_1_2_2_  2__
+    6__  7b_.65__  4__5_
+    5_  5_5_5_5_  1__0_ //]
+BEM[]
+MEL_SEM[0 0 0 2 0 0 7 1 -1 -2 -2 2 0 0 0 0 0 -7]
+MEL_RAW[1  11  ^122  2
+    6  7b65  45
+    5  5555  10]
+NO_REP[1^12
+    67b6545
+    510]
+RTM[x_  x__x__  x_x_x_x_  x__
+    x__  x_.xx__  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[124567b]
+SCL_SEM[2 3 2 2 1]
+

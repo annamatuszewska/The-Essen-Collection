@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Mordeltern
+    Es war'n einmal zwei Bauernsoehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Nordbayern, Unterfranken]
+TRD[4, S. 310
+    ????]
+FKT[]
+SIG[Q0085U]
+KEY[Q0085U  16  G 9/8]
+MEL[-5_  -5__1_1_.32_^__1_  -7__1_2__.^__
+    2_  2__2_3__.^__2_  1__2_3__.^__
+    1_  1__1_4__.^__3_  2__1_1__.^__
+    1_  1__1_4__.^__3_  2__1_1__.^__ //]
+BEM[]
+MEL_SEM[0 5 0 4 -2 -2 -1 1 2 0 0 0 2 -2 -2 2 2 -4 0 0 5 -1 -2 -2 0 0 0 0 5 -1 -2 -2 0]
+MEL_RAW[-5  -51132^1  -712^
+    2  223^2  123^
+    1  114^3  211^
+    1  114^3  211^]
+NO_REP[-5132^1-712^
+    23^2123^
+    14^321^
+    14^321^]
+RTM[x_  x__x_x_.xx_x__x_  x__x_x__.x__
+    x_  x__x_x__.x__x_  x__x_x__.x__
+    x_  x__x_x__.x__x_  x__x_x__.x__
+    x_  x__x_x__.x__x_  x__x_x__.x__]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

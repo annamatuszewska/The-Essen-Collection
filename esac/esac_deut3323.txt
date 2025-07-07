@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Schlangenkoechin
+    'Mariele, wo bist du mit der Kunkel gewesen,]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+TRD[4, S. 210
+    1933 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0079S]
+KEY[Q0079S  08  G 3/4]
+MEL[5_  355_5_  5_5_66  5_4_4_  4_4_
+    5_  333_3_  2_1_2_  3__.  ^_0_
+    5_  3_5_5_  5_5_6_  5_4_4_  4_4_
+    5_  333_3_  2_1_2_  1__.  ^_0_ //]
+BEM[]
+MEL_SEM[-3 3 0 0 0 0 2 0 -2 -2 0 0 0 2 -3 0 0 0 -2 -2 2 2 3 -3 3 0 0 0 2 -2 -2 0 0 0 2 -3 0 0 0 -2 -2 2 -2]
+MEL_RAW[5  3555  5566  544  44
+    5  3333  212  3  ^0
+    5  355  556  544  44
+    5  3333  212  1  ^0]
+NO_REP[535654
+    532123^0
+    535654
+    532121^0]
+RTM[x_  xxx_x_  x_x_xx  x_x_x_  x_x_
+    x_  xxx_x_  x_x_x_  x__.  x_x_
+    x_  x_x_x_  x_x_x_  x_x_x_  x_x_
+    x_  xxx_x_  x_x_x_  x__.  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

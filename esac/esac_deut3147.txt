@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    Es schlief ein Graf bei seiner Magd]
+REG[Mitteleuropa, Deutschland (BRD) , nordwest - deutsch ?]
+TRD[3, S. 19
+    1916 aufgezeichnet (1914/16)]
+FKT[]
+SIG[Q0055K]
+KEY[Q0055K  08  C 4/4]
+MEL[13  5_5_5642  1_3_3_
+    3_  2_.34_5_  4_3_0_
+    5_  5_.3+1_.7  7_6_6_
+    6_  5_.+1+3_+2_  +2_+1_0_ //]
+BEM[]
+MEL_SEM[4 3 0 0 2 -4 -3 -2 4 0 0 -2 2 1 2 -2 -1 3 0 -3 8 -1 0 -2 0 0 -2 5 4 -2 0 -2]
+MEL_RAW[13  555642  133
+    3  2345  430
+    5  53+17  766
+    6  5+1+3+2  +2+10]
+NO_REP[13564213
+    32345430
+    53+176
+    65+1+3+2+10]
+RTM[xx  x_x_xxxx  x_x_x_
+    x_  x_.xx_x_  x_x_x_
+    x_  x_.xx_.x  x_x_x_
+    x_  x_.xx_x_  x_x_x_]
+SCL_DEG[1234567+1+2+3]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

@@ -1,0 +1,36 @@
+BOEHME
+CUT[BESCHATTET VON DER PAPPEL WEIDE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0368]
+KEY[B0368   08  F 6/8]
+MEL[-5  3_21_5  5_431
+    3  2_2253  2_.0_
+    -5  3_21_5  5_431
+    3  2_2253  2_.0_
+    -5  3_45_5  3_45_
+    5  +1_5432  1_11_ //]
+BEM[]
+MEL_SEM[9 -2 -2 7 0 -2 -1 -4 4 -2 0 0 5 -3 -2 -7 9 -2 -2 7 0 -2 -1 -4 4 -2 0 0 5 -3 -2 -7 9 1 2 0 -3 1 2 0 5 -5 -2 -1 -2 -2 0 0]
+MEL_RAW[-5  3215  5431
+    3  22253  20
+    -5  3215  5431
+    3  22253  20
+    -5  3455  345
+    5  +15432  111]
+NO_REP[-53215431
+    325320
+    -53215431
+    325320
+    -5345345
+    5+154321]
+RTM[x  x_xx_x  x_xxx
+    x  x_xxxx  x_.x_
+    x  x_xx_x  x_xxx
+    x  x_xxxx  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xxxx  x_xx_]
+SCL_DEG[-512345+1]
+SCL_SEM[5 2 2 1 2 5]
+

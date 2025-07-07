@@ -1,0 +1,28 @@
+BOEHME
+CUT[WONNE SCHWEBET LAECHELT UEBERALL]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0207]
+KEY[B0207   08  F 6/8]
+MEL[5_55_3  5_3432  1_0__
+    3_3323  5433_2
+    3_3323  5433_2
+    5_55_3  +1_5432  1_0__ //]
+BEM[]
+MEL_SEM[0 0 -3 3 -3 1 -1 -2 -2 4 0 0 -2 2 3 -2 -1 0 -2 2 0 0 -2 2 3 -2 -1 0 -2 5 0 0 -3 8 -5 -2 -1 -2 -2]
+MEL_RAW[5553  53432  10
+    33323  54332
+    33323  54332
+    5553  +15432  10]
+NO_REP[535343210
+    3235432
+    3235432
+    53+1543210]
+RTM[x_xx_x  x_xxxx  x_x__
+    x_xxxx  xxxx_x
+    x_xxxx  xxxx_x
+    x_xx_x  x_xxxx  x_x__]
+SCL_DEG[12345+1]
+SCL_SEM[2 2 1 2 5]
+

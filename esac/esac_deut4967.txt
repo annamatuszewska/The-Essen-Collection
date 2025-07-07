@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Taendelei
+    GUTEN ABEND LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1153]
+KEY[Z1153   08  G 4/4]
+MEL[1_.23b_21  2_5_1__
+    3b_.45_45  6b_5_4_
+    43b  2_.3b4_4_  5_43b2_
+    3b2  1_1_5_5_  1__0__ //]
+BEM[]
+MEL_SEM[2 1 -1 -2 2 5 -7 3 2 2 -2 2 1 -1 -2 0 -2 -1 1 2 0 2 -2 -2 -1 1 -1 -2 0 7 0 -7]
+MEL_RAW[123b21  251
+    3b4545  6b54
+    43b  23b44  543b2
+    3b2  1155  10]
+NO_REP[123b21251
+    3b45456b54
+    43b23b4543b2
+    3b21510]
+RTM[x_.xx_xx  x_x_x__
+    x_.xx_xx  x_x_x_
+    xx  x_.xx_x_  x_xxx_
+    xx  x_x_x_x_  x__x__]
+SCL_DEG[123b456b]
+SCL_SEM[2 1 2 2 1]
+

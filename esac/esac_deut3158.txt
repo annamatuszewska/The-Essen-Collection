@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit seiner Magd]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Franken]
+TRD[3, S. 60
+    1855 gedruckt in Leipzig]
+FKT[]
+SIG[Q0055Z]
+KEY[Q0055Z  16  F 6/8]
+MEL[123__3_  1_1_2_3__3_  1__
+    2_3__3_  4_3_2_2__3_  1__
+    123__33  1__123__3_  1__
+    123__3_  4_.32_2__3_  1__ //]
+BEM[]
+MEL_SEM[2 2 0 -4 0 2 2 0 -4 2 2 0 1 -1 -2 0 2 -4 0 2 2 0 0 -4 0 2 2 0 -4 0 2 2 0 1 -1 -2 0 2 -4]
+MEL_RAW[1233  11233  1
+    233  43223  1
+    12333  11233  1
+    1233  43223  1]
+NO_REP[1231231
+    2343231
+    1231231
+    12343231]
+RTM[xxx__x_  x_x_x_x__x_  x__
+    x_x__x_  x_x_x_x__x_  x__
+    xxx__xx  x__xxx__x_  x__
+    xxx__x_  x_.xx_x__x_  x__]
+SCL_DEG[1234]
+SCL_SEM[2 2 1]
+

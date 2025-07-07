@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Das treue Maedchen
+    IM GARTEN WOHL IN DEM KLAREN MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1091]
+KEY[Z1091   16  A 4/4]
+MEL[-7b__  3b__3b_3b_3b__.1_  -7b_.-7b-7b_.-7b-7b__.
+    -5_  1__.2_3b__2_1_  2__-5__0__
+    -7b__  3b__-7b_-7b_3b__.5_  4_.3b2_.14__.
+    5_  5__.2_3b__.1_  -7__2__0__
+    2__  3b__3b_2_3b__.5_  4_.3b2_.14__.
+    5_  5__.2_3b__.1_  -5__1__0__ //]
+BEM[]
+MEL_SEM[5 0 0 0 -3 -2 0 0 0 0 -3 5 2 1 -1 -2 2 -7 3 5 -5 0 5 4 -2 -2 -1 -2 5 2 0 -5 1 -3 -1 3 0 1 0 -1 1 4 -2 -2 -1 -2 5 2 0 -5 1 -3 -5 5]
+MEL_RAW[-7b  3b3b3b3b1  -7b-7b-7b-7b-7b
+    -5  123b21  2-50
+    -7b  3b-7b-7b3b5  43b214
+    5  523b1  -720
+    2  3b3b23b5  43b214
+    5  523b1  -510]
+NO_REP[-7b3b1-7b
+    -5123b212-50
+    -7b3b-7b3b543b214
+    523b1-720
+    23b23b543b214
+    523b1-510]
+RTM[x__  x__x_x_x__.x_  x_.xx_.xx__.
+    x_  x__.x_x__x_x_  x__x__x__
+    x__  x__x_x_x__.x_  x_.xx_.xx__.
+    x_  x__.x_x__.x_  x__x__x__
+    x__  x__x_x_x__.x_  x_.xx_.xx__.
+    x_  x__.x_x__.x_  x__x__x__]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

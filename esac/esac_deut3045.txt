@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Schloss in Oesterreich
+    Das ganze Dorf versammelt sich]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 274  komponiert
+    1842 gedruckt]
+FKT[]
+SIG[Q1024M]
+KEY[Q1024M  08  D 3/4]
+MEL[1  135342  3331
+    2-7  155443  3_2_0
+    5  57+2754  35+1_.
+    +1  +165342  2_1_0 //]
+BEM[]
+MEL_SEM[0 4 3 -3 1 -3 2 0 0 -4 2 -3 1 7 0 -2 0 -1 0 -2 5 0 4 3 -3 -4 -2 -1 3 5 0 0 -3 -2 -3 1 -3 0 -2]
+MEL_RAW[1  135342  3331
+    2-7  155443  320
+    5  57+2754  35+1
+    +1  +165342  210]
+NO_REP[13534231
+    2-7154320
+    57+275435+1
+    +16534210]
+RTM[x  xxxxxx  xxxx
+    xx  xxxxxx  x_x_x
+    x  xxxxxx  xxx_.
+    x  xxxxxx  x_x_x]
+SCL_DEG[-71234567+1+2]
+SCL_SEM[1 2 2 1 2 2 2 1 2]
+

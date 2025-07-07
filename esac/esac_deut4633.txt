@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[DA DRAUSSN AUF DEM BERGLE]
+REG[Europa, Mitteleuropa, Deutschland, Vogtland]
+TRD[]
+FKT[]
+SIG[Z0132]
+KEY[Z0132   08  F 3/8]
+MEL[5  534  555  +1
+    55  543  234  3
+    45  543  234  3_ //]
+BEM[]
+MEL_SEM[0 -3 1 2 0 0 5 -5 0 0 -2 -1 -2 2 1 -1 1 2 0 -2 -1 -2 2 1 -1]
+MEL_RAW[5  534  555  +1
+    55  543  234  3
+    45  543  234  3]
+NO_REP[5345+1
+    5432343
+    45432343]
+RTM[x  xxx  xxx  x
+    xx  xxx  xxx  x
+    xx  xxx  xxx  x_]
+SCL_DEG[2345+1]
+SCL_SEM[2 1 2 5]
+

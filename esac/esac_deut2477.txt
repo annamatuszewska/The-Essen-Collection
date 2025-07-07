@@ -1,0 +1,28 @@
+BOEHME
+CUT[NACHT UND STILL ISTS UM MICH HER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0246A]
+KEY[B0246A  08  G 4/4]
+MEL[1_1_3_3_  2_2_1__
+    3_3_5_5_  4_4_3__
+    2_2_4_4_  32342__
+    4_4_3_2_  1_-7_1__ //]
+BEM[]
+MEL_SEM[0 4 0 -2 0 -2 4 0 3 0 -2 0 -1 -2 0 3 0 -1 -2 2 1 -3 3 0 -1 -2 -2 -1 1]
+MEL_RAW[1133  221
+    3355  443
+    2244  32342
+    4432  1-71]
+NO_REP[1321
+    3543
+    2432342
+    4321-71]
+RTM[x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  xxxxx__
+    x_x_x_x_  x_x_x__]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

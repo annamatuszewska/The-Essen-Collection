@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Die beiden Waisenkinder
+    Es waren zwei Waisenkinder,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Viersen]
+TRD[5, S. 308
+    ????]
+FKT[]
+SIG[Q0118]
+KEY[Q0118   08  F 6/8]
+MEL[1  3333_3  440_.
+    4  4465_4  3_0
+    5_.  333345  6_.65
+    4  3355_4  3_.
+    5_.  333345  6_.65
+    4  3355_4  3_.0_ //]
+BEM[]
+MEL_SEM[4 0 0 0 0 1 0 0 0 0 4 -2 -2 -1 3 -3 0 0 0 1 2 2 0 -2 -2 -1 0 3 0 -2 -1 3 -3 0 0 0 1 2 2 0 -2 -2 -1 0 3 0 -2 -1]
+MEL_RAW[1  33333  440
+    4  44654  30
+    5  333345  665
+    4  33554  3
+    5  333345  665
+    4  33554  30]
+NO_REP[1340
+    465430
+    534565
+    43543
+    534565
+    435430]
+RTM[x  xxxx_x  xxx_.
+    x  xxxx_x  x_x
+    x_.  xxxxxx  x_.xx
+    x  xxxx_x  x_.
+    x_.  xxxxxx  x_.xx
+    x  xxxx_x  x_.x_]
+SCL_DEG[13456]
+SCL_SEM[4 1 2 2]
+

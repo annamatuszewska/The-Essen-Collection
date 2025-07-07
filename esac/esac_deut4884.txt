@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Albertus Magnus
+    DIE KOENIGIN BLICKT DURCHS FENSTER]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1069]
+KEY[Z1069   16  G 6/8]
+MEL[-5_  1_.11_2__3_  432__0__
+    4_  3_1_4_5_6b_5_  4__.0__
+    1_  4__5_6b_5_4_  5_2__0__
+    4_  3b_2_1_2_3b_2_  1__.0__ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 1 -1 -2 3 -1 -4 5 2 1 -1 -2 -5 5 2 1 -1 -2 2 -5 3 -2 -1 -2 2 1 -1 -2]
+MEL_RAW[-5  11123  4320
+    4  31456b5  40
+    1  456b54  520
+    4  3b2123b2  10]
+NO_REP[-51234320
+    431456b540
+    1456b54520
+    43b2123b210]
+RTM[x_  x_.xx_x__x_  xxx__x__
+    x_  x_x_x_x_x_x_  x__.x__
+    x_  x__x_x_x_x_  x_x__x__
+    x_  x_x_x_x_x_x_  x__.x__]
+SCL_DEG[-5123b3456b]
+SCL_SEM[5 2 1 1 1 2 1]
+

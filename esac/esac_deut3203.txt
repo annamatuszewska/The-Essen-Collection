@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der junge Held
+    Ach got, wie ser zwingt mich die not]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 152
+    1480 Handschrift aus Glogau]
+FKT[]
+SIG[Q1060F]
+KEY[Q1060F  08  D 6/4]
+MEL[1_  3b__4_5_7b__  6_5__4__
+    4_  6__7b_+1_+2__  +1__7b_5_6__  5__0__.
+    +1_  7b__5_4__6b_  5__5_1__3b_  2_1__-7b__
+    -7b_  3b__4_5_7b_.6b  5_4_.3b1_2__  1__0__. //]
+BEM[]
+MEL_SEM[3 2 2 3 -1 -2 -2 0 4 1 2 2 -2 -2 -3 2 -2 5 -2 -3 -2 3 -1 0 -7 3 -1 -2 -2 0 5 2 2 3 -2 -1 -2 -2 -3 2 -2]
+MEL_RAW[1  3b457b  654
+    4  67b+1+2  +17b56  50
+    +1  7b546b  5513b  21-7b
+    -7b  3b457b6b  543b12  10]
+NO_REP[13b457b654
+    467b+1+2+17b5650
+    +17b546b513b21-7b
+    -7b3b457b6b543b1210]
+RTM[x_  x__x_x_x__  x_x__x__
+    x_  x__x_x_x__  x__x_x_x__  x__x__.
+    x_  x__x_x__x_  x__x_x__x_  x_x__x__
+    x_  x__x_x_x_.x  x_x_.xx_x__  x__x__.]
+SCL_DEG[-7b123b456b67b+1+2]
+SCL_SEM[2 2 1 2 2 1 1 1 2 2]
+

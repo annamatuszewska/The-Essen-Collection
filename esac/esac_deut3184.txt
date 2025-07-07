@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Jungfer Doertchen
+    Es war ein Jaeger gar wohlgemut,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau, Ellershausen]
+TRD[3, S. 89
+    1860 aufgezeichnet (ca.)]
+FKT[]
+SIG[Q0057D]
+KEY[Q0057D  16  G 6/8]
+MEL[-5_1__6_  5_.65_4__5_  3__
+    -5_1__6_  5_.65_4__5_  3__
+    4_4_.56_  6_5_4_4_.56_  5__
+    5_2_.26_  6_.54_5_.654  3__
+    4_4_.56_  6_5_4_4_.56_  5__
+    5_2_.26_  6_.54_5_.654  3__ //]
+BEM[]
+MEL_SEM[5 9 -2 2 -2 -2 2 -3 -9 5 9 -2 2 -2 -2 2 -3 1 0 2 2 0 -2 -2 0 2 2 -2 0 -5 0 7 0 -2 -2 2 2 -2 -2 -1 1 0 2 2 0 -2 -2 0 2 2 -2 0 -5 0 7 0 -2 -2 2 2 -2 -2 -1]
+MEL_RAW[-516  56545  3
+    -516  56545  3
+    4456  654456  5
+    5226  6545654  3
+    4456  654456  5
+    5226  6545654  3]
+NO_REP[-516565453
+    -516565453
+    45654565
+    5265456543
+    45654565
+    5265456543]
+RTM[x_x__x_  x_.xx_x__x_  x__
+    x_x__x_  x_.xx_x__x_  x__
+    x_x_.xx_  x_x_x_x_.xx_  x__
+    x_x_.xx_  x_.xx_x_.xxx  x__
+    x_x_.xx_  x_x_x_x_.xx_  x__
+    x_x_.xx_  x_.xx_x_.xxx  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

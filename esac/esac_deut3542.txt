@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Maedchen und Hasel
+    Ach, lieber Gott im hoechsten thron,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 261
+    1587 gedruckt]
+FKT[]
+SIG[Q0138F]
+KEY[Q0138F  08  G FREI]
+MEL[2_2_2_5_5_7b_+1_7b_
+    5_4__+1__+1__5__7b_+1_6__5__0_
+    4_5_7b_6_5_5_3_2_
+    1_3__1__3_.46__5_3_2__1___ //]
+BEM[]
+MEL_SEM[0 0 5 0 3 2 -2 -3 -2 7 0 -5 3 2 -3 -2 -2 2 3 -1 -2 0 -3 -2 -2 4 -4 4 1 4 -2 -3 -2 -2]
+MEL_RAW[222557b+17b
+    54+1+157b+1650
+    457b65532
+    1313465321]
+NO_REP[257b+17b
+    54+157b+1650
+    457b6532
+    1313465321]
+RTM[x_x_x_x_x_x_x_x_
+    x_x__x__x__x__x_x_x__x__x_
+    x_x_x_x_x_x_x_x_
+    x_x__x__x_.xx__x_x_x__x___]
+SCL_DEG[1234567b+1]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es reist ein Knab wohl ueber den Rhein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
+TRD[3, S 258
+    1918 aufgezeichnet]
+FKT[]
+SIG[Q0068K]
+KEY[Q0068K  16  G 3/8]
+MEL[13  5__31  3__35  3_1_-5_  -6_.
+    -5-72  1__35  5__2_  1__
+    13  5__31  3__36  5__31  2_0
+    -5-72  1__2_  111_3_  5__-7_  1__ //]
+BEM[]
+MEL_SEM[4 3 -3 -4 4 0 3 -3 -4 -5 2 -2 4 3 -2 4 3 0 -5 -2 0 4 3 -3 -4 4 0 5 -2 -3 -4 2 -7 4 3 -2 2 -2 0 0 4 3 -8 1]
+MEL_RAW[13  531  335  31-5  -6
+    -5-72  135  52  1
+    13  531  336  531  20
+    -5-72  12  1113  5-7  1]
+NO_REP[135313531-5-6
+    -5-7213521
+    135313653120
+    -5-7212135-71]
+RTM[xx  x__xx  x__xx  x_x_x_  x_.
+    xxx  x__xx  x__x_  x__
+    xx  x__xx  x__xx  x__xx  x_x
+    xxx  x__x_  xxx_x_  x__x_  x__]
+SCL_DEG[-5-6-712356]
+SCL_SEM[2 2 1 2 2 3 2]
+

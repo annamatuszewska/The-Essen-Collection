@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[EIN KAEFER AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland, Mecklenburg]
+TRD[]
+FKT[]
+SIG[Z0116]
+KEY[Z0116   16  G 3/4]
+MEL[-5_  1_.-71_.23_.1  -7_.-6-5___  -7__1__.
+    -5_  2_.1#2__2__  5_.55__.
+    1_  -7_.12__-5__  4_.32___  -7__1__. //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -4 -1 -2 -2 4 1 -5 7 -1 1 0 5 0 0 -7 -1 1 2 -7 10 -1 -2 -3 1]
+MEL_RAW[-5  1-71231  -7-6-5  -71
+    -5  21#22  555
+    1  -712-5  432  -71]
+NO_REP[-51-71231-7-6-5-71
+    -521#25
+    1-712-5432-71]
+RTM[x_  x_.xx_.xx_.x  x_.xx___  x__x__.
+    x_  x_.xx__x__  x_.xx__.
+    x_  x_.xx__x__  x_.xx___  x__x__.]
+SCL_DEG[-5-6-711#2345]
+SCL_SEM[2 2 1 1 1 2 1 2]
+

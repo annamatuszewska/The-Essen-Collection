@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ICH WEISS EIN FEIN BRAUNS MAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0143]
+KEY[Z0143   08  C 4/4]
+MEL[1_  1_1_5_5_  5_5_5_
+    5_  4_5_6_5_  5_4_3_
+    3_  4_4_5_3_  4_3_5_
+    3_  4_4_5__  4_3__21  2__1_ //]
+BEM[]
+MEL_SEM[0 0 7 0 0 0 0 0 -2 2 2 -2 0 -2 -1 0 1 0 2 -3 1 -1 3 -3 1 0 2 -2 -1 -2 -2 2 -2]
+MEL_RAW[1  1155  555
+    5  4565  543
+    3  4453  435
+    3  445  4321  21]
+NO_REP[15
+    5456543
+    3453435
+    345432121]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x__  x_x__xx  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

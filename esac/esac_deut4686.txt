@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Schusters Abendlied
+    ICH GUNG EMAL SPAZIERE - AHM]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0186]
+KEY[Z0186   16  F 2/4]
+MEL[-5_  1_-7_1_2_  3__1_-5_  2__0_
+    -5_  1_-7_1_2_  3__1__  2_222_55  3__0_
+    3_  3_2_1_-7_  -7_-6_-6_
+    -3_  -6__0_-5_  1__-5__  3__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -4 -5 7 -7 5 -1 1 2 2 -4 2 0 0 0 5 0 -3 0 0 -2 -2 -1 0 -2 0 -5 5 -2 5 -5 9]
+MEL_RAW[-5  1-712  31-5  20
+    -5  1-712  31  222255  30
+    3  321-7  -7-6-6
+    -3  -60-5  1-5  30]
+NO_REP[-51-71231-520
+    -51-712312530
+    321-7-6
+    -3-60-51-530]
+RTM[x_  x_x_x_x_  x__x_x_  x__x_
+    x_  x_x_x_x_  x__x__  x_xxx_xx  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x__x_x_  x__x__  x__x_]
+SCL_DEG[-3-5-6-71235]
+SCL_SEM[3 2 2 1 2 2 3]
+

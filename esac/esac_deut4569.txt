@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[SCHWESTERLEIN WANN GEHN WIR NACH HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z0068]
+KEY[Z0068   16  A 3/4]
+MEL[-5_.13b___  -5_.13b__
+    -5_1_  3b_2_1__-7__  1___0__
+    -7b_-7b_3b__5_5_  5_4_3b_2_3b__
+    -7b__3b__5__  5_4_3b_2_3b__
+    3b_.3b1___  -7_.-72___
+    3b_2_1__-7__  1___. //]
+BEM[]
+MEL_SEM[5 3 -8 5 3 -8 5 3 -1 -2 -1 1 -2 0 5 4 0 0 -2 -2 -1 1 -5 5 4 0 -2 -2 -1 1 0 0 -3 -1 0 3 1 -1 -2 -1 1]
+MEL_RAW[-513b  -513b
+    -51  3b21-7  10
+    -7b-7b3b55  543b23b
+    -7b3b5  543b23b
+    3b3b1  -7-72
+    3b21-7  1]
+NO_REP[-513b-513b
+    -513b21-710
+    -7b3b543b23b
+    -7b3b543b23b
+    3b1-72
+    3b21-71]
+RTM[x_.xx___  x_.xx__
+    x_x_  x_x_x__x__  x___x__
+    x_x_x__x_x_  x_x_x_x_x__
+    x__x__x__  x_x_x_x_x__
+    x_.xx___  x_.xx___
+    x_x_x__x__  x___.]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

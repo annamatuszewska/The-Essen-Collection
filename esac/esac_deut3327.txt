@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die drei Hexen
+    Die Engel singen suessen sang,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Andernach]
+TRD[4, S. 227
+    1608 gedruckt]
+FKT[]
+SIG[Q1080J]
+KEY[Q1080J  08  F 6/4]
+MEL[1_  5__6_5__2_  5_4_3_2__
+    1_  -7__1_2__3_  2343_21__ //]
+BEM[]
+MEL_SEM[7 2 -2 -5 5 -2 -1 -2 -2 -1 1 2 2 -2 2 1 -1 -2 -2]
+MEL_RAW[1  5652  5432
+    1  -7123  234321]
+NO_REP[156525432
+    1-7123234321]
+RTM[x_  x__x_x__x_  x_x_x_x__
+    x_  x__x_x__x_  xxxx_xx__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

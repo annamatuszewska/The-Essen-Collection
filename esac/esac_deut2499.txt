@@ -1,0 +1,28 @@
+BOEHME
+CUT[ZWEI SAERGE EINSAM STEHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0280]
+KEY[B0280   08  E 4/4]
+MEL[-5_  5_.43b_2_  1_.23b_
+    44  5_456b_.4  5__0_
+    +1+1  7b_.6b4_44  5_.43b_
+    22  1_123b_2_  1__0_ //]
+BEM[]
+MEL_SEM[12 -2 -2 -1 -2 2 1 2 0 2 -2 2 1 -3 2 5 0 -2 -2 -3 0 0 2 -2 -2 -1 0 -2 0 2 1 -1 -2]
+MEL_RAW[-5  543b2  123b
+    44  5456b4  50
+    +1+1  7b6b444  543b
+    22  1123b2  10]
+NO_REP[-543b2123b
+    45456b450
+    +17b6b4543b
+    2123b210]
+RTM[x_  x_.xx_x_  x_.xx_
+    xx  x_xxx_.x  x__x_
+    xx  x_.xx_xx  x_.xx_
+    xx  x_xxx_x_  x__x_]
+SCL_DEG[-5123b456b7b+1]
+SCL_SEM[5 2 1 2 2 1 2 2]
+

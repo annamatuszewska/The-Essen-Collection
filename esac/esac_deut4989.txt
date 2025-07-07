@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Staendchen
+    HEUT HAB ICH DIE WACH' ALLHIER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1176]
+KEY[Z1176   08  A 4/4 6/8]
+MEL[3__2_11  -7_1_2__
+    5__6_55  4_3_2_0
+    -5  1_12_2  3_32_
+    2  3334_4  5_.1_3b  2_.0
+    6_  5_113_2_  1__0__ //]
+BEM[]
+MEL_SEM[-2 -2 0 -1 1 2 5 2 -2 0 -2 -1 -2 -7 5 0 2 0 2 0 -2 0 2 0 0 1 0 2 -7 3 -1 7 -2 -7 0 4 -2 -2]
+MEL_RAW[3211  -712
+    5655  4320
+    -5  1122  332
+    2  33344  513b  20
+    6  51132  10]
+NO_REP[321-712
+    5654320
+    -51232
+    234513b20
+    6513210]
+RTM[x__x_xx  x_x_x__
+    x__x_xx  x_x_x_x
+    x  x_xx_x  x_xx_
+    x  xxxx_x  x_.x_x  x_.x
+    x_  x_xxx_x_  x__x__]
+SCL_DEG[-5-7123b3456]
+SCL_SEM[4 1 2 1 1 1 2 2]
+

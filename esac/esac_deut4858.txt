@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Braver Entschluss
+    ES DUNKELT IN DEM WALDE]
+REG[Europa, Mitteleuropa, Deutschland; Elsass]
+TRD[]
+FKT[]
+SIG[Z1042]
+KEY[Z1042   16  G 2/4]
+MEL[5_  1_-5_1_2_  3_.454
+    35  +1_5_4_3_  2__0_
+    5_  6_556_7_  +1_765_
+    4_  3_3_5432  1__0_ //]
+BEM[]
+MEL_SEM[-7 -5 5 2 2 1 2 -2 -1 3 5 -5 -2 -1 -2 5 2 -2 0 2 2 1 -1 -2 -2 -2 -1 0 3 -2 -1 -2 -2]
+MEL_RAW[5  1-512  3454
+    35  +1543  20
+    5  65567  +1765
+    4  335432  10]
+NO_REP[51-5123454
+    35+154320
+    56567+1765
+    43543210]
+RTM[x_  x_x_x_x_  x_.xxx
+    xx  x_x_x_x_  x__x_
+    x_  x_xxx_x_  x_xxx_
+    x_  x_x_xxxx  x__x_]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Das Ringelein
+    BALD GRAS ICH AM NECKAR]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z1200]
+KEY[Z1200   08  G 3/4]
+MEL[34  3_2_2_  1_3_
+    3_  5_2_2_  5__
+    34  3_2_2_  1_3_
+    3_  5_2_23  1__ //]
+BEM[]
+MEL_SEM[1 -1 -2 0 -2 4 0 3 -5 0 5 -3 1 -1 -2 0 -2 4 0 3 -5 0 2 -4]
+MEL_RAW[34  322  13
+    3  522  5
+    34  322  13
+    3  5223  1]
+NO_REP[343213
+    3525
+    343213
+    35231]
+RTM[xx  x_x_x_  x_x_
+    x_  x_x_x_  x__
+    xx  x_x_x_  x_x_
+    x_  x_x_xx  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

@@ -1,0 +1,36 @@
+BOEHME
+CUT[DER MOND IST AUFGEGANGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0237]
+KEY[B0237   04  G 4/4]
+MEL[1  2143  2_1
+    3  3365  4_3
+    3  3343  2_0
+    1  2143  2_1
+    3  3365  4_3
+    3  3343  221 //]
+BEM[]
+MEL_SEM[2 -2 5 -1 -2 -2 4 0 0 5 -2 -2 -1 0 0 0 1 -1 -2 -2 2 -2 5 -1 -2 -2 4 0 0 5 -2 -2 -1 0 0 0 1 -1 -2 0 -2]
+MEL_RAW[1  2143  21
+    3  3365  43
+    3  3343  20
+    1  2143  21
+    3  3365  43
+    3  3343  221]
+NO_REP[1214321
+    36543
+    34320
+    1214321
+    36543
+    34321]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

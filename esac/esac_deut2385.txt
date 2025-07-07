@@ -1,0 +1,24 @@
+BOEHME
+CUT[ICH WAR ERST SECHZEHN SOMMER ALT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0147]
+KEY[B0147   08 Bb 6/8]
+MEL[5  4_234#5  2_.2_
+    5  1_14_3  2343_
+    5  53142-7  1_.10 //]
+BEM[]
+MEL_SEM[-2 -3 2 2 1 -5 0 5 -7 0 5 -1 -2 2 1 -1 3 0 -3 -4 5 -3 -3 1 0]
+MEL_RAW[5  4234#5  22
+    5  1143  2343
+    5  53142-7  110]
+NO_REP[54234#52
+    51432343
+    53142-710]
+RTM[x  x_xxxx  x_.x_
+    x  x_xx_x  xxxx_
+    x  xxxxxx  x_.xx]
+SCL_DEG[-712344#5]
+SCL_SEM[1 2 2 1 1 1]
+

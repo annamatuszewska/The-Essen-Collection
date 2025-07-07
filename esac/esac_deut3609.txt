@@ -1,0 +1,31 @@
+BALLADEN
+CUT[Verschlafener Jaeger
+    Es wollt ein Jaeger wohl jagen]
+REG[Mitteleuropa, Deutschland / Polen, Grenzmark Posen - Westpreussen,
+    Flatow, Dobrin]
+TRD[7, S. 218
+    1928 aufgezeichnet]
+FKT[]
+SIG[Q0152O]
+KEY[Q0152O  08  C 4/4]
+MEL[5_  +1_+1_+1_76  6_5_5_
+    5_  6_6_6_54  4_3_3_
+    5_  +1_+1_+1_76  6_555_
+    5_  6_6_5_67  +1__. //]
+BEM[]
+MEL_SEM[5 0 0 -1 -2 0 -2 0 0 2 0 0 -2 -2 0 -1 0 3 5 0 0 -1 -2 0 -2 0 0 0 2 0 -2 2 2 1]
+MEL_RAW[5  +1+1+176  655
+    5  66654  433
+    5  +1+1+176  6555
+    5  66567  +1]
+NO_REP[5+1765
+    56543
+    5+1765
+    56567+1]
+RTM[x_  x_x_x_xx  x_x_x_
+    x_  x_x_x_xx  x_x_x_
+    x_  x_x_x_xx  x_xxx_
+    x_  x_x_x_xx  x__.]
+SCL_DEG[34567+1]
+SCL_SEM[1 2 2 2 1]
+

@@ -1,0 +1,28 @@
+BOEHME
+CUT[SUESSE HEILIGE NATUR]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0171]
+KEY[B0171   16 Eb 2/4]
+MEL[3_.2  1_.1-7123  2_1_
+    5_3_  5_3_2345  4_3_
+    +1765  5_3_6_54  3_2_
+    531_  642_1_-72  2_1_ //]
+BEM[]
+MEL_SEM[-2 -2 0 -1 1 2 2 -2 -2 7 -3 3 -3 -2 2 1 2 -2 -1 8 -1 -2 -2 0 -3 5 -2 -2 -1 -2 5 -3 -4 9 -4 -3 -2 -1 3 0 -2]
+MEL_RAW[32  11-7123  21
+    53  532345  43
+    +1765  53654  32
+    531  6421-72  21]
+NO_REP[321-712321
+    5353234543
+    +1765365432
+    5316421-721]
+RTM[x_.x  x_.xxxxx  x_x_
+    x_x_  x_x_xxxx  x_x_
+    xxxx  x_x_x_xx  x_x_
+    xxx_  xxx_x_xx  x_x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

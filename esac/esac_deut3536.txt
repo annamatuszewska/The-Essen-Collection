@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Nachtigall als Warnerin
+    Naechten als ich schlafen ging,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[6, S. 237
+    1842 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0137J]
+KEY[Q0137J  16  G 3/4]
+MEL[1_-5_1__1__  -7_1_2__0_
+    1_  3_2_1__2__  4_.32__0_
+    4_  3_5_2__.4_  3_5_1__.
+    2_  3_1_5_3_1__  3_.21__0__ //]
+BEM[]
+MEL_SEM[-5 5 0 -1 1 2 -2 4 -2 -2 2 3 -1 -2 3 -1 3 -5 3 -1 3 -7 2 2 -4 7 -3 -4 4 -2 -2]
+MEL_RAW[1-511  -7120
+    1  3212  4320
+    4  3524  351
+    2  31531  3210]
+NO_REP[1-51-7120
+    132124320
+    43524351
+    2315313210]
+RTM[x_x_x__x__  x_x_x__x_
+    x_  x_x_x__x__  x_.xx__x_
+    x_  x_x_x__.x_  x_x_x__.
+    x_  x_x_x_x_x__  x_.xx__x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

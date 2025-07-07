@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Faschingslied
+    RAU RAU ROMMELSDOEPPEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1276]
+KEY[Z1276   08  A 2/4]
+MEL[1-71-7  1-5-5-5
+    1-71-7  1-5-5-5
+    -6-71_  -6-71_
+    3b21-7  -5-71_
+    -6-71_  -6-71_
+    3b213b  2-71_ //]
+BEM[]
+MEL_SEM[-1 1 -1 1 -5 0 0 5 -1 1 -1 1 -5 0 0 2 2 1 -3 2 1 3 -1 -2 -1 -4 4 1 -3 2 1 -3 2 1 3 -1 -2 3 -1 -3 1]
+MEL_RAW[1-71-7  1-5-5-5
+    1-71-7  1-5-5-5
+    -6-71  -6-71
+    3b21-7  -5-71
+    -6-71  -6-71
+    3b213b  2-71]
+NO_REP[1-71-71-5
+    1-71-71-5
+    -6-71-6-71
+    3b21-7-5-71
+    -6-71-6-71
+    3b213b2-71]
+RTM[xxxx  xxxx
+    xxxx  xxxx
+    xxx_  xxx_
+    xxxx  xxx_
+    xxx_  xxx_
+    xxxx  xxx_]
+SCL_DEG[-5-6-7123b]
+SCL_SEM[2 2 1 2 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die verunglueckte Muellerstochter
+    Feinster Mueller, tu nachsehen,]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Unter - Franken]
+TRD[5, S. 193
+    ????]
+FKT[]
+SIG[Q0106C]
+KEY[Q0106C  04  G 3/4]
+MEL[1_2  3_.  3_.  5_5  6_5  5_.
+    1_2  3_.  3_.  6_5  5_5  5_.  3_.
+    1_5  5_.  3_.  5_.  5_.  3_.  5_+1  6_.  6_.  6_5  5_.
+    5_6  5_4  4_4  6_.  5_5  5_.  3_0 //]
+BEM[]
+MEL_SEM[2 2 0 3 0 2 -2 0 -7 2 2 0 5 -2 0 0 0 -3 -4 7 0 -3 3 0 -3 3 5 -3 0 0 -2 0 0 2 -2 -2 0 0 4 -2 0 0 -3]
+MEL_RAW[12  3  3  55  65  5
+    12  3  3  65  55  5  3
+    15  5  3  5  5  3  5+1  6  6  65  5
+    56  54  44  6  55  5  30]
+NO_REP[123565
+    123653
+    153535+165
+    56546530]
+RTM[x_x  x_.  x_.  x_x  x_x  x_.
+    x_x  x_.  x_.  x_x  x_x  x_.  x_.
+    x_x  x_.  x_.  x_.  x_.  x_.  x_x  x_.  x_.  x_x  x_.
+    x_x  x_x  x_x  x_.  x_x  x_.  x_x]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

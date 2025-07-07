@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es kam ein betruebter Reiter daher,]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen]
+TRD[4, S. 34
+    1879 gedruckt in Magdeburg]
+FKT[]
+SIG[Q0072Q]
+KEY[Q0072Q  16  F 4/4]
+MEL[3_2_  1__1_.11_2_3_4_  5__5_.55__
+    6__  5__4_.44__5_4_  4_3_3__3__
+    5__  3__2__2__1_2_  3__3__3__
+    5__  5__2__2__1_2_  3__3__3__ //]
+BEM[]
+MEL_SEM[-2 -2 0 0 0 2 2 1 2 0 0 0 2 -2 -2 0 0 2 -2 0 -1 0 0 3 -3 -2 0 -2 2 2 0 0 3 0 -5 0 -2 2 2 0 0]
+MEL_RAW[32  1111234  5555
+    6  544454  4333
+    5  32212  333
+    5  52212  333]
+NO_REP[3212345
+    654543
+    532123
+    52123]
+RTM[x_x_  x__x_.xx_x_x_x_  x__x_.xx__
+    x__  x__x_.xx__x_x_  x_x_x__x__
+    x__  x__x__x__x_x_  x__x__x__
+    x__  x__x__x__x_x_  x__x__x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

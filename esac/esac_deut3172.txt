@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Wiedersehen an der Bahre
+    Als wie die Sonn' am Himmel glaenzt]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 80
+    18?? gedruckt (Fliegendes Blatt) in Saargemuend (Mitte d. 19. Jh.)]
+FKT[]
+SIG[Q1056F]
+KEY[Q1056F  16  G 3/4]
+MEL[-5_-6_-5_  3__.1_2_1_  -7__0_
+    -5_-6_-5_  4__3_2_2__  1__0_
+    1_-7_2_  5__4_2_1_3_  3_432_
+    1_-7_2_  5__4_2_2__  1__0_ //]
+BEM[]
+MEL_SEM[2 -2 9 -4 2 -2 -1 -4 2 -2 10 -1 -2 0 -2 0 -1 3 5 -2 -3 -2 4 0 1 -1 -2 -2 -1 3 5 -2 -3 0 -2]
+MEL_RAW[-5-6-5  3121  -70
+    -5-6-5  4322  10
+    1-72  54213  3432
+    1-72  5422  10]
+NO_REP[-5-6-53121-70
+    -5-6-543210
+    1-7254213432
+    1-7254210]
+RTM[x_x_x_  x__.x_x_x_  x__x_
+    x_x_x_  x__x_x_x__  x__x_
+    x_x_x_  x__x_x_x_x_  x_xxx_
+    x_x_x_  x__x_x_x__  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

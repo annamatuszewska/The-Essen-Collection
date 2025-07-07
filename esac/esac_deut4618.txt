@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[NUN WILL ICH EUCH WAS NEUES ERZAEHLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0118]
+KEY[Z0118   08  F 2/4]
+MEL[1  1_1_  1_-71  2_12  321
+    2  3_33  3_23  4_34  543
+    5  6567  +1765  4_3_  2_
+    23  4_54  3_23  4_54  3_
+    5_  +1_53  5_31  5__  1_0 //]
+BEM[]
+MEL_SEM[0 0 0 -1 1 2 -2 2 2 -2 -2 2 2 0 0 0 -2 2 1 -1 1 2 -2 -1 3 2 -2 2 2 1 -1 -2 -2 -2 -1 -2 0 2 1 2 -2 -1 -2 2 1 2 -2 -1 3 5 -5 -3 3 -3 -4 7 -7]
+MEL_RAW[1  11  1-71  212  321
+    2  333  323  434  543
+    5  6567  +1765  43  2
+    23  454  323  454  3
+    5  +153  531  5  10]
+NO_REP[1-71212321
+    2323434543
+    56567+1765432
+    234543234543
+    5+153531510]
+RTM[x  x_x_  x_xx  x_xx  xxx
+    x  x_xx  x_xx  x_xx  xxx
+    x  xxxx  xxxx  x_x_  x_
+    xx  x_xx  x_xx  x_xx  x_
+    x_  x_xx  x_xx  x__  x_x]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

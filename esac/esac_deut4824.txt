@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Ottilie
+    ODILIA BLIND GEBOREN WAR]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1008]
+KEY[Z1008   08  G 4/4]
+MEL[-5_  1_332_54  3_231_0
+    3  2_21-7121  -7_-6-6-5_0
+    -5  1_112_2_  5__4_
+    3_  2___  1_0__ //]
+BEM[]
+MEL_SEM[5 4 0 -2 5 -2 -1 -2 2 -4 4 -2 0 -2 -1 1 2 -2 -1 -2 0 -2 0 5 0 0 2 0 5 -2 -1 -2 -2]
+MEL_RAW[-5  133254  32310
+    3  221-7121  -7-6-6-50
+    -5  11122  54
+    3  2  10]
+NO_REP[-51325432310
+    321-7121-7-6-50
+    -51254
+    3210]
+RTM[x_  x_xxx_xx  x_xxx_x
+    x  x_xxxxxx  x_xxx_x
+    x  x_xxx_x_  x__x_
+    x_  x___  x_x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

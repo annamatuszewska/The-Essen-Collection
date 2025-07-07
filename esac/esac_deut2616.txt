@@ -1,0 +1,32 @@
+BOEHME
+CUT[KOMM FEIN LIEBCHEN KOMM ANS FENSTER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0411]
+KEY[B0411   08  G 6/8]
+MEL[1_-71_-7  1_23_1
+    5_4#5_4#  5_0__
+    1_-71_-7  1_23_1
+    4_34_5  6_0
+    +1_.  +153542  1_0__ //]
+BEM[]
+MEL_SEM[-1 1 -1 1 2 2 -4 7 -1 1 -1 1 -7 -1 1 -1 1 2 2 -4 5 -1 1 2 2 3 0 -5 -3 3 -2 -3 -2]
+MEL_RAW[1-71-7  1231
+    54#54#  50
+    1-71-7  1231
+    4345  60
+    +1  +153542  10]
+NO_REP[1-71-71231
+    54#54#50
+    1-71-71231
+    434560
+    +15354210]
+RTM[x_xx_x  x_xx_x
+    x_xx_x  x_x__
+    x_xx_x  x_xx_x
+    x_xx_x  x_x
+    x_.  xxxxxx  x_x__]
+SCL_DEG[-712344#56+1]
+SCL_SEM[1 2 2 1 1 1 2 3]
+

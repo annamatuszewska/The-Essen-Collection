@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Koenig und Marquise
+    Quand le roi entra dans Paris,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[2, S. 30
+    1904 gedruckt]
+FKT[]
+SIG[Q2035E]
+KEY[Q2035E  08  G 6/8]
+MEL[-5-5-5  1_12_2  3_.
+    432  1_12_2  3_.
+    112  3_.234  32
+    2122  311-5_.
+    1235_3  2_.1_.  ^_. //]
+BEM[]
+MEL_SEM[0 0 5 0 2 0 2 1 -1 -2 -2 0 2 0 2 -4 0 2 2 -2 2 1 -1 -2 0 -2 2 0 2 -4 0 -5 5 2 2 3 -3 -2 -2]
+MEL_RAW[-5-5-5  1122  3
+    432  1122  3
+    112  3234  32
+    2122  311-5
+    12353  21  ^]
+NO_REP[-5123
+    432123
+    12323432
+    21231-5
+    1235321^]
+RTM[xxx  x_xx_x  x_.
+    xxx  x_xx_x  x_.
+    xxx  x_.xxx  xx
+    xxxx  xxxx_.
+    xxxx_x  x_.x_.  x_.]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

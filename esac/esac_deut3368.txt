@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die verkaufte Muellerin
+    Es ging ein Mueller wohl ueber Feld,]
+REG[Mitteleuropa, Deutschland (BRD) , Baden]
+TRD[4, S. 338
+    1848 aufgezeichnet]
+FKT[]
+SIG[Q0086J]
+KEY[Q0086J  08  G 4/4]
+MEL[-5_  1_3_2_5_  3_321_
+    -5_  1_3_2_5_  3_321_
+    12  3__5__  6_5_4_24  4__3_ //]
+BEM[]
+MEL_SEM[5 4 -2 5 -3 0 -2 -2 -5 5 4 -2 5 -3 0 -2 -2 0 2 2 3 2 -2 -2 -3 3 0 -1]
+MEL_RAW[-5  1325  3321
+    -5  1325  3321
+    12  35  65424  43]
+NO_REP[-51325321
+    -51325321
+    1235654243]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x_xxx_
+    xx  x__x__  x_x_x_xx  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

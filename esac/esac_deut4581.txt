@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[WOHL HEUTE NOCH UND MORGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0079]
+KEY[Z0079   04  E 6/4]
+MEL[1  6b_54_5  2_.1_
+    5  +1_+3b+2_+1  5_.
+    5_.  7b_45_7b  5_43b_
+    5  +1_+3b+2_+1  7_.^_
+    5  3b_52_1  1_.1_ //]
+BEM[]
+MEL_SEM[8 -1 -2 2 -5 -2 7 5 3 -1 -2 -5 0 3 -5 2 3 -3 -2 -2 4 5 3 -1 -2 -1 -4 -4 4 -5 -2 0 0]
+MEL_RAW[1  6b545  21
+    5  +1+3b+2+1  5
+    5  7b457b  543b
+    5  +1+3b+2+1  7^
+    5  3b521  11]
+NO_REP[16b54521
+    5+1+3b+2+15
+    57b457b543b
+    5+1+3b+2+17^
+    53b521]
+RTM[x  x_xx_x  x_.x_
+    x  x_xx_x  x_.
+    x_.  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_]
+SCL_DEG[123b456b7b7+1+2+3b]
+SCL_SEM[2 1 2 2 1 2 1 1 2 1]
+

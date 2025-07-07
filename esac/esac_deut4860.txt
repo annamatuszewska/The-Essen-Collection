@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Der Rattenfaenger von Hameln
+    KOMMT DAHER EIN WUNDERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+TRD[]
+FKT[]
+SIG[Z1044]
+KEY[Z1044   16  G 2/4]
+MEL[1_1_-7_1_  2_321__
+    2_2_3_5_  4_3_2__
+    3_2_1_1_  4_6_5__
+    4_2_3_1_  322_1__
+    3_.21_1_  4_6_5__
+    4_2_3_1_  322_1__ //]
+BEM[]
+MEL_SEM[0 -1 1 2 2 -2 -2 2 0 2 3 -2 -1 -2 2 -2 -2 0 5 4 -2 -2 -3 2 -4 4 -2 0 -2 4 -2 -2 0 5 4 -2 -2 -3 2 -4 4 -2 0 -2]
+MEL_RAW[11-71  2321
+    2235  432
+    3211  465
+    4231  3221
+    3211  465
+    4231  3221]
+NO_REP[1-712321
+    235432
+    321465
+    4231321
+    321465
+    4231321]
+RTM[x_x_x_x_  x_xxx__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  xxx_x__
+    x_.xx_x_  x_x_x__
+    x_x_x_x_  xxx_x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

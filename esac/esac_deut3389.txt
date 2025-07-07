@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Neisse, Korkwitz]
+TRD[5, S. 16
+    1856 gedruckt in Berlin]
+FKT[]
+SIG[Q0089G]
+KEY[Q0089G  16  G 6/8]
+MEL[-5_  1__2_3__4_  3__2_1__
+    -5_  1__2_3__4_  3__2_1__
+    1_  4__3_3_2_1_  2_2_1_-7__
+    1_  3__343_2_1_  3__2_1__ //]
+BEM[]
+MEL_SEM[5 2 2 1 -1 -2 -2 -5 5 2 2 1 -1 -2 -2 0 5 -1 0 -2 -2 2 0 -2 -1 1 4 0 1 -1 -2 -2 4 -2 -2]
+MEL_RAW[-5  1234  321
+    -5  1234  321
+    1  43321  221-7
+    1  334321  321]
+NO_REP[-51234321
+    -51234321
+    1432121-7
+    134321321]
+RTM[x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__
+    x_  x__xxx_x_x_  x__x_x__]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

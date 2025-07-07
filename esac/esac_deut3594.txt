@@ -1,0 +1,31 @@
+BALLADEN
+CUT[Der Jaeger im Tannenholz
+    Es wollt ein Jaeger jagen,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Frankfurt a.d.O.,
+    Seelow]
+TRD[7, S. 169
+    1846 aufgezeichnet]
+FKT[]
+SIG[Q0151A]
+KEY[Q0151A  08  C 6/8]
+MEL[3  5_5567  +1_.6_
+    6  5_3432  1_0_.
+    3  5_5567  +1_.6_
+    6  543432  1_0_. //]
+BEM[]
+MEL_SEM[3 0 0 2 2 1 -3 0 -2 -3 1 -1 -2 -2 4 3 0 0 2 2 1 -3 0 -2 -2 -1 1 -1 -2 -2]
+MEL_RAW[3  55567  +16
+    6  53432  10
+    3  55567  +16
+    6  543432  10]
+NO_REP[3567+16
+    65343210
+    3567+16
+    654343210]
+RTM[x  x_xxxx  x_.x_
+    x  x_xxxx  x_x_.
+    x  x_xxxx  x_.x_
+    x  xxxxxx  x_x_.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

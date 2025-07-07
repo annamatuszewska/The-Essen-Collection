@@ -1,0 +1,28 @@
+BOEHME
+CUT[ICH SEHE OFT UM MITTERNACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0241]
+KEY[B0241   08  G 4/4]
+MEL[-5_  1_2_3_4_  5_.43_
+    2_  1_-7_1_3_  2__0_
+    -5_  4_.32_2_  5_.43_
+    -5_  -6_421_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 -2 -1 -2 -2 -1 1 4 -2 -7 10 -1 -2 0 5 -2 -1 -9 2 8 -3 -2 -1 1]
+MEL_RAW[-5  1234  543
+    2  1-713  20
+    -5  4322  543
+    -5  -6421-7  10]
+NO_REP[-51234543
+    21-71320
+    -5432543
+    -5-6421-710]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x_
+    x_  x_.xx_x_  x_.xx_
+    x_  x_xxx_x_  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

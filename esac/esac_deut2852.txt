@@ -1,0 +1,28 @@
+BOEHME
+CUT[EIN STRAEUSSCHEN AM HUTE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen; Brandenburg]
+TRD[]
+FKT[]
+SIG[B0662]
+KEY[B0662   08  G 3/4]
+MEL[-5_  3_.21_  -5_.-6-5_  -5_-7_2_  2__
+    -5_  4_.32_  1_-7_-6_  -5_3_2_  1__
+    1_  2_2_2_  2_.22_  2_5_4_  3__
+    12  3_.23_  4_-6_2_  1_3_2_  1_0_ //]
+BEM[]
+MEL_SEM[9 -2 -2 -5 2 -2 0 4 3 0 -7 10 -1 -2 -2 -1 -2 -2 9 -2 -2 0 2 0 0 0 0 0 0 5 -2 -1 -4 2 2 -2 2 1 -8 5 -2 4 -2 -2]
+MEL_RAW[-5  321  -5-6-5  -5-72  2
+    -5  432  1-7-6  -532  1
+    1  222  222  254  3
+    12  323  4-62  132  10]
+NO_REP[-5321-5-6-5-72
+    -54321-7-6-5321
+    12543
+    123234-6213210]
+RTM[x_  x_.xx_  x_.xx_  x_x_x_  x__
+    x_  x_.xx_  x_x_x_  x_x_x_  x__
+    x_  x_x_x_  x_.xx_  x_x_x_  x__
+    xx  x_.xx_  x_x_x_  x_x_x_  x_x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

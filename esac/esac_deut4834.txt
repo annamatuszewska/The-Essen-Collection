@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Bestrafter Vorwitz 
+    MEIN SOHN MEIN SOHN WAS SAGST DU MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1018]
+KEY[Z1018   16  A 6/8]
+MEL[-5_  1__-7_1__2_  3b__3b_-7b__
+    -7b_  3b__2_3b__
+    12  3b__4_2__3b_  1__2_1_-7_
+    -5_  1__2_3b__2_  1__-7_1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 1 0 -5 0 5 -1 1 -3 2 1 2 -3 1 -3 2 -2 -1 -4 5 2 1 -1 -2 -1 1]
+MEL_RAW[-5  1-712  3b3b-7b
+    -7b  3b23b
+    12  3b423b  121-7
+    -5  123b2  1-71]
+NO_REP[-51-7123b-7b
+    -7b3b23b
+    123b423b121-7
+    -5123b21-71]
+RTM[x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__
+    xx  x__x_x__x_  x__x_x_x_
+    x_  x__x_x__x_  x__x_x__]
+SCL_DEG[-5-7b-7123b4]
+SCL_SEM[3 1 1 2 1 2]
+

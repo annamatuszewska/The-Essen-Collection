@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Schoen Adelheid
+    Es wolt ain maydlein wasser holl]
+REG[Mitteleuropa, Deutschland]
+TRD[4, S. 66
+    1530 Handschrift aus Muenchen (ca.)]
+FKT[]
+SIG[Q1074B]
+KEY[Q1074B  08  G FREI]
+MEL[1_  1_1_2_2_  3_3_1_
+    1_  4_3_2_3__2_  1-71_2__0_
+    2_  4__4_3__3_  2_2_1_.2  3_.21_-7-6  -7__
+    -5__  1_1_3__2_1_  2__1_ //]
+BEM[]
+MEL_SEM[0 0 2 0 2 0 -4 0 5 -1 -2 2 -2 -2 -1 1 2 0 3 0 -1 0 -2 0 -2 2 2 -2 -2 -1 -2 2 -4 5 0 4 -2 -2 2 -2]
+MEL_RAW[1  1122  331
+    1  43232  1-7120
+    2  4433  2212  321-7-6  -7
+    -5  11321  21]
+NO_REP[1231
+    1432321-7120
+    243212321-7-6-7
+    -5132121]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x__x_  xxx_x__x_
+    x_  x__x_x__x_  x_x_x_.x  x_.xx_xx  x__
+    x__  x_x_x__x_x_  x__x_]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

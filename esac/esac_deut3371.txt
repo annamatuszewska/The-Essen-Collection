@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die verkaufte Muellerin
+    Es wollt ein Mueller frueh aufstehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Schleswig - Holstein, Dithmarschen]
+TRD[4, S. 342
+    1881 gedruckt]
+FKT[]
+SIG[Q0086P]
+KEY[Q0086P  08  G 4/4]
+MEL[-5_  1_1_2_2_  3_321_
+    12  3_3_4_46  5_543_
+    5_  6_5_4_3_  2__1_
+    5_  6_5_4_3_  2__1_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 -2 -2 0 2 2 0 1 0 4 -2 0 -2 -1 3 2 -2 -2 -1 -2 -2 7 2 -2 -2 -1 -2 -2]
+MEL_RAW[-5  1122  3321
+    12  33446  5543
+    5  6543  21
+    5  6543  21]
+NO_REP[-512321
+    12346543
+    5654321
+    5654321]
+RTM[x_  x_x_x_x_  x_xxx_
+    xx  x_x_x_xx  x_xxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

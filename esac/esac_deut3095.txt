@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Bluthochzeit
+    Es fuhr ein Pfalzgraf ueber den Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Siebengebirge]
+TRD[2, S. 157
+    1860 aufgezeichnet]
+FKT[]
+SIG[Q0046]
+KEY[Q0046   16  G 4/4]
+MEL[-5_  1__.2_3b__.2_  1_2_3b_4_5__0_
+    5_  5__4_3b_2__.5_  5__4_3b_2__0_
+    2_  5__.6_7b__.6_  5__4_3b_2__0_
+    5_  6b_5_4_3b_2__5__  3b__2_.11__0_ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 2 1 2 2 0 0 -2 -2 -1 5 0 -2 -2 -1 0 5 2 1 -1 -2 -2 -2 -1 5 1 -1 -2 -2 -1 5 -4 -1 -2 0]
+MEL_RAW[-5  123b2  123b450
+    5  543b25  543b20
+    2  567b6  543b20
+    5  6b543b25  3b2110]
+NO_REP[-5123b2123b450
+    543b2543b20
+    2567b6543b20
+    56b543b253b210]
+RTM[x_  x__.x_x__.x_  x_x_x_x_x__x_
+    x_  x__x_x_x__.x_  x__x_x_x__x_
+    x_  x__.x_x__.x_  x__x_x_x__x_
+    x_  x_x_x_x_x__x__  x__x_.xx__x_]
+SCL_DEG[-5123b456b67b]
+SCL_SEM[5 2 1 2 2 1 1 1]
+

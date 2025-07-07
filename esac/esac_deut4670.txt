@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Die Schlaue
+    IHREN LIEBSTEN ZU ERWARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+TRD[]
+FKT[]
+SIG[Z0170]
+KEY[Z0170   08  F 6/8]
+MEL[1_11_3  3_5543
+    2_22_2  3_21_1
+    6_667+1  5_55_0
+    4_4654  4333_0
+    222432  135543
+    222432  1321_0 //]
+BEM[]
+MEL_SEM[0 0 4 0 3 0 -2 -1 -2 0 0 0 2 -2 -2 0 9 0 0 2 1 -5 0 0 -2 0 4 -2 -2 0 -1 0 0 -2 0 0 3 -1 -2 -2 4 3 0 -2 -1 -2 0 0 3 -1 -2 -2 4 -2 -2]
+MEL_RAW[1113  35543
+    2222  3211
+    6667+1  5550
+    44654  43330
+    222432  135543
+    222432  13210]
+NO_REP[13543
+    2321
+    67+150
+    465430
+    243213543
+    243213210]
+RTM[x_xx_x  x_xxxx
+    x_xx_x  x_xx_x
+    x_xxxx  x_xx_x
+    x_xxxx  xxxx_x
+    xxxxxx  xxxxxx
+    xxxxxx  xxxx_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

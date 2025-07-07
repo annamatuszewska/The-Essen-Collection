@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Tannhaeuser
+    Nun wil ichs aber heben an]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 145
+    1500 Handschrift Muenchen]
+FKT[]
+SIG[Q0015]
+KEY[Q0015   16  G FREI]
+MEL[1__  1__1__2__3__  4__4__3__2__0__
+    3__  5__5__4__1__  2__3__4___0__
+    2__  3__4__5__6__  5__4_3_2___0__
+    3__  1__2_.34__.321___  2___1___0__ //]
+BEM[]
+MEL_SEM[0 0 2 2 1 0 -1 -2 2 3 0 -2 -5 2 2 1 -3 2 1 2 2 -2 -2 -1 -2 2 -4 2 2 1 -1 -2 -2 2 -2]
+MEL_RAW[1  1123  44320
+    3  5541  2340
+    2  3456  54320
+    3  1234321  210]
+NO_REP[1234320
+    35412340
+    2345654320
+    31234321210]
+RTM[x__  x__x__x__x__  x__x__x__x__x__
+    x__  x__x__x__x__  x__x__x___x__
+    x__  x__x__x__x__  x__x_x_x___x__
+    x__  x__x_.xx__.xxx___  x___x___x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

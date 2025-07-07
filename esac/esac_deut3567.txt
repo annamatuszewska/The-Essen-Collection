@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Winterrosen
+    Es wollt so'n wacker Maedchen aufs Wasser holen gehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+TRD[7, S. 63
+    1928 gedruckt]
+FKT[]
+SIG[Q0145J]
+KEY[Q0145J  16  G 2/4]
+MEL[-5_  -5_1_1_1_  1__2_2_  3b_-7b_-7b_-7b1  1__
+    1_2_  3b__-7b__  -6b_1_-7b__  -5___  -3b__.0_
+    1__1_-5_  1__.0_  1__(2_1_2_)  3b__
+    3b_5_  4__3b__  2__1__  -5___  1__. //]
+BEM[]
+MEL_SEM[0 5 0 0 0 2 0 1 -5 0 0 2 0 0 2 1 -5 -2 4 -2 -3 -4 9 0 -5 5 0 2 -2 2 1 0 4 -2 -2 -1 -2 -5 5]
+MEL_RAW[-5  -5111  122  3b-7b-7b-7b1  1
+    12  3b-7b  -6b1-7b  -5  -3b0
+    11-5  10  1212  3b
+    3b5  43b  21  -5  1]
+NO_REP[-5123b-7b1
+    123b-7b-6b1-7b-5-3b0
+    1-51012123b
+    3b543b21-51]
+RTM[x_  x_x_x_x_  x__x_x_  x_x_x_xx  x__
+    x_x_  x__x__  x_x_x__  x___  x__.x_
+    x__x_x_  x__.x_  x__(x_x_x_)  x__
+    x_x_  x__x__  x__x__  x___  x__.]
+SCL_DEG[-3b-5-6b-7b123b45]
+SCL_SEM[4 1 2 2 2 1 2 2]
+

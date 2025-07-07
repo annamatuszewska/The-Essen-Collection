@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Verschlafener Jaeger
+    Es wollt' ein Jaeger jagen]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Ortenau, Meissenheim]
+TRD[7, S. 219
+    1897 aufgezeichnet (ca.)]
+FKT[]
+SIG[Q0152Q]
+KEY[Q0152Q  16  G 6/8]
+MEL[-5_  1__2_3b__1_  5__.^_4_
+    3b_  2__1_-7_-7_1_  2__.^_0_
+    1_  5__5_3b__1_  +1__.5__
+    4_  3b_.21_2_.1-7_  1__.^_0_
+    1_  5__5_3b__1_  +1__.5__
+    4_  3b_.21_2_.1-7_  1__.^_0_ //]
+BEM[]
+MEL_SEM[5 2 1 -3 7 -2 -2 -1 -2 -1 0 1 2 -2 7 0 -4 -3 12 -5 -2 -2 -1 -2 2 -2 -1 1 0 7 0 -4 -3 12 -5 -2 -2 -1 -2 2 -2 -1 1]
+MEL_RAW[-5  123b1  5^4
+    3b  21-7-71  2^0
+    1  553b1  +15
+    4  3b2121-7  1^0
+    1  553b1  +15
+    4  3b2121-7  1^0]
+NO_REP[-5123b15^4
+    3b21-712^0
+    153b1+15
+    43b2121-71^0
+    153b1+15
+    43b2121-71^0]
+RTM[x_  x__x_x__x_  x__.x_x_
+    x_  x__x_x_x_x_  x__.x_x_
+    x_  x__x_x__x_  x__.x__
+    x_  x_.xx_x_.xx_  x__.x_x_
+    x_  x__x_x__x_  x__.x__
+    x_  x_.xx_x_.xx_  x__.x_x_]
+SCL_DEG[-5-7123b45+1]
+SCL_SEM[4 1 2 1 2 2 5]
+

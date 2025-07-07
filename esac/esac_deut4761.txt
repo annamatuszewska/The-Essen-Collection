@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[JETZT IST ES BALD SONNTAG, DA BIN ICH GAR ZU FROH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[Z0261]
+KEY[Z0261   08  G 2/4]
+MEL[-5  1_31  5_4
+    4  3322  1_0
+    -5  1_31  5_4
+    4  3322  1_0
+    3  2422  353
+    3  2422  353
+    -5  1131  5_4
+    4  3322  1_0 //]
+BEM[]
+MEL_SEM[5 4 -4 7 -2 0 -1 0 -2 0 -2 -5 5 4 -4 7 -2 0 -1 0 -2 0 -2 4 -2 3 -3 0 2 3 -3 0 -2 3 -3 0 2 3 -3 -9 5 0 4 -4 7 -2 0 -1 0 -2 0 -2]
+MEL_RAW[-5  131  54
+    4  3322  10
+    -5  131  54
+    4  3322  10
+    3  2422  353
+    3  2422  353
+    -5  1131  54
+    4  3322  10]
+NO_REP[-513154
+    43210
+    -513154
+    43210
+    3242353
+    3242353
+    -513154
+    43210]
+RTM[x  x_xx  x_x
+    x  xxxx  x_x
+    x  x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  x_x]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

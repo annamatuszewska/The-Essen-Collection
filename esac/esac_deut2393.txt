@@ -1,0 +1,28 @@
+BOEHME
+CUT[DIE ALTE FICHTE SCHWANKET]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0156]
+KEY[B0156   08  A 4/4]
+MEL[1_  -7_-5_1_2_  3b__2_
+    5_  4_2_3b21_  2__0_
+    2_  3b_4_5_4_  3b_.21_
+    2_  -5_1_3b21-7  1__0_ //]
+BEM[]
+MEL_SEM[-1 -4 5 2 1 -1 5 -2 -3 1 -1 -2 2 0 1 2 2 -2 -2 -1 -2 2 -7 5 3 -1 -2 -1 1]
+MEL_RAW[1  -7-512  3b2
+    5  423b21  20
+    2  3b454  3b21
+    2  -513b21-7  10]
+NO_REP[1-7-5123b2
+    5423b2120
+    23b4543b21
+    2-513b21-710]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x_x_xxx_  x__x_
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_xxxx  x__x_]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

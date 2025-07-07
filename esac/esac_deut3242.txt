@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Bai Raedder
+    E baai hi traeaed e redr uun e daans]
+REG[Mitteleuropa, Deutschland (BRD) , Nordsee, Foehr]
+TRD[3, S. 281
+    ????]
+FKT[]
+SIG[Q1071B]
+KEY[Q1071B  08  A FREI]
+MEL[-5_  -5_1_1_1_  3b3b212_
+    22  222_3b_3b_  4___
+    2_2_3b_3b_  44121__  3b3b23b1__
+    3b_3b_2-7-7_  1___ //]
+BEM[]
+MEL_SEM[0 5 0 0 3 0 -1 -2 2 0 0 0 0 0 1 0 2 -3 0 1 0 2 0 -5 2 -2 3 0 -1 1 -3 3 0 -1 -3 0 1]
+MEL_RAW[-5  -5111  3b3b212
+    22  2223b3b  4
+    223b3b  44121  3b3b23b1
+    3b3b2-7-7  1]
+NO_REP[-513b212
+    23b4
+    23b41213b23b1
+    3b2-71]
+RTM[x_  x_x_x_x_  xxxxx_
+    xx  xxx_x_x_  x___
+    x_x_x_x_  xxxxx__  xxxxx__
+    x_x_xxx_  x___]
+SCL_DEG[-5-7123b4]
+SCL_SEM[4 1 2 1 2]
+

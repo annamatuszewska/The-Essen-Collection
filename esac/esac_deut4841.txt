@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Zwei Frauen
+    EIN RITTER ZOG INS MORGENLAND]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1025]
+KEY[Z1025   16  E 6/8]
+MEL[+1_  +1_.+2+1_7b__6b_  5__5_6b_.54_  5__4_3b__
+    56b  7b__3b_4__.  3b__0__.
+    5_  5_.6b5_4__3b_  2__2_3b_.21_  -7__1_2__
+    23b  4__3b_2__.  1__0__. //]
+BEM[]
+MEL_SEM[0 2 -2 -2 -2 -1 0 1 -1 -2 2 -2 -2 4 1 2 -7 2 -2 4 0 1 -1 -2 -2 -1 0 1 -1 -2 -1 1 2 0 1 2 -2 -1 -2]
+MEL_RAW[+1  +1+2+17b6b  556b54  543b
+    56b  7b3b4  3b0
+    5  56b543b  223b21  -712
+    23b  43b2  10]
+NO_REP[+1+2+17b6b56b54543b
+    56b7b3b43b0
+    56b543b23b21-712
+    23b43b210]
+RTM[x_  x_.xx_x__x_  x__x_x_.xx_  x__x_x__
+    xx  x__x_x__.  x__x__.
+    x_  x_.xx_x__x_  x__x_x_.xx_  x__x_x__
+    xx  x__x_x__.  x__x__.]
+SCL_DEG[-7123b456b7b+1+2]
+SCL_SEM[1 2 1 2 2 1 2 2 2]
+

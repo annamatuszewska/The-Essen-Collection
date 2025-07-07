@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es war ein Pfalzgraf an dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+TRD[4, S. 112
+    1931 gedruckt in Wiesbaden - Biebrich]
+FKT[]
+SIG[Q0075e]
+KEY[Q0075e  32  F 2/4]
+MEL[5__  3__5__3__5__  6__6__6_5_
+    4_3_  2__4__2__4__  5__5__5_4_
+    3_.2  1___.2__  3___.+1__  7__6__6__6__  5___. //]
+BEM[]
+MEL_SEM[-3 3 -3 3 2 0 0 -2 -2 -1 -2 3 -3 3 2 0 0 -2 -1 -2 -2 2 2 8 -1 -2 0 0 -2]
+MEL_RAW[5  3535  6665
+    43  2424  5554
+    32  12  3+1  7666  5]
+NO_REP[5353565
+    43242454
+    32123+1765]
+RTM[x__  x__x__x__x__  x__x__x_x_
+    x_x_  x__x__x__x__  x__x__x_x_
+    x_.x  x___.x__  x___.x__  x__x__x__x__  x___.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

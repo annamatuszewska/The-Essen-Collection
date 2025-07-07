@@ -1,0 +1,28 @@
+BOEHME
+CUT[WER WOLLTE SICH MIT GRILLEN PLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Pommern; Brandenburg; Sachsen]
+TRD[]
+FKT[]
+SIG[B0290A]
+KEY[B0290A  16  F 4/4]
+MEL[-5__  1__.3_2_1_2_3_  1__5_.43__0_
+    1_  2__.3_4_3_4_5_  4__3__0__
+    1_3_  5__.3_5_3_5_+1_  7_6_5__0__
+    3__  2__.3_4_6_5_-7_  2__1__0__ //]
+BEM[]
+MEL_SEM[5 4 -2 -2 2 2 -4 7 -2 -1 -4 2 2 1 -1 1 2 -2 -1 -4 4 3 -3 3 -3 3 5 -1 -2 -2 -3 -2 2 1 4 -2 -8 3 -2]
+MEL_RAW[-5  132123  15430
+    1  234345  430
+    13  53535+1  7650
+    3  23465-7  210]
+NO_REP[-513212315430
+    1234345430
+    1353535+17650
+    323465-7210]
+RTM[x__  x__.x_x_x_x_x_  x__x_.xx__x_
+    x_  x__.x_x_x_x_x_  x__x__x__
+    x_x_  x__.x_x_x_x_x_  x_x_x__x__
+    x__  x__.x_x_x_x_x_  x__x__x__]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

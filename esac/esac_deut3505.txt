@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Muskatbaum
+    Spewaj mi, spewaj socholask,]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
+TRD[6, S. 147
+    1893 gedruckt]
+FKT[]
+SIG[Q2130B]
+KEY[Q2130B  08  C 3/4]
+MEL[5_  +1__+1_  7_6_5_  6__7_  +1__
+    7_  6_7_+1_  +2__7_  +1_7_6_  5__
+    5_  +1__5_  6__42  5_5_4_  3__
+    2_  3__6_  5__5_  4_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 -1 -2 -2 2 2 1 -1 -2 2 1 2 -3 1 -1 -2 -2 0 5 -5 2 -4 -3 5 0 -2 -1 -2 2 5 -2 0 -2 -1 -2 -2]
+MEL_RAW[5  +1+1  765  67  +1
+    7  67+1  +27  +176  5
+    5  +15  642  554  3
+    2  36  55  432  1]
+NO_REP[5+176567+1
+    767+1+27+1765
+    5+15642543
+    23654321]
+RTM[x_  x__x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  x__x_  x_x_x_  x__
+    x_  x__x_  x__xx  x_x_x_  x__
+    x_  x__x_  x__x_  x_x_x_  x__]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

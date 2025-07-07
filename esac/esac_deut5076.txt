@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Vergebliche Hoffnung
+    ACH ACH DASS GOTT ERBARM]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z1326]
+KEY[Z1326   16  F 6/8]
+MEL[12  3_34321__34  5_56543__
+    34  5__5_6_6_5_  5_4_4_3__
+    5_  5_6_7_+1__33  2_3_4_5__
+    3_  1_2_3_5_4_3_  2_1_2_1__ //]
+BEM[]
+MEL_SEM[2 2 0 1 -1 -2 -2 4 1 2 0 2 -2 -2 -1 0 1 2 0 2 0 -2 0 -2 0 -1 3 0 2 2 1 -8 0 -2 2 1 2 -3 -4 2 2 3 -2 -1 -2 -2 2 -2]
+MEL_RAW[12  33432134  556543
+    34  55665  5443
+    5  567+133  2345
+    3  123543  2121]
+NO_REP[12343213456543
+    3456543
+    567+132345
+    31235432121]
+RTM[xx  x_xxxxx__xx  x_xxxxx__
+    xx  x__x_x_x_x_  x_x_x_x__
+    x_  x_x_x_x__xx  x_x_x_x__
+    x_  x_x_x_x_x_x_  x_x_x_x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

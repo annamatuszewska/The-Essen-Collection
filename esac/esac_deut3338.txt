@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Mordeltern
+    Es hatt' ein Gastwirt einen Sohn,]
+REG[Mitteleuropa, Deutschland (DDR) , Mecklenburg]
+TRD[4, S. 308
+    ????]
+FKT[]
+SIG[Q0085M]
+KEY[Q0085M  16  G FREI]
+MEL[3__  1_1_-7_.1-7_2_  -7_2_2___
+    4__  2_-7_-5__4__  3_2_1__0_
+    -5_  1_.23__.2_  1__.-6_-6__
+    3__  3__2_3_4_2_  -5_.-71___ //]
+BEM[]
+MEL_SEM[-4 0 -1 1 -1 3 -3 3 0 3 -3 -3 -4 10 -1 -2 -2 -5 5 2 2 -2 -2 -3 0 7 0 -2 2 1 -3 -7 4 1]
+MEL_RAW[3  11-71-72  -722
+    4  2-7-54  3210
+    -5  1232  1-6-6
+    3  32342  -5-71]
+NO_REP[31-71-72-72
+    42-7-543210
+    -512321-6
+    32342-5-71]
+RTM[x__  x_x_x_.xx_x_  x_x_x___
+    x__  x_x_x__x__  x_x_x__x_
+    x_  x_.xx__.x_  x__.x_x__
+    x__  x__x_x_x_x_  x_.xx___]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

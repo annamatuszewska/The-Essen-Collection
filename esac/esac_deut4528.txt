@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES WAR'N ZWEI KOENIGSKINDER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0026]
+KEY[Z0026   16  D 4/4]
+MEL[1_1_1_  5__4__5__3b__  0___0_
+    5_5_5_  6b__5__3b__4__  3b___0_
+    3b_3b_5_  4_3b_4_5_4_3b_2_1_  -7b__-7b___
+    -7b__  1_2_3b_1_5_4_3b_21  1__.0__ //]
+BEM[]
+MEL_SEM[0 0 7 -2 2 -4 4 0 0 1 -1 -4 2 -2 0 0 4 -2 -2 2 2 -2 -2 -1 -2 -2 0 0 2 2 1 -3 7 -2 -2 -1 -2 0]
+MEL_RAW[111  5453b  00
+    555  6b53b4  3b0
+    3b3b5  43b4543b21  -7b-7b
+    -7b  123b1543b21  10]
+NO_REP[15453b0
+    56b53b43b0
+    3b543b4543b21-7b
+    -7b123b1543b210]
+RTM[x_x_x_  x__x__x__x__  x___x_
+    x_x_x_  x__x__x__x__  x___x_
+    x_x_x_  x_x_x_x_x_x_x_x_  x__x___
+    x__  x_x_x_x_x_x_x_xx  x__.x__]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Waisen
+    WIE WUNDER WIE WUNDER WIE MAG ES WOHL SEYN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1090]
+KEY[Z1090   08  G 3/4]
+MEL[5_  3b_4_5_  4_4_
+    1_  4_3b_2_  1__
+    5_  1_2_3b3b  2_2_
+    1_  -7_1_2_  1__ //]
+BEM[]
+MEL_SEM[-4 2 2 -2 0 -5 5 -2 -1 -2 7 -7 2 1 0 -1 0 -2 -1 1 2 -2]
+MEL_RAW[5  3b45  44
+    1  43b2  1
+    5  123b3b  22
+    1  -712  1]
+NO_REP[53b454
+    143b21
+    5123b2
+    1-7121]
+RTM[x_  x_x_x_  x_x_
+    x_  x_x_x_  x__
+    x_  x_x_xx  x_x_
+    x_  x_x_x_  x__]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

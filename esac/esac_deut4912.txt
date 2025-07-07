@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Die Rabenmutter
+    ES HUETET EIN SCHAEFER AN JENEM RAIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[Z1097]
+KEY[Z1097   08  G 3/4]
+MEL[5_1_2_  1-71_0_
+    -5_3b_4_  543b_0_
+    5_7b_6b5  5_6b_5_  4__4_  3b_0__
+    5_5_4_  354_0_
+    5_6b_5_  4_5_0_
+    1-71_2_  3b45_43b  2__2_  1_0__ //]
+BEM[]
+MEL_SEM[-7 2 -2 -1 1 -5 8 2 2 -2 -2 4 3 -2 -1 0 1 -1 -2 0 -2 4 0 -2 -1 3 -2 2 1 -1 -2 2 -7 -1 1 2 1 2 2 -2 -2 -1 0 -2]
+MEL_RAW[512  1-710
+    -53b4  543b0
+    57b6b5  56b5  44  3b0
+    554  3540
+    56b5  450
+    1-712  3b4543b  22  10]
+NO_REP[5121-710
+    -53b4543b0
+    57b6b56b543b0
+    543540
+    56b5450
+    1-7123b4543b210]
+RTM[x_x_x_  xxx_x_
+    x_x_x_  xxx_x_
+    x_x_xx  x_x_x_  x__x_  x_x__
+    x_x_x_  xxx_x_
+    x_x_x_  x_x_x_
+    xxx_x_  xxx_xx  x__x_  x_x__]
+SCL_DEG[-5-7123b3456b7b]
+SCL_SEM[4 1 2 1 1 1 2 1 2]
+

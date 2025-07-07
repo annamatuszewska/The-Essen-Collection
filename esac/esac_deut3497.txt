@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Das Maedchen und der Faehnrich
+    Es war ein reicher Schlaechtersmann]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Birkenwerder]
+TRD[6, S. 107
+    1841 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0127F]
+KEY[Q0127F  08  G 4/4]
+MEL[12  3b43b21_23b  4543b2_
+    4_  5_5_1_4_  3b_2_1_
+    1_  5_.45_6b_  4_.3b4_
+    5_  3b_2_3b_5_  4_3b_2_
+    12  3b43b21_23b  4543b2_
+    4_  5_5_1_4_  3b_2_1_ //]
+BEM[]
+MEL_SEM[2 1 2 -2 -1 -2 2 1 2 2 -2 -2 -1 3 2 0 -7 5 -2 -1 -2 0 7 -2 2 1 -3 -2 2 2 -4 -1 1 4 -2 -2 -1 -2 2 1 2 -2 -1 -2 2 1 2 2 -2 -2 -1 3 2 0 -7 5 -2 -1 -2]
+MEL_RAW[12  3b43b2123b  4543b2
+    4  5514  3b21
+    1  5456b  43b4
+    5  3b23b5  43b2
+    12  3b43b2123b  4543b2
+    4  5514  3b21]
+NO_REP[123b43b2123b4543b2
+    45143b21
+    15456b43b4
+    53b23b543b2
+    123b43b2123b4543b2
+    45143b21]
+RTM[xx  xxxxx_xx  xxxxx_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x_.xx_
+    x_  x_x_x_x_  x_x_x_
+    xx  xxxxx_xx  xxxxx_
+    x_  x_x_x_x_  x_x_x_]
+SCL_DEG[123b456b]
+SCL_SEM[2 1 2 2 1]
+

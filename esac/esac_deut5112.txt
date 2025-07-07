@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Beim Ritt auf dem Knie
+    ULL MANN WULL RIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+TRD[]
+FKT[]
+SIG[Z1375]
+KEY[Z1375   08  C 3/4]
+MEL[1_1_2_  -7_-7-6-7-5
+    1_1_2_  3b__0_
+    3b_3b_3b_  2_.22_
+    1_1_1_  -7_.-7-7_
+    1_1_3b_  2__-7_  1__0_ //]
+BEM[]
+MEL_SEM[0 2 -3 0 -2 2 -4 5 0 2 1 0 0 0 -1 0 0 -2 0 0 -1 0 0 1 0 3 -1 -3 1]
+MEL_RAW[112  -7-7-6-7-5
+    112  3b0
+    3b3b3b  222
+    111  -7-7-7
+    113b  2-7  10]
+NO_REP[12-7-6-7-5
+    123b0
+    3b2
+    1-7
+    13b2-710]
+RTM[x_x_x_  x_xxxx
+    x_x_x_  x__x_
+    x_x_x_  x_.xx_
+    x_x_x_  x_.xx_
+    x_x_x_  x__x_  x__x_]
+SCL_DEG[-5-6-7123b]
+SCL_SEM[2 2 1 2 1]
+

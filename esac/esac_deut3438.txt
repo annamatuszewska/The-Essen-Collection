@@ -1,0 +1,35 @@
+BALLADEN
+CUT[Richmudis von Adocht
+    Der eine gestaendige Liebe woll han,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
+    Sengbusch]
+TRD[5, S. 241
+    ????]
+FKT[]
+SIG[Q1112D]
+KEY[Q1112D  16  G 6/8]
+MEL[-5_  1_1_1_2_2_5_  4_4_3_2__
+    -5-5  1_1_2_5_4_2_  3__.^__
+    -5_  1_1_1_2__5_  4_.43_2__
+    32  1_1_1_2__5_  4_.43_2__
+    -5_  1_11543_3_2_  1__.^__ //]
+BEM[]
+MEL_SEM[5 0 0 2 0 5 -2 0 -1 -2 -7 0 5 0 2 5 -2 -3 2 -9 5 0 0 2 5 -2 0 -1 -2 2 -2 -2 0 0 2 5 -2 0 -1 -2 -7 5 0 0 7 -2 -1 0 -2 -2]
+MEL_RAW[-5  111225  4432
+    -5-5  112542  3^
+    -5  11125  4432
+    32  11125  4432
+    -5  11154332  1^]
+NO_REP[-5125432
+    -5125423^
+    -5125432
+    32125432
+    -5154321^]
+RTM[x_  x_x_x_x_x_x_  x_x_x_x__
+    xx  x_x_x_x_x_x_  x__.x__
+    x_  x_x_x_x__x_  x_.xx_x__
+    xx  x_x_x_x__x_  x_.xx_x__
+    x_  x_xxxxx_x_x_  x__.x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

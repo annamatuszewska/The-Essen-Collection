@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Die wiedergefundene Tochter
+    DER KOENIG ZOG WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1012]
+KEY[Z1012   16  G 6/8]
+MEL[-5_  1_2_3b_2__2_  1_-7_1_2__
+    2_  3b_4543b2__
+    25  5_4_3b_4_3b_2_  3b_4543b2_1_
+    2_  1_-7_1-6b-5__1_  -7_1_3b_2__
+    (3b45)  4__.5__42  3b__2_1__ //]
+BEM[]
+MEL_SEM[5 2 1 -1 0 -2 -1 1 2 0 1 2 2 -2 -2 -1 0 5 0 -2 -2 2 -2 -1 1 2 2 -2 -2 -1 -2 2 -2 -1 1 -4 -1 5 -1 1 3 -1 1 2 2 -2 2 -2 -3 1 -1 -2]
+MEL_RAW[-5  123b22  1-712
+    2  3b4543b2
+    25  543b43b2  3b4543b21
+    2  1-71-6b-51  -713b2
+    3b45  4542  3b21]
+NO_REP[-5123b21-712
+    23b4543b2
+    2543b43b23b4543b21
+    21-71-6b-51-713b2
+    3b4545423b21]
+RTM[x_  x_x_x_x__x_  x_x_x_x__
+    x_  x_xxxxx__
+    xx  x_x_x_x_x_x_  x_xxxxx_x_
+    x_  x_x_xxx__x_  x_x_x_x__
+    (xxx)  x__.x__xx  x__x_x__]
+SCL_DEG[-5-6b-7123b45]
+SCL_SEM[1 3 1 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[MEIN SCHATZ IST AUF DIE WANDERSCHAFT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0198]
+KEY[Z0198   08  D 4/4]
+MEL[12  3b_1_1_2_  3b3b1_1_
+    2_  3b_3b3b4444  5_.6b5_
+    3b4  5_6b6b7b_5_  6b543b2_
+    3b4  5_3b45_(43b2)  1_-7_1_ //]
+BEM[]
+MEL_SEM[2 1 -3 0 2 1 0 -3 0 2 1 0 0 2 0 0 0 2 1 -1 -4 2 2 1 0 2 -3 1 -1 -2 -2 -1 1 2 2 -4 2 2 -2 -2 -1 -2 -1 1]
+MEL_RAW[12  3b112  3b3b11
+    2  3b3b3b4444  56b5
+    3b4  56b6b7b5  6b543b2
+    3b4  53b4543b2  1-71]
+NO_REP[123b123b1
+    23b456b5
+    3b456b7b56b543b2
+    3b453b4543b21-71]
+RTM[xx  x_x_x_x_  xxx_x_
+    x_  x_xxxxxx  x_.xx_
+    xx  x_xxx_x_  xxxxx_
+    xx  x_xxx_(xxx)  x_x_x_]
+SCL_DEG[-7123b456b7b]
+SCL_SEM[1 2 1 2 2 1 2]
+

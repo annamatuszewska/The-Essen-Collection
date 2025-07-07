@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Jungfer Doertchen
+    Es ritt ein Ritter sehr wohlgemut,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Altmark]
+TRD[3, S. 104
+    1879 gedruckt in Magdeburg]
+FKT[]
+SIG[Q0057Z]
+KEY[Q0057Z  08  G 4/4]
+MEL[-5_  1_-5_3_21  -72232_
+    -5-7  2_225_42  311_12
+    31  -6_-6-61_
+    -7-6  -6-5-5_-5_
+    4_  4_421_-7_  211_1_ //]
+BEM[]
+MEL_SEM[5 -5 9 -2 -2 -1 3 0 2 -2 -7 4 3 0 0 5 -2 -3 2 -4 0 0 2 2 -4 -3 0 0 3 -1 -2 0 -2 0 0 10 0 0 -3 -2 -1 3 -2 0 0]
+MEL_RAW[-5  1-5321  -72232
+    -5-7  222542  31112
+    31  -6-6-61
+    -7-6  -6-5-5-5
+    4  4421-7  2111]
+NO_REP[-51-5321-7232
+    -5-72542312
+    31-61
+    -7-6-5
+    421-721]
+RTM[x_  x_x_x_xx  xxxxx_
+    xx  x_xxx_xx  xxx_xx
+    xx  x_xxx_
+    xx  xxx_x_
+    x_  x_xxx_x_  xxx_x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

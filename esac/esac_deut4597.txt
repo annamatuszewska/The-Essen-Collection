@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[FRUEHMORGENS DER PFALZGRAF ZUM WAIDWERK REIT]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0097]
+KEY[Z0097   16  F 4/4]
+MEL[-5__  1__1_.23b_2_1_2_  3b__4__5__0_
+    5_  5_4_4_4_4_3b_2_1_  4_3b_2_1_2__.
+    5_  7b_6b_5_4#_5__.5_  5__4_3b_2__.
+    5_  5_4_4_3b_2__2_5_  3b__2_2_1__ //]
+BEM[]
+MEL_SEM[5 0 2 1 -1 -2 2 1 2 2 0 0 -2 0 0 0 -2 -1 -2 5 -2 -1 -2 2 5 3 -2 -1 -1 1 0 0 -2 -2 -1 5 0 -2 0 -2 -1 0 5 -4 -1 0 -2]
+MEL_RAW[-5  1123b212  3b450
+    5  544443b21  43b212
+    5  7b6b54#55  543b2
+    5  5443b225  3b221]
+NO_REP[-5123b2123b450
+    543b2143b212
+    57b6b54#543b2
+    543b253b21]
+RTM[x__  x__x_.xx_x_x_x_  x__x__x__x_
+    x_  x_x_x_x_x_x_x_x_  x_x_x_x_x__.
+    x_  x_x_x_x_x__.x_  x__x_x_x__.
+    x_  x_x_x_x_x__x_x_  x__x_x_x__]
+SCL_DEG[-5123b44#56b7b]
+SCL_SEM[5 2 1 2 1 1 1 2]
+

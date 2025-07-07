@@ -1,0 +1,25 @@
+ZUCCAL
+CUT[Fischerliedchen
+    HAHL MI DEN SAHLHUND UT DEN STRANNE]
+REG[Europa, Mitteleuropa, Deutschland, Ruegen]
+TRD[]
+FKT[]
+SIG[Z1303]
+KEY[Z1303   08  G 3/4]
+MEL[1_-5_-6-7  1_-5_-6-7  1_-5_1_  231_
+    3_  543_3_  433_2_  321_1_  21-7_-7_
+    1_-5_-6-7  1_-5_-6-7  1_1_2_  231_0_ //]
+BEM[]
+MEL_SEM[-5 2 2 1 -5 2 2 1 -5 5 2 2 -4 4 3 -2 -1 0 1 -1 0 -2 2 -2 -2 0 2 -2 -1 0 1 -5 2 2 1 -5 2 2 1 0 2 0 2 -4]
+MEL_RAW[1-5-6-7  1-5-6-7  1-51  231
+    3  5433  4332  3211  21-7-7
+    1-5-6-7  1-5-6-7  112  2310]
+NO_REP[1-5-6-71-5-6-71-51231
+    354343232121-7
+    1-5-6-71-5-6-712310]
+RTM[x_x_xx  x_x_xx  x_x_x_  xxx_
+    x_  xxx_x_  xxx_x_  xxx_x_  xxx_x_
+    x_x_xx  x_x_xx  x_x_x_  xxx_x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[ES WAR EIN MARKGRAF UEBERN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[Z0007]
+KEY[Z0007   08  A 3/4]
+MEL[-5-5-5  1_.3b21  -7_0
+    23b4  5_.43b2  1_0
+    -5-5-5  1_.3b21  -7_0
+    23b4  5_.43b2  1_0
+    555  5_.23b1  2_0
+    -513b  2_.43b2  1_0
+    555  5_.23b1  2_0
+    -513b  2_.43b2  1_0 //]
+BEM[]
+MEL_SEM[0 0 5 3 -1 -2 -1 3 1 2 2 -2 -2 -1 -2 -5 0 0 5 3 -1 -2 -1 3 1 2 2 -2 -2 -1 -2 7 0 0 0 -5 1 -3 2 -7 5 3 -1 3 -2 -1 -2 7 0 0 0 -5 1 -3 2 -7 5 3 -1 3 -2 -1 -2]
+MEL_RAW[-5-5-5  13b21  -70
+    23b4  543b2  10
+    -5-5-5  13b21  -70
+    23b4  543b2  10
+    555  523b1  20
+    -513b  243b2  10
+    555  523b1  20
+    -513b  243b2  10]
+NO_REP[-513b21-70
+    23b4543b210
+    -513b21-70
+    23b4543b210
+    523b120
+    -513b243b210
+    523b120
+    -513b243b210]
+RTM[xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[EINST REIST ICH IN DIE WELT]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Halle]
+TRD[]
+FKT[]
+SIG[Z0148]
+KEY[Z0148   08  F 4/4]
+MEL[-5  11111_02  33333_0
+    4  55554444  3333222
+    4  33221_0 //]
+BEM[]
+MEL_SEM[5 0 0 0 0 2 2 0 0 0 0 1 2 0 0 0 -2 0 0 0 -1 0 0 0 -2 0 0 3 -1 0 -2 0 -2]
+MEL_RAW[-5  1111102  333330
+    4  55554444  3333222
+    4  332210]
+NO_REP[-510230
+    45432
+    43210]
+RTM[x  xxxxx_xx  xxxxx_x
+    x  xxxxxxxx  xxxxxxx
+    x  xxxxx_x]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

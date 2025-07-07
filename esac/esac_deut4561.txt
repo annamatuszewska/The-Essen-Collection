@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[ICH WILL ZU LAND AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0060]
+KEY[Z0060   08  G 4/4]
+MEL[1_  3b_3b_4_4_  5__5__  0_
+    5__5_  5_6_7b_5_  5__.
+    5_  5_6_7b_5_  6b__5_
+    5_  4_3b_5_3b_  3b__.
+    3b_  3b3b4_4_4_  5__5_
+    5_  4_3b_3b_3b_  -7b__.
+    5_  5_.43b_5_  6b_5_5_3b_  4__5_
+    4_  3b3b1_1_-6_  -7b__.1_ //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 0 0 0 2 1 -3 0 0 0 2 1 -3 1 -1 0 -2 -2 4 -4 0 0 0 0 2 0 0 2 0 0 -2 -2 0 0 -5 9 0 -2 -2 4 1 -1 0 -4 2 2 -2 -2 0 -3 0 -3 1 2]
+MEL_RAW[1  3b3b44  55  0
+    55  567b5  5
+    5  567b5  6b5
+    5  43b53b  3b
+    3b  3b3b444  55
+    5  43b3b3b  -7b
+    5  543b5  6b553b  45
+    4  3b3b11-6  -7b1]
+NO_REP[13b450
+    567b5
+    567b56b5
+    543b53b
+    3b45
+    543b-7b
+    543b56b53b45
+    43b1-6-7b1]
+RTM[x_  x_x_x_x_  x__x__  x_
+    x__x_  x_x_x_x_  x__.
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__.
+    x_  xxx_x_x_  x__x_
+    x_  x_x_x_x_  x__.
+    x_  x_.xx_x_  x_x_x_x_  x__x_
+    x_  xxx_x_x_  x__.x_]
+SCL_DEG[-6-7b13b456b67b]
+SCL_SEM[1 2 3 2 2 1 1 1]
+

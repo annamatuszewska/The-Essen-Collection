@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[WIE KOMMTS DASS DU SO TRAURIG BIST]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z0226]
+KEY[Z0226   08  C 6/8]
+MEL[-5  1_11_1  -7_-6-5_
+    -7  1_13b_1  -5_.^_
+    -5  2_22_2  5_55_
+    4  3b_21_-7  1_.^_
+    5  3b_3b3b_3b  2_22_
+    2  3b_25_3b  2_.^_
+    2  4_44_4  3b_3b3b_
+    6b  5_43b_2  3b_.^_ //]
+BEM[]
+MEL_SEM[5 0 0 0 -1 -2 -2 4 1 0 3 -3 -5 0 7 0 0 0 5 0 0 -2 -2 -1 -2 -1 1 7 -4 0 0 0 -1 0 0 0 1 -1 5 -4 -1 0 3 0 0 0 -2 0 0 5 -1 -2 -2 -1 1]
+MEL_RAW[-5  1111  -7-6-5
+    -7  113b1  -5^
+    -5  2222  555
+    4  3b21-7  1^
+    5  3b3b3b3b  222
+    2  3b253b  2^
+    2  4444  3b3b3b
+    6b  543b2  3b^]
+NO_REP[-51-7-6-5
+    -713b1-5^
+    -525
+    43b21-71^
+    53b2
+    23b253b2^
+    243b
+    6b543b23b^]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_]
+SCL_DEG[-5-6-7123b456b]
+SCL_SEM[2 2 1 2 1 2 2 1]
+

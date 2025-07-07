@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt' ein Pfalzgraf wohl an dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Kr. Balingen, Eyach]
+TRD[4, S. 69
+    1925 aufgezeichnet]
+FKT[]
+SIG[Q0075A]
+KEY[Q0075A  16  C 3/4]
+MEL[5_6_5_  3__1_1_3_3_  2__0_
+    7_777_  4__4__6_6_  5__0_
+    5_6_7_  +1__5_5_7_7_  6__0_
+    6_666_  5__5__4_5_  3__0_ //]
+BEM[]
+MEL_SEM[2 -2 -3 -4 0 4 0 -2 9 0 0 0 -6 0 4 0 -2 0 2 2 1 -5 0 4 0 -2 0 0 0 0 -2 0 -2 2 -3]
+MEL_RAW[565  31133  20
+    7777  4466  50
+    567  +15577  60
+    6666  5545  30]
+NO_REP[56531320
+    74650
+    567+15760
+    654530]
+RTM[x_x_x_  x__x_x_x_x_  x__x_
+    x_xxx_  x__x__x_x_  x__x_
+    x_x_x_  x__x_x_x_x_  x__x_
+    x_xxx_  x__x__x_x_  x__x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

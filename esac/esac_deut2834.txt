@@ -1,0 +1,28 @@
+BOEHME
+CUT[AN EINEM FLUSS DER RAUSCHEND SCHOSS]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Wetzlar]
+TRD[]
+FKT[]
+SIG[B0647]
+KEY[B0647   08  F 6/8]
+MEL[-5  3_3321  5_44_
+    3  2_25_2  3_.0_
+    1  6_6+176  65554
+    3  2655_-7  1_.0_ //]
+BEM[]
+MEL_SEM[9 0 0 -2 -2 7 -2 0 -1 -2 0 5 -5 2 -4 9 0 3 -1 -2 0 -2 0 0 -2 -1 -2 7 -2 0 -8 1]
+MEL_RAW[-5  33321  544
+    3  2252  30
+    1  66+176  65554
+    3  2655-7  10]
+NO_REP[-532154
+    325230
+    16+17654
+    3265-710]
+RTM[x  x_xxxx  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xxxx  xxxxx
+    x  xxxx_x  x_.x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

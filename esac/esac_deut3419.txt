@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Der heimkehrende Soldat
+    Ein Soldat zog in ein Wirtshaus ein, hurrah!]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+TRD[5, S. 162
+    ????]
+FKT[]
+SIG[Q0103M]
+KEY[Q0103M  08  G 4/4]
+MEL[-5-5  1_.11111  2_-5_-5_
+    22  2_.22254  3_1_1_
+    54  3_3_3_5_  5_.44_
+    43  2_2_2_6_  6_.55_
+    4_  3_3_2_2_  1__0_ //]
+BEM[]
+MEL_SEM[0 5 0 0 0 0 0 2 -7 0 7 0 0 0 0 0 5 -2 -1 -4 0 7 -2 -1 0 0 3 0 -2 0 0 -1 -2 0 0 7 0 -2 0 -2 -1 0 -2 0 -2]
+MEL_RAW[-5-5  111111  2-5-5
+    22  222254  311
+    54  3335  544
+    43  2226  655
+    4  3322  10]
+NO_REP[-512-5
+    25431
+    54354
+    43265
+    43210]
+RTM[xx  x_.xxxxx  x_x_x_
+    xx  x_.xxxxx  x_x_x_
+    xx  x_x_x_x_  x_.xx_
+    xx  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

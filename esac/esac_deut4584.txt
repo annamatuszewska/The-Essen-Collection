@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES FIEL EIN REIF IN FRUEHLINGSNACHT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[Z0082]
+KEY[Z0082   16  G 6/8]
+MEL[-5_  1_.23b_2_1_-7b_  3b__4_5_.4
+    5_  1__3b_2_1_-7b_  3b__4_5__
+    5_  5_.43b_4_2_5_  1__1_-7__
+    -7b_  3b__3b_5_4_3b_  2_3b_2_1__ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 -2 5 2 2 -2 2 -7 3 -1 -2 -2 5 2 2 0 0 -2 -2 2 -3 5 -7 0 -1 -1 5 0 4 -2 -2 -1 1 -1 -2]
+MEL_RAW[-5  123b21-7b  3b454
+    5  13b21-7b  3b45
+    5  543b425  11-7
+    -7b  3b3b543b  23b21]
+NO_REP[-5123b21-7b3b454
+    513b21-7b3b45
+    543b4251-7
+    -7b3b543b23b21]
+RTM[x_  x_.xx_x_x_x_  x__x_x_.x
+    x_  x__x_x_x_x_  x__x_x__
+    x_  x_.xx_x_x_x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

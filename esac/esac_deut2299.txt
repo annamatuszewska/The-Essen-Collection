@@ -1,0 +1,24 @@
+BOEHME
+CUT[ICH BIN EIN DEUTSCHES MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0033]
+KEY[B0033   08  G 4/4]
+MEL[1_3_.2  4_.32__  1_0
+    31_.1  4_.42_.2  5_.53_.3  6__
+    5__  4_.53_1_  2__5__  1_ //]
+BEM[]
+MEL_SEM[4 -2 3 -1 -2 -2 4 -4 0 5 0 -3 0 5 0 -3 0 5 -2 -2 2 -3 -4 2 5 -7]
+MEL_RAW[132  432  10
+    311  4422  5533  6
+    5  4531  25  1]
+NO_REP[13243210
+    3142536
+    54531251]
+RTM[x_x_.x  x_.xx__  x_x
+    xx_.x  x_.xx_.x  x_.xx_.x  x__
+    x__  x_.xx_x_  x__x__  x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

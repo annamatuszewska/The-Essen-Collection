@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Tannhaeuser
+    Wer grosse Wunder schauen will,]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 160
+    1914 gedruckt in Leipzig]
+FKT[]
+SIG[Q0015E]
+KEY[Q0015E  08  E 4/4]
+MEL[-5_  1_-7_1_2_  1_-6_-5_
+    -5_  4_.54_-5_  3_5_3_
+    5_  3_.45_1_  2_3_4_
+    2_  3_1_-6_31  -7__1_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 -3 -2 0 10 2 -2 -10 9 3 -3 3 -3 1 2 -7 2 2 1 -3 2 -4 -3 7 -4 -1 1]
+MEL_RAW[-5  1-712  1-6-5
+    -5  454-5  353
+    5  3451  234
+    2  31-631  -71]
+NO_REP[-51-7121-6-5
+    -5454-5353
+    53451234
+    231-631-71]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x_x_x_
+    x_  x_.xx_x_  x_x_x_
+    x_  x_x_x_xx  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

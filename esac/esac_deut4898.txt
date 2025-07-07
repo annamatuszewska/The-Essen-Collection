@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Gute Lehre
+    ES WAREN DER SCHWESTER A DREI]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z1083]
+KEY[Z1083   16  G 6/8]
+MEL[5_  3b_.21_2_.1-7_  1__.^__
+    2_  3b_3b_3b_4_4_4_  5__.^__
+    5_  5__7b_7b__5_  5__4_4__0_
+    3b_3b_3b_2_.1-7_  5__5_5__
+    4_  3b_.21_2__-7_  1__0__. //]
+BEM[]
+MEL_SEM[-4 -1 -2 2 -2 -1 1 2 1 0 0 2 0 0 2 0 0 3 0 -3 0 -2 0 -2 0 0 -1 -2 -1 8 0 0 -2 -2 -1 -2 2 -3 1]
+MEL_RAW[5  3b2121-7  1^
+    2  3b3b3b444  5^
+    5  57b7b5  5440
+    3b3b3b21-7  555
+    4  3b212-7  10]
+NO_REP[53b2121-71^
+    23b45^
+    57b540
+    3b21-75
+    43b212-710]
+RTM[x_  x_.xx_x_.xx_  x__.x__
+    x_  x_x_x_x_x_x_  x__.x__
+    x_  x__x_x__x_  x__x_x__x_
+    x_x_x_x_.xx_  x__x_x__
+    x_  x_.xx_x__x_  x__x__.]
+SCL_DEG[-7123b457b]
+SCL_SEM[1 2 1 2 2 3]
+

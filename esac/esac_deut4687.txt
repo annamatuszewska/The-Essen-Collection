@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[HEUTE SCHEID ICH, HEUTE WANDRE ICH, KEINE SEELE WEINT UM MICH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z0188]
+KEY[Z0188   16  C 3/4]
+MEL[-5_.-5  1__3__2_1_  -7_.12__
+    1_2_  3_4_5__4_3_  2__0__
+    5_5_  5_4_2__3_2_  1_.23__
+    5_5_  5_4_2__3_2_  1_.23__0__
+    5___4__  3_3_3__2__  1___ //]
+BEM[]
+MEL_SEM[0 5 4 -2 -2 -1 1 2 -2 2 2 1 2 -2 -1 -2 5 0 0 -2 -3 2 -2 -2 2 2 3 0 0 -2 -3 2 -2 -2 2 2 3 -2 -1 0 0 -2 -2]
+MEL_RAW[-5-5  1321  -712
+    12  34543  20
+    55  54232  123
+    55  54232  1230
+    54  3332  1]
+NO_REP[-51321-712
+    123454320
+    54232123
+    542321230
+    54321]
+RTM[x_.x  x__x__x_x_  x_.xx__
+    x_x_  x_x_x__x_x_  x__x__
+    x_x_  x_x_x__x_x_  x_.xx__
+    x_x_  x_x_x__x_x_  x_.xx__x__
+    x___x__  x_x_x__x__  x___]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

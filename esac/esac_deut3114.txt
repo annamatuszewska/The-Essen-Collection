@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die Todesbraut
+    Wir kommen daher in der heiligsten Zeit]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+TRD[2, S. 237
+    1855 gedruckt in Leipzig]
+FKT[]
+SIG[Q1049D]
+KEY[Q1049D  16  G 6/8]
+MEL[123_3_3_  1_2_3_5_.43_  2__
+    1_-7_.22_  2_3_4_3__2_  1__ //]
+BEM[]
+MEL_SEM[2 2 0 0 -4 2 2 3 -2 -1 -2 -2 -1 3 0 0 2 1 -1 -2 -2]
+MEL_RAW[12333  123543  2
+    1-722  23432  1]
+NO_REP[1231235432
+    1-7234321]
+RTM[xxx_x_x_  x_x_x_x_.xx_  x__
+    x_x_.xx_  x_x_x_x__x_  x__]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

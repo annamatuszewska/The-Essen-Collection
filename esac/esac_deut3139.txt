@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die elfjaehrige Markgraefin
+    Es hatt' ein Bauer ein Toechterlein,]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+TRD[2, S. 299
+    1855 gedruckt in Leipzig]
+FKT[]
+SIG[Q0053P]
+KEY[Q0053P  08  F 6/8]
+MEL[-5  1_1313  5_53_
+    6  5_4234  5_53_ //]
+BEM[]
+MEL_SEM[5 0 4 -4 4 3 0 -3 5 -2 -2 -3 2 1 2 0 -3]
+MEL_RAW[-5  11313  553
+    6  54234  553]
+NO_REP[-5131353
+    65423453]
+RTM[x  x_xxxx  x_xx_
+    x  x_xxxx  x_xx_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

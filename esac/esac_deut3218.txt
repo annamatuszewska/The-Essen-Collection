@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Spielmannssohn
+    Als ich ein kleines Buewele war,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 178
+    ????]
+FKT[]
+SIG[Q0062I]
+KEY[Q0062I  16 Bb 6/8]
+MEL[-5_  1_1_3_2_1_1_  1_-7_1_2__
+    1_  1_1_1_2_1_1_  -5__.1__
+    1_  1_1_1_2_2_55  5_5_4_5__55  5_5_4_5__
+    1_  1_2_1_1_-7_-6_  -5__.1__ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 0 0 -1 1 2 -2 0 0 0 2 -2 0 -5 5 0 0 0 0 2 0 5 0 0 0 -2 2 0 0 0 0 -2 2 -7 0 2 -2 0 -1 -2 -2 5]
+MEL_RAW[-5  113211  1-712
+    1  111211  -51
+    1  1112255  554555  5545
+    1  1211-7-6  -51]
+NO_REP[-51321-712
+    121-51
+    1254545
+    121-7-6-51]
+RTM[x_  x_x_x_x_x_x_  x_x_x_x__
+    x_  x_x_x_x_x_x_  x__.x__
+    x_  x_x_x_x_x_xx  x_x_x_x__xx  x_x_x_x__
+    x_  x_x_x_x_x_x_  x__.x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

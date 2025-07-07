@@ -1,0 +1,24 @@
+BOEHME
+CUT[IN DER FINSTERN MITTERNACHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein (?)]
+TRD[]
+FKT[]
+SIG[B0127]
+KEY[B0127   08  D 4/4]
+MEL[5_53b1_4_  3b_121_0_
+    3b_23b4_4_  5_123b21_  -7b__
+    2_4_  5_123b_2_  1__0__ //]
+BEM[]
+MEL_SEM[0 -4 -3 5 -2 -3 2 -2 3 -1 1 2 0 2 -7 2 1 -1 -2 -2 4 3 2 -7 2 1 -1 -2]
+MEL_RAW[553b14  3b1210
+    3b23b44  5123b21  -7b
+    24  5123b2  10]
+NO_REP[53b143b1210
+    3b23b45123b21-7b
+    245123b210]
+RTM[x_xxx_x_  x_xxx_x_
+    x_xxx_x_  x_xxxxx_  x__
+    x_x_  x_xxx_x_  x__x__]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

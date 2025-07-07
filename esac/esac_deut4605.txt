@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES WAR EIN MAEDCHEN VON ACHTZEHN JAHREN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0105]
+KEY[Z0105   16  G 6/8]
+MEL[-5_  -5_1_1_1_2_3b_  2_1_-7_1_-5_
+    1_  1_1_1_-5_-6b_-7b-6b  -5__0__.
+    5_  5_4#_5_3b_2_5_  3b__.2__
+    5_  1_2_3b_2_1_-7_  1__0__. //]
+BEM[]
+MEL_SEM[0 5 0 0 2 1 -1 -2 -1 1 -5 5 0 0 0 -5 1 2 -2 -1 12 0 -1 1 -4 -1 5 -4 -1 5 -7 2 1 -1 -2 -1 1]
+MEL_RAW[-5  -511123b  21-71-5
+    1  111-5-6b-7b-6b  -50
+    5  54#53b25  3b2
+    5  123b21-7  10]
+NO_REP[-5123b21-71-5
+    1-5-6b-7b-6b-50
+    54#53b253b2
+    5123b21-710]
+RTM[x_  x_x_x_x_x_x_  x_x_x_x_x_
+    x_  x_x_x_x_x_xx  x__x__.
+    x_  x_x_x_x_x_x_  x__.x__
+    x_  x_x_x_x_x_x_  x__x__.]
+SCL_DEG[-5-6b-7b-7123b4#5]
+SCL_SEM[1 2 1 1 2 1 3 1]
+

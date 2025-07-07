@@ -1,0 +1,41 @@
+ZUCCAL
+CUT[Der Bauernstand
+    MERKET AUF IHR CHRISTENLEUT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1301]
+KEY[Z1301   08  A 6/8]
+MEL[1_32_4  3_45_.
+    4_23_1  2_-71_
+    1  -7_12_1  -7_-6-5_.
+    1_35_5  6_65_5
+    1_35_5  6_65_5
+    1_32_4  3_65_.
+    4_23_2  1_-71_0 //]
+BEM[]
+MEL_SEM[4 -2 3 -1 1 2 -2 -3 2 -4 2 -3 1 0 -1 1 2 -2 -1 -2 -2 5 4 3 0 2 0 -2 0 -7 4 3 0 2 0 -2 0 -7 4 -2 3 -1 5 -2 -2 -3 2 -2 -2 -1 1]
+MEL_RAW[1324  345
+    4231  2-71
+    1  -7121  -7-6-5
+    1355  6655
+    1355  6655
+    1324  365
+    4232  1-710]
+NO_REP[1324345
+    42312-71
+    1-7121-7-6-5
+    13565
+    13565
+    1324365
+    42321-710]
+RTM[x_xx_x  x_xx_.
+    x_xx_x  x_xx_
+    x  x_xx_x  x_xx_.
+    x_xx_x  x_xx_x
+    x_xx_x  x_xx_x
+    x_xx_x  x_xx_.
+    x_xx_x  x_xx_x]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

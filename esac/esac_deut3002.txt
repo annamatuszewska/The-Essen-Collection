@@ -1,0 +1,46 @@
+BALLADEN
+CUT[Graf von Rom
+    Gott hat den mensch fur allen]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[1, S. 144
+    1555 gedruckt in Breslau]
+FKT[]
+SIG[Q0014C]
+KEY[Q0014C  04  F FREI]
+MEL[1  113_1  3_45_
+    5  65_434  5_0_
+    1  113_1  3_45_
+    5  65_434  5_0_
+    5  555_5  4_2_
+    5_  4_231_  -7_0
+    5  555_1  3_45_
+    6  5_342_  1_ //]
+BEM[]
+MEL_SEM[0 0 4 -4 4 1 2 0 2 -2 -2 -1 1 2 -7 0 0 4 -4 4 1 2 0 2 -2 -2 -1 1 2 0 0 0 0 0 -2 -3 5 -2 -3 2 -4 -1 8 0 0 0 -7 4 1 2 2 -2 -3 1 -3 -2]
+MEL_RAW[1  1131  345
+    5  65434  50
+    1  1131  345
+    5  65434  50
+    5  5555  42
+    5  4231  -70
+    5  5551  345
+    6  5342  1]
+NO_REP[131345
+    56543450
+    131345
+    56543450
+    542
+    54231-70
+    51345
+    653421]
+RTM[x  xxx_x  x_xx_
+    x  xx_xxx  x_x_
+    x  xxx_x  x_xx_
+    x  xx_xxx  x_x_
+    x  xxx_x  x_x_
+    x_  x_xxx_  x_x
+    x  xxx_x  x_xx_
+    x  x_xxx_  x_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

@@ -1,0 +1,23 @@
+BALLADEN
+CUT[Das Bauerntoechterlein
+    Es hat ein Bauer schoens Toechterlein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saargemuend,
+    Eppingen]
+TRD[2, S. 259
+    1939 aufgezeichnet]
+FKT[]
+SIG[Q0051D]
+KEY[Q0051D  08  G 3/4]
+MEL[-5_  1_.-71_  2_3_2_  1_.-71_  -5__
+    1_  -5_.-6-5_  3_2_1_  2_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -2 -2 -1 1 -5 5 -5 2 -2 9 -2 -2 2 2 -2 -2]
+MEL_RAW[-5  1-71  232  1-71  -5
+    1  -5-6-5  321  232  1]
+NO_REP[-51-712321-71-5
+    1-5-6-53212321]
+RTM[x_  x_.xx_  x_x_x_  x_.xx_  x__
+    x_  x_.xx_  x_x_x_  x_x_x_  x__]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

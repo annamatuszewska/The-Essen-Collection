@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt ein reicher Kaufmannssohn]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Grossenhain]
+TRD[6, S. 108
+    1929 augezeichnet (vor)]
+FKT[]
+SIG[Q0127J]
+KEY[Q0127J  16  G 2/4]
+MEL[13  5_5_5_+1_  3_3_3_
+    1_  3_.13_5_  4_.32_
+    4_  3_5_2_4_  3_5_2_
+    6_  5_4_3_3_  2__1_ //]
+BEM[]
+MEL_SEM[4 3 0 0 5 -8 0 0 -4 4 -4 4 3 -2 -1 -2 3 -1 3 -5 3 -1 3 -5 7 -2 -2 -1 0 -2 -2]
+MEL_RAW[13  555+1  333
+    1  3135  432
+    4  3524  352
+    6  5433  21]
+NO_REP[135+13
+    13135432
+    43524352
+    654321]
+RTM[xx  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x_.xx_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

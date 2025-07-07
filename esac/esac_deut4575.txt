@@ -1,0 +1,20 @@
+ZUCCAL
+CUT[DA DROBEN AUF DEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Deutschland]
+TRD[]
+FKT[]
+SIG[Z0074]
+KEY[Z0074   16  G 6/8]
+MEL[-5_  -5_1_11-7_-7_-7-7  -7_-5_-7_1_0_
+    1_  113_33554_4_  4_-5_-7_1__ //]
+BEM[]
+MEL_SEM[0 5 0 0 -1 0 0 0 0 -4 4 1 0 0 0 4 0 0 3 0 -2 0 0 -10 4 1]
+MEL_RAW[-5  -5111-7-7-7-7  -7-5-710
+    1  113335544  4-5-71]
+NO_REP[-51-7-5-710
+    1354-5-71]
+RTM[x_  x_x_xxx_x_xx  x_x_x_x_x_
+    x_  xxx_xxxxx_x_  x_x_x_x__]
+SCL_DEG[-5-71345]
+SCL_SEM[4 1 4 1 2]
+

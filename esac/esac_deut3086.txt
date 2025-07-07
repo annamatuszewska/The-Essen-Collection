@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Schoen Ullerich und Hanselein,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Neusalz, Rauden]
+TRD[2, S. 112
+    1841 aufgezeichnet]
+FKT[]
+SIG[Q0041Z]
+KEY[Q0041Z  08  G 4/4]
+MEL[34  5_5_5_+1_  +1_5_3_
+    13  5_.65432  1_.32_
+    5_  +1_+1_3_3_  322_1_ //]
+BEM[]
+MEL_SEM[1 2 0 0 5 0 -5 -3 -4 4 3 2 -2 -2 -1 -2 -2 4 -2 5 5 0 -8 0 0 -2 0 -2]
+MEL_RAW[34  555+1  +153
+    13  565432  132
+    5  +1+133  3221]
+NO_REP[345+153
+    13565432132
+    5+1321]
+RTM[xx  x_x_x_x_  x_x_x_
+    xx  x_.xxxxx  x_.xx_
+    x_  x_x_x_x_  xxx_x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES WOLLT EIN JAEGER JAGEN, DREI STUENDLEIN VOR DEM TAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+TRD[]
+FKT[]
+SIG[Z0220]
+KEY[Z0220   16  G 6/8]
+MEL[-5_  1_.23_3__3_  5__434__
+    3_  3_.22_2_3_4_  4__323__
+    12  3_5_3_2_1_2_  1__+165_.6
+    5_  3_.53_2_1_2_  1__.0__ //]
+BEM[]
+MEL_SEM[5 2 2 0 0 3 -2 -1 1 -1 0 -2 0 0 2 1 0 -1 -2 2 -4 2 2 3 -3 -2 -2 2 -2 12 -3 -2 2 -2 -3 3 -3 -2 -2 2 -2]
+MEL_RAW[-5  12333  5434
+    3  322234  4323
+    12  353212  1+1656
+    5  353212  10]
+NO_REP[-51235434
+    3234323
+    123532121+1656
+    535321210]
+RTM[x_  x_.xx_x__x_  x__xxx__
+    x_  x_.xx_x_x_x_  x__xxx__
+    xx  x_x_x_x_x_x_  x__xxx_.x
+    x_  x_.xx_x_x_x_  x__.x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

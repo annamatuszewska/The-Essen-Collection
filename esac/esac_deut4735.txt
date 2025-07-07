@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[DAS MAEDLEIN WILL EIN'N FREIER HAB'N]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[Z0236]
+KEY[Z0236   08  D 6/8]
+MEL[5  +1_+1+1_+1  7_65_
+    3  6_66_6  5_43_
+    2  3_.4#_.  6_.5_ //]
+BEM[]
+MEL_SEM[5 0 0 0 -1 -2 -2 -3 5 0 0 0 -2 -2 -1 -2 2 2 3 -2]
+MEL_RAW[5  +1+1+1+1  765
+    3  6666  543
+    2  34#  65]
+NO_REP[5+1765
+    36543
+    234#65]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_.x_.  x_.x_]
+SCL_DEG[2344#567+1]
+SCL_SEM[2 1 1 1 2 2 1]
+

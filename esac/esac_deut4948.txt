@@ -1,0 +1,49 @@
+ZUCCAL
+CUT[Tuerkengefahr
+    HORCHT HORCHT DER GLOCKENSTIMME]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1133]
+KEY[Z1133   08  G 4/4]
+MEL[1_  1_1_3b_3b_  1__-7b_
+    -7b_  3b_3b_4_4_  5__0_
+    4_  5_555_4_  5__4_
+    5_  5_5_4_4_  3b__0_
+    3b_  4_3b_4_4_  5__5_
+    3b_  4_.43b_2_  1__-7b_
+    -7b_  4_3b_4_4_  5__.
+    3b_  4_3b_2_1_  4__5_
+    3b3b  3b_2__-7_  1__0_ //]
+BEM[]
+MEL_SEM[0 0 3 0 -3 -2 0 5 0 2 0 2 -2 2 0 0 0 -2 2 -2 2 0 0 -2 0 -2 0 2 -2 2 0 2 0 -4 2 0 -2 -1 -2 -2 0 7 -2 2 0 2 -4 2 -2 -1 -2 5 2 -4 0 0 -1 -3 1]
+MEL_RAW[1  113b3b  1-7b
+    -7b  3b3b44  50
+    4  55554  54
+    5  5544  3b0
+    3b  43b44  55
+    3b  443b2  1-7b
+    -7b  43b44  5
+    3b  43b21  45
+    3b3b  3b2-7  10]
+NO_REP[13b1-7b
+    -7b3b450
+    45454
+    543b0
+    3b43b45
+    3b43b21-7b
+    -7b43b45
+    3b43b2145
+    3b2-710]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_xxx_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    x_  x_x_x_x_  x__.
+    x_  x_x_x_x_  x__x_
+    xx  x_x__x_  x__x_]
+SCL_DEG[-7b-7123b45]
+SCL_SEM[1 1 2 1 2 2]
+

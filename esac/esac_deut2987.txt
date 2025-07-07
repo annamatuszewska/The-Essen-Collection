@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Geburt im Walde
+    Hier sitz' ich auf Rosen mit Veilchen bekraenzt.]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 72  Komponist: J.G.W. Schneider
+    1801 gedruckt]
+FKT[]
+SIG[Q1007E]
+KEY[Q1007E  08  G 3/4]
+MEL[-5_  1_.-71_  2_.12_  3_.153  2_0_
+    13  5_.55_  5_.43_  4_.44_  4_.3
+    2_  3_.45_  5_.43_  2_.12_  1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 2 2 -4 7 -3 -2 -2 4 3 0 0 0 -2 -1 1 0 0 0 -1 -2 2 1 2 0 -2 -1 -2 -2 2 -2]
+MEL_RAW[-5  1-71  212  3153  20
+    13  555  543  444  43
+    2  345  543  212  1]
+NO_REP[-51-71212315320
+    1354343
+    2345432121]
+RTM[x_  x_.xx_  x_.xx_  x_.xxx  x_x_
+    xx  x_.xx_  x_.xx_  x_.xx_  x_.x
+    x_  x_.xx_  x_.xx_  x_.xx_  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

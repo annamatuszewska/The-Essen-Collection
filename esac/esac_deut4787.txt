@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[STERBEN IST EIN HARTE BUSS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0289]
+KEY[Z0289   04  G 4/4]
+MEL[543b2  1-5-5_
+    543b2  1-5-5_
+    3b3b55  3b3b5_
+    6b_5_  4_3b_  221_ //]
+BEM[]
+MEL_SEM[-2 -2 -1 -2 -5 0 12 -2 -2 -1 -2 -5 0 8 0 4 0 -4 0 4 1 -1 -2 -2 -1 0 -2]
+MEL_RAW[543b2  1-5-5
+    543b2  1-5-5
+    3b3b55  3b3b5
+    6b5  43b  221]
+NO_REP[543b21-5
+    543b21-5
+    3b53b5
+    6b543b21]
+RTM[xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    x_x_  x_x_  xxx_]
+SCL_DEG[-5123b456b]
+SCL_SEM[5 2 1 2 2 1]
+

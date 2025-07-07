@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Koenig von Mailand
+    Ich sachs eins mals den lichten morgensterne:]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 234
+    1480 Handschrift Glogau]
+FKT[]
+SIG[Q1067D]
+KEY[Q1067D  08  D FREI]
+MEL[1_  3b_5_4_5__5_  6b55_4_6b53b_
+    4_  5_3b543b1_5_43b  1_3b_1_-7b_
+    1_  3b__4_5_3b_1_  5_453b12_  1__ //]
+BEM[]
+MEL_SEM[3 4 -2 2 0 1 -1 0 -2 3 -1 -4 2 2 -4 4 -2 -2 -3 7 -2 -2 -3 3 -3 -2 2 3 2 2 -4 -3 7 -2 2 -4 -3 2 -2]
+MEL_RAW[1  3b5455  6b5546b53b
+    4  53b543b1543b  13b1-7b
+    1  3b453b1  5453b12  1]
+NO_REP[13b5456b546b53b
+    453b543b1543b13b1-7b
+    13b453b15453b121]
+RTM[x_  x_x_x_x__x_  xxx_x_xxx_
+    x_  x_xxxxx_x_xx  x_x_x_x_
+    x_  x__x_x_x_x_  x_xxxxx_  x__]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

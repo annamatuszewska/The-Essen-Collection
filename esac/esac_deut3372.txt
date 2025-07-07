@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die verkaufte Muellerin
+    Es wollt ein Mueller frueh aufstehn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[4, S. 344
+    1926 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0086R]
+KEY[Q0086R  16  G 3/4]
+MEL[1_1_3_  5__5__6_5_  4__.
+    3_5_3_  1__.1_3_5_  2__0_
+    1_1_3_  5__.5_6_55  4__.
+    3_5_3_  1__.1_3_5_  2__0_
+    -5_-5_-5_  4_4_4__2_4_  3_2_1_ //]
+BEM[]
+MEL_SEM[0 4 3 0 2 -2 -2 -1 3 -3 -4 0 4 3 -5 -2 0 4 3 0 2 -2 0 -2 -1 3 -3 -4 0 4 3 -5 -7 0 0 10 0 0 -3 3 -1 -2 -2]
+MEL_RAW[113  5565  4
+    353  1135  20
+    113  55655  4
+    353  1135  20
+    -5-5-5  44424  321]
+NO_REP[135654
+    35313520
+    135654
+    35313520
+    -5424321]
+RTM[x_x_x_  x__x__x_x_  x__.
+    x_x_x_  x__.x_x_x_  x__x_
+    x_x_x_  x__.x_x_xx  x__.
+    x_x_x_  x__.x_x_x_  x__x_
+    x_x_x_  x_x_x__x_x_  x_x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

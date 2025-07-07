@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Es welken alle Blaetter,]
+REG[Mitteleuropa, Deutschland (BRD) , Franken, Haselbach v.d. Rhoen]
+TRD[8, S. 82
+    1933 aufgezeichnet]
+FKT[]
+SIG[Q0155a]
+KEY[Q0155a  16 Bb 2/4]
+MEL[-5_  1_.-5-3_-5_  1_3_3_
+    5_  2_.1-7_1_  2__0_
+    12  3_.33_.3  3_5_4_
+    33  2_.44_.4  4_6_5_
+    54  3_3_2_2_  3__0_ //]
+BEM[]
+MEL_SEM[5 -5 -3 3 5 4 0 3 -5 -2 -1 1 2 -2 2 2 0 0 0 0 3 -2 -1 0 -2 3 0 0 0 4 -2 0 -2 -1 0 -2 0 2]
+MEL_RAW[-5  1-5-3-5  133
+    5  21-71  20
+    12  3333  354
+    33  2444  465
+    54  3322  30]
+NO_REP[-51-5-3-513
+    521-7120
+    12354
+    32465
+    543230]
+RTM[x_  x_.xx_x_  x_x_x_
+    x_  x_.xx_x_  x__x_
+    xx  x_.xx_.x  x_x_x_
+    xx  x_.xx_.x  x_x_x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-3-5-7123456]
+SCL_SEM[3 4 1 2 2 1 2 2]
+

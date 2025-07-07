@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die Koenigskinder
+    Es waren zwei Koenigskinder,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+TRD[1, S. 202
+    18?? aufgezeichnet (Ende des Jh.)]
+FKT[]
+SIG[Q0020D]
+KEY[Q0020D  08  G 4/4]
+MEL[-5_  3_332_3_  2__1_
+    -5_  4_443_53  2__0_
+    2_  5_556_56  5__4_
+    3_  2_421_2_  3__
+    -5__  -6_-621_-7_  1__0_ //]
+BEM[]
+MEL_SEM[9 0 0 -2 2 -2 -2 -5 10 0 0 -1 3 -3 -2 0 5 0 0 2 -2 2 -2 -2 -1 -2 3 -3 -2 2 2 -9 2 0 5 -2 -1 1]
+MEL_RAW[-5  33323  21
+    -5  444353  20
+    2  555656  54
+    3  24212  3
+    -5  -6-621-7  10]
+NO_REP[-532321
+    -5435320
+    2565654
+    3242123
+    -5-621-710]
+RTM[x_  x_xxx_x_  x__x_
+    x_  x_xxx_xx  x__x_
+    x_  x_xxx_xx  x__x_
+    x_  x_xxx_x_  x__
+    x__  x_xxx_x_  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

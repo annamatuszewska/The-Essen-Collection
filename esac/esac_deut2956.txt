@@ -1,0 +1,40 @@
+BOEHME
+CUT[NACH DEM STURME FAHREN WIR]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0763]
+KEY[B0763   08  E 4/4]
+MEL[1_3b_5_5_  4_56b5__
+    +1_7b6b5_4_  5__-5__
+    1_3b_5_5_  4_56b5__
+    +1_7b6b5_4_  5__-5__
+    +1_7b6b5_5_  7b_6b54__
+    6b_543b_3b_  5_43b2__
+    5__.3b4  5__.5_  +1_123b_2_  1__.0_ //]
+BEM[]
+MEL_SEM[3 4 0 -2 2 1 -1 5 -2 -2 -1 -2 2 -12 5 3 4 0 -2 2 1 -1 5 -2 -2 -1 -2 2 -12 17 -2 -2 -1 0 3 -2 -1 -2 3 -1 -2 -2 0 4 -2 -2 -1 5 -4 2 2 0 5 -12 2 1 -1 -2]
+MEL_RAW[13b55  456b5
+    +17b6b54  5-5
+    13b55  456b5
+    +17b6b54  5-5
+    +17b6b55  7b6b54
+    6b543b3b  543b2
+    53b4  55  +1123b2  10]
+NO_REP[13b5456b5
+    +17b6b545-5
+    13b5456b5
+    +17b6b545-5
+    +17b6b57b6b54
+    6b543b543b2
+    53b45+123b210]
+RTM[x_x_x_x_  x_xxx__
+    x_xxx_x_  x__x__
+    x_x_x_x_  x_xxx__
+    x_xxx_x_  x__x__
+    x_xxx_x_  x_xxx__
+    x_xxx_x_  x_xxx__
+    x__.xx  x__.x_  x_xxx_x_  x__.x_]
+SCL_DEG[-5123b456b7b+1]
+SCL_SEM[5 2 1 2 2 1 2 2]
+

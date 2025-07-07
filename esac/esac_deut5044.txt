@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Abendlied
+    KEIN SCHOENER LAND IN DIESER ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1274]
+KEY[Z1274   08  A 3/4]
+MEL[-5-5-5  1_3_21  2_0
+    -5-5-5  1_3_21  2_0
+    312  354321  24321-7  1_0
+    312  354321  24321-7  1_0 //]
+BEM[]
+MEL_SEM[0 0 5 4 -2 -2 2 -7 0 0 5 4 -2 -2 2 2 -4 2 2 3 -2 -1 -2 -2 2 3 -1 -2 -2 -1 1 4 -4 2 2 3 -2 -1 -2 -2 2 3 -1 -2 -2 -1 1]
+MEL_RAW[-5-5-5  1321  20
+    -5-5-5  1321  20
+    312  354321  24321-7  10
+    312  354321  24321-7  10]
+NO_REP[-5132120
+    -5132120
+    31235432124321-710
+    31235432124321-710]
+RTM[xxx  x_x_xx  x_x
+    xxx  x_x_xx  x_x
+    xxx  xxxxxx  xxxxxx  x_x
+    xxx  xxxxxx  xxxxxx  x_x]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

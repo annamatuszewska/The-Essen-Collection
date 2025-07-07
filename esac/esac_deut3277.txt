@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt ein Pfalzgraf an dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+TRD[4, S. 106
+    1892 gedruckt in Neuwied]
+FKT[]
+SIG[Q0075J]
+KEY[Q0075J  16  D 2/4]
+MEL[3b_  3b_3b_3b_3b_  4_4_-7b_
+    2_  222_2_4_  3b_3b21_
+    3b_  3b3b6b_5_4_  3b_2_1_ //]
+BEM[]
+MEL_SEM[0 0 0 0 2 0 -7 4 0 0 0 0 3 -2 0 -1 -2 3 0 0 5 -1 -2 -2 -1 -2]
+MEL_RAW[3b  3b3b3b3b  44-7b
+    2  22224  3b3b21
+    3b  3b3b6b54  3b21]
+NO_REP[3b4-7b
+    243b21
+    3b6b543b21]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  xxx_x_x_  x_xxx_
+    x_  xxx_x_x_  x_x_x_]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

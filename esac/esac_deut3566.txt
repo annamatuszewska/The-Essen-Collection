@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Winterrosen
+    Rejt'wal jo rejtar spy gyli, hurra!]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, sorbisch]
+TRD[7, S. 62
+    1889 gedruckt]
+FKT[]
+SIG[Q2145I]
+KEY[Q2145I  08  G 6/8]
+MEL[-5111_3  322205  3_0_.
+    3  5_55_6  4_44_
+    5  3_3321  2_22_
+    3  3_32_2  1_0__ //]
+BEM[]
+MEL_SEM[5 0 0 4 0 -2 0 0 5 -3 0 3 0 0 2 -4 0 0 2 -3 0 0 -2 -2 2 0 0 2 0 0 -2 0 -2]
+MEL_RAW[-51113  322205  30
+    3  5556  444
+    5  33321  222
+    3  3322  10]
+NO_REP[-51320530
+    3564
+    53212
+    3210]
+RTM[xxxx_x  xxxxxx  x_x_.
+    x  x_xx_x  x_xx_
+    x  x_xxxx  x_xx_
+    x  x_xx_x  x_x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

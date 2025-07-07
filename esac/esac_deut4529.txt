@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[DET VORO TVA AEDLA KONUNGABARN]
+REG[Europa, Nordeuropa, Schweden]
+TRD[]
+FKT[]
+SIG[Z0027]
+KEY[Z0027   08  G 3/8]
+MEL[1  23b1  23b1  23b4  5_
+    4  3b23b  123b  2_.  ^0
+    5  56b5  43b2  3b_.  2_
+    2  1_1  -5-6-7  1_.  ^0 //]
+BEM[]
+MEL_SEM[2 1 -3 2 1 -3 2 1 2 2 -2 -2 -1 1 -3 2 1 -1 5 0 1 -1 -2 -2 -1 1 -1 0 -2 0 -5 2 2 1]
+MEL_RAW[1  23b1  23b1  23b4  5
+    4  3b23b  123b  2  ^0
+    5  56b5  43b2  3b  2
+    2  11  -5-6-7  1  ^0]
+NO_REP[123b123b123b45
+    43b23b123b2^0
+    56b543b23b2
+    21-5-6-71^0]
+RTM[x  xxx  xxx  xxx  x_
+    x  xxx  xxx  x_.  xx
+    x  xxx  xxx  x_.  x_
+    x  x_x  xxx  x_.  xx]
+SCL_DEG[-5-6-7123b456b]
+SCL_SEM[2 2 1 2 1 2 2 1]
+

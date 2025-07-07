@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Braut im Kloster
+    DER JUENGLING KAM AUS DEM HEILGEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1379]
+KEY[Z1379   16  G 6/8]
+MEL[2_  2_1_2_2_1_2_  3b45_43b2__
+    21  2_.3b423b_.213b  2_1_-7_1__
+    3b_  2_.121-7b_.12_  1_-7b_-6_-7b__
+    21  2_.3b423b_.213b  2_1_-7_1__ //]
+BEM[]
+MEL_SEM[0 -2 2 0 -2 2 1 2 2 -2 -2 -1 0 -2 2 1 2 -3 1 -1 -2 3 -1 -2 -1 1 3 -1 -2 2 -2 -2 2 2 -2 -2 -1 1 4 -2 2 1 2 -3 1 -1 -2 3 -1 -2 -1 1]
+MEL_RAW[2  212212  3b4543b2
+    21  23b423b213b  21-71
+    3b  2121-7b12  1-7b-6-7b
+    21  23b423b213b  21-71]
+NO_REP[212123b4543b2
+    2123b423b213b21-71
+    3b2121-7b121-7b-6-7b
+    2123b423b213b21-71]
+RTM[x_  x_x_x_x_x_x_  xxx_xxx__
+    xx  x_.xxxx_.xxx  x_x_x_x__
+    x_  x_.xxxx_.xx_  x_x_x_x__
+    xx  x_.xxxx_.xxx  x_x_x_x__]
+SCL_DEG[-6-7b-7123b45]
+SCL_SEM[1 1 1 2 1 2 2]
+

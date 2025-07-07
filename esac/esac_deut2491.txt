@@ -1,0 +1,28 @@
+BOEHME
+CUT[VOEGLEIN EINSAM IN DEM BAUER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0267]
+KEY[B0267   16  G 6/8]
+MEL[-5__1_3b__3b_  3b__2_1__-5_
+    1__2_3b__12  3b__4_5__.
+    4_5_4_3b__3b_  2_3b_2_1__-5_
+    -6b__-4_-5_1_3b_  3b__2_1__. //]
+BEM[]
+MEL_SEM[5 3 0 0 -1 -2 -5 5 2 1 -3 2 1 2 2 -2 2 -2 -2 0 -1 1 -1 -2 -5 1 -3 2 5 3 0 -1 -2]
+MEL_RAW[-513b3b  3b21-5
+    123b12  3b45
+    4543b3b  23b21-5
+    -6b-4-513b  3b21]
+NO_REP[-513b21-5
+    123b123b45
+    4543b23b21-5
+    -6b-4-513b21]
+RTM[x__x_x__x_  x__x_x__x_
+    x__x_x__xx  x__x_x__.
+    x_x_x_x__x_  x_x_x_x__x_
+    x__x_x_x_x_  x__x_x__.]
+SCL_DEG[-4-5-6b123b45]
+SCL_SEM[2 1 4 2 1 2 2]
+

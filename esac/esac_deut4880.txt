@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Spaete Reue
+    WEINE NICHT FEINSMAEGDELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Mittelrhein]
+TRD[]
+FKT[]
+SIG[Z1065]
+KEY[Z1065   08  F 4/4]
+MEL[1_3_1_3_  21231_0_
+    3_5_3_5_  43453_0_
+    2_2_3212  3_3_543_
+    2_2_3212  3_3_543_
+    5__6543  4__54
+    32  3_3_4345  3__0__ //]
+BEM[]
+MEL_SEM[4 -4 4 -2 -2 2 2 -4 4 3 -3 3 -2 -1 1 2 -3 -2 0 2 -2 -2 2 2 0 3 -2 -1 -2 0 2 -2 -2 2 2 0 3 -2 -1 3 2 -2 -2 -1 1 2 -2 -1 -2 2 0 1 -1 1 2 -3]
+MEL_RAW[1313  212310
+    3535  434530
+    223212  33543
+    223212  33543
+    56543  454
+    32  334345  30]
+NO_REP[1313212310
+    3535434530
+    232123543
+    232123543
+    56543454
+    323434530]
+RTM[x_x_x_x_  xxxxx_x_
+    x_x_x_x_  xxxxx_x_
+    x_x_xxxx  x_x_xxx_
+    x_x_xxxx  x_x_xxx_
+    x__xxxx  x__xx
+    xx  x_x_xxxx  x__x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

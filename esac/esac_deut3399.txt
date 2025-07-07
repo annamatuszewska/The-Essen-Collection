@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die Antwerpener Kaufmannstochter
+    Andreas, Andreas kumm heuer zu mir,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz]
+TRD[5, S. 113
+    1911 gedruckt in Habelschwerdt]
+FKT[]
+SIG[Q1098A]
+KEY[Q1098A  08  G 3/4]
+MEL[3_  5_5_5_  3_3_3_  6_6_6_  5_0_
+    5_  4_4_44  3_3333  2_2_2_  1__ //]
+BEM[]
+MEL_SEM[3 0 0 -3 0 0 5 0 0 -2 0 -2 0 0 0 -1 0 0 0 0 -2 0 0 -2]
+MEL_RAW[3  555  333  666  50
+    5  4444  33333  222  1]
+NO_REP[353650
+    54321]
+RTM[x_  x_x_x_  x_x_x_  x_x_x_  x_x_
+    x_  x_x_xx  x_xxxx  x_x_x_  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+BOEHME
+CUT[GOTT GRUESS EUCH ALTER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0583]
+KEY[B0583   08  D 4/4]
+MEL[5_  +1_.35432  211_0_
+    3_  2_.35432  3_0__
+    1_  6_.7+17+16  654_0_
+    43  2_.65_-7_  1_0__ //]
+BEM[]
+MEL_SEM[5 -8 3 -2 -1 -2 0 -2 0 4 -2 2 3 -2 -1 -2 2 -4 9 2 1 -1 1 -3 0 -2 -2 0 -1 -2 7 -2 -8 1]
+MEL_RAW[5  +135432  2110
+    3  235432  30
+    1  67+17+16  6540
+    43  265-7  10]
+NO_REP[5+13543210
+    323543230
+    167+17+16540
+    43265-710]
+RTM[x_  x_.xxxxx  xxx_x_
+    x_  x_.xxxxx  x_x__
+    x_  x_.xxxxx  xxx_x_
+    xx  x_.xx_x_  x_x__]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

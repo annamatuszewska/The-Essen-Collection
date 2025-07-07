@@ -1,0 +1,36 @@
+BOEHME
+CUT[MORGEN KOMMT DER WEIHNACHTSMANN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0640]
+KEY[B0640   08  D 2/4]
+MEL[+1553  655_
+    6543  3_2_
+    5224  321_
+    5224  321_
+    +1553  655_
+    6543  2_1_ //]
+BEM[]
+MEL_SEM[-5 0 -3 5 -2 0 2 -2 -2 -1 0 -2 5 -5 0 3 -1 -2 -2 7 -5 0 3 -1 -2 -2 12 -5 0 -3 5 -2 0 2 -2 -2 -1 -2 -2]
+MEL_RAW[+1553  655
+    6543  32
+    5224  321
+    5224  321
+    +1553  655
+    6543  21]
+NO_REP[+15365
+    65432
+    524321
+    524321
+    +15365
+    654321]
+RTM[xxxx  xxx_
+    xxxx  x_x_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  x_x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

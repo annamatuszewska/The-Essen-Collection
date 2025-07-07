@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Geburt im Grabe
+    Eine Landmannsfrau ging schwanger,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Luebben, Schoenwalde]
+TRD[5, S. 224
+    ????]
+FKT[]
+SIG[Q0109B]
+KEY[Q0109B  16  G FREI]
+MEL[11  5__5_4__2_  2_1__0__
+    33  5__3_3_5_4_  4_3__0__
+    1_  6_6_6_6_  1_5_0_
+    +1_  5_3_5_4_3_2_  2_1_ //]
+BEM[]
+MEL_SEM[0 7 0 -2 -3 0 -2 4 0 3 -3 0 3 -2 0 -1 -4 9 0 0 0 -9 7 5 -5 -3 3 -2 -1 -2 0 -2]
+MEL_RAW[11  5542  210
+    33  53354  430
+    1  6666  150
+    +1  535432  21]
+NO_REP[154210
+    3535430
+    16150
+    +15354321]
+RTM[xx  x__x_x__x_  x_x__x__
+    xx  x__x_x_x_x_  x_x__x__
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_x_x_  x_x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

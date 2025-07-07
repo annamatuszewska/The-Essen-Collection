@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Jungfer Doertchen
+    Es war ein Ritter wohlgemut,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Odenwald, Neunkirchen]
+TRD[3, S. 87
+    1843 aufgezeichnet]
+FKT[]
+SIG[Q0057]
+KEY[Q0057   08  G 6/8]
+MEL[13_2  1_35_4  3_
+    5432  6543_2  3_
+    5432  6543_2  3_ //]
+BEM[]
+MEL_SEM[4 -2 -2 4 3 -2 -1 3 -2 -1 -2 7 -2 -2 -1 -2 2 3 -2 -1 -2 7 -2 -2 -1 -2 2]
+MEL_RAW[132  1354  3
+    5432  65432  3
+    5432  65432  3]
+NO_REP[13213543
+    5432654323
+    5432654323]
+RTM[xx_x  x_xx_x  x_
+    xxxx  xxxx_x  x_
+    xxxx  xxxx_x  x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

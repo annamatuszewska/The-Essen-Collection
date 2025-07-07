@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES FUHR EIN FUHRKNECHT UEBERN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[Z0019]
+KEY[Z0019   08  G 2/4]
+MEL[-5  1_3b_  2_5_  43b2
+    -5  1_3b_  2_5_  43b2
+    4  4445  3b21
+    -5  1_3b_  2_5_  3b21 //]
+BEM[]
+MEL_SEM[5 3 -1 5 -2 -2 -1 -7 5 3 -1 5 -2 -2 -1 3 0 0 0 2 -4 -1 -2 -5 5 3 -1 5 -4 -1 -2]
+MEL_RAW[-5  13b  25  43b2
+    -5  13b  25  43b2
+    4  4445  3b21
+    -5  13b  25  3b21]
+NO_REP[-513b2543b2
+    -513b2543b2
+    453b21
+    -513b253b21]
+RTM[x  x_x_  x_x_  xxx
+    x  x_x_  x_x_  xxx
+    x  xxxx  xxx
+    x  x_x_  x_x_  xxx]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

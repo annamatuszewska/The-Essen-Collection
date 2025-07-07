@@ -1,0 +1,18 @@
+1. 'Sind drei draußen, Frau Mutter!'
+"Frag, was ſie woll'n, meine Tochter!"
+2. 'Einer will mich haben, Frau Mutter!'
+"Frag, ob viel Thaler, meine Tochter!"
+3.Dreihundert Thaler, Frau Mutter!'
+"Das iſt ʒu wenig, meine Tochter!"
+4. 'Sind drei draußen, Frau Mutter?'
+"Frag, was ſie woll'n, meine Tochter!"
+5. 'Einer will mich haben, Frau Mutter!'
+"Frag, ob viel Thaler, meine Tochter!"
+6. 'Vierhundert Thaler, Frau Mutter!'
+"Das iſt ʒu wenig, meine Tochter!"
+7. 'Sind drei draußen, Frau Mutter!'
+"Frag, was ſie woll'n, meine Tochter."
+8. 'Einer will mich haben, Frau Mutter!'
+"Frag, ob viel Thaler, meine Tochter!"
+9. 'Fünfhundert Thaler, Frau Mutter!'
+"Den ſollſt du haben, meine Tochter."

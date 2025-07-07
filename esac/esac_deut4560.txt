@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[ES GING EIN MUELLER WOHL UEBERS FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0059]
+KEY[Z0059   08  G 4/4]
+MEL[-5_  1_3b_2_5_  4_53b2_
+    -5_  1_3b3b225_  4_53b2_
+    5_  5_4_5_3b2  3b_1_0_ //]
+BEM[]
+MEL_SEM[5 3 -1 5 -2 2 -4 -1 -7 5 3 0 -1 0 5 -2 2 -4 -1 5 0 -2 2 -4 -1 1 -3]
+MEL_RAW[-5  13b25  453b2
+    -5  13b3b225  453b2
+    5  5453b2  3b10]
+NO_REP[-513b25453b2
+    -513b25453b2
+    5453b23b10]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_xxxxx_  x_xxx_
+    x_  x_x_x_xx  x_x_x_]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

@@ -1,0 +1,32 @@
+BOEHME
+CUT[ACH ANDREAS HEILGER SCHUTZPATRON]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Hessen, Sachsen]
+TRD[]
+FKT[]
+SIG[B0683]
+KEY[B0683   08  F 3/4]
+MEL[-5-5  1_.111  -72-5_
+    -5-7  2_.212  3_0_
+    -5-5  1_.111  -72-5_
+    -5-7  2_.212  3_0_
+    34  5_.123  2__.  1_0__  2__.  1_0_ //]
+BEM[]
+MEL_SEM[0 5 0 0 0 -1 3 -7 0 4 3 0 -2 2 2 -9 0 5 0 0 0 -1 3 -7 0 4 3 0 -2 2 2 0 1 2 -7 2 2 -2 -2 2 -2]
+MEL_RAW[-5-5  1111  -72-5
+    -5-7  2212  30
+    -5-5  1111  -72-5
+    -5-7  2212  30
+    34  5123  2  10  2  10]
+NO_REP[-51-72-5
+    -5-721230
+    -51-72-5
+    -5-721230
+    345123210210]
+RTM[xx  x_.xxx  xxx_
+    xx  x_.xxx  x_x_
+    xx  x_.xxx  xxx_
+    xx  x_.xxx  x_x_
+    xx  x_.xxx  x__.  x_x__  x__.  x_x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

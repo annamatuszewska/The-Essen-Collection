@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ICH WILL EUCH' MAL SINGEN EIN LIEDELEIN EIN NEUES]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+TRD[]
+FKT[]
+SIG[Z0123]
+KEY[Z0123   08  G 3/4]
+MEL[-5  1_1_-5_  1_1_-5_  1_1_2_  3_3_
+    1_  -6_-6_1_  1_-7_-6_  -6_-5_-5_  -5_-5_
+    35  544345  4__24  433234  3__
+    1_  3_2_2_  4_2_-7_  2_1_-7_  1__0 //]
+BEM[]
+MEL_SEM[5 0 -5 5 0 -5 5 0 2 2 0 -4 -3 0 3 0 -1 -2 0 -2 0 0 0 9 3 0 -2 0 -1 1 2 -2 -3 3 0 -1 0 -2 2 1 -1 -4 4 -2 0 3 -3 -3 3 -2 -1 1]
+MEL_RAW[-5  11-5  11-5  112  33
+    1  -6-61  1-7-6  -6-5-5  -5-5
+    35  544345  424  433234  3
+    1  322  42-7  21-7  10]
+NO_REP[-51-51-5123
+    1-61-7-6-5
+    35434542432343
+    13242-721-710]
+RTM[x  x_x_x_  x_x_x_  x_x_x_  x_x_
+    x_  x_x_x_  x_x_x_  x_x_x_  x_x_
+    xx  xxxxxx  x__xx  xxxxxx  x__
+    x_  x_x_x_  x_x_x_  x_x_x_  x__x]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

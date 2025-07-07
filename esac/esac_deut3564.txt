@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Winterrosen
+    Es wollt' ein Maegdelein Wasser hol'n]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+TRD[7, S. 61
+    1855 gedruckt in Leipzig]
+FKT[]
+SIG[Q0145G]
+KEY[Q0145G  16  G 6/8]
+MEL[-5_  1__3_3_.21_  -7__2_4__
+    2_  3__5_5_.43_  3__.2__
+    13  5__3_3__+1_  5__4_2__
+    4_  3__1_5_4_3_  2__.1__ //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 -1 3 3 -3 2 3 0 -2 -1 0 -2 -2 4 3 -3 0 8 -5 -2 -3 3 -1 -4 7 -2 -1 -2 -2]
+MEL_RAW[-5  13321  -724
+    2  35543  32
+    13  533+1  542
+    4  31543  21]
+NO_REP[-51321-724
+    235432
+    1353+1542
+    43154321]
+RTM[x_  x__x_x_.xx_  x__x_x__
+    x_  x__x_x_.xx_  x__.x__
+    xx  x__x_x__x_  x__x_x__
+    x_  x__x_x_x_x_  x__.x__]
+SCL_DEG[-5-712345+1]
+SCL_SEM[4 1 2 2 1 2 5]
+

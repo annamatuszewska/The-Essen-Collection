@@ -1,0 +1,25 @@
+ZUCCAL
+CUT[Ulrich
+    ULRICH GING AUS SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1015]
+KEY[Z1015   16  D 3/4]
+MEL[1_3_5__6__  5_543_
+    2_1_3_  5__4_3_3__  2_2_2_
+    2_1_3_  5_4_3_3_2__  2_3_1__0__ //]
+BEM[]
+MEL_SEM[4 3 2 -2 0 -2 -1 -2 -2 4 3 -2 -1 0 -2 0 0 0 -2 4 3 -2 -1 0 -2 0 2 -4]
+MEL_RAW[1356  5543
+    213  5433  222
+    213  54332  2310]
+NO_REP[1356543
+    2135432
+    2135432310]
+RTM[x_x_x__x__  x_xxx_
+    x_x_x_  x__x_x_x__  x_x_x_
+    x_x_x_  x_x_x_x_x__  x_x_x__x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

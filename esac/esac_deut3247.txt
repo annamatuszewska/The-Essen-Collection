@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es ritt ein Ritter wohl ueber den Rhein,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Gutebern]
+TRD[4, S. 6
+    1840 aufgezeichnet]
+FKT[]
+SIG[Q0072D]
+KEY[Q0072D  08  F 4/4]
+MEL[34  5_5_5565  544_4_
+    54  333_321_  2_222_
+    32  113_531_  32221_ //]
+BEM[]
+MEL_SEM[1 2 0 0 0 2 -2 0 -2 0 0 2 -2 -1 0 0 0 -2 -2 2 0 0 0 2 -2 -2 0 4 3 -3 -4 4 -2 0 0 -2]
+MEL_RAW[34  555565  5444
+    54  333321  2222
+    32  113531  32221]
+NO_REP[345654
+    543212
+    3213531321]
+RTM[xx  x_x_xxxx  xxx_x_
+    xx  xxx_xxx_  x_xxx_
+    xx  xxx_xxx_  xxxxx_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

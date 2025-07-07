@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Rabenmutter
+    Es kam ein Jaeger obenrein,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
+TRD[5, S. 269
+    1909 gedruckt in Annaberg]
+FKT[]
+SIG[Q0114Q]
+KEY[Q0114Q  08  G 4/4]
+MEL[-5_  1_.-51_2_  3_.21_
+    2_  3_.23_4_  5__4_3_  2__.
+    5_  6_.43_2_  1__-7__  1__. //]
+BEM[]
+MEL_SEM[5 -5 5 2 2 -2 -2 2 2 -2 2 1 2 -2 -1 -2 5 2 -4 -1 -2 -2 -1 1]
+MEL_RAW[-5  1-512  321
+    2  3234  543  2
+    5  6432  1-7  1]
+NO_REP[-51-512321
+    232345432
+    564321-71]
+RTM[x_  x_.xx_x_  x_.xx_
+    x_  x_.xx_x_  x__x_x_  x__.
+    x_  x_.xx_x_  x__x__  x__.]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[FRISCH AUF MEINE KNAPPEN]
+REG[Europa, Mitteleuropa, Deutschland; Niederlande]
+TRD[]
+FKT[]
+SIG[Z0020]
+KEY[Z0020   16  G 4/4]
+MEL[1__  3b__3b__4__4__  5___1__
+    5__  6b__5_5_4__2__  3b_4_5_43b2__.
+    2_  3b_5_5__4__2_2_  1__-7b_-6b_-5__.
+    -5_  -7b_-7b_-7b__1__2__  3b__4__
+    1__.2_  3b_2_3b_4_5__ //]
+BEM[]
+MEL_SEM[3 0 2 0 2 -7 7 1 -1 0 -2 -3 1 2 2 -2 -2 -1 0 1 4 0 -2 -3 0 -2 -2 -2 -1 0 3 0 0 2 2 1 2 -5 2 1 -1 1 2 2]
+MEL_RAW[1  3b3b44  51
+    5  6b5542  3b4543b2
+    2  3b55422  1-7b-6b-5
+    -5  -7b-7b-7b12  3b4
+    12  3b23b45]
+NO_REP[13b451
+    56b5423b4543b2
+    23b5421-7b-6b-5
+    -5-7b123b4
+    123b23b45]
+RTM[x__  x__x__x__x__  x___x__
+    x__  x__x_x_x__x__  x_x_x_xxx__.
+    x_  x_x_x__x__x_x_  x__x_x_x__.
+    x_  x_x_x__x__x__  x__x__
+    x__.x_  x_x_x_x_x__]
+SCL_DEG[-5-6b-7b123b456b]
+SCL_SEM[1 2 2 2 1 2 2 1]
+

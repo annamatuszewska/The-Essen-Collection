@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es war sich ein Pfalzgrafen an dem Rhein.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[4, S. 104
+    1939 gedruckt in Kassel]
+FKT[]
+SIG[Q0075H]
+KEY[Q0075H  08  F 4/4]
+MEL[-5_  113_2_11  -6_-6_1__
+    -7_-721-7-6_  -5__0_
+    -5_  1_1_2_5_  5_423_
+    1_  2_321_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 0 -3 0 3 -1 0 3 -2 -1 -2 -2 0 5 0 2 5 0 -2 -3 2 -4 2 2 -2 -2]
+MEL_RAW[-5  113211  -6-61
+    -7-721-7-6  -50
+    -5  1125  5423
+    1  2321]
+NO_REP[-51321-61
+    -721-7-6-50
+    -5125423
+    12321]
+RTM[x_  xxx_x_xx  x_x_x__
+    x_xxxxx_  x__x_
+    x_  x_x_x_x_  x_xxx_
+    x_  x_xxx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Walscheid]
+TRD[5, S. 1
+    1933 aufgezeichnet]
+FKT[]
+SIG[Q0089A]
+KEY[Q0089A  08  G 4/4]
+MEL[-5  -5_.11_1_  -7b_123b_
+    2_  1_1_222_  -5_1_-7b_0
+    -5  2_.3b4424  3b23b21_
+    1_  -5_-6_-7b_1_  3b21-71_0 //]
+BEM[]
+MEL_SEM[0 5 0 0 -2 2 2 1 -1 -2 0 2 0 0 -7 5 -2 -3 7 1 2 0 -3 3 -2 -1 1 -1 -2 0 -5 2 1 2 3 -1 -2 -1 1]
+MEL_RAW[-5  -5111  -7b123b
+    2  11222  -51-7b0
+    -5  23b4424  3b23b21
+    1  -5-6-7b1  3b21-710]
+NO_REP[-51-7b123b
+    212-51-7b0
+    -523b4243b23b21
+    1-5-6-7b13b21-710]
+RTM[x  x_.xx_x_  x_xxx_
+    x_  x_x_xxx_  x_x_x_x
+    x  x_.xxxxx  xxxxx_
+    x_  x_x_x_x_  xxxxx_x]
+SCL_DEG[-5-6-7b-7123b4]
+SCL_SEM[2 1 1 1 2 1 2]
+

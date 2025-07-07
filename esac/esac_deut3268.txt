@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Schoen Adelheid
+    Es war einmal ein Kuepper gut,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Muelheim Rh., Paffrath]
+TRD[4, S. 55
+    1838 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0074]
+KEY[Q0074   16  A 3/8]
+MEL[-5_  -5__1_  1_-7_1_  2__3b2  1__
+    24  3b_2_1_  -7_-6b_-5_  1_.23b_  2__
+    2_  2_1_23b  4_3b_2_  3b_2_1_  1_-7_
+    -6b_  -5_-6b_-7_  1_2_3b_  2_1_ //]
+BEM[]
+MEL_SEM[0 5 0 -1 1 2 1 -1 -2 2 3 -2 -1 -2 -1 -3 -1 5 2 1 -1 0 0 -2 2 1 2 -2 -1 1 -1 -2 0 -1 -3 -1 1 3 1 2 1 -1 -2]
+MEL_RAW[-5  -51  1-71  23b2  1
+    24  3b21  -7-6b-5  123b  2
+    2  2123b  43b2  3b21  1-7
+    -6b  -5-6b-7  123b  21]
+NO_REP[-51-7123b21
+    243b21-7-6b-5123b2
+    2123b43b23b21-7
+    -6b-5-6b-7123b21]
+RTM[x_  x__x_  x_x_x_  x__xx  x__
+    xx  x_x_x_  x_x_x_  x_.xx_  x__
+    x_  x_x_xx  x_x_x_  x_x_x_  x_x_
+    x_  x_x_x_  x_x_x_  x_x_]
+SCL_DEG[-5-6b-7123b4]
+SCL_SEM[1 3 1 2 1 2]
+

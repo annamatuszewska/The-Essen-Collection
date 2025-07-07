@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der Hirsch
+    SPRINGT EIN HIRSCH UEBERN BAUM]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1368]
+KEY[Z1368   08  F 3/4]
+MEL[1_1531  5_4-5-7_
+    -7_-765-7  1_35+1_
+    111531  554-5-7-7
+    -7_-765-7  1_0__ //]
+BEM[]
+MEL_SEM[0 7 -3 -4 7 -2 -10 4 0 0 10 -2 -8 1 4 3 5 -12 0 0 7 -3 -4 7 0 -2 -10 4 0 0 0 10 -2 -8 1]
+MEL_RAW[11531  54-5-7
+    -7-765-7  135+1
+    111531  554-5-7-7
+    -7-765-7  10]
+NO_REP[153154-5-7
+    -765-7135+1
+    153154-5-7
+    -765-710]
+RTM[x_xxxx  x_xxx_
+    x_xxxx  x_xxx_
+    xxxxxx  xxxxxx
+    x_xxxx  x_x__]
+SCL_DEG[-5-713456+1]
+SCL_SEM[4 1 4 1 2 2 3]
+

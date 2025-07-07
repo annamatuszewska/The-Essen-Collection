@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die elfjaehrige Markgraefin
+    Ich waiss ein schoens Lustgaertelein]
+REG[Mitteleuropa, Deutschland]
+TRD[2, S. 294
+    1646 Handschrift Kloster Seeon]
+FKT[]
+SIG[Q1053H]
+KEY[Q1053H  08  F 2/2 3/2]
+MEL[1_1_2_  3_4_2_.2  1__0_
+    1_5_6_  7b_5_6__  5__0_
+    5_5_5_  +1_765_6_5_5_  3__0_
+    5_3_5_  4_.32_1_2__  1_ //]
+BEM[]
+MEL_SEM[0 2 2 1 -3 0 -2 0 7 2 1 -3 2 -2 0 0 0 5 -1 -2 -2 2 -2 0 -3 3 -3 3 -2 -1 -2 -2 2 -2]
+MEL_RAW[112  3422  10
+    156  7b56  50
+    555  +1765655  30
+    535  43212  1]
+NO_REP[1234210
+    1567b5650
+    5+17656530
+    535432121]
+RTM[x_x_x_  x_x_x_.x  x__x_
+    x_x_x_  x_x_x__  x__x_
+    x_x_x_  x_xxx_x_x_x_  x__x_
+    x_x_x_  x_.xx_x_x__  x_]
+SCL_DEG[1234567b7+1]
+SCL_SEM[2 2 1 2 2 1 1 1]
+

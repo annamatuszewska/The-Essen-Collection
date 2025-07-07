@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Liebestreu
+    ES WAREN ZWEI KOENIGSKINDER]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1011]
+KEY[Z1011   16  A 3/8]
+MEL[3b_  1_1_2_  3b_2_3b_  1__3b_  2__
+    3b_  1_1_2_  4_3b_2_  1__-7_  1__
+    12  3b_3b_3b_  4_4_4_  5__.  4__
+    54  3b_2_1_  -7_1_2_  1__ //]
+BEM[]
+MEL_SEM[-3 0 2 1 -1 1 -3 3 -1 1 -3 0 2 3 -2 -1 -2 -1 1 0 2 1 0 0 2 0 0 2 -2 2 -2 -2 -1 -2 -1 1 2 -2]
+MEL_RAW[3b  112  3b23b  13b  2
+    3b  112  43b2  1-7  1
+    12  3b3b3b  444  5  4
+    54  3b21  -712  1]
+NO_REP[3b123b23b13b2
+    3b1243b21-71
+    123b454
+    543b21-7121]
+RTM[x_  x_x_x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  x_x_x_  x__x_  x__
+    xx  x_x_x_  x_x_x_  x__.  x__
+    xx  x_x_x_  x_x_x_  x__]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

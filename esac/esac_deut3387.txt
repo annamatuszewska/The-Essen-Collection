@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saarburg]
+TRD[5, S. 1
+    1939 gedruckt in Kassel]
+FKT[]
+SIG[Q0089]
+KEY[Q0089   08  G 3/8]
+MEL[-5  1_3  1_4  3_2  1_
+    -5  1_3  2_4  3_1  2_
+    4  3_2  11-5  2_4  3_
+    4  3_2  1_-5  2_3  1_
+    4  3_2  11-5  2_4  3_
+    4  3_2  1_-5  2_3  1_ //]
+BEM[]
+MEL_SEM[5 4 -4 5 -1 -2 -2 -5 5 4 -2 3 -1 -4 2 3 -1 -2 -2 0 -5 7 3 -1 1 -1 -2 -2 -5 7 2 -4 5 -1 -2 -2 0 -5 7 3 -1 1 -1 -2 -2 -5 7 2 -4]
+MEL_RAW[-5  13  14  32  1
+    -5  13  24  31  2
+    4  32  11-5  24  3
+    4  32  1-5  23  1
+    4  32  11-5  24  3
+    4  32  1-5  23  1]
+NO_REP[-51314321
+    -51324312
+    4321-5243
+    4321-5231
+    4321-5243
+    4321-5231]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  xxx  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  xxx  x_x  x_
+    x  x_x  x_x  x_x  x_]
+SCL_DEG[-51234]
+SCL_SEM[5 2 2 1]
+

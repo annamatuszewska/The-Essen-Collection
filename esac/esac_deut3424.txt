@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Die verunglueckte Muellerstochter
+    Meister Mueller tut sich graemen,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
+TRD[5, S. 193
+    ????]
+FKT[]
+SIG[Q0106D]
+KEY[Q0106D  08  G 4/4]
+MEL[5_.4  3_3_3_4_  6_5_
+    6_.5  5_3_4_5_  3__0_
+    5_  +1_765_5_  5_+1_5_
+    34  655_4_5_  3__0_
+    5_  +1_765_5_  5_+1_5_
+    34  655_4_5_  3__ //]
+BEM[]
+MEL_SEM[-2 -1 0 0 1 4 -2 2 -2 0 -3 1 2 -3 3 5 -1 -2 -2 0 0 5 -5 -3 1 4 -2 0 -2 2 -3 3 5 -1 -2 -2 0 0 5 -5 -3 1 4 -2 0 -2 2 -3]
+MEL_RAW[54  3334  65
+    65  5345  30
+    5  +17655  5+15
+    34  65545  30
+    5  +17655  5+15
+    34  65545  3]
+NO_REP[543465
+    6534530
+    5+1765+15
+    34654530
+    5+1765+15
+    3465453]
+RTM[x_.x  x_x_x_x_  x_x_
+    x_.x  x_x_x_x_  x__x_
+    x_  x_xxx_x_  x_x_x_
+    xx  xxx_x_x_  x__x_
+    x_  x_xxx_x_  x_x_x_
+    xx  xxx_x_x_  x__]
+SCL_DEG[34567+1]
+SCL_SEM[1 2 2 2 1]
+

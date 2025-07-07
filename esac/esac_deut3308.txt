@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt ein Markgraf an dem Rhein,]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
+TRD[4, S. 118
+    ????]
+FKT[]
+SIG[Q0075x]
+KEY[Q0075x  08  F 3/4]
+MEL[333  3_.-722  2_.
+    222  2_.-611  1_.
+    333  6_.543  5_.
+    432  5_.432  1_. //]
+BEM[]
+MEL_SEM[0 0 0 -5 3 0 0 0 0 0 0 -5 3 0 0 4 0 0 5 -2 -2 -1 3 -2 -1 -2 5 -2 -1 -2 -2]
+MEL_RAW[333  3-722  2
+    222  2-611  1
+    333  6543  5
+    432  5432  1]
+NO_REP[3-72
+    2-61
+    365435
+    43254321]
+RTM[xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_.]
+SCL_DEG[-6-7123456]
+SCL_SEM[2 1 2 2 1 2 2]
+

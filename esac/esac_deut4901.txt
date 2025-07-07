@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Der Schaefersohn
+    ES TRIEB EIN SCHAEFER WOHL UEBER DIE BRUECK]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1086]
+KEY[Z1086   08  G 6/8]
+MEL[-5  1_1123b  221-7_0
+    -72443b4  3b_21_
+    1  4_11_-7b  -7b_-6b-5_.
+    -6b-5-4-5_.  -6b-5-4-5_.
+    1_-711-5  -6b_-51_ //]
+BEM[]
+MEL_SEM[5 0 0 2 1 -1 0 -2 -1 0 3 3 0 -2 2 -2 -1 -2 0 5 -5 0 -2 0 -2 -1 1 -1 -2 2 1 -1 -2 2 5 -1 1 0 -5 1 -1 5]
+MEL_RAW[-5  11123b  221-70
+    -72443b4  3b21
+    1  411-7b  -7b-6b-5
+    -6b-5-4-5  -6b-5-4-5
+    1-711-5  -6b-51]
+NO_REP[-5123b21-70
+    -7243b43b21
+    141-7b-6b-5
+    -6b-5-4-5-6b-5-4-5
+    1-71-5-6b-51]
+RTM[x  x_xxxx  xxxx_x
+    xxxxxx  x_xx_
+    x  x_xx_x  x_xx_.
+    xxxx_.  xxxx_.
+    x_xxxx  x_xx_]
+SCL_DEG[-4-5-6b-7b-7123b4]
+SCL_SEM[2 1 2 1 1 2 1 2]
+

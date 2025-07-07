@@ -1,0 +1,28 @@
+BOEHME
+CUT[IM FELDE SCHLEICH ICH STILL UND WILD]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0594]
+KEY[B0594   08 Eb 6/8]
+MEL[-5  1_13_3  5_53_
+    3  1_12_2  3__0
+    5  5_22_5  5_33_
+    +1  5_31_2  3__0 //]
+BEM[]
+MEL_SEM[5 0 4 0 3 0 -3 0 -4 0 2 0 2 3 0 -5 0 5 0 -3 0 8 -5 -3 -4 2 2]
+MEL_RAW[-5  1133  553
+    3  1122  30
+    5  5225  533
+    +1  5312  30]
+NO_REP[-51353
+    31230
+    5253
+    +1531230]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x__x
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x__x]
+SCL_DEG[-51235+1]
+SCL_SEM[5 2 2 3 5]
+

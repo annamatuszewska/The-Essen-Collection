@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Wiedersehen an der Bahre
+    'Nun adje, Schatz, und ich muss fort,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 86
+    ????]
+FKT[]
+SIG[Q0056P]
+KEY[Q0056P  04  G 6/4]
+MEL[1-5_1  3b_21_-7b  1_
+    -7b3b_4  5_7b53b4  5_
+    57b_5  6b545_4  3b_
+    55_4  43b21_-7b  1_ //]
+BEM[]
+MEL_SEM[-5 5 3 -1 -2 -2 2 -2 5 2 2 3 -3 -4 2 2 0 3 -3 1 -1 -2 2 -2 -2 4 0 -2 0 -2 -1 -2 -2 2]
+MEL_RAW[1-51  3b21-7b  1
+    -7b3b4  57b53b4  5
+    57b5  6b5454  3b
+    554  43b21-7b  1]
+NO_REP[1-513b21-7b1
+    -7b3b457b53b45
+    57b56b54543b
+    543b21-7b1]
+RTM[xx_x  x_xx_x  x_
+    xx_x  x_xxxx  x_
+    xx_x  xxxx_x  x_
+    xx_x  xxxx_x  x_]
+SCL_DEG[-5-7b123b456b7b]
+SCL_SEM[3 2 2 1 2 2 1 2]
+

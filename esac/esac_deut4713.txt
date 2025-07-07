@@ -1,0 +1,40 @@
+ZUCCAL
+CUT[ES TAGET VOR DEM WALDE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0214]
+KEY[Z0214   08  G 3/8]
+MEL[5  5_5  5_5  7b_.  3b_.
+    5_5  7b_6  5_.  0_
+    5  5_5  7b_7b  3b_.  5_.
+    4_4  442
+    3b_1  -7b_-7b  5_5
+    7b_.  6_.  5_3b  42_  1_.
+    5_3b  42_  1_ //]
+BEM[]
+MEL_SEM[0 0 0 0 3 -7 4 0 3 -1 -2 0 0 0 3 0 -7 4 -2 0 0 0 -3 1 -3 -2 0 9 0 3 -1 -2 -4 2 -3 -2 7 -4 2 -3 -2]
+MEL_RAW[5  55  55  7b  3b
+    55  7b6  5  0
+    5  55  7b7b  3b  5
+    44  442
+    3b1  -7b-7b  55
+    7b  6  53b  42  1
+    53b  42  1]
+NO_REP[57b3b
+    57b650
+    57b3b5
+    42
+    3b1-7b5
+    7b653b421
+    53b421]
+RTM[x  x_x  x_x  x_.  x_.
+    x_x  x_x  x_.  x_
+    x  x_x  x_x  x_.  x_.
+    x_x  xxx
+    x_x  x_x  x_x
+    x_.  x_.  x_x  xx_  x_.
+    x_x  xx_  x_]
+SCL_DEG[-7b123b4567b]
+SCL_SEM[2 2 1 2 2 2 1]
+

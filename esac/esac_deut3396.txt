@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Tochter als Faehnrich
+    'Valet, valet, zum Tor hinaus,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[5, S. 88
+    1842 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0096]
+KEY[Q0096   08  C 4/4]
+MEL[-5_  11123_2_  1__0_
+    1_  -71234_3_  2__0_
+    1_  33345_.6  5__0_
+    4_  43234_.5  4__0_
+    4_  32153_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 -2 -2 0 -1 1 2 2 1 -1 -2 -2 4 0 0 1 2 2 -2 -2 0 -1 -2 2 1 2 -2 0 -1 -2 -2 7 -3 -2 -2]
+MEL_RAW[-5  111232  10
+    1  -712343  20
+    1  333456  50
+    4  432345  40
+    4  321532  10]
+NO_REP[-5123210
+    1-71234320
+    1345650
+    43234540
+    432153210]
+RTM[x_  xxxxx_x_  x__x_
+    x_  xxxxx_x_  x__x_
+    x_  xxxxx_.x  x__x_
+    x_  xxxxx_.x  x__x_
+    x_  xxxxx_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

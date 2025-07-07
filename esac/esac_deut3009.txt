@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Grausiges Mahl
+    'Gott gruess' Euch, edle Fraue,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Haynau, Konradsdorf]
+TRD[1, S. 171
+    1840 aufgezeichnet]
+FKT[]
+SIG[Q0017]
+KEY[Q0017   08  F 2/4]
+MEL[3  5353  5_6
+    5  4242  4_5
+    4  3355  345
+    5  5535  3_0 //]
+BEM[]
+MEL_SEM[3 -3 3 -3 3 2 -2 -2 -3 3 -3 3 2 -2 -1 0 3 0 -3 1 2 0 0 0 -3 3 -3]
+MEL_RAW[3  5353  56
+    5  4242  45
+    4  3355  345
+    5  5535  30]
+NO_REP[3535356
+    5424245
+    435345
+    53530]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x]
+SCL_DEG[23456]
+SCL_SEM[2 1 2 2]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der Traum
+    DAS MAEGDLEIN IM BRUNNGARTEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1088]
+KEY[Z1088   08 Ab 4/4]
+MEL[-5_  1_3_2_3_  1_.-7-6_
+    -71  2_.21-7-6-5  -5__
+    1__  22225432  2__30
+    1-7  -6_1_2_32  1__0_ //]
+BEM[]
+MEL_SEM[5 4 -2 2 -4 -1 -2 2 1 2 0 -2 -1 -2 -2 0 5 2 0 0 0 5 -2 -1 -2 0 2 -4 -1 -2 3 2 2 -2 -2]
+MEL_RAW[-5  1323  1-7-6
+    -71  221-7-6-5  -5
+    1  22225432  230
+    1-7  -61232  10]
+NO_REP[-513231-7-6
+    -7121-7-6-5
+    12543230
+    1-7-6123210]
+RTM[x_  x_x_x_x_  x_.xx_
+    xx  x_.xxxxx  x__
+    x__  xxxxxxxx  x__xx
+    xx  x_x_x_xx  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

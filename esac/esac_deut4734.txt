@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Ein kleiner feiner Almanach. 
+    MAN SAGT DAS LIEBEN BRINGET GROSSE FREUD]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0235]
+KEY[Z0235   16  C 3/8]
+MEL[-5_  1__2_  3__2_  3__2_  3__2_  5__
+    5_  5_.43_  4_2_2_  3_.21_  2__
+    3_  2__3_  2__3_  4_.32_  3_.21_  5__
+    5_  4_.2-7_  3_.21_  2_-5_-7_  1__ //]
+BEM[]
+MEL_SEM[5 2 2 -2 2 -2 2 -2 5 0 0 -2 -1 1 -3 0 2 -2 -2 2 2 -2 2 -2 2 1 -1 -2 2 -2 -2 7 0 -2 -3 -3 5 -2 -2 2 -7 4 1]
+MEL_RAW[-5  12  32  32  32  5
+    5  543  422  321  2
+    3  23  23  432  321  5
+    5  42-7  321  2-5-7  1]
+NO_REP[-5123232325
+    543423212
+    323234323215
+    542-73212-5-71]
+RTM[x_  x__x_  x__x_  x__x_  x__x_  x__
+    x_  x_.xx_  x_x_x_  x_.xx_  x__
+    x_  x__x_  x__x_  x_.xx_  x_.xx_  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

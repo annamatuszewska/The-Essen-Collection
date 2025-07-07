@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Frau von Weissenburg
+    Die mi te drincken gaue,]
+REG[Mitteleuropa, Deutschland / Niederlande]
+TRD[1, S. 301
+    1557 gedruckt in Antwerpen]
+FKT[]
+SIG[Q0030]
+KEY[Q0030   08  G FREI]
+MEL[1__1_1_  2__2_3b_1__  -7b__
+    -7b_3b__4_  5__4_5__43b  2__0_
+    5_5_5_  3b_4__3b_2_1_  -7b__0__
+    1_.2  3b_4__3b_2__  1__ //]
+BEM[]
+MEL_SEM[0 0 2 0 1 -3 -2 0 5 2 2 -2 2 -2 -2 -1 5 0 0 -4 2 -2 -1 -2 -2 2 2 1 2 -2 -1 -2]
+MEL_RAW[111  223b1  -7b
+    -7b3b4  54543b  20
+    555  3b43b21  -7b0
+    12  3b43b2  1]
+NO_REP[123b1-7b
+    -7b3b454543b20
+    53b43b21-7b0
+    123b43b21]
+RTM[x__x_x_  x__x_x_x__  x__
+    x_x__x_  x__x_x__xx  x__x_
+    x_x_x_  x_x__x_x_x_  x__x__
+    x_.x  x_x__x_x__  x__]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

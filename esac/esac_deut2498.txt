@@ -1,0 +1,32 @@
+BOEHME
+CUT[EIN KIRCHLEIN STEHT IM BLAUEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0279]
+KEY[B0279   08 Ab 4/4]
+MEL[-5_  3_.33_2_  2_.11_
+    -5_  4_4_4353  2__0_
+    -5_  5_.65_4_  3__54
+    32  1_.1321-7  1__
+    2__  3_3_5423  1__0_ //]
+BEM[]
+MEL_SEM[9 0 0 -2 0 -2 0 -5 10 0 0 -1 3 -3 -2 -7 12 2 -2 -2 -1 3 -2 -1 -2 -2 0 4 -2 -2 -1 1 2 2 0 3 -2 -3 2 -4]
+MEL_RAW[-5  3332  211
+    -5  444353  20
+    -5  5654  354
+    32  11321-7  1
+    2  335423  10]
+NO_REP[-5321
+    -5435320
+    -5654354
+    321321-71
+    23542310]
+RTM[x_  x_.xx_x_  x_.xx_
+    x_  x_x_xxxx  x__x_
+    x_  x_.xx_x_  x__xx
+    xx  x_.xxxxx  x__
+    x__  x_x_xxxx  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

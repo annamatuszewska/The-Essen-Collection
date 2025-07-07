@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[DIE MAID SIE WOLT NEN BUHLEN WERT]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+TRD[]
+FKT[]
+SIG[Z0114]
+KEY[Z0114   08  G 2/4]
+MEL[-5  1_3_  2_5_  4#564#  2_0
+    3  4444  3333  2323  232
+    2  232-7  1_0 //]
+BEM[]
+MEL_SEM[5 4 -2 5 -1 1 2 -3 -4 2 1 0 0 0 -1 0 0 0 -2 2 -2 2 -2 2 -2 0 0 2 -2 -3 1]
+MEL_RAW[-5  13  25  4#564#  20
+    3  4444  3333  2323  232
+    2  232-7  10]
+NO_REP[-513254#564#20
+    3432323232
+    232-710]
+RTM[x  x_x_  x_x_  xxxx  x_x
+    x  xxxx  xxxx  xxxx  xxx
+    x  xxxx  x_x]
+SCL_DEG[-5-712344#56]
+SCL_SEM[4 1 2 2 1 1 1 2]
+

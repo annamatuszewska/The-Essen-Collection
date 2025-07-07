@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die Koenigskinder
+    Es warn zwei Koenigskinder,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+TRD[1, S. 221
+    1833 gedruckt]
+FKT[]
+SIG[Q0020N]
+KEY[Q0020N  16  G 2/4]
+MEL[-5_  1_.13_.1  1_-7_-7_
+    -5_  2_224_22  1__0_
+    13  5_555_44  3__54
+    32  1_113212  3__
+    2__  3_555432  1__0_ //]
+BEM[]
+MEL_SEM[5 0 4 -4 0 -1 0 -4 7 0 0 3 -3 0 -2 0 4 3 0 0 0 -2 0 -1 3 -2 -1 -2 -2 0 0 4 -2 -2 2 2 -2 2 3 0 0 -2 -1 -2 -2]
+MEL_RAW[-5  1131  1-7-7
+    -5  222422  10
+    13  555544  354
+    32  1113212  3
+    2  3555432  10]
+NO_REP[-5131-7
+    -524210
+    1354354
+    32132123
+    23543210]
+RTM[x_  x_.xx_.x  x_x_x_
+    x_  x_xxx_xx  x__x_
+    xx  x_xxx_xx  x__xx
+    xx  x_xxxxxx  x__
+    x__  x_xxxxxx  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

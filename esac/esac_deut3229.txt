@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es fuhr ein Fuhrknecht ueber'n Rhein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+TRD[3, S. 243
+    1932 gedruckt in Metz]
+FKT[]
+SIG[Q0068A]
+KEY[Q0068A  08  G 2/4]
+MEL[-5  1_3b_  2_5_  43b2
+    -5  1_3b_  2_5_  43b2
+    3b  4445  3b21
+    -5  1_2_  3b45_  3b_21  1_0 //]
+BEM[]
+MEL_SEM[5 3 -1 5 -2 -2 -1 -7 5 3 -1 5 -2 -2 -1 1 2 0 0 2 -4 -1 -2 -5 5 2 1 2 2 -4 -1 -2 0]
+MEL_RAW[-5  13b  25  43b2
+    -5  13b  25  43b2
+    3b  4445  3b21
+    -5  12  3b45  3b21  10]
+NO_REP[-513b2543b2
+    -513b2543b2
+    3b453b21
+    -5123b453b210]
+RTM[x  x_x_  x_x_  xxx
+    x  x_x_  x_x_  xxx
+    x  xxxx  xxx
+    x  x_x_  xxx_  x_xx  x_x]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

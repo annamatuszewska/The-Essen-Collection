@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Erhebung
+    BLENDET NICHT DEN FRISCHEN BLICK]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1120]
+KEY[Z1120   08  A 4/4]
+MEL[1_1_-7b_3b_  212_1__
+    1_3b_4_3b_  4_5_3b__
+    3b_4_5_3b_  4_3b21__
+    1_1_-7b_3b_  212_1__ //]
+BEM[]
+MEL_SEM[0 -2 5 -1 -2 2 -2 0 3 2 -2 2 2 -4 0 2 2 -4 2 -2 -1 -2 0 0 -2 5 -1 -2 2 -2]
+MEL_RAW[11-7b3b  2121
+    13b43b  453b
+    3b453b  43b21
+    11-7b3b  2121]
+NO_REP[1-7b3b2121
+    13b43b453b
+    3b453b43b21
+    1-7b3b2121]
+RTM[x_x_x_x_  xxx_x__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  x_xxx__
+    x_x_x_x_  xxx_x__]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

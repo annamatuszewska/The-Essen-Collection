@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Gluecksjaeger
+    Es bliess sich ein Jaeger wohl in sein Horn, wohl in sein Horn,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen, Muensterland]
+TRD[6, S. 190
+    1842 aufgezeichnet]
+FKT[]
+SIG[Q0134]
+KEY[Q0134   16  G 4/4]
+MEL[-5_  1__1_1_1__1_2_  1__-7_-6_-5__-4_-6_  -6__.-5_-5__
+    1__  -7_2_2_2_2__3_2_  1__-7_-6_-5__-6_-7_
+    1__1__1__0_3_  2_.1-7_.12__0_
+    4_  3_2_3_4_5__1_2_  3__2__1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 0 0 2 -2 -1 -2 -2 -2 4 0 -2 0 5 -1 3 0 0 0 2 -2 -2 -1 -2 -2 2 2 1 0 0 4 -2 -2 -1 1 2 3 -1 -2 2 1 2 -7 2 2 -2 -2]
+MEL_RAW[-5  111112  1-7-6-5-4-6  -6-5-5
+    1  -7222232  1-7-6-5-6-7
+    11103  21-7120
+    4  3234512  3210]
+NO_REP[-5121-7-6-5-4-6-5
+    1-72321-7-6-5-6-7
+    10321-7120
+    432345123210]
+RTM[x_  x__x_x_x__x_x_  x__x_x_x__x_x_  x__.x_x__
+    x__  x_x_x_x_x__x_x_  x__x_x_x__x_x_
+    x__x__x__x_x_  x_.xx_.xx__x_
+    x_  x_x_x_x_x__x_x_  x__x__x__x_]
+SCL_DEG[-4-5-6-712345]
+SCL_SEM[2 2 2 1 2 2 1 2]
+

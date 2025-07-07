@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Winterrosen
+    Es wollt ein Maedchen Wasser holen,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kurhessen, Lenderode]
+TRD[7, S. 61
+    1931 aufgezeichnet]
+FKT[]
+SIG[Q0145E]
+KEY[Q0145E  08  F 2/4 3/4]
+MEL[-5  1133  1133
+    224-7  2_1_
+    5_  662_4_  551_
+    3_  224_-7_  2_1 //]
+BEM[]
+MEL_SEM[5 0 4 0 -4 0 4 0 -2 0 3 -6 3 -2 7 2 0 -7 3 2 0 -7 4 -2 0 3 -6 3 -2]
+MEL_RAW[-5  1133  1133
+    224-7  21
+    5  6624  551
+    3  224-7  21]
+NO_REP[-51313
+    24-721
+    562451
+    324-721]
+RTM[x  xxxx  xxxx
+    xxxx  x_x_
+    x_  xxx_x_  xxx_
+    x_  xxx_x_  x_x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

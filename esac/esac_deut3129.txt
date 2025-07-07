@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Die elfjaehrige Markgraefin
+    Es hatte ein Markgraf ein Toechterlein;]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz]
+TRD[2, S. 279
+    1909 gedruckt in Kaiserslautern]
+FKT[]
+SIG[Q0053A]
+KEY[Q0053A  08  C 4/4]
+MEL[5_+1_+1+1  5_543_2_  1_0
+    33_23  4_345_43  2_0
+    55_66  6_.+17_.+2  +1_
+    5_+1_66  5_643_2_  1_0
+    55_66  6_.+17_.+2  +1_
+    5_+1_66  5_643_2_  1_ //]
+BEM[]
+MEL_SEM[5 0 0 -5 0 -2 -1 -2 -2 4 0 -2 2 1 -1 1 2 -2 -1 -2 5 0 2 0 0 3 -1 3 -2 -5 5 -3 0 -2 2 -4 -1 -2 -2 7 0 2 0 0 3 -1 3 -2 -5 5 -3 0 -2 2 -4 -1 -2 -2]
+MEL_RAW[5+1+1+1  55432  10
+    3323  434543  20
+    5566  6+17+2  +1
+    5+166  56432  10
+    5566  6+17+2  +1
+    5+166  56432  1]
+NO_REP[5+1543210
+    32343454320
+    56+17+2+1
+    5+165643210
+    56+17+2+1
+    5+16564321]
+RTM[x_x_xx  x_xxx_x_  x_x
+    xx_xx  x_xxx_xx  x_x
+    xx_xx  x_.xx_.x  x_
+    x_x_xx  x_xxx_x_  x_x
+    xx_xx  x_.xx_.x  x_
+    x_x_xx  x_xxx_x_  x_]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

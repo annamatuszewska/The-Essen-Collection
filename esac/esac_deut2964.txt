@@ -1,0 +1,44 @@
+BOEHME
+CUT[DA UNTEN IST FRIEDEN IM DUNKELN HAUS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0771]
+KEY[B0771   04  F 4/4]
+MEL[3  3_33  4_3
+    3  2_1_  3_2
+    2  3_33  543
+    1  -6_-7_  1_0
+    5  5_5#5#  6_+1
+    6  3_5#_  6_.
+    5  5_4#3  2_3b
+    1  3_2_  1_. //]
+BEM[]
+MEL_SEM[0 0 0 1 -1 0 -2 -2 4 -2 0 2 0 0 3 -2 -1 -4 -3 2 1 7 0 1 0 1 3 -3 -5 4 1 -2 0 -1 -2 -2 1 -3 4 -2 -2]
+MEL_RAW[3  333  43
+    3  21  32
+    2  333  543
+    1  -6-7  10
+    5  55#5#  6+1
+    6  35#  6
+    5  54#3  23b
+    1  32  1]
+NO_REP[343
+    32132
+    23543
+    1-6-710
+    5#5#6+1
+    635#6
+    54#323b
+    1321]
+RTM[x  x_xx  x_x
+    x  x_x_  x_x
+    x  x_xx  xxx
+    x  x_x_  x_x
+    x  x_xx  x_x
+    x  x_x_  x_.
+    x  x_xx  x_x
+    x  x_x_  x_.]
+SCL_DEG[-6-7123b344#55#6+1]
+SCL_SEM[2 1 2 1 1 1 1 1 1 1 3]
+

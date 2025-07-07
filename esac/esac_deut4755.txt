@@ -1,0 +1,20 @@
+ZUCCAL
+CUT[UND E BISSERLE LIEB UND E BISSERLE TREU]
+REG[Europa, Mitteleuropa, Deutschland, bayrisches Gebirge]
+TRD[]
+FKT[]
+SIG[Z0255A]
+KEY[Z0255A  16  F 3/8]
+MEL[13  5_5_.5  6_5_.3  5_4_.2  3__
+    13  3_2_.2  2_1_.1  2_5_.-7  1__ //]
+BEM[]
+MEL_SEM[4 3 0 0 2 -2 -3 3 -2 -3 2 -4 4 0 -2 0 0 -2 0 2 5 -8 1]
+MEL_RAW[13  555  653  542  3
+    13  322  211  25-7  1]
+NO_REP[1356535423
+    132125-71]
+RTM[xx  x_x_.x  x_x_.x  x_x_.x  x__
+    xx  x_x_.x  x_x_.x  x_x_.x  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

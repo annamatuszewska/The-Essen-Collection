@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[NUN LAT'T UNS SING'N DAT ABENDLIED, DENN WIE MOETEN GAHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z0155]
+KEY[Z0155   16  G 2/4]
+MEL[-5_  1_2_3_4_  5_5_5_3_  4_345_3_  1__.
+    -5_  1_2_3_4_  5_5_5_3_  4_345_3_  1__.
+    3_  4_4_4_2_  3__3_1_  2_345_3_  1__0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 0 0 -3 1 -1 1 2 -3 -4 -5 5 2 2 1 2 0 0 -3 1 -1 1 2 -3 -4 4 1 0 0 -3 2 0 -4 2 2 1 2 -3 -4]
+MEL_RAW[-5  1234  5553  43453  1
+    -5  1234  5553  43453  1
+    3  4442  331  23453  10]
+NO_REP[-5123453434531
+    -5123453434531
+    342312345310]
+RTM[x_  x_x_x_x_  x_x_x_x_  x_xxx_x_  x__.
+    x_  x_x_x_x_  x_x_x_x_  x_xxx_x_  x__.
+    x_  x_x_x_x_  x__x_x_  x_xxx_x_  x__x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

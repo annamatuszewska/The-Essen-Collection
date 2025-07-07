@@ -1,0 +1,24 @@
+BOEHME
+CUT[ICH DENKE DEIN WENN DURCH DEN HAIN DER NACHTIGALLEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0393]
+KEY[B0393   08  D 3/4]
+MEL[134  5_.563  5_0
+    +1+2+1  7666+16  655
+    356  2_.345  3_. //]
+BEM[]
+MEL_SEM[4 1 2 0 2 -5 3 5 2 -2 -1 -2 0 0 3 -3 0 -2 0 -3 3 2 -7 2 1 2 -3]
+MEL_RAW[134  5563  50
+    +1+2+1  7666+16  655
+    356  2345  3]
+NO_REP[13456350
+    +1+2+176+165
+    35623453]
+RTM[xxx  x_.xxx  x_x
+    xxx  xxxxxx  xxx
+    xxx  x_.xxx  x_.]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

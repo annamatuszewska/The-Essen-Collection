@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Muellerin
+    EI ALLERLIEBSTES SCHATZERL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+TRD[]
+FKT[]
+SIG[Z1224]
+KEY[Z1224   16  G 3/8]
+MEL[-5_  1_1_12  3_3_3_  2_3_4_  3_
+    3_3_  2_3_4_  3_3_3_  2_2_2_  2_1_
+    1_  1_-7_-7_  1_3_3_
+    3_2_2_  2_1_1_  1_-7_-7_  1__ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 0 0 -2 2 1 -1 0 0 -2 2 1 -1 0 0 -2 0 0 0 -2 0 0 -1 0 1 4 0 0 -2 0 0 -2 0 0 -1 0 1]
+MEL_RAW[-5  1112  333  234  3
+    33  234  333  222  21
+    1  1-7-7  133
+    322  211  1-7-7  1]
+NO_REP[-51232343
+    3234321
+    1-713
+    321-71]
+RTM[x_  x_x_xx  x_x_x_  x_x_x_  x_
+    x_x_  x_x_x_  x_x_x_  x_x_x_  x_x_
+    x_  x_x_x_  x_x_x_
+    x_x_x_  x_x_x_  x_x_x_  x__]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

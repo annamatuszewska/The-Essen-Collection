@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es wollte ein Kuechenjung ueber den Rhein,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Genthin]
+TRD[3, S. 258
+    1847 aufgezeichnet]
+FKT[]
+SIG[Q0068H]
+KEY[Q0068H  04  G 3/4]
+MEL[-5  11-5  123  2-72  -7-5
+    1  -6-71  -5-5-3  -6-71  -50
+    -5  11-5  123  -5-5-5  10 //]
+BEM[]
+MEL_SEM[5 0 -5 5 2 2 -2 -3 3 -3 -4 5 -3 2 1 -5 0 -3 5 2 1 -5 0 5 0 -5 5 2 2 -9 0 0 5]
+MEL_RAW[-5  11-5  123  2-72  -7-5
+    1  -6-71  -5-5-3  -6-71  -50
+    -5  11-5  123  -5-5-5  10]
+NO_REP[-51-51232-72-7-5
+    1-6-71-5-3-6-71-50
+    -51-5123-510]
+RTM[x  xxx  xxx  xxx  xx
+    x  xxx  xxx  xxx  xx
+    x  xxx  xxx  xxx  xx]
+SCL_DEG[-3-5-6-7123]
+SCL_SEM[3 2 2 1 2 2]
+

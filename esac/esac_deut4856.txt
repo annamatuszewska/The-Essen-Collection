@@ -1,0 +1,45 @@
+ZUCCAL
+CUT[Der sterbende Krieger
+    LEBET WOHL, IHR LIEBEN ALLE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z1040]
+KEY[Z1040   08  G 3/4]
+MEL[12  3_3_46  655_
+    65  544_54  3_0_
+    12  3_3_46  655_
+    65  544_54  3_0_
+    35  544_26  655_
+    35  544_26  655_
+    12  3_3_46  655_
+    65  4_4_54  3_0_ //]
+BEM[]
+MEL_SEM[2 2 0 1 4 0 -2 0 2 -2 0 -2 0 2 -2 -1 -4 2 2 0 1 4 0 -2 0 2 -2 0 -2 0 2 -2 -1 0 3 0 -2 0 -3 7 0 -2 0 -3 3 0 -2 0 -3 7 0 -2 0 -7 2 2 0 1 4 0 -2 0 2 -2 -2 0 2 -2 -1]
+MEL_RAW[12  3346  655
+    65  54454  30
+    12  3346  655
+    65  54454  30
+    35  54426  655
+    35  54426  655
+    12  3346  655
+    65  4454  30]
+NO_REP[123465
+    6545430
+    123465
+    6545430
+    354265
+    354265
+    123465
+    6545430]
+RTM[xx  x_x_xx  xxx_
+    xx  xxx_xx  x_x_
+    xx  x_x_xx  xxx_
+    xx  xxx_xx  x_x_
+    xx  xxx_xx  xxx_
+    xx  xxx_xx  xxx_
+    xx  x_x_xx  xxx_
+    xx  x_x_xx  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

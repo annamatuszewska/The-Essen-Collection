@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es warn einmal zwei Koenigskinder,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Neumark, Fuerstenfelde]
+TRD[3, S. 258
+    1861 aufgezeichnet]
+FKT[]
+SIG[Q0068I]
+KEY[Q0068I  08  G 3/4]
+MEL[-5_  1__2_  3__5_  3_.13_  2_-5_
+    3_  1_-7_1_  -6_-7_1_  2_.1-7_  -6_0_
+    -7-6  -5_.-4#-5_  -3_.-4-5_  -6_.-5-4_  -3_0_ //]
+BEM[]
+MEL_SEM[5 2 2 3 -3 -4 4 -2 -7 9 -4 -1 1 -3 2 1 2 -2 -1 -2 2 -2 -2 -1 1 -3 1 2 2 -2 -2 -1]
+MEL_RAW[-5  12  35  313  2-5
+    3  1-71  -6-71  21-7  -60
+    -7-6  -5-4#-5  -3-4-5  -6-5-4  -30]
+NO_REP[-512353132-5
+    31-71-6-7121-7-60
+    -7-6-5-4#-5-3-4-5-6-5-4-30]
+RTM[x_  x__x_  x__x_  x_.xx_  x_x_
+    x_  x_x_x_  x_x_x_  x_.xx_  x_x_
+    xx  x_.xx_  x_.xx_  x_.xx_  x_x_]
+SCL_DEG[-3-4-4#-5-6-71235]
+SCL_SEM[1 1 1 2 2 1 2 2 3]
+

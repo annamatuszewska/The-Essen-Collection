@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[SAH EIN KNAB EIN ROESLEIN STEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0113]
+KEY[Z0113   08  F 2/4]
+MEL[1111  211_  5531  4_4_
+    1111  211_  5531  444_
+    3243  3_2_
+    5353  +165_  6+176  +2_+1_ //]
+BEM[]
+MEL_SEM[0 0 0 2 -2 0 7 0 -3 -4 5 0 -5 0 0 0 2 -2 0 7 0 -3 -4 5 0 0 -1 -2 3 -1 0 -2 5 -3 3 -3 8 -3 -2 2 3 -1 -2 5 -2]
+MEL_RAW[1111  211  5531  44
+    1111  211  5531  444
+    3243  32
+    5353  +165  6+176  +2+1]
+NO_REP[1215314
+    1215314
+    32432
+    5353+1656+176+2+1]
+RTM[xxxx  xxx_  xxxx  x_x_
+    xxxx  xxx_  xxxx  xxx_
+    xxxx  x_x_
+    xxxx  xxx_  xxxx  x_x_]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

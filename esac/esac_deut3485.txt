@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die schoene Magdalena
+    Es waren's sich ein schoene Mannstoechterlein]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[6, S. 74
+    1939 gedruckt in Kassel]
+FKT[]
+SIG[Q0125D]
+KEY[Q0125D  16  G 6/8]
+MEL[-5_  1_.23b_2_1_-7_  1_2_3b_2__
+    2_  5_.55_4_3_4_  5__.0__
+    3b_  5_5_5_6b_5_43b  23b4_
+    3b21_3b_3b2  1_.23b_2__
+    11  5_5_4_5_3b_2_  1__.0__ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 -1 1 2 1 -1 0 5 0 0 -2 -1 1 2 -4 4 0 0 1 -1 -2 -2 -1 1 2 -2 -1 -2 3 0 -1 -2 2 1 -1 -2 0 7 0 -2 2 -4 -1 -2]
+MEL_RAW[-5  123b21-7  123b2
+    2  555434  50
+    3b  5556b543b  23b4
+    3b213b3b2  123b2
+    11  55453b2  10]
+NO_REP[-5123b21-7123b2
+    2543450
+    3b56b543b23b4
+    3b213b2123b2
+    15453b210]
+RTM[x_  x_.xx_x_x_x_  x_x_x_x__
+    x_  x_.xx_x_x_x_  x__.x__
+    x_  x_x_x_x_x_xx  xxx_
+    xxx_x_xx  x_.xx_x__
+    xx  x_x_x_x_x_x_  x__.x__]
+SCL_DEG[-5-7123b3456b]
+SCL_SEM[4 1 2 1 1 1 2 1]
+

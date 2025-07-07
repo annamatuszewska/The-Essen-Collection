@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Alter Mann und Schueler
+    Es steht ein Schloesschen im Oesterreich,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz, Bergzabern]
+TRD[1, S. 283
+    1860 aufgezeichnet (erste Haelfte des 19. Jh.)]
+FKT[]
+SIG[Q0025]
+KEY[Q0025   16  G FREI]
+MEL[-5_  1_3_1_1_-71  2_3_1__0_
+    1_  3_5_.43_2_  1__2__0_
+    1_  3_1_5__.6_3_1_  4__0_
+    3_2_1_  4__3__  2__1__0_
+    1_  3_5_4__3__  2__1_0_ //]
+BEM[]
+MEL_SEM[5 4 -4 0 -1 1 2 2 -4 0 4 3 -2 -1 -2 -2 2 -2 4 -4 7 2 -5 -4 5 -1 -2 -2 5 -1 -2 -2 0 4 3 -2 -1 -2 -2]
+MEL_RAW[-5  1311-71  2310
+    1  35432  120
+    1  315631  40
+    321  43  210
+    1  3543  210]
+NO_REP[-5131-712310
+    135432120
+    131563140
+    32143210
+    13543210]
+RTM[x_  x_x_x_x_xx  x_x_x__x_
+    x_  x_x_.xx_x_  x__x__x_
+    x_  x_x_x__.x_x_x_  x__x_
+    x_x_x_  x__x__  x__x__x_
+    x_  x_x_x__x__  x__x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

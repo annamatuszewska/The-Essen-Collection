@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Die beiden Waisenkinder
+    Es waren zwei Koenigskinder,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+TRD[5, S. 310
+    ????]
+FKT[]
+SIG[Q1118A]
+KEY[Q1118A  08  G 6/8]
+MEL[-5  1111-71  22_0_
+    2  225554  3_.
+    5_.  345345  6_.65
+    4  5555_4  3_.
+    5_.  345345  6_.65
+    4  5555_4  3_.0_ //]
+BEM[]
+MEL_SEM[5 0 0 0 -1 1 2 0 0 0 0 5 0 0 -2 -1 3 -3 1 2 -3 1 2 2 0 -2 -2 2 0 0 0 -2 -1 3 -3 1 2 -3 1 2 2 0 -2 -2 2 0 0 0 -2 -1]
+MEL_RAW[-5  1111-71  220
+    2  225554  3
+    5  345345  665
+    4  55554  3
+    5  345345  665
+    4  55554  30]
+NO_REP[-51-7120
+    2543
+    534534565
+    4543
+    534534565
+    45430]
+RTM[x  xxxxxx  xx_x_
+    x  xxxxxx  x_.
+    x_.  xxxxxx  x_.xx
+    x  xxxx_x  x_.
+    x_.  xxxxxx  x_.xx
+    x  xxxx_x  x_.x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

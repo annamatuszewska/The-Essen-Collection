@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Geburt im Walde
+    Es gingen zwei Verliebte durch einen tiefen Wald;]
+REG[Mitteleuropa, Deutschland (BRD) , Pfalz]
+TRD[1, S. 72
+    1909 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0007H]
+KEY[Q0007H  08  G 3/4]
+MEL[-5_  1_.-713  2_.12_  3_.234  2_0_
+    13  5_.556  5_.43_  4_3_2_  1_0_
+    13  5_.556  5_.43_  4_3_2_  1_0_ //]
+BEM[]
+MEL_SEM[5 -1 1 4 -2 -2 2 2 -2 2 1 -3 -2 4 3 0 0 2 -2 -2 -1 1 -1 -2 -2 0 4 3 0 0 2 -2 -2 -1 1 -1 -2 -2]
+MEL_RAW[-5  1-713  212  3234  20
+    13  5556  543  432  10
+    13  5556  543  432  10]
+NO_REP[-51-713212323420
+    135654343210
+    135654343210]
+RTM[x_  x_.xxx  x_.xx_  x_.xxx  x_x_
+    xx  x_.xxx  x_.xx_  x_x_x_  x_x_
+    xx  x_.xxx  x_.xx_  x_x_x_  x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

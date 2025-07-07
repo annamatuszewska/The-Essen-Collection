@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[AUF MEINEM GRAB DA LIEGT EIN STEIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z0259]
+KEY[Z0259   08  G 2/4]
+MEL[-512  3_5_  3322  1
+    -513  5_+16  4343  4
+    323  4_54  3232  3
+    212  3355  3322  1 //]
+BEM[]
+MEL_SEM[5 2 2 3 -3 0 -2 0 -2 -5 5 4 3 5 -3 -4 -1 1 -1 1 -1 -2 2 1 2 -2 -1 -2 2 -2 2 -2 -2 2 2 0 3 0 -3 0 -2 0 -2]
+MEL_RAW[-512  35  3322  1
+    -513  5+16  4343  4
+    323  454  3232  3
+    212  3355  3322  1]
+NO_REP[-51235321
+    -5135+1643434
+    32345432323
+    21235321]
+RTM[xxx  x_x_  xxxx  x
+    xxx  x_xx  xxxx  x
+    xxx  x_xx  xxxx  x
+    xxx  xxxx  xxxx  x]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

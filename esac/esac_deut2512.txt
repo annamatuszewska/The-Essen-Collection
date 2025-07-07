@@ -1,0 +1,36 @@
+BOEHME
+CUT[FROEHLICH UND WOHLGEMUTH WANDELT DAS JUNGE BLUT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0293]
+KEY[B0293   16  A 3/8]
+MEL[3_.21_  1_-5_-5_
+    4_.32_  2_-5_-5_
+    1_3_5_  5_.-6-6_
+    4_2_-7_  2_.11_
+    1_3_5_  5_.-6-6_
+    4_2_-7_  2_.11_ //]
+BEM[]
+MEL_SEM[-2 -2 0 -5 0 10 -1 -2 0 -7 0 5 4 3 0 -10 0 8 -3 -3 3 -2 0 0 4 3 0 -10 0 8 -3 -3 3 -2 0]
+MEL_RAW[321  1-5-5
+    432  2-5-5
+    135  5-6-6
+    42-7  211
+    135  5-6-6
+    42-7  211]
+NO_REP[321-5
+    432-5
+    135-6
+    42-721
+    135-6
+    42-721]
+RTM[x_.xx_  x_x_x_
+    x_.xx_  x_x_x_
+    x_x_x_  x_.xx_
+    x_x_x_  x_.xx_
+    x_x_x_  x_.xx_
+    x_x_x_  x_.xx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

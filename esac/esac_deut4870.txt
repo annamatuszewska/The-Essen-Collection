@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Versuchung
+    FEINSLIEBCHEN DU SOLLST MIR NICHT BARFUSS GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+TRD[]
+FKT[]
+SIG[Z1055]
+KEY[Z1055   08  A 2/4]
+MEL[-5  -511-7  1_12  3b-7b-7b_  -7b_
+    12  3b_-5-5  -6b_-5-4  -5_.-4  -3b_0_
+    -7b_-7b-5  -7b_0_  1_3b2  3b_
+    3b5  4_3b3b  2_11  -5_.-7  1_0 //]
+BEM[]
+MEL_SEM[0 5 0 -1 1 0 2 1 -5 0 0 2 2 1 -8 0 1 -1 -2 2 -2 -2 7 0 -3 3 2 3 -1 1 0 4 -2 -2 0 -1 -2 0 -5 4 1]
+MEL_RAW[-5  -511-7  112  3b-7b-7b  -7b
+    12  3b-5-5  -6b-5-4  -5-4  -3b0
+    -7b-7b-5  -7b0  13b2  3b
+    3b5  43b3b  211  -5-7  10]
+NO_REP[-51-7123b-7b
+    123b-5-6b-5-4-5-4-3b0
+    -7b-5-7b013b23b
+    3b543b21-5-710]
+RTM[x  xxxx  x_xx  xxx_  x_
+    xx  x_xx  x_xx  x_.x  x_x_
+    x_xx  x_x_  x_xx  x_
+    xx  x_xx  x_xx  x_.x  x_x]
+SCL_DEG[-3b-4-5-6b-7b-7123b45]
+SCL_SEM[2 2 1 2 1 1 2 1 2 2]
+

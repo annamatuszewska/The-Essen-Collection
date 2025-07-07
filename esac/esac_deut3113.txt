@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Graf Friedrich
+    Karl Friedrich taet ausreiten]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Konradsdorf]
+TRD[2, S. 217
+    1841 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0048K]
+KEY[Q0048K  16  G 3/8 4/8]
+MEL[-5_  113_5_  2_1_0_
+    4_  345_2_  4_3_0_
+    5_  3_.35_44  2_.44_3
+    -5  123_5_  221_0_
+    5_  3_.35_44  2_.44_3
+    -5  123_5_  221_0_ //]
+BEM[]
+MEL_SEM[5 0 4 3 -5 -2 5 -1 1 2 -5 3 -1 3 -3 0 3 -2 0 -3 3 0 -1 -9 5 2 2 3 -5 0 -2 7 -3 0 3 -2 0 -3 3 0 -1 -9 5 2 2 3 -5 0 -2]
+MEL_RAW[-5  1135  210
+    4  3452  430
+    5  33544  2443
+    -5  1235  2210
+    5  33544  2443
+    -5  1235  2210]
+NO_REP[-5135210
+    43452430
+    5354243
+    -51235210
+    5354243
+    -51235210]
+RTM[x_  xxx_x_  x_x_x_
+    x_  xxx_x_  x_x_x_
+    x_  x_.xx_xx  x_.xx_x
+    x  xxx_x_  xxx_x_
+    x_  x_.xx_xx  x_.xx_x
+    x  xxx_x_  xxx_x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

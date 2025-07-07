@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Der Muskatbaum
+    Bjestaj tam, bjestaj tam 'rodaj mi dwaj,]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
+TRD[6, S. 147
+    1841 gedruckt in Grimma]
+FKT[]
+SIG[Q2130D]
+KEY[Q2130D  08  A 3/4]
+MEL[-4_-4_-7b_  1_-5_-4_  -5_-5_-7_  1__
+    3b2  1_-7b-6-5_  -6_-7b_1_  -5__0_ //]
+BEM[]
+MEL_SEM[0 5 2 -5 -2 2 0 4 1 3 -1 -2 -2 -1 -2 2 1 2 -5]
+MEL_RAW[-4-4-7b  1-5-4  -5-5-7  1
+    3b2  1-7b-6-5  -6-7b1  -50]
+NO_REP[-4-7b1-5-4-5-71
+    3b21-7b-6-5-6-7b1-50]
+RTM[x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_xxx_  x_x_x_  x__x_]
+SCL_DEG[-4-5-6-7b-7123b]
+SCL_SEM[2 2 1 1 1 2 1]
+

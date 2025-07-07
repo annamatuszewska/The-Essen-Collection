@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Die Belagerung von Koeln
+    DER CHURFUERST UND DER FALKENBERGER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1087]
+KEY[Z1087   08  A 4/4]
+MEL[-5_  1_-7_1_2_  33330_
+    2_  32345_43  32220_
+    23  56543_.3  65432_.
+    2  32345_43  55555_.
+    -5  -5__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 0 0 0 -2 2 -2 2 1 2 -2 -1 0 -2 0 0 0 2 3 2 -2 -2 -1 0 5 -2 -2 -1 -2 0 2 -2 2 1 2 -2 -1 3 0 0 0 0 -12 0]
+MEL_RAW[-5  1-712  33330
+    2  3234543  32220
+    23  565433  65432
+    2  3234543  55555
+    -5  -50]
+NO_REP[-51-71230
+    2323454320
+    235654365432
+    232345435
+    -50]
+RTM[x_  x_x_x_x_  xxxxx_
+    x_  xxxxx_xx  xxxxx_
+    xx  xxxxx_.x  xxxxx_.
+    x  xxxxx_xx  xxxxx_.
+    x  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

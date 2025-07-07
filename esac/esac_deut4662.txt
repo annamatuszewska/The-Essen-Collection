@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[SCHLAF, KINDEIN SCHLAF, DER VATER HUET'T DIE SCHAF']
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0162]
+KEY[Z0162   16  C 2/4]
+MEL[3__2123  1__0_
+    1_  3_3_2123  1__0_
+    -5_  1_1_2_2_  3_.21_
+    -5_  2_2_3_3_  4_.32_0_
+    5__3_2_  1__0__ //]
+BEM[]
+MEL_SEM[-2 -2 2 2 -4 0 4 0 -2 -2 2 2 -4 -5 5 0 2 0 2 -2 -2 -5 7 0 2 0 1 -1 -2 5 -3 -2 -2]
+MEL_RAW[32123  10
+    1  332123  10
+    -5  1122  321
+    -5  2233  4320
+    532  10]
+NO_REP[3212310
+    13212310
+    -512321
+    -5234320
+    53210]
+RTM[x__xxxx  x__x_
+    x_  x_x_xxxx  x__x_
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_.xx_x_
+    x__x_x_  x__x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

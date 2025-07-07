@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die Koenigskinder
+    Ach Mutter, liebe Mutter,]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Brandenburg]
+TRD[1, S. 199
+    1804 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0020B]
+KEY[Q0020B  16  G 2/4]
+MEL[-5_  3_.33_.2  2__1_
+    -5_  4_4_4353  2__0_
+    -5_  5_.65_4_  3__54
+    32  1_1_3212  1__
+    2__  3_3_5432  1__0_ //]
+BEM[]
+MEL_SEM[9 0 0 -2 0 -2 -5 10 0 0 -1 3 -3 -2 -7 12 2 -2 -2 -1 3 -2 -1 -2 -2 0 4 -2 -2 2 -2 2 2 0 3 -2 -1 -2 -2]
+MEL_RAW[-5  3332  21
+    -5  444353  20
+    -5  5654  354
+    32  113212  1
+    2  335432  10]
+NO_REP[-5321
+    -5435320
+    -5654354
+    32132121
+    23543210]
+RTM[x_  x_.xx_.x  x__x_
+    x_  x_x_xxxx  x__x_
+    x_  x_.xx_x_  x__xx
+    xx  x_x_xxxx  x__
+    x__  x_x_xxxx  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

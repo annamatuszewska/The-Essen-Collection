@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Sangeslohn
+    Gegruest seyst du Maria rein,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 60
+    1666 gedruckt in Erfurt]
+FKT[]
+SIG[Q0124A]
+KEY[Q0124A  02  D FREI]
+MEL[1_3b45+17b65
+    57b_53b_5443b
+    45_51_3b21-7b
+    24_3b2_11-7b_1__ //]
+BEM[]
+MEL_SEM[3 2 2 5 -2 -1 -2 0 3 -3 -4 4 -2 0 -2 2 2 0 -7 3 -1 -2 -2 4 3 -2 -1 -2 0 -2 2]
+MEL_RAW[13b45+17b65
+    57b53b5443b
+    45513b21-7b
+    243b211-7b1]
+NO_REP[13b45+17b65
+    57b53b543b
+    4513b21-7b
+    243b21-7b1]
+RTM[x_xxxxxxx
+    xx_xx_xxxx
+    xx_xx_xxxx
+    xx_xx_xxx_x__]
+SCL_DEG[-7b123b4567b+1]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

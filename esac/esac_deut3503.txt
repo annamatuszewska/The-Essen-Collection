@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Der Muskatbaum
+    In Oesterriek do staat eenen Boom,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
+TRD[6, S. 141
+    1894 gedruckt in Leipzig]
+FKT[]
+SIG[Q0130]
+KEY[Q0130   08  F 4/4]
+MEL[-5_  1_1_2_2_  3_321_
+    2_  32345_43  4_3_2_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 -2 -2 2 2 -2 2 1 2 -2 -1 1 -1 -2]
+MEL_RAW[-5  1122  3321
+    2  3234543  432]
+NO_REP[-512321
+    23234543432]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  xxxxx_xx  x_x_x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

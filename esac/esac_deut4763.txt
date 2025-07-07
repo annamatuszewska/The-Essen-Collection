@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[O TANNENBAUM O TANNENBAUM]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen]
+TRD[]
+FKT[]
+SIG[Z0263]
+KEY[Z0263   08  C 3/4]
+MEL[-5  111_.-5  222_.
+    -5  314_3_  2_1_0
+    5  555_.6  444_.
+    4  333_.3  222_.
+    -5  111_.-5  222_.
+    -5  314_3_  2_1_0 //]
+BEM[]
+MEL_SEM[5 0 0 -5 7 0 0 -7 9 -4 5 -1 -2 -2 7 0 0 0 2 -4 0 0 0 -1 0 0 0 -2 0 0 -7 5 0 0 -5 7 0 0 -7 9 -4 5 -1 -2 -2]
+MEL_RAW[-5  111-5  222
+    -5  3143  210
+    5  5556  444
+    4  3333  222
+    -5  111-5  222
+    -5  3143  210]
+NO_REP[-51-52
+    -53143210
+    564
+    432
+    -51-52
+    -53143210]
+RTM[x  xxx_.x  xxx_.
+    x  xxx_x_  x_x_x
+    x  xxx_.x  xxx_.
+    x  xxx_.x  xxx_.
+    x  xxx_.x  xxx_.
+    x  xxx_x_  x_x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

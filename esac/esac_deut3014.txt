@@ -1,0 +1,42 @@
+BALLADEN
+CUT[Der Abendgang
+    Van liefden comt groot liden]
+REG[Mitteleuropa, Deutschland / Niederlande]
+TRD[1, S. 196
+    1539 gedruckt in Antwerpen]
+FKT[]
+SIG[Q2019B]
+KEY[Q2019B  04  D FREI]
+MEL[1  3b3b44  55
+    66  7b7b665  4
+    4  55556b7b  6b5
+    4  4453b  3b21
+    5  443b24  3b3b1-7b
+    -7b  4455  7b5
+    55  4443b1  3b21 //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 2 0 1 0 -1 0 -2 -2 0 2 0 0 0 1 2 -2 -1 -2 0 0 2 -4 0 -1 -2 7 -2 0 -2 -1 3 -2 0 -3 -2 0 7 0 2 0 3 -3 0 0 -2 0 0 -2 -3 3 -1 -2]
+MEL_RAW[1  3b3b44  55
+    66  7b7b665  4
+    4  55556b7b  6b5
+    4  4453b  3b21
+    5  443b24  3b3b1-7b
+    -7b  4455  7b5
+    55  4443b1  3b21]
+NO_REP[13b45
+    67b654
+    456b7b6b5
+    453b21
+    543b243b1-7b
+    -7b457b5
+    543b13b21]
+RTM[x  xxxx  xx
+    xx  xxxxx  x
+    x  xxxxxx  xx
+    x  xxxx  xxx
+    x  xxxxx  xxxx
+    x  xxxx  xx
+    xx  xxxxx  xxx]
+SCL_DEG[-7b123b456b67b]
+SCL_SEM[2 2 1 2 2 1 1 1]
+

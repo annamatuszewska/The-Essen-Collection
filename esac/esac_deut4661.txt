@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES REIT EIN HERR ZUM SCHLOESSLI AUF EINEM SCHOENEN ROESSLI]
+REG[Europa, Mitteleuropa, Deutschland, Mitteleuropa, Schweiz]
+TRD[]
+FKT[]
+SIG[Z0161]
+KEY[Z0161   08  F 4/4]
+MEL[1_  56543432  1_3_-5_
+    1_  56543432  1_3_-5_
+    -5_  1_1_2_2_  35432_
+    5_  3_1_2_-5_  132-71_ //]
+BEM[]
+MEL_SEM[7 2 -2 -2 -1 1 -1 -2 -2 4 -9 5 7 2 -2 -2 -1 1 -1 -2 -2 4 -9 0 5 0 2 0 2 3 -2 -1 -2 5 -3 -4 2 -7 5 4 -2 -3 1]
+MEL_RAW[1  56543432  13-5
+    1  56543432  13-5
+    -5  1122  35432
+    5  312-5  132-71]
+NO_REP[15654343213-5
+    15654343213-5
+    -51235432
+    5312-5132-71]
+RTM[x_  xxxxxxxx  x_x_x_
+    x_  xxxxxxxx  x_x_x_
+    x_  x_x_x_x_  xxxxx_
+    x_  x_x_x_x_  xxxxx_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

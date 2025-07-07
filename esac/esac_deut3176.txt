@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Wiedersehen an der Bahre
+    Es wollt' ein Juengling in die Fremde ziehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+TRD[3, S. 85
+    ????]
+FKT[]
+SIG[Q0056J]
+KEY[Q0056J  16  F 3/4]
+MEL[-5_-5_3_  3__2_1_4_3_  2__0_
+    2_2_5_  5__4__2_2_  3__0_
+    1_1_+1_  +1__7_.66_.5  5__0_
+    3_2_1_  5__4_.22__  3__0_ //]
+BEM[]
+MEL_SEM[0 9 0 -2 -2 5 -1 -2 0 0 5 0 -2 -3 0 2 -4 0 12 0 -1 -2 0 -2 0 -3 -2 -2 7 -2 -3 0 2]
+MEL_RAW[-5-53  32143  20
+    225  5422  30
+    11+1  +17665  50
+    321  5422  30]
+NO_REP[-53214320
+    254230
+    1+17650
+    32154230]
+RTM[x_x_x_  x__x_x_x_x_  x__x_
+    x_x_x_  x__x__x_x_  x__x_
+    x_x_x_  x__x_.xx_.x  x__x_
+    x_x_x_  x__x_.xx__  x__x_]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

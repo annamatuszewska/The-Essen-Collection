@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es ritt ein Reiter wohl durch das Ried,]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg]
+TRD[2, S. 112
+    1855 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0041V]
+KEY[Q0041V  08  G 6/8]
+MEL[-5  -5_1123  3_65_
+    3  3221-76  5_43_
+    5  433346  5_42_
+    1  -722246  5_.4_.  3_0_. //]
+BEM[]
+MEL_SEM[0 5 0 2 2 0 5 -2 -3 0 -2 0 -2 -1 10 -2 -2 -1 3 -2 -1 0 0 1 4 -2 -2 -3 -2 -1 3 0 0 3 4 -2 -2 -1]
+MEL_RAW[-5  -51123  365
+    3  3221-76  543
+    5  433346  542
+    1  -722246  54  30]
+NO_REP[-512365
+    321-76543
+    54346542
+    1-72465430]
+RTM[x  x_xxxx  x_xx_
+    x  xxxxxx  x_xx_
+    x  xxxxxx  x_xx_
+    x  xxxxxx  x_.x_.  x_x_.]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Schloss in Oesterreich
+    Es stand ein Schloss in Oesterreich]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen und Nassau]
+TRD[1, S. 274
+    1912 aufgezeichnet]
+FKT[]
+SIG[Q0024P]
+KEY[Q0024P  16  D 3/4]
+MEL[5_  5_+1_3__.3_  3_5_2__.
+    5_  5_6_6__.4_  4__3__0_
+    5_  5_7_+2__.4_  3_5_+1__
+    +3__  +2+1765__.4_  4__3__0_ //]
+BEM[]
+MEL_SEM[0 5 -8 0 0 3 -5 5 0 2 0 -4 0 -1 3 0 4 3 -9 -1 3 5 4 -2 -2 -1 -2 -2 -2 0 -1]
+MEL_RAW[5  5+133  352
+    5  5664  430
+    5  57+24  35+1
+    +3  +2+17654  430]
+NO_REP[5+1352
+    56430
+    57+2435+1
+    +3+2+1765430]
+RTM[x_  x_x_x__.x_  x_x_x__.
+    x_  x_x_x__.x_  x__x__x_
+    x_  x_x_x__.x_  x_x_x__
+    x__  xxxxx__.x_  x__x__x_]
+SCL_DEG[234567+1+2+3]
+SCL_SEM[2 1 2 2 2 1 2 2]
+

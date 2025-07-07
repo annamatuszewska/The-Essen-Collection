@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Der bucklichte Fiedler
+    ES WOHNET EIN FIEDLER ZU FRANKFURT AM MAIN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+TRD[]
+FKT[]
+SIG[Z1047]
+KEY[Z1047   08  A 4/4]
+MEL[-5_  1_-7-71_22  3b_212_
+    -5_  1_-7-71_22  3b_212_
+    -5-7b  3b_3b3b-7b_05  5443b2_0
+    2  3b_21-7_0
+    -5  1-7123b214  3b21-71_ //]
+BEM[]
+MEL_SEM[5 -1 0 1 2 0 1 -1 -2 2 -7 5 -1 0 1 2 0 1 -1 -2 2 -7 3 5 0 0 -5 9 0 -2 0 -2 -1 0 1 -1 -2 -1 -4 5 -1 1 2 1 -1 -2 5 -2 -1 -2 -1 1]
+MEL_RAW[-5  1-7-7122  3b212
+    -5  1-7-7122  3b212
+    -5-7b  3b3b3b-7b05  5443b20
+    2  3b21-70
+    -5  1-7123b214  3b21-71]
+NO_REP[-51-7123b212
+    -51-7123b212
+    -5-7b3b-7b0543b20
+    23b21-70
+    -51-7123b2143b21-71]
+RTM[x_  x_xxx_xx  x_xxx_
+    x_  x_xxx_xx  x_xxx_
+    xx  x_xxx_xx  xxxxx_x
+    x  x_xxx_x
+    x  xxxxxxxx  xxxxx_]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

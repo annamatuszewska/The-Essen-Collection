@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt sich ein reicher Metzger mein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[6, S. 107
+    1928 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0127C]
+KEY[Q0127C  16  G 6/8]
+MEL[-5_  -5_1_1_1__3_  3__5_1__
+    3_  3_2_2_-5_-7_2_  2__.1__
+    -5_  -5_1_111_3_3_  3__5_1__
+    3_  3_2_2_-5_-7_2_  2__.1__ //]
+BEM[]
+MEL_SEM[0 5 0 0 4 0 3 -7 4 0 -2 0 -7 4 3 0 -2 -5 0 5 0 0 0 4 0 0 3 -7 4 0 -2 0 -7 4 3 0 -2]
+MEL_RAW[-5  -51113  351
+    3  322-5-72  21
+    -5  -5111133  351
+    3  322-5-72  21]
+NO_REP[-51351
+    32-5-721
+    -51351
+    32-5-721]
+RTM[x_  x_x_x_x__x_  x__x_x__
+    x_  x_x_x_x_x_x_  x__.x__
+    x_  x_x_xxx_x_x_  x__x_x__
+    x_  x_x_x_x_x_x_  x__.x__]
+SCL_DEG[-5-71235]
+SCL_SEM[4 1 2 2 3]
+

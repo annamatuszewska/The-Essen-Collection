@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es war einmal ein Maegdelein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
+TRD[4, S. 118
+    ????]
+FKT[]
+SIG[Q0075v]
+KEY[Q0075v  08  F 4/4]
+MEL[1_  1_5_543_  3_.22_
+    2_  2_6_654_  4_.53_
+    1_  1_+1_+176_  6_.553
+    5_  5_5_654_  4_5_3_ //]
+BEM[]
+MEL_SEM[0 7 0 -2 -1 0 -2 0 0 0 7 0 -2 -2 0 2 -3 -4 0 12 0 -1 -2 0 -2 0 -3 3 0 0 2 -2 -2 0 2 -3]
+MEL_RAW[1  15543  322
+    2  26654  453
+    1  1+1+176  6553
+    5  55654  453]
+NO_REP[15432
+    265453
+    1+17653
+    565453]
+RTM[x_  x_x_xxx_  x_.xx_
+    x_  x_x_xxx_  x_.xx_
+    x_  x_x_xxx_  x_.xxx
+    x_  x_x_xxx_  x_x_x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

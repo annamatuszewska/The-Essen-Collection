@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der Hagenauer Sohn
+    IN DER STADT HAGENAU GENANNT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1024]
+KEY[Z1024   08  G 3/4]
+MEL[134  5_.654  3_.
+    234  5_.654  3_0
+    353  2_.343  2_.
+    555  5_.342  1_0 //]
+BEM[]
+MEL_SEM[4 1 2 2 -2 -2 -1 -2 2 1 2 2 -2 -2 -1 0 3 -3 -2 2 1 -1 -2 5 0 0 0 -3 1 -3 -2]
+MEL_RAW[134  5654  3
+    234  5654  30
+    353  2343  2
+    555  5342  10]
+NO_REP[13456543
+    234565430
+    35323432
+    534210]
+RTM[xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_x]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

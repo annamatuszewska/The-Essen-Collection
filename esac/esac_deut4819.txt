@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der Ritter und die Feine 
+    ES STUNDEN DREI ROSEN AUF EINEM ZWEIG]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1003]
+KEY[Z1003   08  F 4/4]
+MEL[-5_  1_243_21  3_465_0_
+    +1__765_  6_5_0_
+    5_  +1_556_54  3_465_0_
+    4__321_  2_1_0_ //]
+BEM[]
+MEL_SEM[5 2 3 -1 -2 -2 4 1 4 -2 5 -1 -2 -2 2 -2 0 5 -5 0 2 -2 -2 -1 1 4 -2 -2 -1 -2 -2 2 -2]
+MEL_RAW[-5  124321  34650
+    +1765  650
+    5  +155654  34650
+    4321  210]
+NO_REP[-512432134650
+    +1765650
+    5+1565434650
+    4321210]
+RTM[x_  x_xxx_xx  x_xxx_x_
+    x__xxx_  x_x_x_
+    x_  x_xxx_xx  x_xxx_x_
+    x__xxx_  x_x_x_]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

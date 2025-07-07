@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der englische Gruss
+    GEGRUESSET, MARIA, DU MUTTER DER GNADEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1126]
+KEY[Z1126   08  D 3/4]
+MEL[1_  4_4_54  3b_3b_3b_  6b_6b_7b6b  5_4_
+    1_  4_4_54  3b_3b_3b_  6b_6b_7b6b  5_4_
+    5_  6_6_7_  +1_+1_54  5_5_43b  2_1_
+    12  3b_5_4_  5_4_3b_  4_3b_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 -2 -2 0 0 5 0 2 -2 -1 -2 -5 5 0 2 -2 -2 0 0 5 0 2 -2 -1 -2 2 2 0 2 1 0 -5 -2 2 0 -2 -2 -1 -2 0 2 1 4 -2 2 -2 -2 2 -2 -1 -2]
+MEL_RAW[1  4454  3b3b3b  6b6b7b6b  54
+    1  4454  3b3b3b  6b6b7b6b  54
+    5  667  +1+154  5543b  21
+    12  3b54  543b  43b2  1]
+NO_REP[14543b6b7b6b54
+    14543b6b7b6b54
+    567+154543b21
+    123b54543b43b21]
+RTM[x_  x_x_xx  x_x_x_  x_x_xx  x_x_
+    x_  x_x_xx  x_x_x_  x_x_xx  x_x_
+    x_  x_x_x_  x_x_xx  x_x_xx  x_x_
+    xx  x_x_x_  x_x_x_  x_x_x_  x__]
+SCL_DEG[123b456b67b7+1]
+SCL_SEM[2 1 2 2 1 1 1 1 1]
+

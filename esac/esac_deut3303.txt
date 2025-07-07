@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt ein Kaiser an dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+TRD[4, S. 116
+    1913 gedruckt in Leipzig]
+FKT[]
+SIG[Q0075s]
+KEY[Q0075s  08  F 3/4]
+MEL[5_  5__+1_  3__3_  3__5_  1__
+    5_  5__5_  5__6_  4__5_  3_0_
+    5+1  +1_0335  5__3_  2__1_  1__ //]
+BEM[]
+MEL_SEM[0 5 -8 0 0 3 -7 7 0 0 0 2 -4 2 -3 3 5 0 -8 0 3 0 -3 -2 -2 0]
+MEL_RAW[5  5+1  33  35  1
+    5  55  56  45  30
+    5+1  +10335  53  21  1]
+NO_REP[5+1351
+    564530
+    5+1035321]
+RTM[x_  x__x_  x__x_  x__x_  x__
+    x_  x__x_  x__x_  x__x_  x_x_
+    xx  x_xxxx  x__x_  x__x_  x__]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

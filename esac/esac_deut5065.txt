@@ -1,0 +1,25 @@
+ZUCCAL
+CUT[Der Kuckuck
+    DER KUCKUK AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz, Elsass]
+TRD[]
+FKT[]
+SIG[Z1314]
+KEY[Z1314   16  G 2/4]
+MEL[-5_  1_.35_+1_  6_6_5__  5_.53_0
+    3  3_3_3_5_  4_4_2_.
+    2  4_444_6_  5_5_3_33  5_2_1_ //]
+BEM[]
+MEL_SEM[5 4 3 5 -3 0 -2 0 0 -3 0 0 0 0 3 -2 0 -3 0 3 0 0 0 4 -2 0 -3 0 0 3 -5 -2]
+MEL_RAW[-5  135+1  665  5530
+    3  3335  442
+    2  44446  55333  521]
+NO_REP[-5135+16530
+    3542
+    24653521]
+RTM[x_  x_.xx_x_  x_x_x__  x_.xx_x
+    x  x_x_x_x_  x_x_x_.
+    x  x_xxx_x_  x_x_x_xx  x_x_x_]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

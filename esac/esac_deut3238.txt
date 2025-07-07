@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es ging ein jung Kuechenjung ueber den Rhein,]
+REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen, Estedt]
+TRD[3, S. 261
+    1879 gedruckt in Magdeburg]
+FKT[]
+SIG[Q0068P]
+KEY[Q0068P  16  C 3/8]
+MEL[5_  +1_7_6_  5_.31_  2_.34_  4_3_
+    5_  6_7_+1_  5_5_+1_  +2_+2_+3_  +1__ //]
+BEM[]
+MEL_SEM[5 -1 -2 -2 -3 -4 2 2 1 0 -1 3 2 2 1 -5 0 5 2 0 2 -4]
+MEL_RAW[5  +176  531  234  43
+    5  67+1  55+1  +2+2+3  +1]
+NO_REP[5+1765312343
+    567+15+1+2+3+1]
+RTM[x_  x_x_x_  x_.xx_  x_.xx_  x_x_
+    x_  x_x_x_  x_x_x_  x_x_x_  x__]
+SCL_DEG[1234567+1+2+3]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

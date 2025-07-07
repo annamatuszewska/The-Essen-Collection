@@ -1,0 +1,40 @@
+ZUCCAL
+CUT[WENNS KUMMT UM WEIHNACHTE]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0201]
+KEY[Z0201   16 Bb 3/8]
+MEL[-5_  135_5_  544__
+    3_3_.3  322_.
+    4  321_-7_  1__
+    -5_  135_3_  322_.
+    -5  135_3_  3_2_
+    -5_  135_5_  544_.
+    4  321_-7_  1__ //]
+BEM[]
+MEL_SEM[5 4 3 0 0 -2 0 -1 0 0 0 -2 0 3 -1 -2 -2 -1 1 -5 5 4 3 -3 0 -2 0 -7 5 4 3 -3 0 -2 -7 5 4 3 0 0 -2 0 0 -1 -2 -2 -1 1]
+MEL_RAW[-5  1355  544
+    333  322
+    4  321-7  1
+    -5  1353  322
+    -5  1353  32
+    -5  1355  544
+    4  321-7  1]
+NO_REP[-51354
+    32
+    4321-71
+    -513532
+    -513532
+    -51354
+    4321-71]
+RTM[x_  xxx_x_  xxx__
+    x_x_.x  xxx_.
+    x  xxx_x_  x__
+    x_  xxx_x_  xxx_.
+    x  xxx_x_  x_x_
+    x_  xxx_x_  xxx_.
+    x  xxx_x_  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

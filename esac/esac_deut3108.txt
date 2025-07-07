@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Graf Friedrich
+    Was sind doch die Strassen so enge!]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen - Nassau, Eitelborn]
+TRD[2, S. 204
+    1927 aufgezeichnet]
+FKT[]
+SIG[Q0048E]
+KEY[Q0048E  16  C 6/8]
+MEL[13  5_6_5_2_3_4_  5_3___
+    13  5_6_5_2_3_4_  5_3___
+    1_  6_.66_5_6_7_  +1_7_6_5__
+    +1+1  5_6_5_4_3_4_  6_5_4_3__ //]
+BEM[]
+MEL_SEM[4 3 2 -2 -5 2 1 2 -3 -4 4 3 2 -2 -5 2 1 2 -3 -4 9 0 0 -2 2 2 1 -1 -2 -2 5 0 -5 2 -2 -2 -1 1 4 -2 -2 -1]
+MEL_RAW[13  565234  53
+    13  565234  53
+    1  666567  +1765
+    +1+1  565434  6543]
+NO_REP[1356523453
+    1356523453
+    16567+1765
+    +15654346543]
+RTM[xx  x_x_x_x_x_x_  x_x___
+    xx  x_x_x_x_x_x_  x_x___
+    x_  x_.xx_x_x_x_  x_x_x_x__
+    xx  x_x_x_x_x_x_  x_x_x_x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

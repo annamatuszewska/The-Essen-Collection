@@ -1,0 +1,32 @@
+BOEHME
+CUT[AN DER SAALE HELLEM STRANDE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0527]
+KEY[B0527   08  G 3/4]
+MEL[12  3_3_21  2_2_
+    12  345_43  2_0_
+    56  542_22  3_5_
+    56  542_22  3_5_
+    64  353_2_  1_0_ //]
+BEM[]
+MEL_SEM[2 2 0 -2 -2 2 0 -2 2 2 1 2 -2 -1 -2 5 2 -2 -2 -3 0 0 2 3 0 2 -2 -2 -3 0 0 2 3 2 -4 -1 3 -3 -2 -2]
+MEL_RAW[12  3321  22
+    12  34543  20
+    56  54222  35
+    56  54222  35
+    64  3532  10]
+NO_REP[123212
+    123454320
+    5654235
+    5654235
+    64353210]
+RTM[xx  x_x_xx  x_x_
+    xx  xxx_xx  x_x_
+    xx  xxx_xx  x_x_
+    xx  xxx_xx  x_x_
+    xx  xxx_x_  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

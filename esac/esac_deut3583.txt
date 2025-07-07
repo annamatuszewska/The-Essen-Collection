@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Graserin und Reiter
+    Die Holvinger Maedchen,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[7, S. 148
+    1918 aufgezeichnet]
+FKT[]
+SIG[Q0149G]
+KEY[Q0149G  08  G 2/4]
+MEL[-5  1_-71  2_1
+    2  3153  2_.0
+    2_54  321-6  -5_.0
+    1_2_  3_33  2_
+    3_  5432  1_. //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 2 2 -4 7 -3 -2 0 5 -2 -1 -2 -2 -3 -2 5 2 2 0 0 -2 2 3 -2 -1 -2 -2]
+MEL_RAW[-5  1-71  21
+    2  3153  20
+    254  321-6  -50
+    12  333  2
+    3  5432  1]
+NO_REP[-51-7121
+    2315320
+    254321-6-50
+    1232
+    354321]
+RTM[x  x_xx  x_x
+    x  xxxx  x_.x
+    x_xx  xxxx  x_.x
+    x_x_  x_xx  x_
+    x_  xxxx  x_.]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

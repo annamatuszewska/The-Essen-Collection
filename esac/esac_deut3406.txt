@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Der heimkehrende Braeutigam
+    Es wollt' es ein Juengling werben,]
+REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
+TRD[5, S. 144
+    1947 gedruckt in Colmar]
+FKT[]
+SIG[Q0102C]
+KEY[Q0102C  08  G 6/8]
+MEL[3  -513-513  3232_
+    2  -5-72-5-72  2_31_
+    -5  33-511-5  1_35_
+    3  2225_5  3_.^_
+    -5  33-511-5  1_35_
+    3  2225_5  1_.^_ //]
+BEM[]
+MEL_SEM[-9 5 4 -9 5 4 0 -2 2 -2 0 -7 4 3 -7 4 3 0 2 -4 -5 9 0 -9 5 0 -5 5 4 3 -3 -2 0 0 5 0 -3 -9 9 0 -9 5 0 -5 5 4 3 -3 -2 0 0 5 0 -7]
+MEL_RAW[3  -513-513  3232
+    2  -5-72-5-72  231
+    -5  33-511-5  135
+    3  22255  3^
+    -5  33-511-5  135
+    3  22255  1^]
+NO_REP[3-513-513232
+    2-5-72-5-7231
+    -53-51-5135
+    3253^
+    -53-51-5135
+    3251^]
+RTM[x  xxxxxx  xxxx_
+    x  xxxxxx  x_xx_
+    x  xxxxxx  x_xx_
+    x  xxxx_x  x_.x_
+    x  xxxxxx  x_xx_
+    x  xxxx_x  x_.x_]
+SCL_DEG[-5-71235]
+SCL_SEM[4 1 2 2 3]
+

@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Das mannstolle Maedchen
+    'Hett ich ein jungen Knaben,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 92
+    1611 gedruckt; Satz: Melchior Franck]
+FKT[]
+SIG[Q0126D]
+KEY[Q0126D  16  D 2/4]
+MEL[5_  5_.56_7_  +1__7_
+    5_  6_+1_+1_7_  +1__
+    3_5_  4_3_2_1_  3_2_1__  0__. //]
+BEM[]
+MEL_SEM[0 0 2 2 1 -1 -4 2 3 0 -1 1 -8 3 -2 -1 -2 -2 4 -2 -2]
+MEL_RAW[5  5567  +17
+    5  6+1+17  +1
+    35  4321  321  0]
+NO_REP[567+17
+    56+17+1
+    3543213210]
+RTM[x_  x_.xx_x_  x__x_
+    x_  x_x_x_x_  x__
+    x_x_  x_x_x_x_  x_x_x__  x__.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Graf Friedrich
+    Graf Siegfried wollt' ausreiten]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[2, S. 216
+    ????]
+FKT[]
+SIG[Q0048I]
+KEY[Q0048I  08  C 4/4]
+MEL[-5_  1_1_-5_-5_  -3_-5-3-1_
+    -5_  1_1_-5_-5_  -3_-5-3-1_
+    -5_  2_2_-5-5-5-5  3_3_32
+    -5_  2_2_22-5_  3_2_1_ //]
+BEM[]
+MEL_SEM[5 0 -5 0 -3 3 -3 -4 7 5 0 -5 0 -3 3 -3 -4 7 7 0 -7 0 0 0 9 0 0 -2 -7 7 0 0 0 -7 9 -2 -2]
+MEL_RAW[-5  11-5-5  -3-5-3-1
+    -5  11-5-5  -3-5-3-1
+    -5  22-5-5-5-5  3332
+    -5  2222-5  321]
+NO_REP[-51-5-3-5-3-1
+    -51-5-3-5-3-1
+    -52-532
+    -52-5321]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x_xxx_
+    x_  x_x_xxxx  x_x_xx
+    x_  x_x_xxx_  x_x_x_]
+SCL_DEG[-1-3-5123]
+SCL_SEM[4 3 5 2 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Mordeltern
+    Es war einmal ein Gastwirtssohn,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Anhalt]
+TRD[4, S. 313
+    ????]
+FKT[]
+SIG[Q0085m]
+KEY[Q0085m  08  G 4/4]
+MEL[1  1_4_5_.3  3_2_2_0
+    2  2_6_6_.3  4_3_3_0
+    1  1_5_5_3_  4_+1_+1_
+    +1_  7_6_5_1_  321_0_. //]
+BEM[]
+MEL_SEM[0 5 2 -3 0 -2 0 0 0 7 0 -5 1 -1 0 -4 0 7 0 -3 1 7 0 0 -1 -2 -2 -7 4 -2 -2]
+MEL_RAW[1  1453  3220
+    2  2663  4330
+    1  1553  4+1+1
+    +1  7651  3210]
+NO_REP[145320
+    263430
+    1534+1
+    +176513210]
+RTM[x  x_x_x_.x  x_x_x_x
+    x  x_x_x_.x  x_x_x_x
+    x  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  xxx_x_.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Jaeger im Tannenholz
+    Es wollt ein Jaeger jagen]
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hadeln, Ottendorf]
+TRD[7, S. 170
+    1929 aufgezeichnet]
+FKT[]
+SIG[Q0151B]
+KEY[Q0151B  16  D 6/8]
+MEL[4_  3__4_4__3_  3__.2__
+    5_  6__5_2__4_  3__.0_
+    1_1_  1_1_3_5__+1_  +3__.+1__
+    7_  6__555__4_  3__.0__ //]
+BEM[]
+MEL_SEM[-1 1 0 -1 0 -2 5 2 -2 -5 3 -1 -4 0 0 0 4 3 5 4 -4 -1 -2 -2 0 0 -2 -1]
+MEL_RAW[4  3443  32
+    5  6524  30
+    11  1135+1  +3+1
+    7  65554  30]
+NO_REP[43432
+    5652430
+    135+1+3+1
+    765430]
+RTM[x_  x__x_x__x_  x__.x__
+    x_  x__x_x__x_  x__.x_
+    x_x_  x_x_x_x__x_  x__.x__
+    x_  x__xxx__x_  x__.x__]
+SCL_DEG[1234567+1+3]
+SCL_SEM[2 2 1 2 2 2 1 4]
+

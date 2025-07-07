@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Die verzauberte Nachtigall
+    NACHTIGALL SAG WAS FUER GRUESS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1066]
+KEY[Z1066   16  D 6/8]
+MEL[1__2_3b__1_  3b__4_5__.
+    5__6_7b__65  5__4#_5__
+    7b_  6__.5__7b_  6__.5__0_
+    5__6b_4__5_  3b__4_2__.
+    1__2_3b__1_  3b__4_5__
+    43b  2__.1__3b_  2__.1__0_ //]
+BEM[]
+MEL_SEM[2 1 -3 3 2 2 0 2 1 -1 -2 0 -1 1 3 -1 -2 3 -1 -2 0 1 -3 2 -4 2 -3 -2 2 1 -3 3 2 2 -2 -2 -1 -2 3 -1 -2]
+MEL_RAW[123b1  3b45
+    567b65  54#5
+    7b  657b  650
+    56b45  3b42
+    123b1  3b45
+    43b  213b  210]
+NO_REP[123b13b45
+    567b654#5
+    7b657b650
+    56b453b42
+    123b13b45
+    43b213b210]
+RTM[x__x_x__x_  x__x_x__.
+    x__x_x__xx  x__x_x__
+    x_  x__.x__x_  x__.x__x_
+    x__x_x__x_  x__x_x__.
+    x__x_x__x_  x__x_x__
+    xx  x__.x__x_  x__.x__x_]
+SCL_DEG[123b44#56b67b]
+SCL_SEM[2 1 2 1 1 1 1 1]
+

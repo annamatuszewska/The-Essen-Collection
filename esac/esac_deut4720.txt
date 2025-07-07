@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[RAUS ZUM GREIFSWALDER THOR HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Greifswald]
+TRD[]
+FKT[]
+SIG[Z0221]
+KEY[Z0221   16 Ab 4/4]
+MEL[3__2_2_1_1_-5_-5_  1_112_543___
+    3__2_2_1_1_-5_-5_  1_112_543__.
+    34  5_5_5_654_4_4_54  3_3_353_222_2_
+    54  3__2__1___ //]
+BEM[]
+MEL_SEM[-2 0 -2 0 -5 0 5 0 0 2 5 -2 -1 0 -2 0 -2 0 -5 0 5 0 0 2 5 -2 -1 0 1 2 0 0 2 -2 -2 0 0 2 -2 -1 0 0 3 -3 -2 0 0 0 5 -2 -1 -2 -2]
+MEL_RAW[32211-5-5  1112543
+    32211-5-5  1112543
+    34  5556544454  333532222
+    54  321]
+NO_REP[321-512543
+    321-512543
+    345654543532
+    54321]
+RTM[x__x_x_x_x_x_x_  x_xxx_xxx___
+    x__x_x_x_x_x_x_  x_xxx_xxx__.
+    xx  x_x_x_xxx_x_x_xx  x_x_xxx_xxx_x_
+    xx  x__x__x___]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

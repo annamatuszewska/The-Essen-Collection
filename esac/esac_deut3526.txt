@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Gerstebinden
+    Es war eins Bauren Toechterlein,]
+REG[Mitteleuropa, Deutschland]
+TRD[6, S. 208
+    1534 gedruckt in Nuernberg; Satz: Ludwig Senfl]
+FKT[]
+SIG[Q0135C]
+KEY[Q0135C  08  G FREI]
+MEL[1_  1_1_1_1_  2_2_2__
+    6__  7b_.65__4__  5__0_
+    5_  6__6_6__6_  7b__6__
+    5__4__2__  3_4_5__
+    5_5_4_3_  1__0_
+    1_  2_.3_45__  6_5_4__3_2__  1___ //]
+BEM[]
+MEL_SEM[0 0 0 0 2 0 0 7 1 -1 -2 -2 2 0 2 0 0 0 1 -1 -2 -2 -3 2 1 2 0 0 -2 -1 -4 0 2 2 1 2 2 -2 -2 -1 -2 -2]
+MEL_RAW[1  1111  222
+    6  7b654  50
+    5  6666  7b6
+    542  345
+    5543  10
+    1  2345  65432  1]
+NO_REP[12
+    67b65450
+    567b6
+    542345
+    54310
+    12345654321]
+RTM[x_  x_x_x_x_  x_x_x__
+    x__  x_.xx__x__  x__x_
+    x_  x__x_x__x_  x__x__
+    x__x__x__  x_x_x__
+    x_x_x_x_  x__x_
+    x_  x_.x_xx__  x_x_x__x_x__  x___]
+SCL_DEG[1234567b]
+SCL_SEM[2 2 1 2 2 1]
+

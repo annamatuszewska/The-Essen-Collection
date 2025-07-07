@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Koenig von Mailand
+    Ich sach ein pild in plaber wat]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 234
+    1450 Handschrift]
+FKT[]
+SIG[Q1067A]
+KEY[Q1067A  08  F 6/4]
+MEL[-5_  1_1_2_1__^3  3_32_.1__.
+    -6_-6_-7b_-6__1_  ^_2__2_1-7-6_  -5__.0__^
+    -5  1_1_3_5__.  5_432_1_532_  1__.0__ //]
+BEM[]
+MEL_SEM[5 0 2 -2 4 0 0 -2 -2 -3 0 1 -1 3 2 0 -2 -1 -2 -2 0 5 0 4 3 0 -2 -1 -2 -2 7 -3 -2 -2]
+MEL_RAW[-5  1121^3  3321
+    -6-6-7b-61  ^221-7-6  -50^
+    -5  1135  54321532  10]
+NO_REP[-5121^321
+    -6-7b-61^21-7-6-50^
+    -5135432153210]
+RTM[x_  x_x_x_x__xx  x_xx_.x__.
+    x_x_x_x__x_  x_x__x_xxx_  x__.x__x
+    x  x_x_x_x__.  x_xxx_x_xxx_  x__.x__]
+SCL_DEG[-5-6-7b-712345]
+SCL_SEM[2 1 1 1 2 2 1 2]
+

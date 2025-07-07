@@ -1,0 +1,28 @@
+ZUCCAL
+CUT['S MORGENS WENN ICH FRUEH AUFSTEH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0222]
+KEY[Z0222   16 Bb 3/4]
+MEL[3_.45__1__  2_.-71___
+    3_.45__1__  2_.-71___
+    4_.56__6__  2_.34___
+    3_.45__5__  -7_.-51___ //]
+BEM[]
+MEL_SEM[1 2 -7 2 -3 1 4 1 2 -7 2 -3 1 5 2 2 0 -7 2 1 -1 1 2 0 -8 -4 5]
+MEL_RAW[3451  2-71
+    3451  2-71
+    4566  234
+    3455  -7-51]
+NO_REP[34512-71
+    34512-71
+    456234
+    345-7-51]
+RTM[x_.xx__x__  x_.xx___
+    x_.xx__x__  x_.xx___
+    x_.xx__x__  x_.xx___
+    x_.xx__x__  x_.xx___]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

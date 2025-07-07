@@ -1,0 +1,32 @@
+BOEHME
+CUT[WIE LIEBLICH SCHALLT IM GRUENEN WALD]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0174]
+KEY[B0174   08  G 6/8]
+MEL[-5  1232_-5  2343_
+    3  5_3543  2__0
+    -5  4_43_1  6_65_
+    5  3_32_2  1__0
+    5  3_32_2  1__0 //]
+BEM[]
+MEL_SEM[5 2 2 -2 -7 7 2 1 -1 0 3 -3 3 -2 -1 -2 -7 10 0 -1 -4 9 0 -2 0 -3 0 -2 0 -2 7 -3 0 -2 0 -2]
+MEL_RAW[-5  1232-5  2343
+    3  53543  20
+    -5  4431  665
+    5  3322  10
+    5  3322  10]
+NO_REP[-51232-52343
+    35354320
+    -543165
+    53210
+    53210]
+RTM[x  xxxx_x  xxxx_
+    x  x_xxxx  x__x
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x__x
+    x  x_xx_x  x__x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

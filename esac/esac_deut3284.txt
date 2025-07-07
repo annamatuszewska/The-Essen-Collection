@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es war ein Pfalzgraf wohl ueber dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Saarland, Kreis Merzig]
+TRD[4, S. 111
+    ????]
+FKT[]
+SIG[Q0075W]
+KEY[Q0075W  08  F FREI]
+MEL[3_3_3_  5__4_4_3_.33_  2__0
+    2_223_  4__3_2_.1  1_ //]
+BEM[]
+MEL_SEM[0 0 3 -2 0 -1 0 0 -2 0 0 0 2 1 -1 -2 -2 0]
+MEL_RAW[333  544333  20
+    2223  4321  1]
+NO_REP[354320
+    234321]
+RTM[x_x_x_  x__x_x_x_.xx_  x__x
+    x_xxx_  x__x_x_.x  x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

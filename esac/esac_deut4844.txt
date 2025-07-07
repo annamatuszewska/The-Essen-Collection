@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Gerettete
+    ALS ODILIA EIN KLEIN KIND WAR]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1028]
+KEY[Z1028   08  E 3/4]
+MEL[-7b3b4  5_46b54  3b_.
+    -7b3b4  5_46b54  5_.
+    212  3b1453b2  1_.
+    -712  3b1453b2  1_0 //]
+BEM[]
+MEL_SEM[5 2 2 -2 3 -1 -2 -2 -5 5 2 2 -2 3 -1 -2 2 -5 -2 2 1 -3 5 2 -4 -1 -2 -1 1 2 1 -3 5 2 -4 -1 -2]
+MEL_RAW[-7b3b4  546b54  3b
+    -7b3b4  546b54  5
+    212  3b1453b2  1
+    -712  3b1453b2  10]
+NO_REP[-7b3b4546b543b
+    -7b3b4546b545
+    2123b1453b21
+    -7123b1453b210]
+RTM[xxx  x_xxxx  x_.
+    xxx  x_xxxx  x_.
+    xxx  xxxxxx  x_.
+    xxx  xxxxxx  x_x]
+SCL_DEG[-7b-7123b456b]
+SCL_SEM[1 1 2 1 2 2 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Koenigskinder
+    Die Muehle die dreht ihre Fluegel]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 217
+    1833 gedruckt]
+FKT[]
+SIG[Q0020K]
+KEY[Q0020K  16  G 6/8]
+MEL[-5_  1_1_2_3b_2_3b_  1__2_3b__
+    2_  1_2_3b_4_3b_2_  1__-7_1__
+    12  3b_3b_3b_4_4_4_  5__.4__
+    4_  3b_2_1_2__-5_  1__.0__ //]
+BEM[]
+MEL_SEM[5 0 2 1 -1 1 -3 2 1 -1 -2 2 1 2 -2 -1 -2 -1 1 0 2 1 0 0 2 0 0 2 -2 0 -2 -1 -2 2 -7 5]
+MEL_RAW[-5  1123b23b  123b
+    2  123b43b2  1-71
+    12  3b3b3b444  54
+    4  3b212-5  10]
+NO_REP[-5123b23b123b
+    2123b43b21-71
+    123b454
+    43b212-510]
+RTM[x_  x_x_x_x_x_x_  x__x_x__
+    x_  x_x_x_x_x_x_  x__x_x__
+    xx  x_x_x_x_x_x_  x__.x__
+    x_  x_x_x_x__x_  x__.x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

@@ -1,0 +1,20 @@
+ZUCCAL
+CUT[ES WAR EINMAL EIN SCHUHMACHERGESELL]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0030]
+KEY[Z0030   08  C 2/4]
+MEL[-6_  3_3_  222_  111_  -7_
+    -7_  1_1_  2_2_  3__  3_ //]
+BEM[]
+MEL_SEM[7 0 -2 0 0 -2 0 0 -1 0 1 0 2 0 2 0]
+MEL_RAW[-6  33  222  111  -7
+    -7  11  22  3  3]
+NO_REP[-6321-7
+    -7123]
+RTM[x_  x_x_  xxx_  xxx_  x_
+    x_  x_x_  x_x_  x__  x_]
+SCL_DEG[-6-7123]
+SCL_SEM[2 1 2 2]
+

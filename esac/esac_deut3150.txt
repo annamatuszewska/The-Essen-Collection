@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    Ich waiss ein schoens Lustgaertelein,]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 54
+    1646 Handschrift Kloster Seeon]
+FKT[]
+SIG[Q1055O]
+KEY[Q1055O  04  F 6/4 4/4]
+MEL[112  3453  1_0
+    +1+1+1  756_  5_0
+    15+1  6566  5_0
+    365  432_  1_0 //]
+BEM[]
+MEL_SEM[0 2 2 1 2 -3 -4 12 0 0 -1 -4 2 -2 -7 7 5 -3 -2 2 0 -2 -3 5 -2 -2 -1 -2 -2]
+MEL_RAW[112  3453  10
+    +1+1+1  756  50
+    15+1  6566  50
+    365  432  10]
+NO_REP[12345310
+    +175650
+    15+165650
+    36543210]
+RTM[xxx  xxxx  x_x
+    xxx  xxx_  x_x
+    xxx  xxxx  x_x
+    xxx  xxx_  x_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

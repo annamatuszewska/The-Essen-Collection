@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Verschlafener Jaeger
+    Es wollt es ein Jaegerlein jagen]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Hellimer]
+TRD[7, S. 215
+    1932 aufgezeichnet]
+FKT[]
+SIG[Q0152G]
+KEY[Q0152G  08  G 3/4]
+MEL[-5_  1_.23_  2_1_-7_  1_.23_  2__
+    -5_  1_.23_  2_1_-7_  1_.23_  2__
+    1_  1_.34_  5_.65_  4_3_2_  3__.  2__
+    1_  1_.34_  5_.65_  4_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 2 2 -2 -2 -1 1 2 2 -2 -7 5 2 2 -2 -2 -1 1 2 2 -2 -2 0 4 1 2 2 -2 -2 -1 -2 2 -2 -2 0 4 1 2 2 -2 -2 -1 -2 -2]
+MEL_RAW[-5  123  21-7  123  2
+    -5  123  21-7  123  2
+    1  134  565  432  3  2
+    1  134  565  432  1]
+NO_REP[-512321-71232
+    -512321-71232
+    13456543232
+    1345654321]
+RTM[x_  x_.xx_  x_x_x_  x_.xx_  x__
+    x_  x_.xx_  x_x_x_  x_.xx_  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__.  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

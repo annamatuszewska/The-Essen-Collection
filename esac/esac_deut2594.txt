@@ -1,0 +1,28 @@
+BOEHME
+CUT[GIB MIR DIE BLUMEN GIB MIR DEN KRANZ]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[B0383]
+KEY[B0383   16  G 3/8]
+MEL[1_2_3_  5_4_2_  3_1_3_  2__0_
+    2_3_4_  6_5_3_  5_4_2_  1__0_
+    2_2_2_  2_7_5_  4#_3_4#_  5__.
+    3_3_3_  5_.43_  2_1_2_  1__0_ //]
+BEM[]
+MEL_SEM[2 2 3 -2 -3 2 -4 4 -2 0 2 1 4 -2 -3 3 -2 -3 -2 2 0 0 0 9 -4 -1 -2 2 1 -3 0 0 3 -2 -1 -2 -2 2 -2]
+MEL_RAW[123  542  313  20
+    234  653  542  10
+    222  275  4#34#  5
+    333  543  212  10]
+NO_REP[12354231320
+    23465354210
+    2754#34#5
+    354321210]
+RTM[x_x_x_  x_x_x_  x_x_x_  x__x_
+    x_x_x_  x_x_x_  x_x_x_  x__x_
+    x_x_x_  x_x_x_  x_x_x_  x__.
+    x_x_x_  x_.xx_  x_x_x_  x__x_]
+SCL_DEG[12344#567]
+SCL_SEM[2 2 1 1 1 2 2]
+

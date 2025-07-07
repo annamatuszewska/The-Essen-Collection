@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Waise und Stiefmutter
+    Es war ein Maegdlein zart,]
+REG[Mitteleuropa, Deutschland (DDR) , Pommern, Sandfoerde und Jatznick]
+TRD[5, S. 284
+    1930 aufgezeichnet]
+FKT[]
+SIG[Q0116]
+KEY[Q0116   08  A 6/8]
+MEL[-5  1_-7-6_-3  -4_.0_
+    1  -7_-6-5_-4  -3_.0_
+    -5  3_33_3  4_.0_
+    -6  -5_12_3  1_.0_
+    -5  3_33_3  4_.0_
+    -6  -5_12_3  1_.0_ //]
+BEM[]
+MEL_SEM[5 -1 -2 -5 1 7 -1 -2 -2 -2 -1 3 9 0 0 0 1 -8 -2 5 2 2 -4 -5 9 0 0 0 1 -8 -2 5 2 2 -4]
+MEL_RAW[-5  1-7-6-3  -40
+    1  -7-6-5-4  -30
+    -5  3333  40
+    -6  -5123  10
+    -5  3333  40
+    -6  -5123  10]
+NO_REP[-51-7-6-3-40
+    1-7-6-5-4-30
+    -5340
+    -6-512310
+    -5340
+    -6-512310]
+RTM[x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_]
+SCL_DEG[-3-4-5-6-71234]
+SCL_SEM[1 2 2 2 1 2 2 1]
+

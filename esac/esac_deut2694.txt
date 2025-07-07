@@ -1,0 +1,44 @@
+BOEHME
+CUT[WENN SICH ZWEI HERZEN SCHEIDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0501]
+KEY[B0501   16  E 2/4]
+MEL[5_3b45_4_  6b__5_
+    +1_  7b_6b_5_6b_  2__.0
+    5  5_3b45_7b6b  5__4_
+    7b_  7b_.6b6b_+1_  4__.
+    4_  4_5_6b_7b_  6b_.55_
+    5_  6_7b_+1_+2_  +1_.77__
+    5_3b45_4_  6b__5_
+    +1_  5_3b_2_.3b  1__0__ //]
+BEM[]
+MEL_SEM[-4 2 2 -2 3 -1 5 -2 -2 -1 1 -6 5 0 -4 2 2 3 -2 -1 -2 5 0 -2 0 4 -7 0 0 2 1 2 -2 -1 0 0 2 1 2 2 -2 -1 0 -4 -4 2 2 -2 3 -1 5 -5 -4 -1 1 -3]
+MEL_RAW[53b454  6b5
+    +1  7b6b56b  20
+    5  53b457b6b  54
+    7b  7b6b6b+1  4
+    4  456b7b  6b55
+    5  67b+1+2  +177
+    53b454  6b5
+    +1  53b23b  10]
+NO_REP[53b4546b5
+    +17b6b56b20
+    53b457b6b54
+    7b6b+14
+    456b7b6b5
+    567b+1+2+17
+    53b4546b5
+    +153b23b10]
+RTM[x_xxx_x_  x__x_
+    x_  x_x_x_x_  x__.x
+    x  x_xxx_xx  x__x_
+    x_  x_.xx_x_  x__.
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_.xx__
+    x_xxx_x_  x__x_
+    x_  x_x_x_.x  x__x__]
+SCL_DEG[123b456b67b7+1+2]
+SCL_SEM[2 1 2 2 1 1 1 1 1 2]
+

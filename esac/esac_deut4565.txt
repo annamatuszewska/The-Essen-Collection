@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[STAND ICH AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0064]
+KEY[Z0064   08  G 2/4]
+MEL[-5  3153  3_22  3153  2_0
+    2  5555  531_  4_6_  531
+    5  542-7  1_0 //]
+BEM[]
+MEL_SEM[9 -4 7 -3 0 -2 0 2 -4 7 -3 -2 0 5 0 0 0 0 -3 -4 5 4 -2 -3 -4 7 0 -2 -3 -3 1]
+MEL_RAW[-5  3153  322  3153  20
+    2  5555  531  46  531
+    5  542-7  10]
+NO_REP[-531532315320
+    253146531
+    542-710]
+RTM[x  xxxx  x_xx  xxxx  x_x
+    x  xxxx  xxx_  x_x_  xxx
+    x  xxxx  x_x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

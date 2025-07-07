@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Engellied zu Weihnachten
+    IHR HIRTEN ERWACHT]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Deutschland]
+TRD[]
+FKT[]
+SIG[Z1125]
+KEY[Z1125   16  F 2/4]
+MEL[5__  +1__6_6_  5_.65_
+    4_  3__3_2_  1__
+    2__  3_.45_4_  345__
+    4_  3_.45_4_  345__
+    5_  +1__6_.5  5_.65_
+    4_  3__3_2_  1__ //]
+BEM[]
+MEL_SEM[5 -3 0 -2 2 -2 -2 -1 0 -2 -2 2 2 1 2 -2 -1 1 2 -2 -1 1 2 -2 -1 1 2 0 5 -3 -2 0 2 -2 -2 -1 0 -2 -2]
+MEL_RAW[5  +166  565
+    4  332  1
+    2  3454  345
+    4  3454  345
+    5  +165  565
+    4  332  1]
+NO_REP[5+16565
+    4321
+    23454345
+    43454345
+    5+16565
+    4321]
+RTM[x__  x__x_x_  x_.xx_
+    x_  x__x_x_  x__
+    x__  x_.xx_x_  xxx__
+    x_  x_.xx_x_  xxx__
+    x_  x__x_.x  x_.xx_
+    x_  x__x_x_  x__]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

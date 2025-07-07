@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Schoenster Ulrich wollt' spazieren gehn,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+TRD[2, S. 112
+    1892 aufgezeichnet (oder 1894)]
+FKT[]
+SIG[Q0041X]
+KEY[Q0041X  08  G 4/4]
+MEL[-5-5  1_1_1351  3_2_-7_
+    -5-5  4_4_46+14  6_5_3_0_
+    5332234-7  211_0_ //]
+BEM[]
+MEL_SEM[0 5 0 0 4 3 -7 4 -2 -3 -4 0 10 0 0 4 3 -7 4 -2 -3 3 -3 0 -2 0 2 1 -6 3 -2 0]
+MEL_RAW[-5-5  111351  32-7
+    -5-5  4446+14  6530
+    5332234-7  2110]
+NO_REP[-5135132-7
+    -546+146530
+    53234-7210]
+RTM[xx  x_x_xxxx  x_x_x_
+    xx  x_x_xxxx  x_x_x_x_
+    xxxxxxxx  xxx_x_]
+SCL_DEG[-5-7123456+1]
+SCL_SEM[4 1 2 2 1 2 2 3]
+

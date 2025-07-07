@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit einer Dam',]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[3, S. 62
+    ????]
+FKT[]
+SIG[Q0055e]
+KEY[Q0055e  08  F 6/8]
+MEL[-5  1_1313  5_53_
+    2  3236_5  2_.1_
+    -5  1_11_3  1_1-5_
+    -5  1_35_3  2_.10 //]
+BEM[]
+MEL_SEM[5 0 4 -4 4 3 0 -3 -2 2 -2 2 5 -2 -5 -2 -5 5 0 0 4 -4 0 -5 0 5 4 3 -3 -2 -2]
+MEL_RAW[-5  11313  553
+    2  32365  21
+    -5  1113  11-5
+    -5  1353  210]
+NO_REP[-5131353
+    23236521
+    -5131-5
+    -51353210]
+RTM[x  x_xxxx  x_xx_
+    x  xxxx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.xx]
+SCL_DEG[-512356]
+SCL_SEM[5 2 2 3 2]
+

@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Koenig von Mailand
+    Als ich ein kleines Maedchen war,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 234
+    1928 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0041c]
+KEY[Q0041c  08  D FREI]
+MEL[5_5_4_3b_.45_  5_543b__
+    5_4_4_1_.14_  3b21_-7b__
+    -7b_3b_4_5_.24_  3b_2_1__ //]
+BEM[]
+MEL_SEM[0 -2 -2 2 2 0 0 -2 -2 4 -2 0 -5 0 5 -2 -1 -2 -2 0 5 2 2 -5 3 -2 -1 -2]
+MEL_RAW[5543b45  5543b
+    544114  3b21-7b
+    -7b3b4524  3b21]
+NO_REP[543b4543b
+    54143b21-7b
+    -7b3b45243b21]
+RTM[x_x_x_x_.xx_  x_xxx__
+    x_x_x_x_.xx_  xxx_x__
+    x_x_x_x_.xx_  x_x_x__]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

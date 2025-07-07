@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Das Maedchen und der Faehnrich
+    Es wohnt ein reicher Schlaechtersmann]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Charlottenburg]
+TRD[6, S. 107
+    1843 aufgezeichnet]
+FKT[]
+SIG[Q0127G]
+KEY[Q0127G  16  G 2/4]
+MEL[1_  3_321_34  5_543_
+    5_  6_6_2_5_  4__3_
+    1_  3_321_34  5_543_
+    5_  6_6_2_5_  4__3_
+    1_  6_.46_+16  5_.35_
+    65  4_434_5_  4__3_ //]
+BEM[]
+MEL_SEM[4 0 -2 -2 4 1 2 0 -2 -1 3 2 0 -7 5 -2 -1 -4 4 0 -2 -2 4 1 2 0 -2 -1 3 2 0 -7 5 -2 -1 -4 9 -4 4 3 -3 -2 -3 3 2 -2 -2 0 -1 1 2 -2 -1]
+MEL_RAW[1  332134  5543
+    5  6625  43
+    1  332134  5543
+    5  6625  43
+    1  646+16  535
+    65  44345  43]
+NO_REP[132134543
+    562543
+    132134543
+    562543
+    1646+16535
+    65434543]
+RTM[x_  x_xxx_xx  x_xxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_xxx_xx  x_xxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_.xx_xx  x_.xx_
+    xx  x_xxx_x_  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

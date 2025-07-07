@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Rabenmutter
+    Ein Schaefer trieb mit Laemmern aus,]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+TRD[5, S. 269
+    1933 gedruckt in Leipzig]
+FKT[]
+SIG[Q0114P]
+KEY[Q0114P  08  G 2/4]
+MEL[-5_  1-712  3_2_  3_.
+    2  3234  5_4#6  5__
+    4_32  3_1_  322-7  1_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -2 2 -2 2 -2 2 1 2 -1 3 -2 -2 -1 -2 2 -4 4 -2 0 -3 1]
+MEL_RAW[-5  1-712  32  3
+    2  3234  54#6  5
+    432  31  322-7  1]
+NO_REP[-51-712323
+    2323454#65
+    4323132-71]
+RTM[x_  xxxx  x_x_  x_.
+    x  xxxx  x_xx  x__
+    x_xx  x_x_  xxxx  x_]
+SCL_DEG[-5-712344#56]
+SCL_SEM[4 1 2 2 1 1 1 2]
+

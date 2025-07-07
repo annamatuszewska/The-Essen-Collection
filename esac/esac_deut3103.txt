@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Rheinbraut
+    Es freit' ein edler Reicher,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[2, S. 186
+    1842 aufgezeichnet]
+FKT[]
+SIG[Q0047G]
+KEY[Q0047G  16  G 6/8]
+MEL[-5_  1__1_1_-7_1_  2_1_0__.
+    -5_  1__1_1_-7_1_  2_1_0__.
+    1_  5__5_4_4_4_  3__3_2_4_
+    32  1__2_3_3_2_  1__2_1__ //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 2 -2 -5 5 0 0 -1 1 2 -2 0 7 0 -2 0 0 -1 0 -2 3 -1 -2 -2 2 2 0 -2 -2 2 -2]
+MEL_RAW[-5  111-71  210
+    -5  111-71  210
+    1  55444  3324
+    32  12332  121]
+NO_REP[-51-71210
+    -51-71210
+    154324
+    321232121]
+RTM[x_  x__x_x_x_x_  x_x_x__.
+    x_  x__x_x_x_x_  x_x_x__.
+    x_  x__x_x_x_x_  x__x_x_x_
+    xx  x__x_x_x_x_  x__x_x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

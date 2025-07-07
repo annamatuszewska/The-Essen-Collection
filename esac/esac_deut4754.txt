@@ -1,0 +1,19 @@
+ZUCCAL
+CUT[E BISSELE LIEB E BISSELE TREU]
+REG[Europa, Mitteleuropa, Deutschland, bayrisches Gebirge]
+TRD[]
+FKT[]
+SIG[Z0255]
+KEY[Z0255   16  A 3/8]
+MEL[1_  3_3_.4  5__05  5_4_.4  3__0
+    3  3_2_.2  2_1_.1  24-7_.-7  1__ //]
+BEM[]
+MEL_SEM[4 0 1 2 0 0 -2 0 -1 0 0 -2 0 0 -2 0 2 3 -6 0 1]
+MEL_RAW[1  334  505  544  30
+    3  322  211  24-7-7  1]
+NO_REP[134505430
+    32124-71]
+RTM[x_  x_x_.x  x__xx  x_x_.x  x__x
+    x  x_x_.x  x_x_.x  xxx_.x  x__]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]

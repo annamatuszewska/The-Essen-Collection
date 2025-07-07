@@ -1,0 +1,44 @@
+BOEHME
+CUT[AUF DEM SCHEITERHAUFEN KLAGET BITTERLICH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0129]
+KEY[B0129   08  E 3/4]
+MEL[-5-5  123b_55  43b2_
+    3b2  1_3b_2-7  1_0_
+    -5-5  123b_55  43b2_
+    3b2  1_3b_2-7  1_0_
+    3b4  5_5_6b5  544_
+    54  3b_5_43b  2__
+    3b2  123b_23b  544_
+    3b2  1_3b_2-7  1__ //]
+BEM[]
+MEL_SEM[0 5 2 1 4 0 -2 -2 -1 1 -1 -2 3 -1 -3 1 -5 0 5 2 1 4 0 -2 -2 -1 1 -1 -2 3 -1 -3 1 3 2 2 0 1 -1 0 -2 0 2 -2 -2 4 -2 -2 -1 1 -1 -2 2 1 -1 1 4 -2 0 -2 -1 -2 3 -1 -3 1]
+MEL_RAW[-5-5  123b55  43b2
+    3b2  13b2-7  10
+    -5-5  123b55  43b2
+    3b2  13b2-7  10
+    3b4  556b5  544
+    54  3b543b  2
+    3b2  123b23b  544
+    3b2  13b2-7  1]
+NO_REP[-5123b543b2
+    3b213b2-710
+    -5123b543b2
+    3b213b2-710
+    3b456b54
+    543b543b2
+    3b2123b23b54
+    3b213b2-71]
+RTM[xx  xxx_xx  xxx_
+    xx  x_x_xx  x_x_
+    xx  xxx_xx  xxx_
+    xx  x_x_xx  x_x_
+    xx  x_x_xx  xxx_
+    xx  x_x_xx  x__
+    xx  xxx_xx  xxx_
+    xx  x_x_xx  x__]
+SCL_DEG[-5-7123b456b]
+SCL_SEM[4 1 2 1 2 2 1]
+

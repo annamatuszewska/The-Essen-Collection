@@ -1,0 +1,39 @@
+BALLADEN
+CUT[Verschlafener Jaeger
+    Es ging ein Jaeger wohl jagen]
+REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Gummersbach,
+    Berghausen]
+TRD[7, S. 217
+    1933 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0152L]
+KEY[Q0152L  08  C 6/8]
+MEL[5  5_5555  5_.3_
+    5  +1_+1+17+1  +3_+2+17
+    6  5_5567  +10+3+3_
+    +1  +2_+2767  +1_0_.
+    5  535+1_+1  +15+1+3_
+    +3  +2_+2767  +1_0_. //]
+BEM[]
+MEL_SEM[0 0 0 0 0 0 -3 3 5 0 0 -1 1 4 -2 -2 -1 -2 -2 0 0 2 2 1 4 0 -4 2 0 -3 -2 2 1 -5 0 -3 3 5 0 0 -5 5 4 0 -2 0 -3 -2 2 1]
+MEL_RAW[5  55555  53
+    5  +1+1+17+1  +3+2+17
+    6  55567  +10+3+3
+    +1  +2+2767  +10
+    5  535+1+1  +15+1+3
+    +3  +2+2767  +10]
+NO_REP[53
+    5+17+1+3+2+17
+    6567+10+3
+    +1+2767+10
+    535+15+1+3
+    +3+2767+10]
+RTM[x  x_xxxx  x_.x_
+    x  x_xxxx  x_xxx
+    x  x_xxxx  xxxx_
+    x  x_xxxx  x_x_.
+    x  xxxx_x  xxxx_
+    x  x_xxxx  x_x_.]
+SCL_DEG[3567+1+2+3]
+SCL_SEM[3 2 2 1 2 2]
+

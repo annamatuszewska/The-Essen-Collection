@@ -1,0 +1,28 @@
+BOEHME
+CUT[AUF DEM GRUENEN RASEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0631]
+KEY[B0631   08  G 2/4]
+MEL[3355  4_2_
+    1234  2_0_
+    4433  6_5_
+    5432  1_0_ //]
+BEM[]
+MEL_SEM[0 3 0 -2 -3 -2 2 2 1 -3 3 0 -1 0 5 -2 0 -2 -1 -2 -2]
+MEL_RAW[3355  42
+    1234  20
+    4433  65
+    5432  10]
+NO_REP[3542
+    123420
+    4365
+    543210]
+RTM[xxxx  x_x_
+    xxxx  x_x_
+    xxxx  x_x_
+    xxxx  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

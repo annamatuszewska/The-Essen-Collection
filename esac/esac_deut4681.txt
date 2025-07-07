@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[BIN I A LUSTIGA FUHRMANNSSOHN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[Z0181]
+KEY[Z0181   08  A 3/4]
+MEL[355_3_  244_2_  3_3_3_
+    355_3_  244_2_  3_0__
+    222223  54432_
+    333334  65543_
+    355_.3  244_.2  3_3_3_
+    355_.3  244_.4  3_0__ //]
+BEM[]
+MEL_SEM[3 0 -3 -2 3 0 -3 2 0 0 0 3 0 -3 -2 3 0 -3 2 -2 0 0 0 0 2 3 -2 0 -1 -2 2 0 0 0 0 1 4 -2 0 -2 -1 0 3 0 -3 -2 3 0 -3 2 0 0 0 3 0 -3 -2 3 0 0 -1]
+MEL_RAW[3553  2442  333
+    3553  2442  30
+    222223  54432
+    333334  65543
+    3553  2442  333
+    3553  2444  30]
+NO_REP[3532423
+    35324230
+    235432
+    346543
+    3532423
+    3532430]
+RTM[xxx_x_  xxx_x_  x_x_x_
+    xxx_x_  xxx_x_  x_x__
+    xxxxxx  xxxxx_
+    xxxxxx  xxxxx_
+    xxx_.x  xxx_.x  x_x_x_
+    xxx_.x  xxx_.x  x_x__]
+SCL_DEG[23456]
+SCL_SEM[2 1 2 2]
+

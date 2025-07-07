@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die Koenigskinder
+    Et wassen twee Kuenigeskinner,]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+TRD[1, S. 198
+    1842 aufgezeichnet]
+FKT[]
+SIG[Q0020A]
+KEY[Q0020A  08  F 4/4]
+MEL[-5  -53333222  211_0_.
+    -5  -54444353  3_2_0_.
+    -5  -55555444  3_+1_54
+    32  21113221  1_0_
+    2_.4  3+1533221  1_0__. //]
+BEM[]
+MEL_SEM[0 9 0 0 0 -2 0 0 0 -2 0 -5 0 10 0 0 0 -1 3 -3 0 -2 -7 0 12 0 0 0 -2 0 0 -1 8 -5 -2 -1 -2 0 -2 0 0 4 -2 0 -2 0 2 3 -1 8 -5 -3 0 -2 0 -2 0]
+MEL_RAW[-5  -53333222  2110
+    -5  -54444353  320
+    -5  -55555444  3+154
+    32  21113221  10
+    24  3+1533221  10]
+NO_REP[-53210
+    -5435320
+    -5543+154
+    3213210
+    243+153210]
+RTM[x  xxxxxxxx  xxx_x_.
+    x  xxxxxxxx  x_x_x_.
+    x  xxxxxxxx  x_x_xx
+    xx  xxxxxxxx  x_x_
+    x_.x  xxxxxxxx  x_x__.]
+SCL_DEG[-512345+1]
+SCL_SEM[5 2 2 1 2 5]
+

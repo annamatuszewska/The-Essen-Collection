@@ -1,0 +1,28 @@
+BOEHME
+CUT[SONNENGLANZ MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[B0441]
+KEY[B0441   08  G 3/4]
+MEL[-5_1_3_  6_.55_
+    3_1_3_  5_.44_
+    -5_-7_2_  7_.65_
+    4_6_5_  3__. //]
+BEM[]
+MEL_SEM[5 4 5 -2 0 -3 -4 4 3 -2 0 -10 4 3 9 -2 -2 -2 4 -2 -3]
+MEL_RAW[-513  655
+    313  544
+    -5-72  765
+    465  3]
+NO_REP[-51365
+    31354
+    -5-72765
+    4653]
+RTM[x_x_x_  x_.xx_
+    x_x_x_  x_.xx_
+    x_x_x_  x_.xx_
+    x_x_x_  x__.]
+SCL_DEG[-5-71234567]
+SCL_SEM[4 1 2 2 1 2 2 2]
+

@@ -1,0 +1,54 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Was wird er mitte bringen]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kanth]
+TRD[8, S. 34
+    1840 aufgezeichnet]
+FKT[]
+SIG[Q0155D]
+KEY[Q0155D  08  D 2/4]
+MEL[4  6545  4_3
+    3  5425  3_0
+    3  5323  4_3
+    3  5323  4_3
+    1  1111  +1_7
+    6  6364  4_3
+    3  5324  4_3
+    3  5324  4_3
+    1  1111  +1_7
+    6  5364  4_3 //]
+BEM[]
+MEL_SEM[4 -2 -2 2 -2 -1 0 3 -2 -3 5 -3 0 3 -3 -2 2 1 -1 0 3 -3 -2 2 1 -1 -4 0 0 0 0 12 -1 -2 0 -5 5 -4 0 -1 0 3 -3 -2 3 0 -1 0 3 -3 -2 3 0 -1 -4 0 0 0 0 12 -1 -2 -2 -3 5 -4 0 -1]
+MEL_RAW[4  6545  43
+    3  5425  30
+    3  5323  43
+    3  5323  43
+    1  1111  +17
+    6  6364  43
+    3  5324  43
+    3  5324  43
+    1  1111  +17
+    6  5364  43]
+NO_REP[4654543
+    3542530
+    3532343
+    3532343
+    1+17
+    63643
+    353243
+    353243
+    1+17
+    653643]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

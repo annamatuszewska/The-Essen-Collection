@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Wiedersehen an der Bahre
+    Ein Juengling wollt' zum Kampfe ziehn,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Erzgebirge]
+TRD[3, S. 86
+    1901 aufgezeichnet]
+FKT[]
+SIG[Q0056L]
+KEY[Q0056L  08  F 4/4]
+MEL[1  1_3_5_.3  4_4_2_.
+    2  2_6_5_4_  4_3__0
+    3  3_5_+1_.3  2_4_7_.
+    6  5_6_5_.4  4_3__0
+    3  3_5_+1_.3  2_4_7_.
+    6  5_4_3_.2  2__1_0 //]
+BEM[]
+MEL_SEM[0 4 3 -3 1 0 -3 0 0 7 -2 -2 0 -1 0 0 3 5 -8 -2 3 6 -2 -2 2 -2 -2 0 -1 0 0 3 5 -8 -2 3 6 -2 -2 -2 -1 -2 0 -2]
+MEL_RAW[1  1353  442
+    2  2654  430
+    3  35+13  247
+    6  5654  430
+    3  35+13  247
+    6  5432  210]
+NO_REP[135342
+    265430
+    35+13247
+    6565430
+    35+13247
+    6543210]
+RTM[x  x_x_x_.x  x_x_x_.
+    x  x_x_x_x_  x_x__x
+    x  x_x_x_.x  x_x_x_.
+    x  x_x_x_.x  x_x__x
+    x  x_x_x_.x  x_x_x_.
+    x  x_x_x_.x  x__x_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

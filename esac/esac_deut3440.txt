@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Rabenmutter
+    Es trieb ein Hirtlein oben aus,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oppeln]
+TRD[5, S. 248
+    1848 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0114]
+KEY[Q0114   08  G 2/4]
+MEL[-5  1-712  321
+    2  3234  5_53  2_0
+    5  6531  3_22  1324  3_0
+    5  6531  3_22  1_0 //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -2 -2 2 2 -2 2 1 2 0 -3 -2 5 2 -2 -3 -4 4 -2 0 -2 4 -2 3 -1 3 2 -2 -3 -4 4 -2 0 -2]
+MEL_RAW[-5  1-712  321
+    2  3234  553  20
+    5  6531  322  1324  30
+    5  6531  322  10]
+NO_REP[-51-712321
+    232345320
+    5653132132430
+    565313210]
+RTM[x  xxxx  xxx
+    x  xxxx  x_xx  x_x
+    x  xxxx  x_xx  xxxx  x_x
+    x  xxxx  x_xx  x_x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

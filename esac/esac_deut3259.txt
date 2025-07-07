@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Das Schwabentoechterlein
+    Barmherziger gerechter Gott]
+REG[Mitteleuropa, Deutschland]
+TRD[4, S. 50
+    1646 Handschrift Kloster Seeon]
+FKT[]
+SIG[Q0073D]
+KEY[Q0073D  04  D 2/2 3/2]
+MEL[5  6b6b7b7b  +1+15_0
+    5  +1+1+15  +1_7b_0
+    5  6b6b55  441_0
+    1  3b456b  4_3b_0
+    5  6b543b  121__ //]
+BEM[]
+MEL_SEM[1 0 2 0 2 0 -5 0 5 0 0 -5 5 -2 -3 1 0 -1 0 -2 0 -5 0 3 2 2 1 -3 -2 4 1 -1 -2 -2 -3 2 -2]
+MEL_RAW[5  6b6b7b7b  +1+150
+    5  +1+1+15  +17b0
+    5  6b6b55  4410
+    1  3b456b  43b0
+    5  6b543b  121]
+NO_REP[56b7b+150
+    5+15+17b0
+    56b5410
+    13b456b43b0
+    56b543b121]
+RTM[x  xxxx  xxx_x
+    x  xxxx  x_x_x
+    x  xxxx  xxx_x
+    x  xxxx  x_x_x
+    x  xxxx  xxx__]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Frau von Weissenburg
+    Wer mir es zu essen und trinken gibt,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hottweiler]
+TRD[1, S. 313
+    1935 aufgezeichnet]
+FKT[]
+SIG[Q0030D]
+KEY[Q0030D  08  F 3/4]
+MEL[-5_  1_3_1_  2_3_1_  2_.34_  5__
+    5_  6_6_5_  4_2_5_  2__.
+    5__.  4_3_1_  4_5_3_  1_.23_  2__.
+    2__.  1_-6_-5_  2_4_32  1__.
+    5__.  4_3_1_  4_5_3_  1_.23_  2__.
+    2__.  1_-6_-5_  2_4_32  1__ //]
+BEM[]
+MEL_SEM[5 4 -4 2 2 -4 2 2 1 2 0 2 0 -2 -2 -3 5 -5 5 -2 -1 -4 5 2 -3 -4 2 2 -2 0 -2 -3 -2 7 3 -1 -2 -2 7 -2 -1 -4 5 2 -3 -4 2 2 -2 0 -2 -3 -2 7 3 -1 -2 -2]
+MEL_RAW[-5  131  231  234  5
+    5  665  425  2
+    5  431  453  123  2
+    2  1-6-5  2432  1
+    5  431  453  123  2
+    2  1-6-5  2432  1]
+NO_REP[-51312312345
+    5654252
+    54314531232
+    21-6-524321
+    54314531232
+    21-6-524321]
+RTM[x_  x_x_x_  x_x_x_  x_.xx_  x__
+    x_  x_x_x_  x_x_x_  x__.
+    x__.  x_x_x_  x_x_x_  x_.xx_  x__.
+    x__.  x_x_x_  x_x_xx  x__.
+    x__.  x_x_x_  x_x_x_  x_.xx_  x__.
+    x__.  x_x_x_  x_x_xx  x__]
+SCL_DEG[-5-6123456]
+SCL_SEM[2 3 2 2 1 2 2]
+

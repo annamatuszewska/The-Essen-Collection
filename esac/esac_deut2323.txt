@@ -1,0 +1,36 @@
+BOEHME
+CUT[FEINDE RINGSUM FEINDE RINGSUM]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0068]
+KEY[B0068   08 Eb 4/4]
+MEL[1__3_1_  5__0__
+    5__6_7_  +1__0__
+    6_6664+16  655_0__
+    6_6664+16  655_0__
+    6__6543  2__0__
+    3__5342  1__0__ //]
+BEM[]
+MEL_SEM[4 -4 7 0 2 2 1 -3 0 0 0 -4 7 -3 0 -2 0 2 0 0 0 -4 7 -3 0 -2 0 2 0 -2 -2 -1 -2 2 3 -3 1 -3 -2]
+MEL_RAW[131  50
+    567  +10
+    66664+16  6550
+    66664+16  6550
+    66543  20
+    35342  10]
+NO_REP[13150
+    567+10
+    64+1650
+    64+1650
+    654320
+    3534210]
+RTM[x__x_x_  x__x__
+    x__x_x_  x__x__
+    x_xxxxxx  xxx_x__
+    x_xxxxxx  xxx_x__
+    x__xxxx  x__x__
+    x__xxxx  x__x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

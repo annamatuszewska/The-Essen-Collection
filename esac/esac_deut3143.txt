@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    Es spielt' ein Graf mit einer Magd,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Wetterau]
+TRD[3, S. 13
+    1856 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0055D]
+KEY[Q0055D  08  G 3/4]
+MEL[-512  3_.234  5_.
+    345  6_5_4_  3_0
+    135  2_.435  1_.
+    234  5_3_2_  1_0 //]
+BEM[]
+MEL_SEM[5 2 2 -2 2 1 2 -3 1 2 2 -2 -2 -1 -4 4 3 -5 3 -1 3 -7 2 2 1 2 -3 -2 -2]
+MEL_RAW[-512  3234  5
+    345  654  30
+    135  2435  1
+    234  532  10]
+NO_REP[-51232345
+    34565430
+    13524351
+    23453210]
+RTM[xxx  x_.xxx  x_.
+    xxx  x_x_x_  x_x
+    xxx  x_.xxx  x_.
+    xxx  x_x_x_  x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,39 @@
+BALLADEN
+CUT[Das Traenenkrueglein
+    Es kam von einer Neustadt her]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Glogau, Biegnitz
+    und Kr. Goldberg - Haynau, Konradsdorf]
+TRD[5, S. 329
+    1845 aufgezeichnet]
+FKT[]
+SIG[Q0122A]
+KEY[Q0122A  16  G 3/4]
+MEL[-5_  1_-5_1__5__  4_2_1__0_
+    1_  -7_1_2__5__  5_4#_5__0_
+    3_  4_5_6__.5_  4_2_5__.
+    4_  3_2_1_2_3__  3_.21__0_
+    3_  4_5_6__.5_  4_2_5__.
+    4_  3_2_1_2_3__  3_.21__0_ //]
+BEM[]
+MEL_SEM[5 -5 5 7 -2 -3 -2 0 -1 1 2 5 0 -1 1 -3 1 2 2 -2 -2 -3 5 -2 -1 -2 -2 2 2 0 -2 -2 4 1 2 2 -2 -2 -3 5 -2 -1 -2 -2 2 2 0 -2 -2]
+MEL_RAW[-5  1-515  4210
+    1  -7125  54#50
+    3  4565  425
+    4  32123  3210
+    3  4565  425
+    4  32123  3210]
+NO_REP[-51-5154210
+    1-71254#50
+    34565425
+    432123210
+    34565425
+    432123210]
+RTM[x_  x_x_x__x__  x_x_x__x_
+    x_  x_x_x__x__  x_x_x__x_
+    x_  x_x_x__.x_  x_x_x__.
+    x_  x_x_x_x_x__  x_.xx__x_
+    x_  x_x_x__.x_  x_x_x__.
+    x_  x_x_x_x_x__  x_.xx__x_]
+SCL_DEG[-5-712344#56]
+SCL_SEM[4 1 2 2 1 1 1 2]
+

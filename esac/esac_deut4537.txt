@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[ES WOLLT EIN MAEDEL WOHL FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[Z0035]
+KEY[Z0035   16  G 2/4]
+MEL[-5__  1_1_1251  2_-7_-5_
+    -5_  1_1_1232  2__0_
+    12  3_1_1_3_  4_3_2__
+    -7_2_-54_4  3_2_1_
+    -5_  3_3_2_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 0 2 5 -7 2 -3 -4 0 5 0 0 2 2 -2 0 -2 2 2 -4 0 4 1 -1 -2 -3 3 -7 10 0 -1 -2 -2 -5 9 0 -2 0 -2]
+MEL_RAW[-5  111251  2-7-5
+    -5  111232  20
+    12  3113  432
+    -72-544  321
+    -5  3322  1]
+NO_REP[-512512-7-5
+    -512320
+    12313432
+    -72-54321
+    -5321]
+RTM[x__  x_x_xxxx  x_x_x_
+    x_  x_x_xxxx  x__x_
+    xx  x_x_x_x_  x_x_x__
+    x_x_xx_x  x_x_x_
+    x_  x_x_x_x_  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

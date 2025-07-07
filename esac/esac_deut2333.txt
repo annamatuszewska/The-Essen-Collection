@@ -1,0 +1,44 @@
+BOEHME
+CUT[ALS JUENGSTENS HERR MERCURIUS IM HIMMEL REFERIRTE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[B0085]
+KEY[B0085   08  G 2/4]
+MEL[-5  1122  334
+    4  312-7  110
+    -5  1122  334
+    4  312-7  110
+    1  2222  311
+    3  2222  311
+    -5  1122  330
+    4  312-5  110 //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 1 0 -1 -4 2 -3 1 0 -5 5 0 2 0 2 0 1 0 -1 -4 2 -3 1 0 0 2 0 0 0 2 -4 0 4 -2 0 0 0 2 -4 0 -5 5 0 2 0 2 0 1 -1 -4 2 -7 5 0]
+MEL_RAW[-5  1122  334
+    4  312-7  110
+    -5  1122  334
+    4  312-7  110
+    1  2222  311
+    3  2222  311
+    -5  1122  330
+    4  312-5  110]
+NO_REP[-51234
+    4312-710
+    -51234
+    4312-710
+    1231
+    3231
+    -51230
+    4312-510]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

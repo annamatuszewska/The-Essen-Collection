@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Doa toog sech 'ne Markgraf wal oever den Rhin,]
+REG[Mitteleuropa, Deutschland (BRD) , Niederrhein, Niederkruechten]
+TRD[4, S. 73
+    1890 aufgezeichnet]
+FKT[]
+SIG[Q0075C]
+KEY[Q0075C  08  F 4/4]
+MEL[-5_  4_332_22  332_1_
+    1_  2_231_-7-6  6_6_5_
+    -5_  1_1_2_22  3_2_1_ //]
+BEM[]
+MEL_SEM[10 -1 0 -2 0 0 2 0 -2 -2 0 2 0 2 -4 -1 -2 12 0 -2 -12 5 0 2 0 0 2 -2 -2]
+MEL_RAW[-5  433222  3321
+    1  2231-7-6  665
+    -5  11222  321]
+NO_REP[-5432321
+    1231-7-65
+    -512321]
+RTM[x_  x_xxx_xx  xxx_x_
+    x_  x_xxx_xx  x_x_x_
+    x_  x_x_x_xx  x_x_x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

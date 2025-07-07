@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die zwei armen Waislein
+    O Herr, wir sagen dir lob vnd danck]
+REG[Mitteleuropa, Deutschland]
+TRD[5, S. 307
+    1567 gedruckt]
+FKT[]
+SIG[Q1117C]
+KEY[Q1117C  08  G FREI]
+MEL[1___1__2__-7b_1_2__3b__2__1__0_
+    1_3b__2_3b_4__3b_212__1___ //]
+BEM[]
+MEL_SEM[0 2 -4 2 2 1 -1 -2 0 3 -1 1 2 -2 -1 -2 2 -2]
+MEL_RAW[112-7b123b210
+    13b23b43b2121]
+NO_REP[12-7b123b210
+    13b23b43b2121]
+RTM[x___x__x__x_x_x__x__x__x__x_
+    x_x__x_x_x__x_xxx__x___]
+SCL_DEG[-7b123b4]
+SCL_SEM[2 2 1 2]
+

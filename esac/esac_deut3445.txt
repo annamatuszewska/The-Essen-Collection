@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die Rabenmutter
+    Es trieb ein Schaefer oben ein,]
+REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Mittel - Franken]
+TRD[5, S. 269
+    ????]
+FKT[]
+SIG[Q0114O]
+KEY[Q0114O  08  G FREI]
+MEL[-5  1-51_3_  5_432_0
+    5  +153_6_  5_243_. //]
+BEM[]
+MEL_SEM[5 -5 5 4 3 -2 -1 -2 5 5 -5 -3 5 -2 -5 3 -1]
+MEL_RAW[-5  1-513  54320
+    5  +1536  5243]
+NO_REP[-51-51354320
+    5+15365243]
+RTM[x  xxx_x_  x_xxx_x
+    x  xxx_x_  x_xxx_.]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Weisen. 
+    ES FUHREN DREI KOENIGE AUS MORGENLAND]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1099]
+KEY[Z1099   08  E 3/4]
+MEL[-7b_  3b_.42_  3b_.45_  4_3b_2_  3b__
+    -7b_  3b_.42_  3b_.45_  4_3b_2_  3b__
+    3b2  1__2_  3b__2_  1__-7_  1__
+    21  -7b__2_  3b__2_  1__-7_  1__ //]
+BEM[]
+MEL_SEM[5 2 -3 1 2 2 -2 -2 -1 1 -5 5 2 -3 1 2 2 -2 -2 -1 1 0 -1 -2 2 1 -1 -2 -1 1 2 -2 -2 4 1 -1 -2 -1 1]
+MEL_RAW[-7b  3b42  3b45  43b2  3b
+    -7b  3b42  3b45  43b2  3b
+    3b2  12  3b2  1-7  1
+    21  -7b2  3b2  1-7  1]
+NO_REP[-7b3b423b4543b23b
+    -7b3b423b4543b23b
+    3b2123b21-71
+    21-7b23b21-71]
+RTM[x_  x_.xx_  x_.xx_  x_x_x_  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__
+    xx  x__x_  x__x_  x__x_  x__
+    xx  x__x_  x__x_  x__x_  x__]
+SCL_DEG[-7b-7123b45]
+SCL_SEM[1 1 2 1 2 2]
+

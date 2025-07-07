@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Mordeltern
+    Es warn einmal zwei Bauernsoehn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[4, S. 310
+    ????]
+FKT[]
+SIG[Q0085S]
+KEY[Q0085S  16  G 3/4]
+MEL[-5_-5_1_  1__3__-7_1_  2__.
+    -5_-5_-7_  2__4_4_3_.4  5_.
+    55_3_4_6_  5__2__
+    5__  4_3_4__5__  6___5__  1__. //]
+BEM[]
+MEL_SEM[0 5 0 4 -5 1 2 -7 0 4 3 3 0 -1 1 2 0 0 -3 1 4 -2 -5 5 -2 -1 1 2 2 -2 -7]
+MEL_RAW[-5-51  13-71  2
+    -5-5-7  24434  5
+    55346  52
+    5  4345  65  1]
+NO_REP[-513-712
+    -5-724345
+    534652
+    54345651]
+RTM[x_x_x_  x__x__x_x_  x__.
+    x_x_x_  x__x_x_x_.x  x_.
+    xx_x_x_x_  x__x__
+    x__  x_x_x__x__  x___x__  x__.]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

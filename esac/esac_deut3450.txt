@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Rabenmutter
+    ohne Text]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[5, S. 270
+    1939 gedruckt in Kassel]
+FKT[]
+SIG[Q0114U]
+KEY[Q0114U  08  G FREI]
+MEL[-5-51  1_3_11  2_.
+    1-71  2_5432  1
+    -71-7  -6_5432  1_. //]
+BEM[]
+MEL_SEM[0 5 0 4 -4 0 2 -2 -1 1 2 5 -2 -1 -2 -2 -1 1 -1 -2 10 -2 -1 -2 -2]
+MEL_RAW[-5-51  1311  2
+    1-71  25432  1
+    -71-7  -65432  1]
+NO_REP[-51312
+    1-71254321
+    -71-7-654321]
+RTM[xxx  x_x_xx  x_.
+    xxx  x_xxxx  x
+    xxx  x_xxxx  x_.]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[NACHTIGALL ICH HOER DICH SINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0282]
+KEY[Z0282   08  F 4/4]
+MEL[-5_-5_  1_3_3_21  2_-5_
+    -5_-5_  2_4_4_32  3_1_
+    -5_-5_  1_3_3_21  2__
+    4_4_  3_421_-7_  1__ //]
+BEM[]
+MEL_SEM[0 5 4 0 -2 -2 2 -7 0 0 7 3 0 -1 -2 2 -4 -5 0 5 4 0 -2 -2 2 3 0 -1 1 -3 -2 -1 1]
+MEL_RAW[-5-5  13321  2-5
+    -5-5  24432  31
+    -5-5  13321  2
+    44  3421-7  1]
+NO_REP[-513212-5
+    -5243231
+    -513212
+    43421-71]
+RTM[x_x_  x_x_x_xx  x_x_
+    x_x_  x_x_x_xx  x_x_
+    x_x_  x_x_x_xx  x__
+    x_x_  x_xxx_x_  x__]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

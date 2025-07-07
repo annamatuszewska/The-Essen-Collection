@@ -1,0 +1,48 @@
+ZUCCAL
+CUT[FALSCHES HALLE GUTE NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Halle]
+TRD[]
+FKT[]
+SIG[Z0272]
+KEY[Z0272   04  F 4/4]
+MEL[5_4_  3b_2_
+    56b54  3b45_
+    123b4  5_-7_  1__
+    5457b  6b543b
+    43b46b  543b2
+    5_4_  3b_2_
+    56b54  3b45_
+    123b4  5_-7_  1__
+    123b4  5_-7_  1__ //]
+BEM[]
+MEL_SEM[-2 -2 -1 5 1 -1 -2 -2 2 2 -7 2 1 2 2 -8 1 7 -2 2 3 -2 -1 -2 -2 2 -2 2 3 -1 -2 -2 -1 5 -2 -2 -1 5 1 -1 -2 -2 2 2 -7 2 1 2 2 -8 1 0 2 1 2 2 -8 1]
+MEL_RAW[54  3b2
+    56b54  3b45
+    123b4  5-7  1
+    5457b  6b543b
+    43b46b  543b2
+    54  3b2
+    56b54  3b45
+    123b4  5-7  1
+    123b4  5-7  1]
+NO_REP[543b2
+    56b543b45
+    123b45-71
+    5457b6b543b
+    43b46b543b2
+    543b2
+    56b543b45
+    123b45-71
+    123b45-71]
+RTM[x_x_  x_x_
+    xxxx  xxx_
+    xxxx  x_x_  x__
+    xxxx  xxxx
+    xxxx  xxxx
+    x_x_  x_x_
+    xxxx  xxx_
+    xxxx  x_x_  x__
+    xxxx  x_x_  x__]
+SCL_DEG[-7123b456b7b]
+SCL_SEM[1 2 1 2 2 1 2]
+

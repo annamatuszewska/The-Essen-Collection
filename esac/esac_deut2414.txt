@@ -1,0 +1,28 @@
+BOEHME
+CUT[WALDESLUST WALDESLUST O WIE EINSAM]
+REG[Europa, Mitteleuropa, Deutschland, Hunsrueck; Kreis Wetzlar]
+TRD[]
+FKT[]
+SIG[B0175]
+KEY[B0175   16 Eb 3/4]
+MEL[5_.43__0__  5_.43__0__
+    5_+1_7__.6_  6_.55_
+    +1_+2_+1_  +1_.77_+1_7_6_  6_.55_
+    5_6_5_  5_.44_6_5_4_  3__0___ //]
+BEM[]
+MEL_SEM[-2 -1 3 -2 -1 3 5 -1 -2 0 -2 0 5 2 -2 0 -1 0 1 -1 -2 0 -2 0 0 2 -2 0 -2 0 4 -2 -2 -1]
+MEL_RAW[5430  5430
+    5+176  655
+    +1+2+1  +177+176  655
+    565  544654  30]
+NO_REP[54305430
+    5+1765
+    +1+2+17+1765
+    565465430]
+RTM[x_.xx__x__  x_.xx__x__
+    x_x_x__.x_  x_.xx_
+    x_x_x_  x_.xx_x_x_x_  x_.xx_
+    x_x_x_  x_.xx_x_x_x_  x__x___]
+SCL_DEG[34567+1+2]
+SCL_SEM[1 2 2 2 1 2]
+

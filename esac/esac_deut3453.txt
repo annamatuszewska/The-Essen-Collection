@@ -1,0 +1,39 @@
+BALLADEN
+CUT[Das hungernde Kind
+    'Mutter, ach Mutter, es hungert mich,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
+    Weiler]
+TRD[5, S. 273
+    1928 aufgezeichnet]
+FKT[]
+SIG[Q0115]
+KEY[Q0115   08  G 4/4]
+MEL[333_555_  4_2_2__
+    4_4_3_2_  1_-6_-5__
+    -5_1_1_-6_  -7_1_2__
+    4_4_331_  22-7_1__
+    -5_1_1_1_  -7_2_2__
+    3_3_5_5_  4_-7_1__ //]
+BEM[]
+MEL_SEM[0 0 3 0 0 -2 -3 0 3 0 -1 -2 -2 -3 -2 0 5 0 -3 2 1 2 3 0 -1 0 -4 2 0 -3 1 -5 5 0 0 -1 3 0 2 0 3 0 -2 -6 1]
+MEL_RAW[333555  422
+    4432  1-6-5
+    -511-6  -712
+    44331  22-71
+    -5111  -722
+    3355  4-71]
+NO_REP[3542
+    4321-6-5
+    -51-6-712
+    4312-71
+    -51-72
+    354-71]
+RTM[xxx_xxx_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x_x_xxx_  xxx_x__
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

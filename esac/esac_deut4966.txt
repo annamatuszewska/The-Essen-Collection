@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Zum Abschied
+    NUN LEB WOHL, MEIN FEINES LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1152]
+KEY[Z1152   08 Bb 4/4]
+MEL[-5_1_  3_3_2_32  1_-5_
+    3_4_  5_5_4_54  3_0_
+    6_6_  6_0_5_5_  5_0_
+    3_.5  54321_32  1_0_ //]
+BEM[]
+MEL_SEM[5 4 0 -2 2 -2 -2 -5 9 1 2 0 -2 2 -2 -1 5 0 0 -2 0 0 -3 3 0 -2 -1 -2 -2 4 -2 -2]
+MEL_RAW[-51  33232  1-5
+    34  55454  30
+    66  6055  50
+    35  5432132  10]
+NO_REP[-5132321-5
+    34545430
+    6050
+    3543213210]
+RTM[x_x_  x_x_x_xx  x_x_
+    x_x_  x_x_x_xx  x_x_
+    x_x_  x_x_x_x_  x_x_
+    x_.x  xxxxx_xx  x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

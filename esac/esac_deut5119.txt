@@ -1,0 +1,45 @@
+ZUCCAL
+CUT[Lied der Geisselbrueder
+    ES GING SICH UNSRE FRAUE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1382]
+KEY[Z1382   16  A 2/4]
+MEL[-5_  1_-7_1_2_  3b_1_2_0
+    -5  1_-7b_-7b-6b-5_  -5-4-3b_0_
+    -5_  1_-7_1_2_  3b_1_2_0
+    -5  1_-7b_-7b-6b-5_  -5-4-3b_0_
+    22  3b542-7b_.1  1-71_2_
+    -5_  1_2_3b_2_  1__2_
+    2_  3b542-7b_1_  1-71_2_
+    -5_  1-7123b213b  2__1_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 1 -3 2 -7 5 -2 0 -2 -1 0 -2 -2 4 5 -1 1 2 1 -3 2 -7 5 -2 0 -2 -1 0 -2 -2 11 0 1 4 -2 -3 -4 2 0 -1 1 2 -7 5 2 1 -1 -2 2 0 1 4 -2 -3 -4 2 0 -1 1 2 -7 5 -1 1 2 1 -1 -2 3 -1 -2]
+MEL_RAW[-5  1-712  3b120
+    -5  1-7b-7b-6b-5  -5-4-3b0
+    -5  1-712  3b120
+    -5  1-7b-7b-6b-5  -5-4-3b0
+    22  3b542-7b1  1-712
+    -5  123b2  12
+    2  3b542-7b1  1-712
+    -5  1-7123b213b  21]
+NO_REP[-51-7123b120
+    -51-7b-6b-5-4-3b0
+    -51-7123b120
+    -51-7b-6b-5-4-3b0
+    23b542-7b1-712
+    -5123b212
+    23b542-7b1-712
+    -51-7123b213b21]
+RTM[x_  x_x_x_x_  x_x_x_x
+    x  x_x_xxx_  xxx_x_
+    x_  x_x_x_x_  x_x_x_x
+    x  x_x_xxx_  xxx_x_
+    xx  xxxxx_.x  xxx_x_
+    x_  x_x_x_x_  x__x_
+    x_  xxxxx_x_  xxx_x_
+    x_  xxxxxxxx  x__x_]
+SCL_DEG[-3b-4-5-6b-7b-7123b45]
+SCL_SEM[2 2 1 2 1 1 2 1 2 2]
+

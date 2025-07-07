@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Der betruegerische Freier
+    Stolz Heinrich wollte freien gehn]
+REG[Mitteleuropa, Deutschland]
+TRD[2, S. 136
+    1854 aufgezeichnet (ca.)]
+FKT[]
+SIG[Q0042G]
+KEY[Q0042G  16 Bb 2/4]
+MEL[-5_  3_3_2_2_  1_1_-5_
+    -5_  -6_-6_1_-6_  -5__0_
+    -5-4  -3_-5_1_2_  3_.21_
+    -7_  -6_2_3_4_  5_.43_
+    2_  1_1_1-7-6-7  1__0_ //]
+BEM[]
+MEL_SEM[9 0 -2 0 -2 0 -5 0 2 0 3 -3 -2 0 -2 -1 3 5 2 2 -2 -2 -1 -2 5 2 1 2 -2 -1 -2 -2 0 0 -1 -2 2 1]
+MEL_RAW[-5  3322  11-5
+    -5  -6-61-6  -50
+    -5-4  -3-512  321
+    -7  -6234  543
+    2  111-7-6-7  10]
+NO_REP[-5321-5
+    -5-61-6-50
+    -5-4-3-512321
+    -7-6234543
+    21-7-6-710]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_xxxx  x__x_]
+SCL_DEG[-3-4-5-6-712345]
+SCL_SEM[1 2 2 2 1 2 2 1 2]
+

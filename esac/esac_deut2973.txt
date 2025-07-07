@@ -1,0 +1,44 @@
+BOEHME
+CUT[EINE HAND VOLL ERDE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0778]
+KEY[B0778   08  F 2/4]
+MEL[3344  5_30
+    4433  3_20
+    3344  5_30
+    55-7-7  2_10
+    3344  5_30
+    4433  3_20
+    3344  5+1_6
+    55-7-7  2_10 //]
+BEM[]
+MEL_SEM[0 1 0 2 -3 1 0 -1 0 0 -2 2 0 1 0 2 -3 3 0 -8 0 3 -2 4 0 1 0 2 -3 1 0 -1 0 0 -2 2 0 1 0 2 5 -3 -2 0 -8 0 3 -2]
+MEL_RAW[3344  530
+    4433  320
+    3344  530
+    55-7-7  210
+    3344  530
+    4433  320
+    3344  5+16
+    55-7-7  210]
+NO_REP[34530
+    4320
+    34530
+    5-7210
+    34530
+    4320
+    345+16
+    5-7210]
+RTM[xxxx  x_xx
+    xxxx  x_xx
+    xxxx  x_xx
+    xxxx  x_xx
+    xxxx  x_xx
+    xxxx  x_xx
+    xxxx  xx_x
+    xxxx  x_xx]
+SCL_DEG[-7123456+1]
+SCL_SEM[1 2 2 1 2 2 3]
+

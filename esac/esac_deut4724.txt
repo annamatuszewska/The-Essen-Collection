@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ICH WASS WOHL, WENN'S GUT WANDERN IS]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0225]
+KEY[Z0225   08  F 2/4]
+MEL[1  1335  566_
+    5443  355_
+    3554  433_
+    3554  4_3_  3_0 //]
+BEM[]
+MEL_SEM[0 4 0 3 0 2 0 -2 -2 0 -1 0 3 0 -3 3 0 -2 0 -1 0 0 3 0 -2 0 -1 0]
+MEL_RAW[1  1335  566
+    5443  355
+    3554  433
+    3554  43  30]
+NO_REP[1356
+    5435
+    3543
+    35430]
+RTM[x  xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  x_x_  x_x]
+SCL_DEG[13456]
+SCL_SEM[4 1 2 2]
+

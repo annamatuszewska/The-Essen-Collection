@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[EY DU EDLER TANNENBAUM, DU BIST A  EDLER ZWEIG]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0139]
+KEY[Z0139   08  G 3/4]
+MEL[113b_1_  225_
+    5_  443b_1_  -7b_0_
+    -7b1  113b_1_  2_5_
+    5_  3b13b21-7  1__0_ //]
+BEM[]
+MEL_SEM[0 3 -3 2 0 5 0 -2 0 -2 -3 -2 0 2 0 0 3 -3 2 5 0 -4 -3 3 -1 -2 -1 1]
+MEL_RAW[113b1  225
+    5  443b1  -7b0
+    -7b1  113b1  25
+    5  3b13b21-7  10]
+NO_REP[13b125
+    543b1-7b0
+    -7b13b125
+    53b13b21-710]
+RTM[xxx_x_  xxx_
+    x_  xxx_x_  x_x_
+    xx  xxx_x_  x_x_
+    x_  xxxxxx  x__x_]
+SCL_DEG[-7b-7123b45]
+SCL_SEM[1 1 2 1 2 2]
+

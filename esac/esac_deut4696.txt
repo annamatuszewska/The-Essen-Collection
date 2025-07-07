@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES WOLLT EIN JAEGER JAGEN EIN HIRSCHLEIN ODER EIN REH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0197]
+KEY[Z0197   16  G 6/8]
+MEL[-5_  1__2_3__1_  5__.^__
+    4_  3_.21_-7__1_  2__.0__
+    1_  5__5_3__1_  +1__.5__
+    4_  3_.21_2_.1-7_  1__.0__ //]
+BEM[]
+MEL_SEM[5 2 2 -4 7 -2 -1 -2 -2 -1 1 2 -2 7 0 -3 -4 12 -5 -2 -1 -2 -2 2 -2 -1 1]
+MEL_RAW[-5  1231  5^
+    4  321-71  20
+    1  5531  +15
+    4  32121-7  10]
+NO_REP[-512315^
+    4321-7120
+    1531+15
+    432121-710]
+RTM[x_  x__x_x__x_  x__.x__
+    x_  x_.xx_x__x_  x__.x__
+    x_  x__x_x__x_  x__.x__
+    x_  x_.xx_x_.xx_  x__.x__]
+SCL_DEG[-5-712345+1]
+SCL_SEM[4 1 2 2 1 2 5]
+

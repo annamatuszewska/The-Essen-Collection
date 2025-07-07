@@ -1,0 +1,31 @@
+BALLADEN
+CUT[Der schwatzhafte Junggeselle
+    Es sassen unser viere]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Oberwesterwald,
+    Stein - Neukirch]
+TRD[6, S. 275
+    1906 aufgezeichnet (1905/06)]
+FKT[]
+SIG[Q0139F]
+KEY[Q0139F  16  G 4/4]
+MEL[-5__  1__-7_-6_-5__1__  2__1__0__
+    -5__  1__-7_-6_-5__1__  2__1__0__
+    3__  3_.33_.33_.20_3_  3_.35_.32__0_
+    1_  -7_.22_2_2_.54__  3_.32_.21__ //]
+BEM[]
+MEL_SEM[5 -1 -2 -2 5 2 -2 -5 5 -1 -2 -2 5 2 -2 4 0 0 0 0 0 -2 2 0 0 3 -3 -2 -2 -1 3 0 0 0 5 -2 -1 0 -2 0 -2]
+MEL_RAW[-5  1-7-6-51  210
+    -5  1-7-6-51  210
+    3  33333203  335320
+    1  -7222254  33221]
+NO_REP[-51-7-6-51210
+    -51-7-6-51210
+    32035320
+    1-7254321]
+RTM[x__  x__x_x_x__x__  x__x__x__
+    x__  x__x_x_x__x__  x__x__x__
+    x__  x_.xx_.xx_.xx_x_  x_.xx_.xx__x_
+    x_  x_.xx_x_x_.xx__  x_.xx_.xx__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

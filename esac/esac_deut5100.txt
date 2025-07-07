@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Ammen - Uhr
+    DER MOND DER SCHEINT DAS KINDLEIN WEINT]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1358]
+KEY[Z1358   08  A 6/8]
+MEL[5  5_33_1  2321_
+    5  5_33_1  2321_
+    3  2_44_2  1355_
+    3  2_44_2  1321_ //]
+BEM[]
+MEL_SEM[0 -3 0 -4 2 2 -2 -2 7 0 -3 0 -4 2 2 -2 -2 4 -2 3 0 -3 -2 4 3 0 -3 -2 3 0 -3 -2 4 -2 -2]
+MEL_RAW[5  5331  2321
+    5  5331  2321
+    3  2442  1355
+    3  2442  1321]
+NO_REP[5312321
+    5312321
+    3242135
+    32421321]
+RTM[x  x_xx_x  xxxx_
+    x  x_xx_x  xxxx_
+    x  x_xx_x  xxxx_
+    x  x_xx_x  xxxx_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

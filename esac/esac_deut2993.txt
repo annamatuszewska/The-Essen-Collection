@@ -1,0 +1,66 @@
+BALLADEN
+CUT[Herzog Ernst
+    Die Schrifft die gibt uns weis und Lehr,]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 86
+    1646 Handschrift Kloster Seeon]
+FKT[]
+SIG[Q0010A]
+KEY[Q0010A  04  E FREI]
+MEL[143b456b54_0
+    6b6b6b56b7b6b5_0
+    43b455110_.
+    143b456b54_0
+    6b6b6b56b7b6b5_0
+    43b455110_.
+    -6b-7b12b2b3b43b_0
+    3b3b2b11-6b-6b0_.
+    3b3b3b3b1454_0
+    4543b3b110_.
+    112b3b43b1-6b_0
+    -6b3b4546b43b_0
+    1453b1-6b-7b1__ //]
+BEM[]
+MEL_SEM[5 -2 2 2 1 -1 -2 3 0 0 -1 1 2 -2 -1 -2 -2 2 2 0 -7 0 0 5 -2 2 2 1 -1 -2 3 0 0 -1 1 2 -2 -1 -2 -2 2 2 0 -7 0 -4 2 2 1 0 2 2 -2 0 0 -2 -1 0 -4 0 7 0 0 0 -3 5 2 -2 0 2 -2 -2 0 -3 0 0 0 1 2 2 -2 -3 -4 0 7 2 2 -2 3 -3 -2 -3 5 2 -4 -3 -4 2 2]
+MEL_RAW[143b456b540
+    6b6b6b56b7b6b50
+    43b455110
+    143b456b540
+    6b6b6b56b7b6b50
+    43b455110
+    -6b-7b12b2b3b43b0
+    3b3b2b11-6b-6b0
+    3b3b3b3b14540
+    4543b3b110
+    112b3b43b1-6b0
+    -6b3b4546b43b0
+    1453b1-6b-7b1]
+NO_REP[143b456b540
+    6b56b7b6b50
+    43b4510
+    143b456b540
+    6b56b7b6b50
+    43b4510
+    -6b-7b12b3b43b0
+    3b2b1-6b0
+    3b14540
+    4543b10
+    12b3b43b1-6b0
+    -6b3b4546b43b0
+    1453b1-6b-7b1]
+RTM[xxxxxxxx_x
+    xxxxxxxx_x
+    xxxxxxxx_.
+    xxxxxxxx_x
+    xxxxxxxx_x
+    xxxxxxxx_.
+    xxxxxxxx_x
+    xxxxxxxx_.
+    xxxxxxxx_x
+    xxxxxxxx_.
+    xxxxxxxx_x
+    xxxxxxxx_x
+    xxxxxxxx__]
+SCL_DEG[-6b-7b12b3b456b7b]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

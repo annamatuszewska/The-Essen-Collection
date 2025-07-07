@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[ES WOLLT EIN MAEDCHEN BRECHEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0071]
+KEY[Z0071   08  F 2/4]
+MEL[-5  1111  311
+    1  5111  2_1
+    -5  1111  311
+    1  5111  2_1
+    1  4444  644
+    4  4222  5_-5
+    -5  1111  311
+    1  +1111  2_1 //]
+BEM[]
+MEL_SEM[5 0 0 0 4 -4 0 0 7 -7 0 0 2 -2 -5 5 0 0 0 4 -4 0 0 7 -7 0 0 2 -2 0 5 0 0 0 4 -4 0 0 0 -3 0 0 5 -12 0 5 0 0 0 4 -4 0 0 12 -12 0 0 2 -2]
+MEL_RAW[-5  1111  311
+    1  5111  21
+    -5  1111  311
+    1  5111  21
+    1  4444  644
+    4  4222  5-5
+    -5  1111  311
+    1  +1111  21]
+NO_REP[-5131
+    15121
+    -5131
+    15121
+    1464
+    425-5
+    -5131
+    1+121]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

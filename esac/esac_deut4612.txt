@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[AUF GEBET UNS DAS PFINGSTEI]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0112]
+KEY[Z0112   08  G 2/4]
+MEL[-5  123b4  5_4_
+    7b_65  64#5
+    6b  543b2  3b21_
+    1_1-7  123b_
+    543b2  3b21 //]
+BEM[]
+MEL_SEM[5 2 1 2 2 -2 5 -1 -2 2 -3 1 1 -1 -2 -2 -1 1 -1 -2 0 0 -1 1 2 1 4 -2 -2 -1 1 -1 -2]
+MEL_RAW[-5  123b4  54
+    7b65  64#5
+    6b  543b2  3b21
+    11-7  123b
+    543b2  3b21]
+NO_REP[-5123b454
+    7b6564#5
+    6b543b23b21
+    1-7123b
+    543b23b21]
+RTM[x  xxxx  x_x_
+    x_xx  xxx
+    x  xxxx  xxx_
+    x_xx  xxx_
+    xxxx  xxx]
+SCL_DEG[-5-7123b44#56b67b]
+SCL_SEM[4 1 2 1 2 1 1 1 1 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Rheinbraut
+    Es freit' ein Herr so reiche,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Salzwedel, Lagendorf]
+TRD[2, S. 170
+    185? aufgezeichnet (1850er Jahre)]
+FKT[]
+SIG[Q0047A]
+KEY[Q0047A  16  G 6/8]
+MEL[-5_  1__1_1_-7_1_  3_2_0__.
+    -5_  1__1_1_-7_1_  3_2_0__.
+    1_  5__2_4_3_2_  1__322__
+    2_  1__1_4_3_2_  1_3_2_1__ //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 4 -2 -7 5 0 0 -1 1 4 -2 -2 7 -5 3 -1 -2 -2 4 -2 0 0 -2 0 5 -1 -2 -2 4 -2 -2]
+MEL_RAW[-5  111-71  320
+    -5  111-71  320
+    1  52432  1322
+    2  11432  1321]
+NO_REP[-51-71320
+    -51-71320
+    152432132
+    214321321]
+RTM[x_  x__x_x_x_x_  x_x_x__.
+    x_  x__x_x_x_x_  x_x_x__.
+    x_  x__x_x_x_x_  x__xxx__
+    x_  x__x_x_x_x_  x_x_x_x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

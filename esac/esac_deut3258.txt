@@ -1,0 +1,31 @@
+BALLADEN
+CUT[Das Schwabentoechterlein
+    Ein Maedchen taet wohl immer sag'n:]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Kr. Pr. - Eylau,
+    Paroesken]
+TRD[4, S. 41
+    1933 aufgezeichnet]
+FKT[]
+SIG[Q0073A]
+KEY[Q0073A  08  C 3/4]
+MEL[1_  321_5_  54#5_
+    5_  +17+1_+2_  +176_
+    5_  +17+1_3_  465_
+    4_  315_3_  2_1_ //]
+BEM[]
+MEL_SEM[4 -2 -2 7 0 -1 1 0 5 -1 1 2 -2 -1 -2 -2 5 -1 1 -8 1 4 -2 -2 -1 -4 7 -3 -2 -2]
+MEL_RAW[1  3215  54#5
+    5  +17+1+2  +176
+    5  +17+13  465
+    4  3153  21]
+NO_REP[132154#5
+    5+17+1+2+176
+    5+17+13465
+    4315321]
+RTM[x_  xxx_x_  xxx_
+    x_  xxx_x_  xxx_
+    x_  xxx_x_  xxx_
+    x_  xxx_x_  x_x_]
+SCL_DEG[12344#567+1+2]
+SCL_SEM[2 2 1 1 1 2 2 1 2]
+

@@ -1,0 +1,28 @@
+ZUCCAL
+CUT['SASS A NAEHTERIN UND SIE NAEHT]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0040]
+KEY[Z0040   16  G 2/4]
+MEL[1_1_111_  4__2__  3b__0__
+    4_5_6b6b5_  4_4_4_
+    -7b_  1_2_3b_5_  2_.2-7b__  1__0_
+    5_  4_.4-7b__  1__0__ //]
+BEM[]
+MEL_SEM[0 0 0 0 5 -3 1 2 2 1 0 -1 -2 0 0 -7 2 2 1 4 -5 0 -4 2 7 -2 0 -7 2]
+MEL_RAW[11111  42  3b0
+    456b6b5  444
+    -7b  123b5  22-7b  10
+    5  44-7b  10]
+NO_REP[1423b0
+    456b54
+    -7b123b52-7b10
+    54-7b10]
+RTM[x_x_xxx_  x__x__  x__x__
+    x_x_xxx_  x_x_x_
+    x_  x_x_x_x_  x_.xx__  x__x_
+    x_  x_.xx__  x__x__]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

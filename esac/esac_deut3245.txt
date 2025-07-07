@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es reiset aus ein Herre,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Weiler]
+TRD[4, S. 3
+    1928 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0072B]
+KEY[Q0072B  08  F 3/4]
+MEL[-5_  1__1_  2__3_  4__.  1__
+    5_  6__5_  4_2_3_  4_3_2_  2__
+    34  5__32  1__1_  2_1_-7_  1__
+    1_  4_5_6_  5_5_23  4_3_2_  1__
+    34  5__32  1__1_  2_1_-7_  1__
+    1_  4_5_6_  5_5_23  4_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 2 1 -5 7 2 -2 -2 -3 2 1 -1 -2 0 2 1 2 -3 -2 -2 0 2 -2 -1 1 0 5 2 2 -2 0 -5 2 1 -1 -2 -2 4 1 2 -3 -2 -2 0 2 -2 -1 1 0 5 2 2 -2 0 -5 2 1 -1 -2 -2]
+MEL_RAW[-5  11  23  4  1
+    5  65  423  432  2
+    34  532  11  21-7  1
+    1  456  5523  432  1
+    34  532  11  21-7  1
+    1  456  5523  432  1]
+NO_REP[-512341
+    565423432
+    34532121-71
+    14565234321
+    34532121-71
+    14565234321]
+RTM[x_  x__x_  x__x_  x__.  x__
+    x_  x__x_  x_x_x_  x_x_x_  x__
+    xx  x__xx  x__x_  x_x_x_  x__
+    x_  x_x_x_  x_x_xx  x_x_x_  x__
+    xx  x__xx  x__x_  x_x_x_  x__
+    x_  x_x_x_  x_x_xx  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

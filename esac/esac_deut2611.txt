@@ -1,0 +1,28 @@
+BOEHME
+CUT[KLEINE BLUMEN KLEINE BLAETTER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0404A]
+KEY[B0404A  08  G 3/4]
+MEL[135531  1-7-7_0_
+    -544454  4_3_0_
+    1667+16  655_0_
+    45654-7  2_1_0_ //]
+BEM[]
+MEL_SEM[4 3 0 -3 -4 0 -1 0 -4 10 0 0 2 -2 0 -1 -4 9 0 2 1 -3 0 -2 0 -2 2 2 -2 -2 -6 3 -2]
+MEL_RAW[135531  1-7-70
+    -544454  430
+    1667+16  6550
+    45654-7  210]
+NO_REP[13531-70
+    -545430
+    167+1650
+    45654-7210]
+RTM[xxxxxx  xxx_x_
+    xxxxxx  x_x_x_
+    xxxxxx  xxx_x_
+    xxxxxx  x_x_x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

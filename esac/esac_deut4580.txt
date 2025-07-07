@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES STEHT EIN BAUM IM GRUENEN THAL]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[Z0078]
+KEY[Z0078   08  D 4/4]
+MEL[5  5_.53_1_  2_2_2_0
+    5  5_.53_1_  2__.0
+    +2  +2_.+27_5_  +1_+1_+1_0
+    +1  +2_.+27_5_  +1__.0 //]
+BEM[]
+MEL_SEM[0 0 -3 -4 2 0 0 5 0 0 -3 -4 2 12 0 0 -3 -4 5 0 0 0 2 0 -3 -4 5]
+MEL_RAW[5  5531  2220
+    5  5531  20
+    +2  +2+275  +1+1+10
+    +1  +2+275  +10]
+NO_REP[53120
+    53120
+    +275+10
+    +1+275+10]
+RTM[x  x_.xx_x_  x_x_x_x
+    x  x_.xx_x_  x__.x
+    x  x_.xx_x_  x_x_x_x
+    x  x_.xx_x_  x__.x]
+SCL_DEG[12357+1+2]
+SCL_SEM[2 2 3 4 1 2]
+

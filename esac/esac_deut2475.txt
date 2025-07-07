@@ -1,0 +1,28 @@
+BOEHME
+CUT[VERGANGEN IST DER LICHTE TAG]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0245]
+KEY[B0245   08  C 6/8]
+MEL[5  1_23b_4  5_55_
+    5  6b_543b4  5_43b_
+    3b  5_5+1_7b  7b_53b_
+    3b  6b545_3b  23b21_ //]
+BEM[]
+MEL_SEM[-7 2 1 2 2 0 0 0 1 -1 -2 -2 2 2 -2 -2 0 4 0 5 -2 0 -3 -4 0 5 -1 -2 2 -4 -1 1 -1 -2]
+MEL_RAW[5  123b4  555
+    5  6b543b4  543b
+    3b  55+17b  7b53b
+    3b  6b5453b  23b21]
+NO_REP[5123b45
+    56b543b4543b
+    3b5+17b53b
+    3b6b5453b23b21]
+RTM[x  x_xx_x  x_xx_
+    x  x_xxxx  x_xx_
+    x  x_xx_x  x_xx_
+    x  xxxx_x  xxxx_]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

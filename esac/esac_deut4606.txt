@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[STOLZ HEINREICH DER WOLLT FREIEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutsch]
+TRD[]
+FKT[]
+SIG[Z0106]
+KEY[Z0106   16  E 2/4]
+MEL[-5_  1_1_1353  21-7-6-5_
+    -5_  1_2_3_3_  2__0_
+    23  4_444_32  5_.64_
+    32  1_1_-7_12  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 4 3 -3 -2 -2 -1 -2 -2 0 5 2 2 0 -2 0 2 1 0 0 0 -1 -2 5 2 -4 -1 -2 -2 0 -1 1 2 -2]
+MEL_RAW[-5  111353  21-7-6-5
+    -5  1233  20
+    23  444432  564
+    32  11-712  10]
+NO_REP[-5135321-7-6-5
+    -512320
+    23432564
+    321-71210]
+RTM[x_  x_x_xxxx  xxxxx_
+    x_  x_x_x_x_  x__x_
+    xx  x_xxx_xx  x_.xx_
+    xx  x_x_x_xx  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

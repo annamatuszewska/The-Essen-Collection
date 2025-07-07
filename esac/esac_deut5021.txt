@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[EI ALLALIABS SCHAZZAL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+TRD[]
+FKT[]
+SIG[Z1227]
+KEY[Z1227   08 Bb 3/4]
+MEL[35  24461_  35-72
+    23  1_3_35  2446
+    1_  35-7223  1__
+    3_  3_2413  35-7223  1_
+    3_3_  2_2413  35-7223  1__ //]
+BEM[]
+MEL_SEM[3 -5 3 0 4 -9 4 3 -8 3 0 2 -4 4 0 3 -5 3 0 4 -9 4 3 -8 3 0 2 -4 4 0 -2 3 -5 4 0 3 -8 3 0 2 -4 4 0 -2 0 3 -5 4 0 3 -8 3 0 2 -4]
+MEL_RAW[35  24461  35-72
+    23  1335  2446
+    1  35-7223  1
+    3  32413  35-7223  1
+    33  22413  35-7223  1]
+NO_REP[35246135-72
+    23135246
+    135-7231
+    324135-7231
+    324135-7231]
+RTM[xx  xxxxx_  xxxx
+    xx  x_x_xx  xxxx
+    x_  xxxxxx  x__
+    x_  x_xxxx  xxxxxx  x_
+    x_x_  x_xxxx  xxxxxx  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

@@ -1,0 +1,35 @@
+BALLADEN
+CUT[Der Werber und der Jude
+    Zu Strassburg steht ein hohes Haus,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Saargemuend,
+    Hambach]
+TRD[6, S. 148
+    ????]
+FKT[]
+SIG[Q0131]
+KEY[Q0131   08  G 4/4]
+MEL[-5_  1_.23_4_  2_.31_
+    -5_  1_.23_4_  2_231_
+    3_  5_5_5_66  5__2_
+    2_  5_4_3_2_  1_-6_-5_
+    -5_  1_2_3_4_  2__1_ //]
+BEM[]
+MEL_SEM[5 2 2 1 -3 2 -4 -5 5 2 2 1 -3 0 2 -4 4 3 0 0 2 0 -2 -5 0 5 -2 -1 -2 -2 -3 -2 0 5 2 2 1 -3 -2]
+MEL_RAW[-5  1234  231
+    -5  1234  2231
+    3  55566  52
+    2  5432  1-6-5
+    -5  1234  21]
+NO_REP[-51234231
+    -51234231
+    35652
+    254321-6-5
+    -5123421]
+RTM[x_  x_.xx_x_  x_.xx_
+    x_  x_.xx_x_  x_xxx_
+    x_  x_x_x_xx  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-6123456]
+SCL_SEM[2 3 2 2 1 2 2]
+

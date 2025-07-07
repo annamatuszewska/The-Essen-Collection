@@ -1,0 +1,28 @@
+BOEHME
+CUT[DER KNABE ROBERT FEST UND WERT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0057]
+KEY[B0057   08  F 4/4]
+MEL[532  1_1_2_2_  3__0
+    5+15  3_3_4_4_  5__0
+    555  7_.57_.5  +1__0
+    345  6_4_2_5_  1__0 //]
+BEM[]
+MEL_SEM[-3 -2 -2 0 2 0 2 3 5 -5 -3 0 1 0 2 0 0 0 4 -4 4 -4 5 -8 1 2 2 -4 -3 5 -7]
+MEL_RAW[532  1122  30
+    5+15  3344  50
+    555  7575  +10
+    345  6425  10]
+NO_REP[5321230
+    5+153450
+    57575+10
+    345642510]
+RTM[xxx  x_x_x_x_  x__x
+    xxx  x_x_x_x_  x__x
+    xxx  x_.xx_.x  x__x
+    xxx  x_x_x_x_  x__x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

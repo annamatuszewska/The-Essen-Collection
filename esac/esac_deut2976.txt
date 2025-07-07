@@ -1,0 +1,50 @@
+BALLADEN
+CUT[Das juengere Hildebrandslied
+    'Ich wil zu Land ausreiten',]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 1
+    1545 gedruckt in Wittenberg]
+FKT[]
+SIG[Q0001]
+KEY[Q0001   08  G FREI]
+MEL[1_  3b_3b_4_4_  5__5__0_
+    5__5_  5_6_7b_5_5__0_
+    5_  5_6_7b_5_  6b__5__0_
+    5_4_3b_5_3b_  3b__0_
+    3b_  3b3b3b_4_4_  5__5__0_
+    5_  4_3b_3b_3b_  1__-7b__0_
+    5_  5_.43b__0__
+    5_  6b_5_5_3b_  4__5__0_
+    4_  3b3b1_1_-6_  -7__1__ //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 0 0 0 2 1 -3 0 0 0 2 1 -3 1 -1 0 -2 -2 4 -4 0 0 0 0 0 2 0 2 0 0 -2 -2 0 0 -3 -2 9 0 -2 -2 4 1 -1 0 -4 2 2 -2 -2 0 -3 0 -3 2 1]
+MEL_RAW[1  3b3b44  550
+    55  567b550
+    5  567b5  6b50
+    543b53b  3b0
+    3b  3b3b3b44  550
+    5  43b3b3b  1-7b0
+    5  543b0
+    5  6b553b  450
+    4  3b3b11-6  -71]
+NO_REP[13b450
+    567b50
+    567b56b50
+    543b53b0
+    3b450
+    543b1-7b0
+    543b0
+    56b53b450
+    43b1-6-71]
+RTM[x_  x_x_x_x_  x__x__x_
+    x__x_  x_x_x_x_x__x_
+    x_  x_x_x_x_  x__x__x_
+    x_x_x_x_x_  x__x_
+    x_  xxx_x_x_  x__x__x_
+    x_  x_x_x_x_  x__x__x_
+    x_  x_.xx__x__
+    x_  x_x_x_x_  x__x__x_
+    x_  xxx_x_x_  x__x__]
+SCL_DEG[-6-7b-713b456b67b]
+SCL_SEM[1 1 1 3 2 2 1 1 1]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Trennung
+    WACH AUF WACH AUF DU JUNGER GESELL]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z1057]
+KEY[Z1057   08  D 4/4]
+MEL[13  5_5_5_64  43333_
+    53  2_.35443  3_2_0_
+    5_  6_556_75  +1_765_0
+    4  433_5432  2_1_0_ //]
+BEM[]
+MEL_SEM[4 3 0 0 2 -4 0 -1 0 0 0 3 -3 -2 2 3 -2 0 -1 0 -2 5 2 -2 0 2 2 -4 5 -1 -2 -2 -2 0 -1 0 3 -2 -1 -2 0 -2]
+MEL_RAW[13  55564  43333
+    53  235443  320
+    5  655675  +17650
+    4  4335432  210]
+NO_REP[135643
+    532354320
+    565675+17650
+    43543210]
+RTM[xx  x_x_x_xx  xxxxx_
+    xx  x_.xxxxx  x_x_x_
+    x_  x_xxx_xx  x_xxx_x
+    x  xxx_xxxx  x_x_x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

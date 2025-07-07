@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Richmudis von Adocht
+    Im Himmel, im Himmel sind Freuden so viel,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
+TRD[5, S. 241
+    1894 gedruckt in Leipzig]
+FKT[]
+SIG[Q1112F]
+KEY[Q1112F  08  G 3/4]
+MEL[-5  1_-7_1_  2_1_3_  4_4_3_  2__
+    13  5_5_6_  5_5_4_  3_3_2_  1__
+    13  5_5_6_  5_5_4_  3_3_2_  1__0 //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 4 1 0 -1 -2 -2 4 3 0 2 -2 0 -2 -1 0 -2 -2 0 4 3 0 2 -2 0 -2 -1 0 -2 -2]
+MEL_RAW[-5  1-71  213  443  2
+    13  556  554  332  1
+    13  556  554  332  10]
+NO_REP[-51-71213432
+    135654321
+    1356543210]
+RTM[x  x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_x_x_  x_x_x_  x_x_x_  x__x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

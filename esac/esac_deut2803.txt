@@ -1,0 +1,28 @@
+BOEHME
+CUT[HOERT IHR WIE SCHOEN HEUT DER POSTILLON BLAESET]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0615]
+KEY[B0615   16  C 3/8]
+MEL[1_3_5_  +1_5_3_  5_.55_  +1_5_
+    3_  1_3_5_  +1_5_3_  5_.55_  +1__0_  5_.55_  +1__0_
+    +1_.+1+1_  5_.55_  3_.33_  1__0_
+    1__.  1__.  1__. //]
+BEM[]
+MEL_SEM[4 3 5 -5 -3 3 0 0 5 -5 -3 -4 4 3 5 -5 -3 3 0 0 5 -5 0 0 5 0 0 0 -5 0 0 -3 0 0 -4 0 0 0]
+MEL_RAW[135  +153  555  +15
+    3  135  +153  555  +10  555  +10
+    +1+1+1  555  333  10
+    1  1  1]
+NO_REP[135+1535+15
+    3135+1535+105+10
+    +15310
+    1]
+RTM[x_x_x_  x_x_x_  x_.xx_  x_x_
+    x_  x_x_x_  x_x_x_  x_.xx_  x__x_  x_.xx_  x__x_
+    x_.xx_  x_.xx_  x_.xx_  x__x_
+    x__.  x__.  x__.]
+SCL_DEG[135+1]
+SCL_SEM[4 3 5]
+

@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[ICH BIN SCHON OFT GESTIEGEN UEBER MANCHEN HOHEN SCHROTT]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0295]
+KEY[Z0295   08  G 4/4]
+MEL[3_  5_5_5_4_  3__2_
+    33  4_3_2_3_  4__0_
+    3_  5_5_3453  4_2_1__
+    4_3_1_-7b_
+    -5_771_2_  4_2_3_31  -7b__0_
+    24  3_2_1_ //]
+BEM[]
+MEL_SEM[3 0 0 -2 -1 -2 2 0 1 -1 -2 2 1 -1 3 0 -3 1 2 -3 1 -3 -2 5 -1 -4 -2 -3 16 0 -11 2 3 -3 2 0 -4 -2 4 3 -1 -2 -2]
+MEL_RAW[3  5554  32
+    33  4323  40
+    3  553453  421
+    431-7b
+    -57712  42331  -7b0
+    24  321]
+NO_REP[35432
+    3432340
+    353453421
+    431-7b
+    -57124231-7b0
+    24321]
+RTM[x_  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x__x_
+    x_  x_x_xxxx  x_x_x__
+    x_x_x_x_
+    x_xxx_x_  x_x_x_xx  x__x_
+    xx  x_x_x_]
+SCL_DEG[-5-7b123457]
+SCL_SEM[3 2 2 2 1 2 4]
+

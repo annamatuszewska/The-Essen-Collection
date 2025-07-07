@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Totenamt
+    Es taget minnecliche]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 162
+    1421 Handschrift aus Strassburg]
+FKT[]
+SIG[Q0061B]
+KEY[Q0061B  04  G FREI]
+MEL[1  1_43_2  4_5_3_2_
+    6_  5_53_3  4_5_3_2_
+    1_  3_45_6  5_4_32_1_
+    2  5_43_2  1__ //]
+BEM[]
+MEL_SEM[0 5 -1 -2 3 2 -3 -2 7 -2 0 -3 0 1 2 -3 -2 -2 4 1 2 2 -2 -2 -1 -2 -2 2 5 -2 -1 -2 -2]
+MEL_RAW[1  1432  4532
+    6  5533  4532
+    1  3456  54321
+    2  5432  1]
+NO_REP[14324532
+    6534532
+    1345654321
+    254321]
+RTM[x  x_xx_x  x_x_x_x_
+    x_  x_xx_x  x_x_x_x_
+    x_  x_xx_x  x_x_xx_x_
+    x  x_xx_x  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

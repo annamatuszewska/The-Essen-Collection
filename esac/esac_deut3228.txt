@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es schwang sich ein Kuechenjung ueber den Rhein,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Kr. Wolmirstedt, Samswegen]
+TRD[3, S. 240
+    1879 gedruckt in Magdeburg]
+FKT[]
+SIG[Q0068]
+KEY[Q0068   16  D 6/8]
+MEL[1_  3_.33_3_5_1_  3_.22_2__
+    3_  3__3_5_.43_  2_5_5_5__
+    3_  4_.44_6_5_4_  3__3_5__
+    3_  2__2_4_3_2_  2_1_1_1__
+    3_  4_.44_6_5_4_  3__3_5__
+    3_  2__2_4_3_2_  2_1_1_1__ //]
+BEM[]
+MEL_SEM[4 0 0 0 3 -7 4 -2 0 0 2 0 0 3 -2 -1 -2 5 0 0 -3 1 0 0 4 -2 -2 -1 0 3 -3 -2 0 3 -1 -2 0 -2 0 0 4 1 0 0 4 -2 -2 -1 0 3 -3 -2 0 3 -1 -2 0 -2 0 0]
+MEL_RAW[1  333351  3222
+    3  33543  2555
+    3  444654  335
+    3  22432  2111
+    3  444654  335
+    3  22432  2111]
+NO_REP[135132
+    354325
+    3465435
+    324321
+    3465435
+    324321]
+RTM[x_  x_.xx_x_x_x_  x_.xx_x__
+    x_  x__x_x_.xx_  x_x_x_x__
+    x_  x_.xx_x_x_x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__
+    x_  x_.xx_x_x_x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,25 @@
+ZUCCAL
+CUT[Mondscheinlied
+    WENN I IN D HEIMATH GEH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z1202]
+KEY[Z1202   16  G 3/4 4/4]
+MEL[1_.3  3_.22__2_.4  4_.33__
+    1_.3  5_.55_.55_.55_.5  5__3__
+    3_.5  5_.46_.-6-7_.2  2__1__ //]
+BEM[]
+MEL_SEM[4 0 -2 0 0 3 0 -1 0 -4 4 3 0 0 0 0 0 0 0 0 -3 0 3 0 -2 4 -12 2 3 0 -2]
+MEL_RAW[13  32224  433
+    13  55555555  53
+    35  546-6-72  21]
+NO_REP[13243
+    1353
+    3546-6-721]
+RTM[x_.x  x_.xx__x_.x  x_.xx__
+    x_.x  x_.xx_.xx_.xx_.x  x__x__
+    x_.x  x_.xx_.xx_.x  x__x__]
+SCL_DEG[-6-7123456]
+SCL_SEM[2 1 2 2 1 2 2]
+

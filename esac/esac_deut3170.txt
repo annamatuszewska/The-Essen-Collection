@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Wiedersehen an der Bahre
+    Ein Juengling wollt' zum Kampfe gehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Wuppertal, Beyenburg]
+TRD[3, S. 70
+    ????]
+FKT[]
+SIG[Q0056C]
+KEY[Q0056C  08 Eb 3/4]
+MEL[1  135_43  522_0
+    2  265_2_  4_3_0
+    5  57+2_.4  35+1_.
+    +1  765_2_  4_3_0 //]
+BEM[]
+MEL_SEM[0 4 3 -2 -1 3 -5 0 0 0 7 -2 -5 3 -1 3 0 4 3 -9 -1 3 5 0 -1 -2 -2 -5 3 -1]
+MEL_RAW[1  13543  5220
+    2  2652  430
+    5  57+24  35+1
+    +1  7652  430]
+NO_REP[13543520
+    2652430
+    57+2435+1
+    +17652430]
+RTM[x  xxx_xx  xxx_x
+    x  xxx_x_  x_x_x
+    x  xxx_.x  xxx_.
+    x  xxx_x_  x_x_x]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

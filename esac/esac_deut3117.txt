@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die erzwungene Ehe
+    Es hat ein Bauer braun Anneli fein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Garburg]
+TRD[2, S. 242
+    1932 aufgezeichnet]
+FKT[]
+SIG[Q0050]
+KEY[Q0050   16  E 3/8]
+MEL[5_  3b_2_1_  -7b_1_-7b_  3b_5_4_  5__
+    5_  5_4_3b2  1_1_-7b_  243b_2_  1__ //]
+BEM[]
+MEL_SEM[-4 -1 -2 -2 2 -2 5 4 -2 2 0 0 -2 -2 -1 -2 0 -2 4 3 -2 -1 -2]
+MEL_RAW[5  3b21  -7b1-7b  3b54  5
+    5  543b2  11-7b  243b2  1]
+NO_REP[53b21-7b1-7b3b545
+    543b21-7b243b21]
+RTM[x_  x_x_x_  x_x_x_  x_x_x_  x__
+    x_  x_x_xx  x_x_x_  xxx_x_  x__]
+SCL_DEG[-7b123b45]
+SCL_SEM[2 2 1 2 2]
+

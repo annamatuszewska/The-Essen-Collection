@@ -1,0 +1,39 @@
+BALLADEN
+CUT[Der heimkehrende Soldat
+    Soldat kommt aus dem Kriege, hurra!]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau,
+    Kr. St. Goarshausen, Lierscheid]
+TRD[5, S. 147
+    ????]
+FKT[]
+SIG[Q0103A]
+KEY[Q0103A  04  F 6/4]
+MEL[-5  1_11_1  -7_24_2  1_.^_
+    -5  1_11_1  -7_24_2  1_.^_
+    5  5_3335  5_44_
+    3  3322_6  6_55_4  3_.^_
+    5  5_3335  5_44_
+    3  3322_6  6_55_4  3_.^_ //]
+BEM[]
+MEL_SEM[5 0 0 0 -1 3 3 -3 -2 -5 5 0 0 0 -1 3 3 -3 -2 7 0 -3 0 0 3 0 -2 0 -1 0 0 -2 0 7 0 -2 0 -2 -1 3 0 -3 0 0 3 0 -2 0 -1 0 0 -2 0 7 0 -2 0 -2 -1]
+MEL_RAW[-5  1111  -7242  1^
+    -5  1111  -7242  1^
+    5  53335  544
+    3  33226  6554  3^
+    5  53335  544
+    3  33226  6554  3^]
+NO_REP[-51-72421^
+    -51-72421^
+    5354
+    326543^
+    5354
+    326543^]
+RTM[x  x_xx_x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_x  x_.x_
+    x  x_xxxx  x_xx_
+    x  xxxx_x  x_xx_x  x_.x_
+    x  x_xxxx  x_xx_
+    x  xxxx_x  x_xx_x  x_.x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Trauer
+    ACH IN TRAUERN MUSS ICH LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1148]
+KEY[Z1148   04 Eb 3/4]
+MEL[135  535  654  433
+    135  535  654  3_0
+    6+16  543  464  433
+    6+16  5+13  65-7  1_0 //]
+BEM[]
+MEL_SEM[4 3 0 -3 3 2 -2 -2 0 -1 0 -4 4 3 0 -3 3 2 -2 -2 -1 5 3 -3 -2 -2 -1 1 4 -4 0 -1 0 5 3 -3 -2 5 -8 5 -2 -8 1]
+MEL_RAW[135  535  654  433
+    135  535  654  30
+    6+16  543  464  433
+    6+16  5+13  65-7  10]
+NO_REP[135356543
+    1353565430
+    6+165434643
+    6+165+1365-710]
+RTM[xxx  xxx  xxx  xxx
+    xxx  xxx  xxx  x_x
+    xxx  xxx  xxx  xxx
+    xxx  xxx  xxx  x_x]
+SCL_DEG[-713456+1]
+SCL_SEM[1 4 1 2 2 3]
+

@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Die Elftausend
+    ES STANDEN VIEL DER SCHIFFE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1021]
+KEY[Z1021   08  G 4/4]
+MEL[1_  1_5_543b_  2_2_0_
+    2_  3b45_543b_  2__0_
+    1_  5_5_7b654#  5__4_
+    2_  5_5_7b654#  5__43b
+    2_  3b_215_5_  1__0_ //]
+BEM[]
+MEL_SEM[0 7 0 -2 -2 -1 0 0 1 2 2 0 -2 -2 -1 -2 7 0 3 -1 -2 -1 1 -2 -3 5 0 3 -1 -2 -1 1 -2 -2 -1 1 -1 -2 7 0 -7]
+MEL_RAW[1  15543b  220
+    2  3b45543b  20
+    1  557b654#  54
+    2  557b654#  543b
+    2  3b2155  10]
+NO_REP[1543b20
+    23b4543b20
+    157b654#54
+    257b654#543b
+    23b21510]
+RTM[x_  x_x_xxx_  x_x_x_
+    x_  xxx_xxx_  x__x_
+    x_  x_x_xxxx  x__x_
+    x_  x_x_xxxx  x__xx
+    x_  x_xxx_x_  x__x_]
+SCL_DEG[123b44#567b]
+SCL_SEM[2 1 2 1 1 2 1]
+

@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Der Bettelmoench
+    UND WOLLT IHR HOEREN EIN NEUES LIED]
+REG[Europa, Mitteleuropa, Deutschland, Koeln]
+TRD[]
+FKT[]
+SIG[Z1080]
+KEY[Z1080   08  G 4/4]
+MEL[1_  1_5_6b_54  5_43b2_0
+    3b  4_2_5_43b  2_3b21_0
+    1  2_.3b2_5_  4_3b_2_0
+    2  1_-7-6-7_1_  2_.-5-5_
+    5_  5_445_43b  2__1_ //]
+BEM[]
+MEL_SEM[0 7 1 -1 -2 2 -2 -2 -1 1 2 -3 5 -2 -2 -1 1 -1 -2 0 2 1 -1 5 -2 -2 -1 0 -2 -1 -2 2 1 2 -7 0 12 0 -2 0 2 -2 -2 -1 -2]
+MEL_RAW[1  156b54  543b20
+    3b  42543b  23b210
+    1  23b25  43b20
+    2  1-7-6-71  2-5-5
+    5  544543b  21]
+NO_REP[156b54543b20
+    3b42543b23b210
+    123b2543b20
+    21-7-6-712-5
+    54543b21]
+RTM[x_  x_x_x_xx  x_xxx_x
+    x  x_x_x_xx  x_xxx_x
+    x  x_.xx_x_  x_x_x_x
+    x  x_xxx_x_  x_.xx_
+    x_  x_xxx_xx  x__x_]
+SCL_DEG[-5-6-7123b456b]
+SCL_SEM[2 2 1 2 1 2 2 1]
+

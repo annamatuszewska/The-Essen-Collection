@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Der Gleichgueltige
+    WENN I MAI SCHOTZERL NET HOBEN WILL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+TRD[]
+FKT[]
+SIG[Z1225]
+KEY[Z1225   16  F 3/8]
+MEL[5_5_5_  3_3231  4_4_4_
+    5_5654  3_3235  4__0_
+    5_5_5_  3_3231  4_4_4_
+    5_5654  3_3235  4__0_
+    2_2_2_  -7_-5_-5_  1_1353
+    2_2321  -7_-7-5-6-7  1__0_ //]
+BEM[]
+MEL_SEM[0 0 -3 0 -2 2 -4 5 0 0 2 0 2 -2 -2 -1 0 -2 2 3 -2 2 0 0 -3 0 -2 2 -4 5 0 0 2 0 2 -2 -2 -1 0 -2 2 3 -2 -3 0 0 -3 -4 0 5 0 4 3 -3 -2 0 2 -2 -2 -1 0 -4 2 2 1]
+MEL_RAW[555  33231  444
+    55654  33235  40
+    555  33231  444
+    55654  33235  40
+    222  -7-5-5  11353
+    22321  -7-7-5-6-7  10]
+NO_REP[532314
+    5654323540
+    532314
+    5654323540
+    2-7-51353
+    2321-7-5-6-710]
+RTM[x_x_x_  x_xxxx  x_x_x_
+    x_xxxx  x_xxxx  x__x_
+    x_x_x_  x_xxxx  x_x_x_
+    x_xxxx  x_xxxx  x__x_
+    x_x_x_  x_x_x_  x_xxxx
+    x_xxxx  x_xxxx  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

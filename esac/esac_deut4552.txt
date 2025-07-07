@@ -1,0 +1,20 @@
+ZUCCAL
+CUT[JOSEPH! LIEBER JOSEPH MEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z0051]
+KEY[Z0051   04  E 4/4]
+MEL[3b155  5_3b3b  2_21#  2__
+    23b45  6b_54  3b_22  1__ //]
+BEM[]
+MEL_SEM[-3 7 0 0 -4 0 -1 0 -1 1 0 1 2 2 1 -1 -2 -2 -1 0 -2]
+MEL_RAW[3b155  53b3b  221#  2
+    23b45  6b54  3b22  1]
+NO_REP[3b153b21#2
+    23b456b543b21]
+RTM[xxxx  x_xx  x_xx  x__
+    xxxx  x_xx  x_xx  x__]
+SCL_DEG[11#23b456b]
+SCL_SEM[1 1 1 2 2 1]
+

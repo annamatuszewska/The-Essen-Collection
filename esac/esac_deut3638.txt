@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Stund ich auf hohen Bergen]
+REG[Mitteleuropa, Deutschland]
+TRD[8, S. 285
+    1791 gedruckt in Leipzig]
+FKT[]
+SIG[Q0155w]
+KEY[Q0155w  16  G 2/4]
+MEL[3b4  5_.43b_2_  1_3b45_
+    5_  6b_6b_444_  5__0_
+    5_  5_.6b7b_5_  4_3b45_
+    4_  3b_.45_3b_  2_123b_
+    5_  +1_3b_453b2  1__
+    5__  +1_3b_453b2  1__0_ //]
+BEM[]
+MEL_SEM[2 2 -2 -2 -1 -2 3 2 2 0 1 0 -3 0 0 2 0 0 1 2 -3 -2 -2 2 2 -2 -2 2 2 -4 -1 -2 2 1 4 5 -9 2 2 -4 -1 -2 7 5 -9 2 2 -4 -1 -2]
+MEL_RAW[3b4  543b2  13b45
+    5  6b6b444  50
+    5  56b7b5  43b45
+    4  3b453b  2123b
+    5  +13b453b2  1
+    5  +13b453b2  10]
+NO_REP[3b4543b213b45
+    56b450
+    56b7b543b45
+    43b453b2123b
+    5+13b453b21
+    5+13b453b210]
+RTM[xx  x_.xx_x_  x_xxx_
+    x_  x_x_xxx_  x__x_
+    x_  x_.xx_x_  x_xxx_
+    x_  x_.xx_x_  x_xxx_
+    x_  x_x_xxxx  x__
+    x__  x_x_xxxx  x__x_]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

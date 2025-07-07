@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Spielmannssohn
+    Guten Abend, guten Abend, mein tausiger Schatz,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bergisches Land]
+TRD[3. S. 178
+    1840 aufgezeichnet (vor)]
+FKT[]
+SIG[Q1062C]
+KEY[Q1062C  16  F 6/8]
+MEL[-5-5  -5_1_111_-7_1_  2_.3b2_1__
+    1_  2__5_4_3b_2_  1__3b_2__
+    1_  2__5_5_4_5_  3b_2_1_-7b__
+    -5_  1__2_3b_2_1_  3b_2_1_-7__.  1__0__. //]
+BEM[]
+MEL_SEM[0 0 5 0 0 0 -1 1 2 1 -1 -2 0 2 5 -2 -2 -1 -2 3 -1 -2 2 5 0 -2 2 -4 -1 -2 -2 -3 5 2 1 -1 -2 3 -1 -2 -1 1]
+MEL_RAW[-5-5  -51111-71  23b21
+    1  2543b2  13b2
+    1  25545  3b21-7b
+    -5  123b21  3b21-7  10]
+NO_REP[-51-7123b21
+    12543b213b2
+    125453b21-7b
+    -5123b213b21-710]
+RTM[xx  x_x_xxx_x_x_  x_.xx_x__
+    x_  x__x_x_x_x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__
+    x_  x__x_x_x_x_  x_x_x_x__.  x__x__.]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

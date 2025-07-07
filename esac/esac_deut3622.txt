@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohen Bergen,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Poermitz]
+TRD[8, S. 51
+    1909 aufgezeichnet]
+FKT[]
+SIG[Q0155J]
+KEY[Q0155J  08  F 6/8]
+MEL[-5  1_35_1  1-70_.
+    -5  -7_25_4  3_0_.
+    -5  1_23_4  5_+17_
+    6  5554_-7  1__0 //]
+BEM[]
+MEL_SEM[5 4 3 -7 0 -1 -4 4 3 5 -2 -1 -9 5 2 2 1 2 5 -1 -2 -2 0 0 -2 -6 1]
+MEL_RAW[-5  1351  1-70
+    -5  -7254  30
+    -5  1234  5+17
+    6  5554-7  10]
+NO_REP[-51351-70
+    -5-725430
+    -512345+17
+    654-710]
+RTM[x  x_xx_x  xxx_.
+    x  x_xx_x  x_x_.
+    x  x_xx_x  x_xx_
+    x  xxxx_x  x__x]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

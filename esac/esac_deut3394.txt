@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreite]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[5, S. 21
+    ????]
+FKT[]
+SIG[Q0089M]
+KEY[Q0089M  08  G 4/4]
+MEL[-5_  1_.43_-5_  3_1_0_
+    -5_  1_.43_-5_  3_1_0_
+    5_  3_.2111_  -7_.12_
+    4_  3_.21_1_  2_.31_ //]
+BEM[]
+MEL_SEM[5 5 -1 -9 9 -4 -5 5 5 -1 -9 9 -4 7 -3 -2 -2 0 0 -1 1 2 3 -1 -2 -2 0 2 2 -4]
+MEL_RAW[-5  143-5  310
+    -5  143-5  310
+    5  32111  -712
+    4  3211  231]
+NO_REP[-5143-5310
+    -5143-5310
+    5321-712
+    4321231]
+RTM[x_  x_.xx_x_  x_x_x_
+    x_  x_.xx_x_  x_x_x_
+    x_  x_.xxxx_  x_.xx_
+    x_  x_.xx_x_  x_.xx_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Richmudis von Adocht
+    Hoert, Christenleut', jetzt ein neues Lied,]
+REG[Mitteleuropa, Deutschland]
+TRD[5, S. 237
+    1856 aufgezeichnet (?)]
+FKT[]
+SIG[Q0112]
+KEY[Q0112   16  G 3/8]
+MEL[-5_  1__1_  2_2_5_  4__3b_  2__
+    3b_  1_2_3b_  2_1_-7_  1__2_  -5__
+    5_  5_4_3b_  4_2_54  3b_3b_2_  1__
+    -5_  1_2_3b4  5_1_3b2  1_1_-7_  1__
+    5_  5_4_3b_  4_2_54  3b_3b_2_  1__
+    -5_  1_2_3b4  5_1_3b2  1_1_-7_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 0 5 -2 -2 -1 1 -3 2 1 -1 -2 -1 1 2 -7 12 0 -2 -2 2 -3 5 -2 -2 0 -1 -2 -5 5 2 1 2 2 -7 3 -1 -2 0 -1 1 7 0 -2 -2 2 -3 5 -2 -2 0 -1 -2 -5 5 2 1 2 2 -7 3 -1 -2 0 -1 1]
+MEL_RAW[-5  11  225  43b  2
+    3b  123b  21-7  12  -5
+    5  543b  4254  3b3b2  1
+    -5  123b4  513b2  11-7  1
+    5  543b  4254  3b3b2  1
+    -5  123b4  513b2  11-7  1]
+NO_REP[-512543b2
+    3b123b21-712-5
+    543b42543b21
+    -5123b4513b21-71
+    543b42543b21
+    -5123b4513b21-71]
+RTM[x_  x__x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  x_x_xx  x_x_x_  x__
+    x_  x_x_xx  x_x_xx  x_x_x_  x__
+    x_  x_x_x_  x_x_xx  x_x_x_  x__
+    x_  x_x_xx  x_x_xx  x_x_x_  x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

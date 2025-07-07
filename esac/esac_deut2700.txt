@@ -1,0 +1,16 @@
+BOEHME
+CUT[WOHL AUF NOCH GETRUNKEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0506]
+KEY[B0506   16  C 3/4]
+MEL[3_3_  2_.12_.12_.3  1___ //]
+BEM[]
+MEL_SEM[0 -2 -2 2 -2 2 2 -4]
+MEL_RAW[33  212123  1]
+NO_REP[32121231]
+RTM[x_x_  x_.xx_.xx_.x  x___]
+SCL_DEG[123]
+SCL_SEM[2 2]
+

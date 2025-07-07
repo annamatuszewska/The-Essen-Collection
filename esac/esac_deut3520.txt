@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Gluecksjaeger
+    Es ritt ein Jaeger wohlgemut,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kapsdorf]
+TRD[6, S. 191
+    1842 gedruckt in Leipzig]
+FKT[]
+SIG[Q0134A]
+KEY[Q0134A  16  G 6/8]
+MEL[-5_  1__3_3_2_1_  2__-7_-5__
+    2_  2__5_2_1_-7_  1_-7_-6_-5__0_
+    1__-5_-6_-6_-5_  111_-5_-6_-6_-5
+    -5  -5__1_3_2_1_  2__2_1__ //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 2 -3 -4 7 0 5 -5 -2 -1 1 -1 -2 -2 5 -5 2 0 -2 5 0 0 -5 2 0 -2 0 0 5 4 -2 -2 2 0 -2]
+MEL_RAW[-5  13321  2-7-5
+    2  2521-7  1-7-6-50
+    1-5-6-6-5  111-5-6-6-5
+    -5  -51321  221]
+NO_REP[-513212-7-5
+    2521-71-7-6-50
+    1-5-6-51-5-6-5
+    -5132121]
+RTM[x_  x__x_x_x_x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__x_
+    x__x_x_x_x_  xxx_x_x_x_x
+    x  x__x_x_x_x_  x__x_x__]
+SCL_DEG[-5-6-71235]
+SCL_SEM[2 2 1 2 2 3]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Mordknecht
+    Ess reyt eyn Herr und auch sein Knecht]
+REG[Mitteleuropa, Deutschland]
+TRD[2, S. 41  Komponist: Nicolai
+    1777 gedruckt in Berlin und Stettin]
+FKT[]
+SIG[Q0037]
+KEY[Q0037   04 Eb 4/4]
+MEL[5  +17b6b5  43b2
+    +1  +2+3b+2+1  7b6b56b  5_0
+    5  7b6b54  3b2b1
+    4  6b543b  2_15  2_1 //]
+BEM[]
+MEL_SEM[5 -2 -2 -1 -2 -2 -1 10 2 1 -1 -2 -2 -2 -1 1 -1 0 3 -2 -1 -2 -2 -2 -1 5 3 -1 -2 -2 -1 -2 7 -5 -2]
+MEL_RAW[5  +17b6b5  43b2
+    +1  +2+3b+2+1  7b6b56b  50
+    5  7b6b54  3b2b1
+    4  6b543b  215  21]
+NO_REP[5+17b6b543b2
+    +1+2+3b+2+17b6b56b50
+    57b6b543b2b1
+    46b543b21521]
+RTM[x  xxxx  xxx
+    x  xxxx  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_xx  x_x]
+SCL_DEG[12b23b456b7b+1+2+3b]
+SCL_SEM[1 1 1 2 2 1 2 2 2 1]
+

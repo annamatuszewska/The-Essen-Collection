@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Kos'liedchen
+    KINNE WINNE WINNCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1376]
+KEY[Z1376   16  G 2/4]
+MEL[1-71-71_-5_  1_232__
+    2_343__  3_456__
+    2_345__  1_234__
+    5_67+17+17  +1_1_0__ //]
+BEM[]
+MEL_SEM[-1 1 -1 1 -5 5 2 2 -2 0 2 1 -1 0 1 2 2 -7 2 1 2 -7 2 2 1 2 2 2 1 -1 1 -1 1 -12]
+MEL_RAW[1-71-71-5  1232
+    2343  3456
+    2345  1234
+    567+17+17  +110]
+NO_REP[1-71-71-51232
+    2343456
+    23451234
+    567+17+17+10]
+RTM[xxxxx_x_  x_xxx__
+    x_xxx__  x_xxx__
+    x_xxx__  x_xxx__
+    x_xxxxxx  x_x_x__]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

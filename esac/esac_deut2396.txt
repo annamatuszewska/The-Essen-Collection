@@ -1,0 +1,40 @@
+BOEHME
+CUT[WER SINGET IM WALDE SO HEIMLICH ALLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0159]
+KEY[B0159   04  E 4/4]
+MEL[1  1_11  3b_21  3b_21  5_
+    12  3b23b1  5_
+    12  3b23b1  5_
+    3b4  5_5_  5_6b5  5444  4_
+    23b  4444  47b7b6b  53b3b3b  3b_
+    4_  5555  5555  7b6b54  5_
+    5_  5555  5555  5_4_  3b_2_  1_. //]
+BEM[]
+MEL_SEM[0 0 0 3 -1 -2 3 -1 -2 7 -7 2 1 -1 1 -3 7 -7 2 1 -1 1 -3 7 -4 2 2 0 0 1 -1 0 -2 0 0 0 -3 1 2 0 0 0 0 5 0 -2 -1 -4 0 0 0 2 2 0 0 0 0 0 0 0 3 -2 -1 -2 2 0 0 0 0 0 0 0 0 0 0 -2 -2 -1 -2]
+MEL_RAW[1  111  3b21  3b21  5
+    12  3b23b1  5
+    12  3b23b1  5
+    3b4  55  56b5  5444  4
+    23b  4444  47b7b6b  53b3b3b  3b
+    4  5555  5555  7b6b54  5
+    5  5555  5555  54  3b2  1]
+NO_REP[13b213b215
+    123b23b15
+    123b23b15
+    3b456b54
+    23b47b6b53b
+    457b6b545
+    543b21]
+RTM[x  x_xx  x_xx  x_xx  x_
+    xx  xxxx  x_
+    xx  xxxx  x_
+    xx  x_x_  x_xx  xxxx  x_
+    xx  xxxx  xxxx  xxxx  x_
+    x_  xxxx  xxxx  xxxx  x_
+    x_  xxxx  xxxx  x_x_  x_x_  x_.]
+SCL_DEG[123b456b7b]
+SCL_SEM[2 1 2 2 1 2]
+

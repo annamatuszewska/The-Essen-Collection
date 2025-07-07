@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[ES SOLL SICH JA KEINER MIT DER LIEBE ABGEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[Z0310]
+KEY[Z0310   08  G 3/4]
+MEL[-5_  1_1_2_  3_3_54  3_3_2_  1_1_
+    -5_  1_1_2_  3_3_54  3_3_2_  1_1_
+    5_  +1_+1_7_  6_6_5_  4_4_3_  2__
+    54  3_3_2_  1__
+    54  3_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 2 0 3 -2 -1 0 -2 -2 0 -5 5 0 2 2 0 3 -2 -1 0 -2 -2 0 7 5 0 -1 -2 0 -2 -2 0 -1 -2 5 -2 -1 0 -2 -2 7 -2 -1 0 -2 -2]
+MEL_RAW[-5  112  3354  332  11
+    -5  112  3354  332  11
+    5  +1+17  665  443  2
+    54  332  1
+    54  332  1]
+NO_REP[-512354321
+    -512354321
+    5+1765432
+    54321
+    54321]
+RTM[x_  x_x_x_  x_x_xx  x_x_x_  x_x_
+    x_  x_x_x_  x_x_xx  x_x_x_  x_x_
+    x_  x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_x_x_  x__
+    xx  x_x_x_  x__]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

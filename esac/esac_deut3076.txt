@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Es war einmal ein Reitersmann,]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Koenigsberg]
+TRD[2, S. 100
+    1830 aufgezeichnet]
+FKT[]
+SIG[Q0041K]
+KEY[Q0041K  08  A 4/4]
+MEL[5_  1_1_1_1+1  +1_+16b5_0
+    4  3b_.21_23b  4543b20
+    2_  5_5_4_5_  3b_.21_23b  4543b2_
+    2_  5_5_4_5_  3b_.21_ //]
+BEM[]
+MEL_SEM[-7 0 0 0 12 0 0 -4 -1 -2 -2 -1 -2 2 1 2 2 -2 -2 -1 0 5 0 -2 2 -4 -1 -2 2 1 2 2 -2 -2 -1 0 5 0 -2 2 -4 -1 -2]
+MEL_RAW[5  1111+1  +1+16b50
+    4  3b2123b  4543b20
+    2  5545  3b2123b  4543b2
+    2  5545  3b21]
+NO_REP[51+16b50
+    43b2123b4543b20
+    25453b2123b4543b2
+    25453b21]
+RTM[x_  x_x_x_xx  x_xxx_x
+    x  x_.xx_xx  xxxxxx
+    x_  x_x_x_x_  x_.xx_xx  xxxxx_
+    x_  x_x_x_x_  x_.xx_]
+SCL_DEG[123b456b+1]
+SCL_SEM[2 1 2 2 1 4]
+

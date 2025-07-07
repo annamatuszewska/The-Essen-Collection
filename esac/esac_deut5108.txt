@@ -1,0 +1,49 @@
+ZUCCAL
+CUT[Der wunderliche Kittel
+    ICH WOLLTE MIR EINEN KITTEL NAEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z1371]
+KEY[Z1371   08  G 6/8]
+MEL[-5  -5_1123  3_-5-5_
+    -5  3_11-71  2_-7-5_
+    -5  -5_1123  3222_
+    4  323345  5432_0
+    3_11-71  2_-7-5_0
+    -5111_0
+    1_3543  22-71_.
+    -511111  111111
+    1_3543  22-71_ //]
+BEM[]
+MEL_SEM[0 5 0 2 2 0 -9 0 0 9 -4 0 -1 1 2 -3 -4 0 0 5 0 2 2 0 -2 0 0 3 -1 -2 2 0 1 2 0 -2 -1 -2 2 -4 0 -1 1 2 -3 -4 0 5 0 0 0 4 3 -2 -1 -2 0 -3 1 -5 5 0 0 0 0 0 0 0 0 0 0 0 4 3 -2 -1 -2 0 -3 1]
+MEL_RAW[-5  -51123  3-5-5
+    -5  311-71  2-7-5
+    -5  -51123  3222
+    4  323345  54320
+    311-71  2-7-50
+    -51110
+    13543  22-71
+    -511111  111111
+    13543  22-71]
+NO_REP[-5123-5
+    -531-712-7-5
+    -51232
+    4323454320
+    31-712-7-50
+    -510
+    135432-71
+    -51
+    135432-71]
+RTM[x  x_xxxx  x_xx_
+    x  x_xxxx  x_xx_
+    x  x_xxxx  xxxx_
+    x  xxxxxx  xxxx_x
+    x_xxxx  x_xx_x
+    xxxx_x
+    x_xxxx  xxxx_.
+    xxxxxx  xxxxxx
+    x_xxxx  xxxx_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

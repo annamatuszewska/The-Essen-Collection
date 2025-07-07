@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Gang zur Liebsten
+    DES ABEND KANN ICH NICHT SCHLAFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1154]
+KEY[Z1154   16  A 2/4]
+MEL[-5_  1_.23b_21  2_21-7_.
+    -5  1_123b_21  2_2_-5_
+    3b4  5_445_6b5  4_.3b4_
+    54  3b_.23b453b  2_112_
+    3b2  1__-7__  1__0_ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 2 0 -2 -1 -4 5 0 2 1 -1 -2 2 0 -7 8 2 2 -2 0 2 1 -1 -2 -2 2 2 -2 -2 -1 1 2 2 -4 -1 -2 0 2 1 -1 -2 -1 1]
+MEL_RAW[-5  123b21  221-7
+    -5  1123b21  22-5
+    3b4  54456b5  43b4
+    54  3b23b453b  2112
+    3b2  1-7  10]
+NO_REP[-5123b2121-7
+    -5123b212-5
+    3b45456b543b4
+    543b23b453b212
+    3b21-710]
+RTM[x_  x_.xx_xx  x_xxx_.
+    x  x_xxx_xx  x_x_x_
+    xx  x_xxx_xx  x_.xx_
+    xx  x_.xxxxx  x_xxx_
+    xx  x__x__  x__x_]
+SCL_DEG[-5-7123b456b]
+SCL_SEM[4 1 2 1 2 2 1]
+

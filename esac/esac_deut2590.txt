@@ -1,0 +1,28 @@
+BOEHME
+CUT[NAMEN NENNEN DICH NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0379]
+KEY[B0379   08  F 6/8]
+MEL[3_3323  5_.40
+    3  2_2254  430__
+    3211-71  -6_.6_.
+    53112-7  1_.0_. //]
+BEM[]
+MEL_SEM[0 0 -2 2 3 -2 -1 -2 0 0 5 -2 0 -1 0 -2 -2 0 -1 1 -3 12 -2 -3 -4 0 2 -3 1]
+MEL_RAW[33323  540
+    3  22254  430
+    3211-71  -66
+    53112-7  10]
+NO_REP[323540
+    325430
+    321-71-6
+    5312-710]
+RTM[x_xxxx  x_.xx
+    x  x_xxxx  xxx__
+    xxxxxx  x_.x_.
+    xxxxxx  x_.x_.]
+SCL_DEG[-6-7123456]
+SCL_SEM[2 1 2 2 1 2 2]
+

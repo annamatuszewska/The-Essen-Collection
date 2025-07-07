@@ -1,0 +1,31 @@
+BALLADEN
+CUT[Die Rheinbraut
+    Es ritt ein Koenig wohl ueber den Rhein,]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Oranienburg,
+    Birkenwerder]
+TRD[2, S. 170
+    1841 aufgezeichnet (in den 1770er Jahren entstanden ?)]
+FKT[]
+SIG[Q0047]
+KEY[Q0047   08  G 3/4]
+MEL[-512  3b3b2_(111)  5_.
+    542  5_4_3b4  2_.
+    222  5_4453b  2_.
+    3b12  3b543b23b  1_. //]
+BEM[]
+MEL_SEM[5 2 1 0 -1 -2 0 0 7 0 -2 -3 5 -2 -2 2 -3 0 0 0 5 -2 0 2 -4 -1 1 -3 2 1 4 -2 -2 -1 1 -3]
+MEL_RAW[-512  3b3b2111  5
+    542  543b4  2
+    222  54453b  2
+    3b12  3b543b23b  1]
+NO_REP[-5123b215
+    542543b42
+    25453b2
+    3b123b543b23b1]
+RTM[xxx  xxx_(xxx)  x_.
+    xxx  x_x_xx  x_.
+    xxx  x_xxxx  x_.
+    xxx  xxxxxx  x_.]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

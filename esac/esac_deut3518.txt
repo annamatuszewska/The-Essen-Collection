@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Nachtjaeger
+    Es stiess ein Jaeger wohl in sein Horn,]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
+TRD[6, S. 188
+    1911 gedruckt in Berlin]
+FKT[]
+SIG[Q0133G]
+KEY[Q0133G  08  F 4/4]
+MEL[1_  3_1_335_  5_.31_0_
+    +1__7_6_  5__0_
+    3_  43246542  1_.35_.0
+    2__-7__  1_.0_. //]
+BEM[]
+MEL_SEM[4 -4 4 0 3 0 -3 -4 12 -1 -2 -2 -3 1 -1 -2 3 4 -2 -2 -3 -2 4 3 -5 -3 1]
+MEL_RAW[1  31335  5310
+    +176  50
+    3  43246542  1350
+    2-7  10]
+NO_REP[13135310
+    +17650
+    3432465421350
+    2-710]
+RTM[x_  x_x_xxx_  x_.xx_x_
+    x__x_x_  x__x_
+    x_  xxxxxxxx  x_.xx_.x
+    x__x__  x_.x_.]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

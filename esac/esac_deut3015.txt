@@ -1,0 +1,42 @@
+BALLADEN
+CUT[Der Abendgang
+    Der tag der ist vergangen]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 321
+    1586 gedruckt in Strassburg]
+FKT[]
+SIG[Q0019C]
+KEY[Q0019C  08  G FREI]
+MEL[1_  3b_3b_4_4_  5__5__0_
+    5_  7b__7b_6__54  5_5_4__0_
+    7b_  5__5_5__4_  7b__5__0_
+    5_  4_3b_5_3b_  2__1__0_
+    5_  5__5_4__2_  3b_1_-7b__0_
+    4_  4_4_5_6_  7b__3b__0_
+    5_  4_3b_5_3b__21  2__1__ //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 0 3 0 -1 -2 -2 2 0 -2 5 -3 0 0 -2 5 -3 0 -2 -2 4 -4 -1 -2 7 0 0 -2 -3 1 -3 -2 7 0 0 2 2 1 -7 4 -2 -2 4 -4 -1 -2 2 -2]
+MEL_RAW[1  3b3b44  550
+    5  7b7b654  5540
+    7b  5554  7b50
+    5  43b53b  210
+    5  5542  3b1-7b0
+    4  4456  7b3b0
+    5  43b53b21  21]
+NO_REP[13b450
+    57b654540
+    7b547b50
+    543b53b210
+    5423b1-7b0
+    4567b3b0
+    543b53b2121]
+RTM[x_  x_x_x_x_  x__x__x_
+    x_  x__x_x__xx  x_x_x__x_
+    x_  x__x_x__x_  x__x__x_
+    x_  x_x_x_x_  x__x__x_
+    x_  x__x_x__x_  x_x_x__x_
+    x_  x_x_x_x_  x__x__x_
+    x_  x_x_x_x__xx  x__x__]
+SCL_DEG[-7b123b4567b]
+SCL_SEM[2 2 1 2 2 2 1]
+

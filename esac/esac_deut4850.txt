@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Pfaffenschlich
+    DER GRAF STAND OBEN AUF SEINEM SCHLOSS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1034]
+KEY[Z1034   16  D 6/8]
+MEL[5_  +1__7_+1_5_+2_  +3b_+2_+1_+2__
+    5_  +1__7b_6b_6b_5_  5__4_5__
+    2_  5_4_5_3b_1_+1_  7b_6b_545_3b_
+    +3b_  +2__+1_7_5_+1_  +1__7_+1__ //]
+BEM[]
+MEL_SEM[5 -1 1 -5 7 1 -1 -2 2 -7 5 -2 -2 0 -1 0 -2 2 -5 5 -2 2 -4 -3 12 -2 -2 -1 -2 2 -4 12 -1 -2 -1 -4 5 0 -1 1]
+MEL_RAW[5  +17+15+2  +3b+2+1+2
+    5  +17b6b6b5  545
+    2  5453b1+1  7b6b5453b
+    +3b  +2+175+1  +17+1]
+NO_REP[5+17+15+2+3b+2+1+2
+    5+17b6b545
+    25453b1+17b6b5453b
+    +3b+2+175+17+1]
+RTM[x_  x__x_x_x_x_  x_x_x_x__
+    x_  x__x_x_x_x_  x__x_x__
+    x_  x_x_x_x_x_x_  x_x_xxx_x_
+    x_  x__x_x_x_x_  x__x_x__]
+SCL_DEG[123b456b7b7+1+2+3b]
+SCL_SEM[2 1 2 2 1 2 1 1 2 1]
+

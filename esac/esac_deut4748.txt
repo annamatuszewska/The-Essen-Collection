@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[WER BEKUEMMERT SICH WENN ICH WANDRE, KEINER AUS DER COMPAGNIE]
+REG[Europa, Mitteleuropa, Deutschland, Baden]
+TRD[]
+FKT[]
+SIG[Z0249]
+KEY[Z0249   08  A 3/4]
+MEL[-5-7  1_3322  133_
+    23  4_.231  2_0_
+    13  555565  544
+    654  3_3353  212_
+    13  5_3_22  1_0_ //]
+BEM[]
+MEL_SEM[4 1 4 0 -2 0 -2 4 0 -2 2 1 -3 2 -4 2 -2 4 3 0 0 0 2 -2 0 -2 0 4 -2 -2 -1 0 0 3 -3 -2 -2 2 -2 4 3 -3 -2 0 -2]
+MEL_RAW[-5-7  13322  133
+    23  4231  20
+    13  555565  544
+    654  33353  212
+    13  5322  10]
+NO_REP[-5-713213
+    23423120
+    135654
+    654353212
+    1353210]
+RTM[xx  x_xxxx  xxx_
+    xx  x_.xxx  x_x_
+    xx  xxxxxx  xxx
+    xxx  x_xxxx  xxx_
+    xx  x_x_xx  x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

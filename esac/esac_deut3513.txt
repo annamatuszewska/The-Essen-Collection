@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Der Nachtjaeger
+    Es blies ein Jaeger wohl in sein Horn, ju he deredere]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt]
+TRD[6, S. 163
+    1957 gedruckt in Berlin]
+FKT[]
+SIG[Q0133A]
+KEY[Q0133A  08  G 4/4]
+MEL[-5_  1_1_1_22  3_2_1_+1_  55555_
+    +15  54442_42  1_321_
+    43  32222242  11321_32  1_321_ //]
+BEM[]
+MEL_SEM[5 0 0 2 0 2 -2 -2 12 -5 0 0 0 0 5 -5 0 -2 0 0 -3 3 -3 -2 4 -2 -2 5 -1 0 -2 0 0 0 0 3 -3 -2 0 4 -2 -2 4 -2 -2 4 -2 -2]
+MEL_RAW[-5  11122  321+1  55555
+    +15  5444242  1321
+    43  32222242  1132132  1321]
+NO_REP[-512321+15
+    +1542421321
+    432421321321321]
+RTM[x_  x_x_x_xx  x_x_x_x_  xxxxx_
+    xx  xxxxx_xx  x_xxx_
+    xx  xxxxxxxx  xxxxx_xx  x_xxx_]
+SCL_DEG[-512345+1]
+SCL_SEM[5 2 2 1 2 5]
+

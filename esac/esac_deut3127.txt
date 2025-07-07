@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Das Bauerntoechterlein
+    Es wollt' ein Maegdlein einen Freier habn,]
+REG[Mitteleuropa, Deutschland / Polen, Soldin, Adamsdorf]
+TRD[2, S. 269
+    ????]
+FKT[]
+SIG[Q1051L]
+KEY[Q1051L  16  G 6/8 5/8]
+MEL[-5_1_2_  3_.2112_2_  -5__
+    -7_2_3_  4_3_2_3_3_  -5__.
+    1__-3_  -5_-5_-5_2__-5_  1_121_
+    -5_1_2_  3_2_1_2_1_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 2 2 -2 -2 0 2 0 -7 4 3 2 1 -1 -2 2 0 -9 5 -8 3 0 0 7 -7 5 0 2 -2 -5 5 2 2 -2 -2 2 -2 -1 1]
+MEL_RAW[-512  321122  -5
+    -723  43233  -5
+    1-3  -5-5-52-5  1121
+    -512  32121-7  10]
+NO_REP[-5123212-5
+    -7234323-5
+    1-3-52-5121
+    -51232121-710]
+RTM[x_x_x_  x_.xxxx_x_  x__
+    x_x_x_  x_x_x_x_x_  x__.
+    x__x_  x_x_x_x__x_  x_xxx_
+    x_x_x_  x_x_x_x_x_x_  x__x_]
+SCL_DEG[-3-5-71234]
+SCL_SEM[3 4 1 2 2 1]
+

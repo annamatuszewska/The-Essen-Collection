@@ -1,0 +1,41 @@
+ZUCCAL
+CUT[Mariens Lob
+    MARIA, WAHRE HIMMELFREUD]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1127]
+KEY[Z1127   08  G 4/4 3/4]
+MEL[-5_  1__2__  3b_5__43b  2__3b_2_  1__
+    5_6b_  7b__5_4_  5__4__  3b__
+    5_6b_  7b_7b_56b  544_
+    5_  6b_5_43b  3b23b_
+    3b4  5_5_43b  212_
+    23b  4_5_3b2  1-712
+    3b4  5__43b  2__1_  1__ //]
+BEM[]
+MEL_SEM[5 2 1 4 -2 -2 -1 1 -1 -2 7 1 2 -3 -2 2 -2 -2 4 1 2 0 -3 1 -1 -2 0 2 1 -1 -2 -2 0 -1 1 0 2 2 0 -2 -2 -1 -2 2 0 1 2 2 -4 -1 -2 -1 1 2 1 2 2 -2 -2 -1 -2 0]
+MEL_RAW[-5  12  3b543b  23b2  1
+    56b  7b54  54  3b
+    56b  7b7b56b  544
+    5  6b543b  3b23b
+    3b4  5543b  212
+    23b  453b2  1-712
+    3b4  543b  21  1]
+NO_REP[-5123b543b23b21
+    56b7b54543b
+    56b7b56b54
+    56b543b23b
+    3b4543b212
+    23b453b21-712
+    3b4543b21]
+RTM[x_  x__x__  x_x__xx  x__x_x_  x__
+    x_x_  x__x_x_  x__x__  x__
+    x_x_  x_x_xx  xxx_
+    x_  x_x_xx  xxx_
+    xx  x_x_xx  xxx_
+    xx  x_x_xx  xxxx
+    xx  x__xx  x__x_  x__]
+SCL_DEG[-5-7123b456b7b]
+SCL_SEM[4 1 2 1 2 2 1 2]
+

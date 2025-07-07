@@ -1,0 +1,32 @@
+BOEHME
+CUT[HEIDA DIE LIEBE MAIENZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[B0208]
+KEY[B0208   16  F 2/4]
+MEL[5_556_6_  5_4_3_
+    1_  5_5_6_6_  5_4_3_0_
+    5_5_444_  3_3_2__
+    5_5_4_4_  3_332__
+    5_4_3_1_  1__1_0_ //]
+BEM[]
+MEL_SEM[0 0 2 0 -2 -2 -1 -4 7 0 2 0 -2 -2 -1 3 0 -2 0 0 -1 0 -2 5 0 -2 0 -1 0 0 -2 5 -2 -1 -4 0 0]
+MEL_RAW[55566  543
+    1  5566  5430
+    55444  332
+    5544  3332
+    5431  110]
+NO_REP[56543
+    1565430
+    5432
+    5432
+    54310]
+RTM[x_xxx_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_x_
+    x_x_xxx_  x_x_x__
+    x_x_x_x_  x_xxx__
+    x_x_x_x_  x__x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

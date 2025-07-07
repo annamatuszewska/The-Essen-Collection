@@ -1,0 +1,44 @@
+BOEHME
+CUT[WIE REIZEND WIE WONNIG IST ALLES UMHER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0206]
+KEY[B0206   08  G 2/4]
+MEL[5  5_35  5_3
+    5  4_22  3_0
+    5  5_35  5_3
+    5  4_22  3_0
+    3  2_22  4_4
+    4  3_33  6_0
+    6  5_55  +1_5
+    3  4_2-7  1_0 //]
+BEM[]
+MEL_SEM[0 -3 3 0 -3 3 -2 -3 0 2 3 0 -3 3 0 -3 3 -2 -3 0 2 0 -2 0 0 3 0 0 -1 0 0 5 0 -2 0 0 5 -5 -3 1 -3 -3 1]
+MEL_RAW[5  535  53
+    5  422  30
+    5  535  53
+    5  422  30
+    3  222  44
+    4  333  60
+    6  555  +15
+    3  42-7  10]
+NO_REP[5353
+    54230
+    5353
+    54230
+    324
+    4360
+    65+15
+    342-710]
+RTM[x  x_xx  x_x
+    x  x_xx  x_x
+    x  x_xx  x_x
+    x  x_xx  x_x
+    x  x_xx  x_x
+    x  x_xx  x_x
+    x  x_xx  x_x
+    x  x_xx  x_x]
+SCL_DEG[-7123456+1]
+SCL_SEM[1 2 2 1 2 2 3]
+

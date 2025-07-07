@@ -1,0 +1,20 @@
+ZUCCAL
+CUT[WENN ICH EIN VOEGLEIN WAER]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z0149]
+KEY[Z0149   08  G 3/4]
+MEL[1_1_1_  3_.21_  3_3_3_  5_.43_  5_4_3_  2__0_
+    2__1-7  1_2_3_  4__32  3_4_5_  543_2_  1__0_ //]
+BEM[]
+MEL_SEM[0 0 4 -2 -2 4 0 0 3 -2 -1 3 -2 -1 -2 0 -2 -1 1 2 2 1 -1 -2 2 1 2 0 -2 -1 -2 -2]
+MEL_RAW[111  321  333  543  543  20
+    21-7  123  432  345  5432  10]
+NO_REP[1321354354320
+    21-712343234543210]
+RTM[x_x_x_  x_.xx_  x_x_x_  x_.xx_  x_x_x_  x__x_
+    x__xx  x_x_x_  x__xx  x_x_x_  xxx_x_  x__x_]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

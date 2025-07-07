@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[AUS ENGLAND KAM EIN BETTLER HERAUS]
+REG[Europa, Mitteleuropa, Deutschland, Nord - Deutschland]
+TRD[]
+FKT[]
+SIG[Z0168]
+KEY[Z0168   08  F 4/4]
+MEL[13  5_333456  54222_
+    34  65435432  6_5_3_
+    13  5_332456  54222_
+    34  43333456  54222_
+    34  65435432  1_5_3_ //]
+BEM[]
+MEL_SEM[4 3 -3 0 0 1 2 2 -2 -2 -3 0 0 2 1 4 -2 -2 -1 3 -2 -1 -2 7 -2 -3 -4 4 3 -3 0 -2 3 2 2 -2 -2 -3 0 0 2 1 0 -1 0 0 0 1 2 2 -2 -2 -3 0 0 2 1 4 -2 -2 -1 3 -2 -1 -2 -2 7 -3]
+MEL_RAW[13  5333456  54222
+    34  65435432  653
+    13  5332456  54222
+    34  43333456  54222
+    34  65435432  153]
+NO_REP[1353456542
+    3465435432653
+    13532456542
+    343456542
+    3465435432153]
+RTM[xx  x_xxxxxx  xxxxx_
+    xx  xxxxxxxx  x_x_x_
+    xx  x_xxxxxx  xxxxx_
+    xx  xxxxxxxx  xxxxx_
+    xx  xxxxxxxx  x_x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

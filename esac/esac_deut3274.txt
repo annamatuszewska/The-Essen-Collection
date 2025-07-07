@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt wohl ein Koenig sich ane dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+TRD[4, S. 104
+    1840 gedruckt in Berlin]
+FKT[]
+SIG[Q0075E]
+KEY[Q0075E  08  F 2/4]
+MEL[2  5_22  5432  1_22  1_0
+    3  2_22  -6_-7-7  1_-7-6  -5_0
+    -5  1_1_  2_55  3_23  1_0 //]
+BEM[]
+MEL_SEM[5 -5 0 5 -2 -1 -2 -2 2 0 -2 4 -2 0 0 -5 2 0 1 -1 -2 -2 0 5 0 2 5 0 -3 -2 2 -4]
+MEL_RAW[2  522  5432  122  10
+    3  222  -6-7-7  1-7-6  -50
+    -5  11  255  323  10]
+NO_REP[25254321210
+    32-6-71-7-6-50
+    -512532310]
+RTM[x  x_xx  xxxx  x_xx  x_x
+    x  x_xx  x_xx  x_xx  x_x
+    x  x_x_  x_xx  x_xx  x_x]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

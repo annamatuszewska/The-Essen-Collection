@@ -1,0 +1,25 @@
+ZUCCAL
+CUT[Das Dutzend voll
+    DIE MUTTER ZEIHT MICH]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1187]
+KEY[Z1187   08 Ab 3/4]
+MEL[12  3_1_3_  2_-7_1_  -6_0_2_  -5_0_
+    12  3_1_4_  331_2_  -6_0_-7_  1_0_
+    12  3_1_4_  331_2_  -6_0_-7_  1_0_ //]
+BEM[]
+MEL_SEM[2 2 -4 4 -2 -3 1 -3 5 -7 5 2 2 -4 5 -1 0 -4 2 -5 2 1 0 2 2 -4 5 -1 0 -4 2 -5 2 1]
+MEL_RAW[12  313  2-71  -602  -50
+    12  314  3312  -60-7  10
+    12  314  3312  -60-7  10]
+NO_REP[123132-71-602-50
+    12314312-60-710
+    12314312-60-710]
+RTM[xx  x_x_x_  x_x_x_  x_x_x_  x_x_
+    xx  x_x_x_  xxx_x_  x_x_x_  x_x_
+    xx  x_x_x_  xxx_x_  x_x_x_  x_x_]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

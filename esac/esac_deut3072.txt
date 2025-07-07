@@ -1,0 +1,27 @@
+BALLADEN
+CUT[Der Maedchenmoerder (Halewijn - Ulinger)
+    Schoen Heinrich wollt' spazieren gehn,]
+REG[Mitteleuropa, Deutschland / Polen, Grenzmark - Westpreussen, Kreis
+    Flatow, Dollnik]
+TRD[2, S. 79
+    1904 aufgezeichnet]
+FKT[]
+SIG[Q0041C]
+KEY[Q0041C  08  F 6/8]
+MEL[-5  1_33_2  2_-7-5_
+    2  2_66_5  5_31_
+    5  4_2-5_2  2_11_ //]
+BEM[]
+MEL_SEM[5 4 0 -2 0 -3 -4 7 0 7 0 -2 0 -3 -4 7 -2 -3 -7 7 0 -2 0]
+MEL_RAW[-5  1332  2-7-5
+    2  2665  531
+    5  42-52  211]
+NO_REP[-5132-7-5
+    26531
+    542-521]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

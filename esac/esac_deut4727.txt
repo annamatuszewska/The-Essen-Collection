@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[UNSER BRUDER MALCHER, DER WULLT A REITER WAEREN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[Z0228]
+KEY[Z0228   16  C 3/8]
+MEL[123_4_  5_5_0
+    3  434_2_  3_1_0
+    -7  123_4_  5_5_0
+    3  434_2_  1__0
+    5  555_05  654_0
+    4  234_04  543_0_
+    5_-7_-7_  12345_
+    5_-7_-7_  1__0_ //]
+BEM[]
+MEL_SEM[2 2 1 2 0 -3 1 -1 1 -3 2 -4 -1 1 2 2 1 2 0 -3 1 -1 1 -3 -2 7 0 0 0 0 2 -2 -2 0 -3 2 1 0 2 -2 -1 3 -8 0 1 2 2 1 2 0 -8 0 1]
+MEL_RAW[1234  550
+    3  4342  310
+    -7  1234  550
+    3  4342  10
+    5  55505  6540
+    4  23404  5430
+    5-7-7  12345
+    5-7-7  10]
+NO_REP[123450
+    34342310
+    -7123450
+    3434210
+    5056540
+    4234045430
+    5-712345
+    5-710]
+RTM[xxx_x_  x_x_x
+    x  xxx_x_  x_x_x
+    x  xxx_x_  x_x_x
+    x  xxx_x_  x__x
+    x  xxx_xx  xxx_x
+    x  xxx_xx  xxx_x_
+    x_x_x_  xxxxx_
+    x_x_x_  x__x_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

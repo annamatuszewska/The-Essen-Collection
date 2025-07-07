@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[JUNG HAENSCHEN SASS AM HOHEN THOR]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0090]
+KEY[Z0090   16  D 3/8]
+MEL[2_  5__6_  7b__+1_  6__7b_  5__
+    5_  4#_5_6_  5__
+    6_  7b__+1_  6__7b_  5__4#_  5__
+    4_  3b21_3b_  21-7_
+    -7_  1_2_3b_  4__5_  2_3b21_ //]
+BEM[]
+MEL_SEM[5 2 1 2 -3 1 -3 0 -1 1 2 -2 2 1 2 -3 1 -3 -1 1 -2 -2 -1 -2 3 -1 -2 -1 0 1 2 1 2 2 -5 1 -1 -2]
+MEL_RAW[2  56  7b+1  67b  5
+    5  4#56  5
+    6  7b+1  67b  54#  5
+    4  3b213b  21-7
+    -7  123b  45  23b21]
+NO_REP[2567b+167b5
+    54#565
+    67b+167b54#5
+    43b213b21-7
+    -7123b4523b21]
+RTM[x_  x__x_  x__x_  x__x_  x__
+    x_  x_x_x_  x__
+    x_  x__x_  x__x_  x__x_  x__
+    x_  xxx_x_  xxx_
+    x_  x_x_x_  x__x_  x_xxx_]
+SCL_DEG[-7123b44#567b+1]
+SCL_SEM[1 2 1 2 1 1 2 1 2]
+

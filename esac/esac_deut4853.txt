@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Juerg Drachentoedter
+    HERR KOENIG WAS RUFEST DU ACH UND WEH]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1037]
+KEY[Z1037   08  F 6/4]
+MEL[32  1_1_2_3_3_4_  5_.6543__
+    32  1_1_2_3_3_4_  5_.6543__0_  6__6_4__0_
+    5__543__5_  5_.4432__
+    2_  3_3_4_5_2_4_  3_.42_1__ //]
+BEM[]
+MEL_SEM[-2 -2 0 2 2 0 1 2 2 -2 -2 -1 0 -2 -2 0 2 2 0 1 2 2 -2 -2 -1 5 0 -4 2 0 -2 -1 3 0 -2 0 -1 -2 0 2 0 1 2 -5 3 -1 1 -3 -2]
+MEL_RAW[32  112334  56543
+    32  112334  565430  6640
+    55435  54432
+    2  334524  3421]
+NO_REP[32123456543
+    321234565430640
+    5435432
+    2345243421]
+RTM[xx  x_x_x_x_x_x_  x_.xxxx__
+    xx  x_x_x_x_x_x_  x_.xxxx__x_  x__x_x__x_
+    x__xxx__x_  x_.xxxx__
+    x_  x_x_x_x_x_x_  x_.xx_x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

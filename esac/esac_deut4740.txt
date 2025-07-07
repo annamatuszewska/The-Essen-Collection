@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[FRITZ STEFF DER STEHT HUEBSCH FEINE]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0241]
+KEY[Z0241   16  G 2/4]
+MEL[-5_  1_1_3_1_  5__65
+    3_  5_5_542_  1_1_3_
+    -5_  1_1_321_  5__65
+    3_  5_5_542_  -7__1_ //]
+BEM[]
+MEL_SEM[5 0 4 -4 7 2 -2 -3 3 0 0 -2 -3 -2 0 4 -9 5 0 4 -2 -2 7 2 -2 -3 3 0 0 -2 -3 -3 1]
+MEL_RAW[-5  1131  565
+    3  55542  113
+    -5  11321  565
+    3  55542  -71]
+NO_REP[-5131565
+    354213
+    -51321565
+    3542-71]
+RTM[x_  x_x_x_x_  x__xx
+    x_  x_x_xxx_  x_x_x_
+    x_  x_x_xxx_  x__xx
+    x_  x_x_xxx_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

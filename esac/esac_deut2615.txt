@@ -1,0 +1,44 @@
+BOEHME
+CUT[LIEBES MAEDCHEN HOER MIR ZU]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0410]
+KEY[B0410   08  D 2/4]
+MEL[3355  442_
+    3343  3_2_
+    3355  4#4#6_
+    7654#  6_50
+    4422  553_
+    +1+166  7_50
+    3355  +1+15_
+    6+2+17  +2_+10 //]
+BEM[]
+MEL_SEM[0 3 0 -2 0 -3 2 0 1 -1 0 -2 2 0 3 0 -1 0 3 2 -2 -2 -1 3 -2 -2 0 -3 0 5 0 -3 8 0 -3 0 2 -4 -3 0 3 0 5 0 -5 2 5 -2 -1 3 -2]
+MEL_RAW[3355  442
+    3343  32
+    3355  4#4#6
+    7654#  650
+    4422  553
+    +1+166  750
+    3355  +1+15
+    6+2+17  +2+10]
+NO_REP[3542
+    3432
+    354#6
+    7654#650
+    4253
+    +16750
+    35+15
+    6+2+17+2+10]
+RTM[xxxx  xxx_
+    xxxx  x_x_
+    xxxx  xxx_
+    xxxx  x_xx
+    xxxx  xxx_
+    xxxx  x_xx
+    xxxx  xxx_
+    xxxx  x_xx]
+SCL_DEG[2344#567+1+2]
+SCL_SEM[2 1 1 1 2 2 1 2]
+

@@ -1,0 +1,27 @@
+BALLADEN
+CUT[Der grausame Bruder
+    Es zog ein Kupferschmied wohl ueber den Rhein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Kr. Bolchen, Lauterfangen]
+TRD[3, S. 258
+    1914 aufgezeichnet]
+FKT[]
+SIG[Q0068J]
+KEY[Q0068J  08  G 2/4]
+MEL[-5  -5111  2_.3  3543  2_
+    23  4_42  3_32  1_-7_  -6_.
+    -6  2_32  1_42  3_2_  1_0 //]
+BEM[]
+MEL_SEM[0 5 0 0 2 2 0 3 -2 -1 -2 0 2 1 0 -3 2 0 -2 -2 -1 -2 0 5 2 -2 -2 5 -3 2 -2 -2]
+MEL_RAW[-5  -5111  23  3543  2
+    23  442  332  1-7  -6
+    -6  232  142  32  10]
+NO_REP[-51235432
+    2342321-7-6
+    -62321423210]
+RTM[x  xxxx  x_.x  xxxx  x_
+    xx  x_xx  x_xx  x_x_  x_.
+    x  x_xx  x_xx  x_x_  x_x]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

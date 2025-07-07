@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[ES GING EIN MAEDCHEN GRASEN]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0237]
+KEY[Z0237   08  G 4/4]
+MEL[-5_  1_.2345_  6_4_0_
+    5_  6_7_+1_76  5_0__
+    55  +1_5_5434  6_5_0_
+    54  33334342  3_4_5_
+    67  +1_543_.2  1_0__ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 2 -4 2 2 2 1 -1 -2 -2 0 0 5 -5 0 -2 -1 1 4 -2 0 -2 -1 0 0 0 1 -1 1 -3 2 1 2 2 2 1 -5 -2 -1 -2 -2]
+MEL_RAW[-5  12345  640
+    5  67+176  50
+    55  +155434  650
+    54  33334342  345
+    67  +15432  10]
+NO_REP[-512345640
+    567+17650
+    5+15434650
+    5434342345
+    67+1543210]
+RTM[x_  x_.xxxx_  x_x_x_
+    x_  x_x_x_xx  x_x__
+    xx  x_x_xxxx  x_x_x_
+    xx  xxxxxxxx  x_x_x_
+    xx  x_xxx_.x  x_x__]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

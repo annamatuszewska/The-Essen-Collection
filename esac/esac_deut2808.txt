@@ -1,0 +1,28 @@
+BOEHME
+CUT[SCHLAFE KINDLEIN HOLD UND SUESS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0621]
+KEY[B0621   16  G 3/4]
+MEL[1__.2_3_4_  6_5_3___
+    5_4_2__.2_  4_3_1__0__
+    5_4_2__.4_  6_5_3__0__
+    5__.3_4_2_  54322__1__ //]
+BEM[]
+MEL_SEM[2 2 1 4 -2 -3 3 -2 -3 0 3 -1 -4 7 -2 -3 3 4 -2 -3 3 -3 1 -3 5 -2 -1 -2 0 -2]
+MEL_RAW[1234  653
+    5422  4310
+    5424  6530
+    5342  543221]
+NO_REP[1234653
+    5424310
+    54246530
+    534254321]
+RTM[x__.x_x_x_  x_x_x___
+    x_x_x__.x_  x_x_x__x__
+    x_x_x__.x_  x_x_x__x__
+    x__.x_x_x_  xxxxx__x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

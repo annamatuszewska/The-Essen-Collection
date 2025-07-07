@@ -1,0 +1,28 @@
+BOEHME
+CUT[EIN JUNGES LAEMMCHEN WEISS WIE SCHNEE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0632]
+KEY[B0632   16  G 2/4]
+MEL[-5_  1_1_-7_-5_  3_3_2_
+    5_  4_3_2_1_  3__2_
+    -5_  4_4_3_1_  6_6_5_.
+    4  3_1_2_-7_  2__1_ //]
+BEM[]
+MEL_SEM[5 0 -1 -4 9 0 -2 5 -2 -1 -2 -2 4 -2 -7 10 0 -1 -4 9 0 -2 -2 -1 -4 2 -3 3 -2]
+MEL_RAW[-5  11-7-5  332
+    5  4321  32
+    -5  4431  665
+    4  312-7  21]
+NO_REP[-51-7-532
+    5432132
+    -543165
+    4312-721]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_.
+    x  x_x_x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

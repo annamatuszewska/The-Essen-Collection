@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[O SAG MIR AN, FRAU MUTTER LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0048]
+KEY[Z0048   16  D 6/8]
+MEL[12  3b__2_1__56  7b__6_5__
+    5_  4__5_4_3b_2_  3b__4_5__
+    5_  6b__7b_+1__5_  6b_5_4#_5__
+    2_  3b__4_5_4_3b_  4_3b_2_1__ //]
+BEM[]
+MEL_SEM[2 1 -1 -2 7 2 1 -1 -2 0 -2 2 -2 -2 -1 1 2 2 0 1 2 2 -5 1 -1 -1 1 -5 1 2 2 -2 -2 2 -2 -1 -2]
+MEL_RAW[12  3b2156  7b65
+    5  4543b2  3b45
+    5  6b7b+15  6b54#5
+    2  3b4543b  43b21]
+NO_REP[123b21567b65
+    54543b23b45
+    56b7b+156b54#5
+    23b4543b43b21]
+RTM[xx  x__x_x__xx  x__x_x__
+    x_  x__x_x_x_x_  x__x_x__
+    x_  x__x_x__x_  x_x_x_x__
+    x_  x__x_x_x_x_  x_x_x_x__]
+SCL_DEG[123b44#56b67b+1]
+SCL_SEM[2 1 2 1 1 1 1 1 2]
+

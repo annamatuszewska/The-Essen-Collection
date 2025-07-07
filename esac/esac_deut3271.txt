@@ -1,0 +1,27 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt ein Kaiser wohl an dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Westerwald, Kr. Altenkirchen,
+    Bachenberg]
+TRD[4, S. 71
+    1931 aufgezeichnet (ca.)]
+FKT[]
+SIG[Q0075B]
+KEY[Q0075B  08  D 3/4]
+MEL[334  5_3323  2_0
+    223  4_2_35  1_0_
+    34  5_055+1  +133_22  1_0 //]
+BEM[]
+MEL_SEM[0 1 2 -3 0 -2 2 -2 0 0 2 1 -3 2 3 -7 4 1 2 0 0 5 0 -8 0 -2 0 -2]
+MEL_RAW[334  53323  20
+    223  4235  10
+    34  5055+1  +13322  10]
+NO_REP[34532320
+    23423510
+    34505+13210]
+RTM[xxx  x_xxxx  x_x
+    xxx  x_x_xx  x_x_
+    xx  x_xxxx  xxx_xx  x_x]
+SCL_DEG[12345+1]
+SCL_SEM[2 2 1 2 5]
+

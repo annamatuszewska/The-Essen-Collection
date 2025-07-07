@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Nachtjaeger
+    Es blast ein Jaegerlein wohl in sein Horn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[6, S. 169
+    1926 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0133F]
+KEY[Q0133F  16  D 2/4]
+MEL[5_  5__+1_6_  5_.65_3_  4__4_6_  5__0_
+    5_  5__+1_6_  5_.65_3_  4__4_6_  5__0_
+    3_  3_2_3_5_  4_3_2_
+    1_  3_2_3_5_  4_3_2_1_  5__5__  3__0_ //]
+BEM[]
+MEL_SEM[0 5 -3 -2 2 -2 -3 1 0 4 -2 0 0 5 -3 -2 2 -2 -3 1 0 4 -2 -3 0 -2 2 3 -2 -1 -2 -2 4 -2 2 3 -2 -1 -2 -2 7 0 -3]
+MEL_RAW[5  5+16  5653  446  50
+    5  5+16  5653  446  50
+    3  3235  432
+    1  3235  4321  55  30]
+NO_REP[5+1656534650
+    5+1656534650
+    3235432
+    132354321530]
+RTM[x_  x__x_x_  x_.xx_x_  x__x_x_  x__x_
+    x_  x__x_x_  x_.xx_x_  x__x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_x_  x__x__  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

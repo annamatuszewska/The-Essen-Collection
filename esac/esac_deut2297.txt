@@ -1,0 +1,36 @@
+BOEHME
+CUT[ES IST IN DEINEN LIEDERN MEIN VOLK DIR PROPHEZEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0029]
+KEY[B0029   08  C 4/4]
+MEL[12  3_3_4_3_  522_0_
+    23  4_4_6_54  3__0_
+    1_  6_6_+1_76  655_0_
+    +1_  5_355_42  1__0_
+    1_  6_6_+1_76  655_0_
+    +1_  5_355_42  1__0_ //]
+BEM[]
+MEL_SEM[2 2 0 1 -1 3 -5 0 0 2 1 0 4 -2 -2 -1 -4 9 0 3 -1 -2 0 -2 0 5 -5 -3 3 0 -2 -3 -2 0 9 0 3 -1 -2 0 -2 0 5 -5 -3 3 0 -2 -3 -2]
+MEL_RAW[12  3343  5220
+    23  44654  30
+    1  66+176  6550
+    +1  535542  10
+    1  66+176  6550
+    +1  535542  10]
+NO_REP[12343520
+    23465430
+    16+17650
+    +15354210
+    16+17650
+    +15354210]
+RTM[xx  x_x_x_x_  xxx_x_
+    xx  x_x_x_xx  x__x_
+    x_  x_x_x_xx  xxx_x_
+    x_  x_xxx_xx  x__x_
+    x_  x_x_x_xx  xxx_x_
+    x_  x_xxx_xx  x__x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

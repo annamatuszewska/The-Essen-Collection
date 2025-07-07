@@ -1,0 +1,45 @@
+ZUCCAL
+CUT[Der Versucher
+    ACH ENGLISCHE SCHAEFERRIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[Z1169]
+KEY[Z1169   08  G 3/4]
+MEL[-5_  1_1_2_  345_
+    6_  5_3_23  1__
+    -5_  1_1_2_  345_
+    6_  5_3_23  1__
+    34  5_3_6_  542_
+    2_  3_.213  2__
+    -5_  1_1_2_  345_
+    6_  5_3_23  1__ //]
+BEM[]
+MEL_SEM[5 0 2 2 1 2 2 -2 -3 -2 2 -4 -5 5 0 2 2 1 2 2 -2 -3 -2 2 -4 4 1 2 -3 5 -2 -2 -3 0 2 -2 -2 4 -2 -7 5 0 2 2 1 2 2 -2 -3 -2 2 -4]
+MEL_RAW[-5  112  345
+    6  5323  1
+    -5  112  345
+    6  5323  1
+    34  536  542
+    2  3213  2
+    -5  112  345
+    6  5323  1]
+NO_REP[-512345
+    653231
+    -512345
+    653231
+    34536542
+    232132
+    -512345
+    653231]
+RTM[x_  x_x_x_  xxx_
+    x_  x_x_xx  x__
+    x_  x_x_x_  xxx_
+    x_  x_x_xx  x__
+    xx  x_x_x_  xxx_
+    x_  x_.xxx  x__
+    x_  x_x_x_  xxx_
+    x_  x_x_xx  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

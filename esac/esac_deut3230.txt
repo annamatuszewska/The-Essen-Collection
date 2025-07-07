@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der grausame Bruder
+    'Markrygrafen, kann ich jue Dochter wol krieg'n?']
+REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hannover, Gifhorn]
+TRD[3, S. 245
+    1874 aufgezeichnet]
+FKT[]
+SIG[Q0068B]
+KEY[Q0068B  16  F 6/8]
+MEL[-5_  -5_1_1_1_2_3_  3_2_1_2__
+    -5-5  4__5_3_.213  2_.1-7_1__
+    3_  4_.54_3_.213  2_.1-7_1__
+    3_  4_.54_3_.213  2_.1-7_1__ //]
+BEM[]
+MEL_SEM[0 5 0 0 2 2 0 -2 -2 2 -7 0 10 2 -3 -2 -2 4 -2 -2 -1 1 4 1 2 -2 -1 -2 -2 4 -2 -2 -1 1 4 1 2 -2 -1 -2 -2 4 -2 -2 -1 1]
+MEL_RAW[-5  -511123  3212
+    -5-5  453213  21-71
+    3  4543213  21-71
+    3  4543213  21-71]
+NO_REP[-5123212
+    -545321321-71
+    3454321321-71
+    3454321321-71]
+RTM[x_  x_x_x_x_x_x_  x_x_x_x__
+    xx  x__x_x_.xxx  x_.xx_x__
+    x_  x_.xx_x_.xxx  x_.xx_x__
+    x_  x_.xx_x_.xxx  x_.xx_x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

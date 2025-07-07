@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Schloss in Oesterreich
+    Ach junckfraw wolt jr mit mir gan?]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 271
+    1549 gedruckt in Nuernberg]
+FKT[]
+SIG[Q1024D]
+KEY[Q1024D  08  F FREI]
+MEL[1_2_2_3__4_5__3_1___0__.
+    +1__+1_+1_+1_7_5_6__5___.0___.0__
+    1_5__+1_7_5_6_5__5_3_
+    6_5_.43_2_1_-7_-6__-5_
+    -5_1_.2345__432__1___ //]
+BEM[]
+MEL_SEM[2 0 2 1 2 -3 -4 12 0 0 0 -1 -4 2 -2 -7 7 5 -1 -4 2 -2 0 -3 5 -2 -2 -1 -2 -2 -1 -2 -2 0 5 2 2 1 2 -2 -1 -2 -2]
+MEL_RAW[122345310
+    +1+1+1+1756500
+    15+1756553
+    654321-7-6-5
+    -5123454321]
+NO_REP[12345310
+    +175650
+    15+175653
+    654321-7-6-5
+    -5123454321]
+RTM[x_x_x_x__x_x__x_x___x__.
+    x__x_x_x_x_x_x__x___.x___.x__
+    x_x__x_x_x_x_x__x_x_
+    x_x_.xx_x_x_x_x__x_
+    x_x_.xxxx__xxx__x___]
+SCL_DEG[-5-6-71234567+1]
+SCL_SEM[2 2 1 2 2 1 2 2 2 1]
+

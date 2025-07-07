@@ -1,0 +1,28 @@
+BOEHME
+CUT[O KOENIGIN LIEB MUTTER MEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0130]
+KEY[B0130   16  D 6/8]
+MEL[12  3b__2_1__56  7b__6_5__
+    5_  4__7b_6__5_  6_5_4#_5__
+    5_  5_4_543b_4_5_  4_3b_2_3b__
+    3b1  -7b__3b_2_3b_1_  -7_1_2_1__ //]
+BEM[]
+MEL_SEM[2 1 -1 -2 7 2 1 -1 -2 0 -2 5 -1 -2 2 -2 -1 1 0 0 -2 2 -2 -2 2 2 -2 -2 -1 1 0 -3 -2 5 -1 1 -3 -1 1 2 -2]
+MEL_RAW[12  3b2156  7b65
+    5  47b65  654#5
+    5  54543b45  43b23b
+    3b1  -7b3b23b1  -7121]
+NO_REP[123b21567b65
+    547b65654#5
+    54543b4543b23b
+    3b1-7b3b23b1-7121]
+RTM[xx  x__x_x__xx  x__x_x__
+    x_  x__x_x__x_  x_x_x_x__
+    x_  x_x_xxx_x_x_  x_x_x_x__
+    xx  x__x_x_x_x_  x_x_x_x__]
+SCL_DEG[-7b-7123b44#567b]
+SCL_SEM[1 1 2 1 2 1 1 2 1]
+

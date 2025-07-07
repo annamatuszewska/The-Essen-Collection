@@ -1,0 +1,28 @@
+BOEHME
+CUT[SCHOEN IST DIE WELT]
+REG[Europa, Mitteleuropa, Deutschland, Oberhessen; Nassau]
+TRD[]
+FKT[]
+SIG[B0618]
+KEY[B0618   16  G 2/4]
+MEL[-5__-6_-7_  1__.
+    12  3_3_5_3_  3_2_0_
+    5_  4_.32_1_  -7_
+    -6_-5_4_  3__2__  1__0__ //]
+BEM[]
+MEL_SEM[2 2 1 0 2 2 0 3 -3 0 -2 5 -2 -1 -2 -2 -1 -2 -2 10 -1 -2 -2]
+MEL_RAW[-5-6-7  1
+    12  3353  320
+    5  4321  -7
+    -6-54  32  10]
+NO_REP[-5-6-71
+    1235320
+    54321-7
+    -6-543210]
+RTM[x__x_x_  x__.
+    xx  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x_
+    x_x_x_  x__x__  x__x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

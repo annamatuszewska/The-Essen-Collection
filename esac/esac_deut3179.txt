@@ -1,0 +1,39 @@
+BALLADEN
+CUT[Wiedersehen an der Bahre
+    'Ach holdes Kind, was wirst du tun?]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oberschlesien,
+    Kr. Kreuzburg]
+TRD[3, S. 86
+    ????]
+FKT[]
+SIG[Q0056O]
+KEY[Q0056O  08  F 4/4 2/4 3/4]
+MEL[113  5_5_4_5_  3__.
+    1_  4_.6+1_76  6_5__
+    5_  6543  322
+    1  -725_.4  6_5__
+    5_  6543  322
+    1  -725_.4  4_3_0 //]
+BEM[]
+MEL_SEM[0 4 3 0 -2 2 -3 -4 5 4 3 -1 -2 0 -2 0 2 -2 -2 -1 0 -2 0 -2 -1 3 5 -2 4 -2 0 2 -2 -2 -1 0 -2 0 -2 -1 3 5 -2 0 -1]
+MEL_RAW[113  5545  3
+    1  46+176  65
+    5  6543  322
+    1  -7254  65
+    5  6543  322
+    1  -7254  430]
+NO_REP[135453
+    146+1765
+    565432
+    1-725465
+    565432
+    1-725430]
+RTM[xxx  x_x_x_x_  x__.
+    x_  x_.xx_xx  x_x__
+    x_  xxxx  xxx
+    x  xxx_.x  x_x__
+    x_  xxxx  xxx
+    x  xxx_.x  x_x_x]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

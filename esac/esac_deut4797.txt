@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[JETZT GEH ICH ANS BRUENNELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Rhein; Schwaben]
+TRD[]
+FKT[]
+SIG[Z0299]
+KEY[Z0299   16  G 3/8]
+MEL[-5_  1_.-712  3_.43_  322_23  1_0_
+    1_  3_.234  5_.65_  544_5_  3_0_
+    5_  544_4_  3_543_  2_2_2_  3_0_
+    5_  544_4_  3_543_  2_2_2_  3_0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 1 -1 0 -2 0 0 2 -4 0 4 -2 2 1 2 2 -2 0 -2 0 2 -3 3 0 -2 0 0 -1 3 -2 -1 -2 0 0 2 3 0 -2 0 0 -1 3 -2 -1 -2 0 0 2]
+MEL_RAW[-5  1-712  343  32223  10
+    1  3234  565  5445  30
+    5  5444  3543  222  30
+    5  5444  3543  222  30]
+NO_REP[-51-7123432310
+    132345654530
+    543543230
+    543543230]
+RTM[x_  x_.xxx  x_.xx_  xxx_xx  x_x_
+    x_  x_.xxx  x_.xx_  xxx_x_  x_x_
+    x_  xxx_x_  x_xxx_  x_x_x_  x_x_
+    x_  xxx_x_  x_xxx_  x_x_x_  x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

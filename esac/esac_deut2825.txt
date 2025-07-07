@@ -1,0 +1,36 @@
+BOEHME
+CUT[A A A DER WINTER DER IST DA]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0637]
+KEY[B0637   08  G 2/4]
+MEL[3_4_  5_0
+    4  3322  1_0_
+    5544  3322
+    5544  3322
+    3_4_  5_0
+    4  3322  1_0_ //]
+BEM[]
+MEL_SEM[1 2 -2 -1 0 -2 0 -2 7 0 -2 0 -1 0 -2 0 5 0 -2 0 -1 0 -2 0 2 1 2 -2 -1 0 -2 0 -2]
+MEL_RAW[34  50
+    4  3322  10
+    5544  3322
+    5544  3322
+    34  50
+    4  3322  10]
+NO_REP[3450
+    43210
+    5432
+    5432
+    3450
+    43210]
+RTM[x_x_  x_x
+    x  xxxx  x_x_
+    xxxx  xxxx
+    xxxx  xxxx
+    x_x_  x_x
+    x  xxxx  x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

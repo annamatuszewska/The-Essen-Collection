@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Des Grafen Toechterlein
+    Graf Friederich wollt ausreiten]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 186
+    1926 gedruckt in Heidelberg]
+FKT[]
+SIG[Q1063B]
+KEY[Q1063B  16  F FREI]
+MEL[-5__  1_1_1__2__.3_  4_3_2__
+    3_2_  1__-5__1_1_2_3_  4_5_2__
+    2__.  1_-7_-6_-5_.-6-5_-5_  1__2_2_3_1_2__
+    4_4_  3__2__1__-5__1_2_  3_3_2__1__ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 1 -1 -2 2 -2 -2 -5 5 0 2 2 1 2 -5 0 -2 -1 -2 -2 2 -2 0 5 2 0 2 -4 2 3 0 -1 -2 -2 -5 5 2 2 0 -2 -2]
+MEL_RAW[-5  11123  432
+    32  1-51123  452
+    2  1-7-6-5-6-5-5  122312
+    44  321-512  3321]
+NO_REP[-5123432
+    321-5123452
+    21-7-6-5-6-512312
+    4321-512321]
+RTM[x__  x_x_x__x__.x_  x_x_x__
+    x_x_  x__x__x_x_x_x_  x_x_x__
+    x__.  x_x_x_x_.xx_x_  x__x_x_x_x_x__
+    x_x_  x__x__x__x__x_x_  x_x_x__x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

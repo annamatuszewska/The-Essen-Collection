@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Es reitet ein Reiter wohl durch das Land.]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Walschbronn]
+TRD[4, S. 31
+    1928 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0072H]
+KEY[Q0072H  08  G 3/8]
+MEL[1  133  321  2_3  20
+    3  321  2_5  432  10
+    3  5_3  565  432  10
+    1  334  5_3  232  10 //]
+BEM[]
+MEL_SEM[0 4 0 0 -2 -2 2 2 -2 2 0 -2 -2 2 5 -2 -1 -2 -2 4 3 -3 3 2 -2 -2 -1 -2 -2 0 4 0 1 2 -3 -2 2 -2 -2]
+MEL_RAW[1  133  321  23  20
+    3  321  25  432  10
+    3  53  565  432  10
+    1  334  53  232  10]
+NO_REP[13212320
+    3212543210
+    35356543210
+    1345323210]
+RTM[x  xxx  xxx  x_x  xx
+    x  xxx  x_x  xxx  xx
+    x  x_x  xxx  xxx  xx
+    x  xxx  x_x  xxx  xx]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

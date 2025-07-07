@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der Lohn
+    ES RITT EIN HERR UND AUCH SEIN KNECHT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1067]
+KEY[Z1067   16  G 3/8]
+MEL[-5_  -7b__-7_  1__23b  4__3b_  2__
+    2_  3b__4_  5_2_5_  4__3b_  2__
+    1_  5_4_6b_  5_2_3b_  1_2_1-6b  -5__
+    23b  4_3b_2_  1__ //]
+BEM[]
+MEL_SEM[3 1 1 2 1 2 -2 -1 0 1 2 2 -5 5 -2 -2 -1 -2 7 -2 3 -1 -5 1 -3 2 -2 -4 -1 7 1 2 -2 -1 -2]
+MEL_RAW[-5  -7b-7  123b  43b  2
+    2  3b4  525  43b  2
+    1  546b  523b  121-6b  -5
+    23b  43b2  1]
+NO_REP[-5-7b-7123b43b2
+    23b452543b2
+    1546b523b121-6b-5
+    23b43b21]
+RTM[x_  x__x_  x__xx  x__x_  x__
+    x_  x__x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  x_x_x_  x_x_xx  x__
+    xx  x_x_x_  x__]
+SCL_DEG[-5-6b-7b-7123b456b]
+SCL_SEM[1 2 1 1 2 1 2 2 1]
+

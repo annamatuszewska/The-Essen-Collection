@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Schloss in Oesterreich
+    Es liegt ein Schloss in Oesterreich,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Gruenberg, Drentkau]
+TRD[1, S. 254
+    1847 aufgezeichnet]
+FKT[]
+SIG[Q0024C]
+KEY[Q0024C  08  F 6/8]
+MEL[-5  1_3321  2_443
+    2  3_5543  320_.
+    5  5_33_3  5422_
+    4  35324-7  210_. //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 2 3 0 -1 -2 2 3 0 -2 -1 0 -2 5 0 -3 0 0 3 -2 -3 0 3 -1 3 -3 -2 3 -6 3 -2]
+MEL_RAW[-5  13321  2443
+    2  35543  320
+    5  5333  5422
+    4  35324-7  210]
+NO_REP[-51321243
+    2354320
+    53542
+    435324-7210]
+RTM[x  x_xxxx  x_xxx
+    x  x_xxxx  xxx_.
+    x  x_xx_x  xxxx_
+    x  xxxxxx  xxx_.]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

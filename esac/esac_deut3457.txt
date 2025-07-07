@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Waise und Stiefmutter
+    Ein armes Maedchen war,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau, Steinperf]
+TRD[5, S. 299
+    1922 aufgezeichnet]
+FKT[]
+SIG[Q0116B]
+KEY[Q0116B  08  G 6/8]
+MEL[-5  1_-7-6_-5  -4_.^_
+    -5  -7_-6-5_-4  -3_.^_
+    -5  3_32_3  4_.^_
+    -6  -5_22_3  1_.^_ //]
+BEM[]
+MEL_SEM[5 -1 -2 -2 -2 2 4 -2 -2 -2 -1 3 9 0 -2 2 1 -8 -2 7 0 2 -4]
+MEL_RAW[-5  1-7-6-5  -4^
+    -5  -7-6-5-4  -3^
+    -5  3323  4^
+    -6  -5223  1^]
+NO_REP[-51-7-6-5-4^
+    -5-7-6-5-4-3^
+    -53234^
+    -6-5231^]
+RTM[x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_]
+SCL_DEG[-3-4-5-6-71234]
+SCL_SEM[1 2 2 2 1 2 2 1]
+

@@ -1,0 +1,45 @@
+ZUCCAL
+CUT[Der Kaefig
+    O I HERZENSSCHOENS SCHOZZERL]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+TRD[]
+FKT[]
+SIG[Z1228]
+KEY[Z1228   08  G 3/4]
+MEL[54  3_3_3_  3_.4
+    56  5_.43_  2__
+    54  3_3_22  3_.4
+    56  5_4_3_  2__
+    23  4_4_4_  6_6_
+    54  3_3_46  5_0_
+    54  565434  5654
+    34  543_2_  3_3_3_  3__ //]
+BEM[]
+MEL_SEM[-2 -1 0 0 0 1 2 2 -2 -2 -1 -2 5 -2 -1 0 -2 0 2 1 2 2 -2 -2 -1 -2 0 2 1 0 0 4 0 -2 -2 -1 0 1 4 -2 0 -2 2 2 -2 -2 -1 1 2 2 -2 -2 -1 1 2 -2 -1 -2 2 0 0 0]
+MEL_RAW[54  333  34
+    56  543  2
+    54  3322  34
+    56  543  2
+    23  444  66
+    54  3346  50
+    54  565434  5654
+    34  5432  333  3]
+NO_REP[5434
+    565432
+    543234
+    565432
+    2346
+    5434650
+    545654345654
+    3454323]
+RTM[xx  x_x_x_  x_.x
+    xx  x_.xx_  x__
+    xx  x_x_xx  x_.x
+    xx  x_x_x_  x__
+    xx  x_x_x_  x_x_
+    xx  x_x_xx  x_x_
+    xx  xxxxxx  xxxx
+    xx  xxx_x_  x_x_x_  x__]
+SCL_DEG[23456]
+SCL_SEM[2 1 2 2]
+

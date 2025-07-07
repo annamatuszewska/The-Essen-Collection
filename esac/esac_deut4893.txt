@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die Rosen
+    ES WOLLT EIN MAEDCHEN WASSER HOLEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z1078]
+KEY[Z1078   16  C 2/4]
+MEL[5_  +1_5_3_5_  +1_.7+1+1
+    +2_  +3_+1_7_.6  6__5_
+    5_  6_5_6543  3_4_5_
+    5_  +1_+1_+3_+1_  7__+1_ //]
+BEM[]
+MEL_SEM[5 -5 -3 3 5 -1 1 0 2 2 -4 -1 -2 0 -2 0 2 -2 2 -2 -2 -1 0 1 2 0 5 0 4 -4 -1 1]
+MEL_RAW[5  +1535  +17+1+1
+    +2  +3+176  65
+    5  656543  345
+    5  +1+1+3+1  7+1]
+NO_REP[5+1535+17+1
+    +2+3+1765
+    565654345
+    5+1+3+17+1]
+RTM[x_  x_x_x_x_  x_.xxx
+    x_  x_x_x_.x  x__x_
+    x_  x_x_xxxx  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[34567+1+2+3]
+SCL_SEM[1 2 2 2 1 2 2]
+

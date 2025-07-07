@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Waise und Stiefmutter
+    Wer lieben will, muss leiden,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen]
+TRD[5, S. 299
+    1894 gedruckt in Leipzig]
+FKT[]
+SIG[Q1116C]
+KEY[Q1116C  16  G 6/8]
+MEL[-5_  1__-3_-6__-5_  -5_-4_0__.
+    -71  2__-4_-6__-5_  -3__0__.
+    -5_  3__2_1__-7_  -7_-6_0__.
+    -6-6  -5__1_-7_-6_-7_  1__0__. //]
+BEM[]
+MEL_SEM[5 -8 5 -2 0 -2 6 1 2 -9 4 -2 -3 3 9 -2 -2 -1 0 -2 0 0 -2 5 -1 -2 2 1]
+MEL_RAW[-5  1-3-6-5  -5-40
+    -71  2-4-6-5  -30
+    -5  321-7  -7-60
+    -6-6  -51-7-6-7  10]
+NO_REP[-51-3-6-5-40
+    -712-4-6-5-30
+    -5321-7-60
+    -6-51-7-6-710]
+RTM[x_  x__x_x__x_  x_x_x__.
+    xx  x__x_x__x_  x__x__.
+    x_  x__x_x__x_  x_x_x__.
+    xx  x__x_x_x_x_  x__x__.]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

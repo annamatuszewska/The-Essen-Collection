@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Der verrathene Ritter 
+    GAR HEIMLICH GEHT DER MOND AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1013]
+KEY[Z1013   16  C 2/4]
+MEL[-5_  1_2_3b_1_  -7_1_2_0_
+    1__5__  4_5_1_
+    1_  2_2_5_5_  3b_23b1__
+    1_-712__  1_-712__
+    1__5_5_  3b_23b1_ //]
+BEM[]
+MEL_SEM[5 2 1 -3 -1 1 2 -2 7 -2 2 -7 0 2 0 5 0 -4 -1 1 -3 0 -1 1 2 -2 -1 1 2 -2 7 0 -4 -1 1 -3]
+MEL_RAW[-5  123b1  -7120
+    15  451
+    1  2255  3b23b1
+    1-712  1-712
+    155  3b23b1]
+NO_REP[-5123b1-7120
+    15451
+    1253b23b1
+    1-7121-712
+    153b23b1]
+RTM[x_  x_x_x_x_  x_x_x_x_
+    x__x__  x_x_x_
+    x_  x_x_x_x_  x_xxx__
+    x_xxx__  x_xxx__
+    x__x_x_  x_xxx_]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

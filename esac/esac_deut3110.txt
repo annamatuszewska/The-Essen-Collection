@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Graf Friedrich
+    Graf Friedrich wollt' ausreiten]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[2, S. 215
+    1934 aufgezeichnet]
+FKT[]
+SIG[Q0048G]
+KEY[Q0048G  08  F FREI]
+MEL[-5_  2__3_1__23  4_3_2_0__
+    -5_  2__321__23  4_3_2_0__0
+    1  ^_-7_1_  -6_-5_2_2__1_  2__0_
+    5_3_2_  1_.-7-6_-5-6-7_  1__ //]
+BEM[]
+MEL_SEM[7 2 -4 2 2 1 -1 -2 -7 7 2 -2 -2 2 2 1 -1 -2 -2 -1 1 -3 -2 7 0 -2 2 5 -3 -2 -2 -1 -2 -2 2 2 1]
+MEL_RAW[-5  23123  4320
+    -5  232123  43200
+    1  ^-71  -6-5221  20
+    532  1-7-6-5-6-7  1]
+NO_REP[-5231234320
+    -52321234320
+    1^-71-6-52120
+    5321-7-6-5-6-71]
+RTM[x_  x__x_x__xx  x_x_x_x__
+    x_  x__xxx__xx  x_x_x_x__x
+    x  x_x_x_  x_x_x_x__x_  x__x_
+    x_x_x_  x_.xx_xxx_  x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

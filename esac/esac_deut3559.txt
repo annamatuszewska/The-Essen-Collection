@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Winterrosen
+    Ein Maedchen wollte Wasser hol'n]
+REG[Mitteleuropa, Deutschland / Polen, Pommern, Stettin, Sandfoerde]
+TRD[7, S. 46
+    1930 aufgezeichnet (vor)]
+FKT[]
+SIG[Q0145A]
+KEY[Q0145A  08 Bb 2/4]
+MEL[5  6555  655
+    5  6543  3_2_
+    1335  5__  355+1  +3__  0
+    +3+16  5_.7  +2__  +1_. //]
+BEM[]
+MEL_SEM[2 -2 0 0 2 -2 0 0 2 -2 -2 -1 0 -2 -2 4 0 3 0 -3 3 0 5 4 0 -4 -3 -2 4 3 -2]
+MEL_RAW[5  6555  655
+    5  6543  32
+    1335  5  355+1  +3  0
+    +3+16  57  +2  +1]
+NO_REP[56565
+    565432
+    13535+1+30
+    +3+1657+2+1]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x_
+    xxxx  x__  xxxx  x__  x
+    xxx  x_.x  x__  x_.]
+SCL_DEG[1234567+1+2+3]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

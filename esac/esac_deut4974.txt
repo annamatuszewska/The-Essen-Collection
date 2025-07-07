@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Liebeslied der Wandernden
+    DAS LIEBEN MACHT GROSS' FREUD]
+REG[Europa, Mitteleuropa, Deutschland, Lothringen]
+TRD[]
+FKT[]
+SIG[Z1160]
+KEY[Z1160   08  G 4/4]
+MEL[-5_  1_.23_4_  5__0_
+    13  5_5_4_4_  3__0_
+    1_  3_5_5_6_  5_4_4_
+    5_  3_3_3_5_  3_212_
+    12  3__.46  5__.
+    13  5_5_4_4_  3__0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 -7 4 3 0 -2 0 -1 -4 4 3 0 2 -2 -2 0 2 -3 0 0 3 -3 -2 -2 2 -2 2 2 1 4 -2 -7 4 3 0 -2 0 -1]
+MEL_RAW[-5  1234  50
+    13  5544  30
+    1  3556  544
+    5  3335  3212
+    12  346  5
+    13  5544  30]
+NO_REP[-5123450
+    135430
+    135654
+    5353212
+    123465
+    135430]
+RTM[x_  x_.xx_x_  x__x_
+    xx  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_xxx_
+    xx  x__.xx  x__.
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

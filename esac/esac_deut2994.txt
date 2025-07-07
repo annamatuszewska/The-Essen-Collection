@@ -1,0 +1,50 @@
+BALLADEN
+CUT[Herzog Ernst
+    Es was einmal ein reicher man,]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 87
+    1545 gedruckt in Leipzig]
+FKT[]
+SIG[Q0010B]
+KEY[Q0010B  08  E FREI]
+MEL[4__4_1_4_4_4_5_6b_6b_5_4_
+    6b_6b6b6b_6b_6b_7b_6b_5_
+    4_6b6b5_4_4_1_1_
+    4__4_1_4_4_4_5_6b_6b_5_4_
+    6b_6b__6b_6b_7b_6b_5_
+    4_6b_5_4_4_1_1_0_
+    5_7b_6b_5_4_3b_3b_3b_1_-6b_
+    1_3b3b3b_3b_3b_4_3b_
+    4_5_6b_5_4_3b_4_1_2b_1___ //]
+BEM[]
+MEL_SEM[0 -5 5 0 0 2 1 0 -1 -2 3 0 0 0 0 0 2 -2 -1 -2 3 0 -1 -2 0 -5 0 5 0 -5 5 0 0 2 1 0 -1 -2 3 0 0 0 2 -2 -1 -2 3 -1 -2 0 -5 0 7 3 -2 -1 -2 -2 0 0 -3 -4 4 3 0 0 0 0 2 -2 2 2 1 -1 -2 -2 2 -5 1 -1]
+MEL_RAW[44144456b6b54
+    6b6b6b6b6b6b7b6b5
+    46b6b54411
+    44144456b6b54
+    6b6b6b6b7b6b5
+    46b544110
+    57b6b543b3b3b1-6b
+    13b3b3b3b3b43b
+    456b543b412b1]
+NO_REP[41456b54
+    6b7b6b5
+    46b541
+    41456b54
+    6b7b6b5
+    46b5410
+    57b6b543b1-6b
+    13b43b
+    456b543b412b1]
+RTM[x__x_x_x_x_x_x_x_x_x_x_
+    x_xxx_x_x_x_x_x_
+    x_xxx_x_x_x_x_
+    x__x_x_x_x_x_x_x_x_x_x_
+    x_x__x_x_x_x_x_
+    x_x_x_x_x_x_x_x_
+    x_x_x_x_x_x_x_x_x_x_
+    x_xxx_x_x_x_x_
+    x_x_x_x_x_x_x_x_x_x___]
+SCL_DEG[-6b12b3b456b7b]
+SCL_SEM[4 1 2 2 2 1 2]
+

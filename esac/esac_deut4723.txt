@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ZEUCH FAHLE ZEUCH, MORGEN WOLL'N WIR HABER SAEEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0224]
+KEY[Z0224   04  F 4/4]
+MEL[0534  5__
+    3543  221_
+    3543  221_
+    3_22  1_0_ //]
+BEM[]
+MEL_SEM[-3 1 2 -3 3 -2 -1 -2 0 -2 4 3 -2 -1 -2 0 -2 4 -2 0 -2]
+MEL_RAW[0534  5
+    3543  221
+    3543  221
+    322  10]
+NO_REP[05345
+    354321
+    354321
+    3210]
+RTM[xxxx  x__
+    xxxx  xxx_
+    xxxx  xxx_
+    x_xx  x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

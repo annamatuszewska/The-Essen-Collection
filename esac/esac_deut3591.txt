@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Der Jaeger auf koeniglicher Heide
+    Ein Jaeger wollte jagen,]
+REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Laufen a.d. Eyach]
+TRD[7, S. 158
+    1925 aufgezeichnet]
+FKT[]
+SIG[Q0150A]
+KEY[Q0150A  16  C 2/4]
+MEL[5_  5_5_5_5_  3_5_+1_
+    +1_  +1_+1_+1_+1_  7_+2_+2_
+    +1_  7_7_6677  +1_+3_+1_ //]
+BEM[]
+MEL_SEM[0 0 0 0 -3 3 5 0 0 0 0 0 -1 3 0 -2 -1 0 -2 0 2 0 1 4 -4]
+MEL_RAW[5  5555  35+1
+    +1  +1+1+1+1  7+2+2
+    +1  776677  +1+3+1]
+NO_REP[535+1
+    +17+2
+    +1767+1+3+1]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_xxxx  x_x_x_]
+SCL_DEG[3567+1+2+3]
+SCL_SEM[3 2 2 1 2 2]
+

@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt ein Kaiser an dem Rhein,]
+REG[Mitteleuropa, Deutschland / Polen, Westpreussen, Neumark]
+TRD[4, S. 116
+    ????]
+FKT[]
+SIG[Q0075m]
+KEY[Q0075m  08  F 3/4 2/4]
+MEL[113  5_3_46  2_0
+    223  4_2_35  1_
+    34  5_0+1+1+1  +1_3_22  1_0 //]
+BEM[]
+MEL_SEM[0 4 3 -3 1 4 -7 0 0 2 1 -3 2 3 -7 4 1 2 5 0 0 0 -8 -2 0 -2]
+MEL_RAW[113  5346  20
+    223  4235  1
+    34  50+1+1+1  +1322  10]
+NO_REP[13534620
+    2342351
+    3450+13210]
+RTM[xxx  x_x_xx  x_x
+    xxx  x_x_xx  x_
+    xx  x_xxxx  x_x_xx  x_x]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

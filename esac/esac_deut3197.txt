@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Der Scheintod
+    Maria ist ein liechter Stern,]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 120
+    1660 gedruckt]
+FKT[]
+SIG[Q1058D]
+KEY[Q1058D  04  F 6/4]
+MEL[31_2  3_5312  3_
+    35_4  324352  1_ //]
+BEM[]
+MEL_SEM[-4 2 2 3 -3 -4 2 2 0 3 -2 -1 -2 3 -1 3 -5 -2]
+MEL_RAW[312  35312  3
+    354  324352  1]
+NO_REP[312353123
+    3543243521]
+RTM[xx_x  x_xxxx  x_
+    xx_x  xxxxxx  x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

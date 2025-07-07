@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    Es spielt' ein Ritter mit einer Dam',]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Strehlen, Krummendorf]
+TRD[3, S. 63
+    ????]
+FKT[]
+SIG[Q0055j]
+KEY[Q0055j  16  G 2/4]
+MEL[1_4_3_  221_-7_-7_  1__
+    5__  6_5_4_2_  2__1_0_  0_
+    1_4_3_  2_1_-7_-7_  1__
+    5__  6_5_4_2_  2__1_0_  0_ //]
+BEM[]
+MEL_SEM[5 -1 -2 0 -2 -1 0 1 7 2 -2 -2 -3 0 -2 0 5 -1 -2 -2 -1 0 1 7 2 -2 -2 -3 0 -2]
+MEL_RAW[143  221-7-7  1
+    5  6542  210  0
+    143  21-7-7  1
+    5  6542  210  0]
+NO_REP[14321-71
+    5654210
+    14321-71
+    5654210]
+RTM[x_x_x_  xxx_x_x_  x__
+    x__  x_x_x_x_  x__x_x_  x_
+    x_x_x_  x_x_x_x_  x__
+    x__  x_x_x_x_  x__x_x_  x_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

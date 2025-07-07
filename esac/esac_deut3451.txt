@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Rabenmutter
+    ohne Text]
+REG[Mitteleuropa, Deutschland (BRD) , Saar]
+TRD[5, S. 270
+    1896 gedruckt in Halle]
+FKT[]
+SIG[Q0114V]
+KEY[Q0114V  16  G FREI]
+MEL[-5_-3_-4_  -5__1__-6_.-5-6_-5_  -4_
+    -3_-2_-3_  -4__-6__-5_.-4-3_-4_  -5__
+    -5_1_2_  3__3__2__4__  3__. //]
+BEM[]
+MEL_SEM[-3 1 2 5 -3 -2 2 -2 -2 -1 -2 2 1 4 -2 -2 -1 1 2 0 5 2 2 0 -2 3 -1]
+MEL_RAW[-5-3-4  -51-6-5-6-5  -4
+    -3-2-3  -4-6-5-4-3-4  -5
+    -512  3324  3]
+NO_REP[-5-3-4-51-6-5-6-5-4
+    -3-2-3-4-6-5-4-3-4-5
+    -5123243]
+RTM[x_x_x_  x__x__x_.xx_x_  x_
+    x_x_x_  x__x__x_.xx_x_  x__
+    x_x_x_  x__x__x__x__  x__.]
+SCL_DEG[-2-3-4-5-61234]
+SCL_SEM[2 1 2 2 3 2 2 1]
+

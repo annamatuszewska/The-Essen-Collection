@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der verkleidete Markgrafensohn
+    Es freiet ein reicher Kaufmannssohn]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach]
+TRD[1, S. 53
+    1927 aufgezeichnet  (17. Jh. ?)]
+FKT[]
+SIG[Q0006C]
+KEY[Q0006C  08  G 6/8]
+MEL[-5  111123  3231_
+    -5  432321  -7_21_
+    2  222234  3231_
+    1  432321  -7_21_ //]
+BEM[]
+MEL_SEM[5 0 0 0 2 2 0 -2 2 -4 -5 10 -1 -2 2 -2 -2 -1 3 -2 2 0 0 0 0 2 1 -1 -2 2 -4 0 5 -1 -2 2 -2 -2 -1 3 -2]
+MEL_RAW[-5  111123  3231
+    -5  432321  -721
+    2  222234  3231
+    1  432321  -721]
+NO_REP[-5123231
+    -5432321-721
+    2343231
+    1432321-721]
+RTM[x  xxxxxx  xxxx_
+    x  xxxxxx  x_xx_
+    x  xxxxxx  xxxx_
+    x  xxxxxx  x_xx_]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

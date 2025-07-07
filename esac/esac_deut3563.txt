@@ -1,0 +1,46 @@
+BALLADEN
+CUT[Winterrosen
+    O Strassburg, o Strassburg,]
+REG[Mitteleuropa, Deutschland]
+TRD[7, S. 61
+    1894 gedruckt in Leipzig]
+FKT[]
+SIG[Q1145F]
+KEY[Q1145F  08  G 2/4]
+MEL[-5_  1_31  2_4
+    2  3543  2_
+    -5_  1_31  2_4
+    2  3543  2_0
+    3  4464  353
+    1  242-7  135
+    3  4464  353
+    1  2422  1_ //]
+BEM[]
+MEL_SEM[5 4 -4 2 3 -3 2 3 -2 -1 -2 -7 5 4 -4 2 3 -3 2 3 -2 -1 -2 2 1 0 4 -4 -1 3 -3 -4 2 3 -3 -3 1 4 3 -3 1 0 4 -4 -1 3 -3 -4 2 3 -3 0 -2]
+MEL_RAW[-5  131  24
+    2  3543  2
+    -5  131  24
+    2  3543  20
+    3  4464  353
+    1  242-7  135
+    3  4464  353
+    1  2422  1]
+NO_REP[-513124
+    235432
+    -513124
+    2354320
+    3464353
+    1242-7135
+    3464353
+    12421]
+RTM[x_  x_xx  x_x
+    x  xxxx  x_
+    x_  x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

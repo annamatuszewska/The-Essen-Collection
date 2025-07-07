@@ -1,0 +1,28 @@
+BOEHME
+CUT[MIR BLUEHET KEIN FRUEHLING]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[B0472]
+KEY[B0472   08  G 4/4]
+MEL[-5_  3__4321  -724_0_
+    -5_  4__5432  135_0_
+    1_  166__5_  54#4_0_
+    4_  3_.55432  2_1_0_ //]
+BEM[]
+MEL_SEM[9 1 -1 -2 -2 -1 3 3 -10 10 2 -2 -1 -2 -2 4 3 -7 0 9 0 -2 0 -1 -1 0 -1 3 0 -2 -1 -2 0 -2]
+MEL_RAW[-5  34321  -7240
+    -5  45432  1350
+    1  1665  54#40
+    4  355432  210]
+NO_REP[-534321-7240
+    -5454321350
+    1654#40
+    43543210]
+RTM[x_  x__xxxx  xxx_x_
+    x_  x__xxxx  xxx_x_
+    x_  xxx__x_  xxx_x_
+    x_  x_.xxxxx  x_x_x_]
+SCL_DEG[-5-712344#56]
+SCL_SEM[4 1 2 2 1 1 1 2]
+

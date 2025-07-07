@@ -1,0 +1,32 @@
+BOEHME
+CUT[SCHLAF KINDLEIN SCHLAF]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0619]
+KEY[B0619   16  F 2/4]
+MEL[3__2_2_  1__0_
+    13  5_5_4_4_  3__0_
+    3_  4_4_2_2_  5_5_3_
+    3_  4_4_2_2_  5_5_3__
+    4__2_2_  1__0__ //]
+BEM[]
+MEL_SEM[-2 0 -2 0 4 3 0 -2 0 -1 0 1 0 -3 0 5 0 -3 0 1 0 -3 0 5 0 -3 1 -3 0 -2]
+MEL_RAW[322  10
+    13  5544  30
+    3  4422  553
+    3  4422  553
+    422  10]
+NO_REP[3210
+    135430
+    34253
+    34253
+    4210]
+RTM[x__x_x_  x__x_
+    xx  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x__
+    x__x_x_  x__x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

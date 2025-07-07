@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohem Berge,]
+REG[Mitteleuropa, Deutschland]
+TRD[8, S. 30
+    1818 gedruckt in Berlin]
+FKT[]
+SIG[Q0155B]
+KEY[Q0155B  08  G 2/4]
+MEL[1  3153  3_2
+    1  3153  2_0
+    1  5555  531_  4_6_  531
+    5  542-7  1_0 //]
+BEM[]
+MEL_SEM[4 -4 7 -3 0 -2 -2 4 -4 7 -3 -2 -2 7 0 0 0 0 -3 -4 5 4 -2 -3 -4 7 0 -2 -3 -3 1]
+MEL_RAW[1  3153  32
+    1  3153  20
+    1  5555  531  46  531
+    5  542-7  10]
+NO_REP[131532
+    1315320
+    153146531
+    542-710]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx_  x_x_  xxx
+    x  xxxx  x_x]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Richmudis von Adocht
+    Heilger Geist, du Troester mein]
+REG[Mitteleuropa, Deutschland]
+TRD[5, S. 241
+    1639 gedruckt in Bremen]
+FKT[]
+SIG[Q1112B]
+KEY[Q1112B  04  G 3/4]
+MEL[1_3b  2_5  4_3b  2_.
+    2_3b  4_5  54_  5_.
+    5_3b  2_1  1-7_  1_. //]
+BEM[]
+MEL_SEM[3 -1 5 -2 -2 -1 0 1 2 2 0 -2 2 0 -4 -1 -2 0 -1 1]
+MEL_RAW[13b  25  43b  2
+    23b  45  54  5
+    53b  21  1-7  1]
+NO_REP[13b2543b2
+    23b4545
+    53b21-71]
+RTM[x_x  x_x  x_x  x_.
+    x_x  x_x  xx_  x_.
+    x_x  x_x  xx_  x_.]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Naehterin
+    Es suoss a Madla und naehte,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Zobtenberg]
+TRD[1, S. 74
+    1839 aufgezeichnet]
+FKT[]
+SIG[Q0008]
+KEY[Q0008   16  G 2/4]
+MEL[-5_  1_1_333_  2__1_
+    1_  5_5_667_  +1__7_
+    5_  +1_6_5_42  1_2_3_
+    5_  4__3_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 4 0 0 -2 -2 0 7 0 2 0 2 1 -1 -4 5 -3 -2 -2 -3 -2 2 2 3 -2 -1 -5 1]
+MEL_RAW[-5  11333  21
+    1  55667  +17
+    5  +16542  123
+    5  43-7  10]
+NO_REP[-51321
+    1567+17
+    5+16542123
+    543-710]
+RTM[x_  x_x_xxx_  x__x_
+    x_  x_x_xxx_  x__x_
+    x_  x_x_x_xx  x_x_x_
+    x_  x__x_x_  x__x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

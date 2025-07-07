@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der heimkehrende Soldat
+    Ein Soldat kam aus dem Kriege, hurrah!]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Priestewitz]
+TRD[5, S. 147
+    1908 aufgezeichnet]
+FKT[]
+SIG[Q0103]
+KEY[Q0103   08  G 4/4]
+MEL[-5-5  1_3_3_3_  3_234_5_  3_0__
+    54  3_3_3_5_  5_.443
+    43  22222_6_  6_.55_
+    4_  3_3_2_2_  1_0__ //]
+BEM[]
+MEL_SEM[0 5 4 0 0 0 -2 2 1 2 -3 3 -2 -1 0 0 3 0 -2 0 -1 1 -1 -2 0 0 0 0 7 0 -2 0 -2 -1 0 -2 0 -2]
+MEL_RAW[-5-5  1333  32345  30
+    54  3335  5443
+    43  222226  655
+    4  3322  10]
+NO_REP[-513234530
+    543543
+    43265
+    43210]
+RTM[xx  x_x_x_x_  x_xxx_x_  x_x__
+    xx  x_x_x_x_  x_.xxx
+    xx  xxxxx_x_  x_.xx_
+    x_  x_x_x_x_  x_x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

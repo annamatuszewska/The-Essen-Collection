@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die erzwungene Ehe
+    Ich woelt, daz ich doheime wer]
+REG[Mitteleuropa, Deutschland / Frankreich, Strassburg ?]
+TRD[2, S. 250
+    ???? Handschrift aus Strassburg]
+FKT[]
+SIG[Q1050C]
+KEY[Q1050C  04  D FREI]
+MEL[1  43b1  -7b-7b  3b4  5
+    3b  6b54  14  142  1_ //]
+BEM[]
+MEL_SEM[5 -2 -3 -2 0 5 2 2 -4 5 -1 -2 -5 5 -5 5 -3 -2]
+MEL_RAW[1  43b1  -7b-7b  3b4  5
+    3b  6b54  14  142  1]
+NO_REP[143b1-7b3b45
+    3b6b54141421]
+RTM[x  xxx  xx  xx  x
+    x  xxx  xx  xxx  x_]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[DIE FRAU WOLLT WALLFAHRN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+TRD[]
+FKT[]
+SIG[Z0115]
+KEY[Z0115   16  C 3/8]
+MEL[-5_1_1_  -7_2-71_  3__4_  5__.
+    4_6_4_  3_5_3_  2_4342  1_3_5_
+    4_6_4_  3_5_3_  2_4342  1_0__ //]
+BEM[]
+MEL_SEM[5 0 -1 3 -3 1 4 1 2 -2 4 -4 -1 3 -3 -2 3 -1 1 -3 -2 4 3 -2 4 -4 -1 3 -3 -2 3 -1 1 -3 -2]
+MEL_RAW[-511  -72-71  34  5
+    464  353  24342  135
+    464  353  24342  10]
+NO_REP[-51-72-71345
+    46435324342135
+    4643532434210]
+RTM[x_x_x_  x_xxx_  x__x_  x__.
+    x_x_x_  x_x_x_  x_xxxx  x_x_x_
+    x_x_x_  x_x_x_  x_xxxx  x_x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Stand ich auf hohe Berge,]
+REG[Mitteleuropa, Deutschland (BRD) , Franken, Haselbach v.d. Rhoen]
+TRD[8, S. 84
+    1935 aufgezeichnet]
+FKT[]
+SIG[Q0155b]
+KEY[Q0155b  08  F 3/4]
+MEL[-5_  1_.234  3_1_
+    12  3_.234  5__
+    5_  6_.546  5_3_
+    13  5_.345  3_0_
+    1_  6_.6+16  5_3_
+    13  5_.654  3_0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 -1 -4 0 2 2 -2 2 1 2 0 2 -2 -2 4 -2 -3 -4 4 3 -3 1 2 -3 -4 9 0 3 -3 -2 -3 -4 4 3 2 -2 -2 -1]
+MEL_RAW[-5  1234  31
+    12  3234  5
+    5  6546  53
+    13  5345  30
+    1  66+16  53
+    13  5654  30]
+NO_REP[-5123431
+    1232345
+    5654653
+    13534530
+    16+1653
+    13565430]
+RTM[x_  x_.xxx  x_x_
+    xx  x_.xxx  x__
+    x_  x_.xxx  x_x_
+    xx  x_.xxx  x_x_
+    x_  x_.xxx  x_x_
+    xx  x_.xxx  x_x_]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

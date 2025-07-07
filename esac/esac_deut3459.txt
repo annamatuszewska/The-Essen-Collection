@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Waise und Stiefmutter
+    Ein armes Maedchen war]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
+TRD[5, S. 300
+    1928 gedruckt in Leipzig]
+FKT[]
+SIG[Q0116F]
+KEY[Q0116F  16  G 6/8]
+MEL[-5_  1__1_1_-7_1_  2__0__.
+    -5-5  2__2_2_1_2_  3__0__.
+    -5_  4__4_3_2_3_  4__0__.
+    4_  3__1_2__-7_  1__0__. //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 2 -7 0 7 0 0 -2 2 2 -9 10 0 -1 -2 2 1 0 -1 -4 2 -3 1]
+MEL_RAW[-5  111-71  20
+    -5-5  22212  30
+    -5  44323  40
+    4  312-7  10]
+NO_REP[-51-7120
+    -521230
+    -5432340
+    4312-710]
+RTM[x_  x__x_x_x_x_  x__x__.
+    xx  x__x_x_x_x_  x__x__.
+    x_  x__x_x_x_x_  x__x__.
+    x_  x__x_x__x_  x__x__.]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge]
+REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
+TRD[8, S. 284
+    ???? aufgezeichnet]
+FKT[]
+SIG[Q0155t]
+KEY[Q0155t  08  G 3/4]
+MEL[-5_  1_.131  -5_-5_
+    1-7  -6_.-71-6  -5__
+    -5-5  2_.432  1_1_
+    1_  3_2_-7-7  1__
+    -5-5  2_.432  1_1_
+    1_  3_2_-7-7  1__ //]
+BEM[]
+MEL_SEM[5 0 4 -4 -5 0 5 -1 -2 2 1 -3 -2 0 0 7 3 -1 -2 -2 0 0 4 -2 -3 0 1 -5 0 7 3 -1 -2 -2 0 0 4 -2 -3 0 1]
+MEL_RAW[-5  1131  -5-5
+    1-7  -6-71-6  -5
+    -5-5  2432  11
+    1  32-7-7  1
+    -5-5  2432  11
+    1  32-7-7  1]
+NO_REP[-5131-5
+    1-7-6-71-6-5
+    -524321
+    132-71
+    -524321
+    132-71]
+RTM[x_  x_.xxx  x_x_
+    xx  x_.xxx  x__
+    xx  x_.xxx  x_x_
+    x_  x_x_xx  x__
+    xx  x_.xxx  x_x_
+    x_  x_x_xx  x__]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

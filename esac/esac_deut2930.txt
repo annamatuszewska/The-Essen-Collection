@@ -1,0 +1,36 @@
+BOEHME
+CUT[GROSSER GOTT WIR LOBEN DICH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0738A]
+KEY[B0738A  04  G 3/4]
+MEL[1_1  1-71  212  1_.
+    3_3  345  543  320
+    1_1  1-71  212  1_.
+    3_3  345  543  320
+    234  432  3_4  5_.
+    6_6  543  432  1_. //]
+BEM[]
+MEL_SEM[0 0 -1 1 2 -2 2 -2 4 0 0 1 2 0 -2 -1 0 -2 -2 0 0 -1 1 2 -2 2 -2 4 0 0 1 2 0 -2 -1 0 -2 0 2 1 0 -1 -2 2 1 2 2 0 -2 -2 -1 1 -1 -2 -2]
+MEL_RAW[11  1-71  212  1
+    33  345  543  320
+    11  1-71  212  1
+    33  345  543  320
+    234  432  34  5
+    66  543  432  1]
+NO_REP[1-712121
+    3454320
+    1-712121
+    3454320
+    23432345
+    65434321]
+RTM[x_x  xxx  xxx  x_.
+    x_x  xxx  xxx  xxx
+    x_x  xxx  xxx  x_.
+    x_x  xxx  xxx  xxx
+    xxx  xxx  x_x  x_.
+    x_x  xxx  xxx  x_.]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

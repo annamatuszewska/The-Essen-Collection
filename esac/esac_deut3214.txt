@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Spielmannssohn
+    Als ich ein kleines Buebeli war,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 178
+    1890 aufgezeichnet]
+FKT[]
+SIG[Q0062E]
+KEY[Q0062E  16  F 6/8]
+MEL[-5_  1__1_2__5_  3_.23_1__
+    1_  2_.34_5_.43_  1_.23_2__
+    2_  5_.65_4_3_22  1_.-53_2__
+    1_  2_3_5_5_.43_  2__.1__ //]
+BEM[]
+MEL_SEM[5 0 2 5 -3 -2 2 -4 0 2 2 1 2 -2 -1 -4 2 2 -2 0 5 2 -2 -2 -1 -2 0 -2 -5 9 -2 -2 2 2 3 0 -2 -1 -2 -2]
+MEL_RAW[-5  1125  3231
+    1  234543  1232
+    2  5654322  1-532
+    1  235543  21]
+NO_REP[-51253231
+    12345431232
+    25654321-532
+    12354321]
+RTM[x_  x__x_x__x_  x_.xx_x__
+    x_  x_.xx_x_.xx_  x_.xx_x__
+    x_  x_.xx_x_x_xx  x_.xx_x__
+    x_  x_x_x_x_.xx_  x__.x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

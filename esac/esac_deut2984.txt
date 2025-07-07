@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die Geburt im Walde
+    Es war ein Maedchen von Farbe so bleich,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
+TRD[1, S. 62
+    1860 aufgezeichnet]
+FKT[]
+SIG[Q0007]
+KEY[Q0007   08  E 3/4]
+MEL[3b4  5__5_  5_5_54  3b_1_23b  4_0_
+    5_  3b_5_4_  2_2_23b  4_3b_2_  1__ //]
+BEM[]
+MEL_SEM[2 2 0 0 0 0 -2 -2 -3 2 1 2 2 -4 4 -2 -3 0 0 1 2 -2 -1 -2]
+MEL_RAW[3b4  55  5554  3b123b  40
+    5  3b54  2223b  43b2  1]
+NO_REP[3b4543b123b40
+    53b5423b43b21]
+RTM[xx  x__x_  x_x_xx  x_x_xx  x_x_
+    x_  x_x_x_  x_x_xx  x_x_x_  x__]
+SCL_DEG[123b45]
+SCL_SEM[2 1 2 2]
+

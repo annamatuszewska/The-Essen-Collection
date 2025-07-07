@@ -1,0 +1,31 @@
+BALLADEN
+CUT[Der Spielmannssohn
+    Als ich einmal klein's Bueweli war,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
+    Kr. Saargemuend, Hambach]
+TRD[3, S. 167
+    1927 aufgezeichnet]
+FKT[]
+SIG[Q0062A]
+KEY[Q0062A  08  F 6/4]
+MEL[-5_  1_.-71_2__5_  3_.23_1__
+    1_  2_.34_5_.43_  1_.23_2__
+    2_  5_.65_543_2_  1_.-5132_.3
+    1_  2_.34_5_.43_  2__5_1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 5 -3 -2 2 -4 0 2 2 1 2 -2 -1 -4 2 2 -2 0 5 2 -2 0 -2 -1 -2 -2 -5 5 4 -2 2 -4 2 2 1 2 -2 -1 -2 5 -7]
+MEL_RAW[-5  1-7125  3231
+    1  234543  1232
+    2  5655432  1-51323
+    1  234543  251]
+NO_REP[-51-71253231
+    12345431232
+    25654321-51323
+    1234543251]
+RTM[x_  x_.xx_x__x_  x_.xx_x__
+    x_  x_.xx_x_.xx_  x_.xx_x__
+    x_  x_.xx_xxx_x_  x_.xxxx_.x
+    x_  x_.xx_x_.xx_  x__x_x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

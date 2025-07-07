@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Ha Maruska pjesacku 'rajese]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wenden]
+TRD[4, S. 32
+    1841 gedruckt in Grimma]
+FKT[]
+SIG[Q2072I]
+KEY[Q2072I  16  G 3/4]
+MEL[1__  3__3__4__  5__5__6__  7b___6__  5___
+    5__  4__3_2_1__  5__2__1__  2__-7__-5_-6-7  1___
+    5__  4__3_2_3_4_  5__3__1__  2__-7_-5_-6_-7_  1__0__ //]
+BEM[]
+MEL_SEM[4 0 1 2 0 2 1 -1 -2 0 -2 -1 -2 -2 7 -5 -2 2 -3 -4 2 2 1 7 -2 -1 -2 2 1 2 -3 -4 2 -3 -4 2 2 1]
+MEL_RAW[1  334  556  7b6  5
+    5  4321  521  2-7-5-6-7  1
+    5  43234  531  2-7-5-6-7  10]
+NO_REP[134567b65
+    543215212-7-5-6-71
+    5432345312-7-5-6-710]
+RTM[x__  x__x__x__  x__x__x__  x___x__  x___
+    x__  x__x_x_x__  x__x__x__  x__x__x_xx  x___
+    x__  x__x_x_x_x_  x__x__x__  x__x_x_x_x_  x__x__]
+SCL_DEG[-5-6-71234567b]
+SCL_SEM[2 2 1 2 2 1 2 2 1]
+

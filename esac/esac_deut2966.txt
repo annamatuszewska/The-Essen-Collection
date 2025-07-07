@@ -1,0 +1,28 @@
+BOEHME
+CUT[LASS DICH SCHNEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Waldbroel]
+TRD[]
+FKT[]
+SIG[B0773]
+KEY[B0773   08  F 6/8]
+MEL[3_21_-5  5_43_1
+    2_2253  2_.0_0
+    3_4#5_5  3_4#5_5
+    +1_3432  1_.0_0 //]
+BEM[]
+MEL_SEM[-2 -2 -5 12 -2 -1 -4 2 0 0 5 -3 -2 2 2 1 0 -3 2 1 0 5 -8 1 -1 -2 -2]
+MEL_RAW[321-5  5431
+    22253  200
+    34#55  34#55
+    +13432  100]
+NO_REP[321-5431
+    25320
+    34#534#5
+    +1343210]
+RTM[x_xx_x  x_xx_x
+    x_xxxx  x_.x_x
+    x_xx_x  x_xx_x
+    x_xxxx  x_.x_x]
+SCL_DEG[-512344#5+1]
+SCL_SEM[5 2 2 1 1 1 5]
+

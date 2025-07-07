@@ -1,0 +1,66 @@
+BALLADEN
+CUT[Herzog Ernst
+    Ez was ein herre erenrich,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[1, S. 85
+    1555 gedruckt in Breslau]
+FKT[]
+SIG[Q0010]
+KEY[Q0010   08  E FREI]
+MEL[4_4_4_4_5_6b_4_4__0_
+    6b_6b_6b_5__4_5_4_4__
+    4_5__4_3b_2b_1_1__0_
+    4_4_4_4_5_6b_4_4__0_
+    6b_6b_6b_5__4_5_4_4__
+    4_5__4_3b_2b_1_1__0_
+    1_1_1_3b_3b_4_444_
+    4_4_4_3b_2b_1_-6b_0_
+    -6b_3b_3b_3b_3b_4_4_4__
+    4_4_4_3b_2b_1_1__0_
+    1_1_1_3b_3b_1_-7b_-6b__0_
+    -6b_3b_3b_4_5_6b__5_4__3b2b1__
+    4_5__4_3b__2b_1__-6b_-7b__1___ //]
+BEM[]
+MEL_SEM[0 0 0 2 1 -3 0 3 0 0 -1 -2 2 -2 0 0 2 -2 -2 -2 -1 0 5 0 0 0 2 1 -3 0 3 0 0 -1 -2 2 -2 0 0 2 -2 -2 -2 -1 0 0 0 0 3 0 2 0 0 0 0 0 0 -2 -2 -1 -4 0 7 0 0 0 2 0 0 0 0 0 -2 -2 -1 0 0 0 0 3 0 -3 -2 -2 0 7 0 2 2 1 -1 -2 -2 -2 -1 5 2 -2 -2 -2 -1 -4 2 2]
+MEL_RAW[444456b440
+    6b6b6b54544
+    4543b2b110
+    444456b440
+    6b6b6b54544
+    4543b2b110
+    1113b3b4444
+    4443b2b1-6b0
+    -6b3b3b3b3b444
+    4443b2b110
+    1113b3b1-7b-6b0
+    -6b3b3b456b543b2b1
+    4543b2b1-6b-7b1]
+NO_REP[456b40
+    6b5454
+    4543b2b10
+    456b40
+    6b5454
+    4543b2b10
+    13b4
+    43b2b1-6b0
+    -6b3b4
+    43b2b10
+    13b1-7b-6b0
+    -6b3b456b543b2b1
+    4543b2b1-6b-7b1]
+RTM[x_x_x_x_x_x_x_x__x_
+    x_x_x_x__x_x_x_x__
+    x_x__x_x_x_x_x__x_
+    x_x_x_x_x_x_x_x__x_
+    x_x_x_x__x_x_x_x__
+    x_x__x_x_x_x_x__x_
+    x_x_x_x_x_x_xxx_
+    x_x_x_x_x_x_x_x_
+    x_x_x_x_x_x_x_x__
+    x_x_x_x_x_x_x__x_
+    x_x_x_x_x_x_x_x__x_
+    x_x_x_x_x_x__x_x__xxx__
+    x_x__x_x__x_x__x_x__x___]
+SCL_DEG[-6b-7b12b3b456b]
+SCL_SEM[2 2 1 2 2 2 1]
+

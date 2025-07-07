@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die dienende Schwester
+    ohne Text]
+REG[Mitteleuropa, Deutschland / Polen, Pommern]
+TRD[4, S. 118
+    ????]
+FKT[]
+SIG[Q0075t]
+KEY[Q0075t  16  F 3/4]
+MEL[1_1_5_  5__.3_3_.2  2__0_
+    2_4_6_  6__.5_4_.3  3__0_
+    1_1_+1_  +1__.6_5_.6  7__.
+    3_2_6_  5__.5_4_2_  1__. //]
+BEM[]
+MEL_SEM[0 7 0 -3 0 -2 0 0 3 4 0 -2 -2 -1 0 -4 0 12 0 -3 -2 2 2 -7 -2 7 -2 0 -2 -3 -2]
+MEL_RAW[115  5332  20
+    246  6543  30
+    11+1  +1656  7
+    326  5542  1]
+NO_REP[15320
+    2465430
+    1+16567
+    3265421]
+RTM[x_x_x_  x__.x_x_.x  x__x_
+    x_x_x_  x__.x_x_.x  x__x_
+    x_x_x_  x__.x_x_.x  x__.
+    x_x_x_  x__.x_x_x_  x__.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

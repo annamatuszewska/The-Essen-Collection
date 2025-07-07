@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die verkaufte Muellerin
+    Es wollt' ein Mueller frueh aufstehn,]
+REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Altmark]
+TRD[4, S. 346
+    1912 gedruckt]
+FKT[]
+SIG[Q0086X]
+KEY[Q0086X  08  G 3/4]
+MEL[1  135_.3  322_0
+    2  266_.5  433_0
+    1  135_.3  466_0
+    +1  765_.3  421_0 //]
+BEM[]
+MEL_SEM[0 4 3 -3 0 -2 0 0 0 7 0 -2 -2 -1 0 -4 0 4 3 -3 1 4 0 3 -1 -2 -2 -3 1 -3 -2]
+MEL_RAW[1  1353  3220
+    2  2665  4330
+    1  1353  4660
+    +1  7653  4210]
+NO_REP[135320
+    265430
+    1353460
+    +176534210]
+RTM[x  xxx_.x  xxx_x
+    x  xxx_.x  xxx_x
+    x  xxx_.x  xxx_x
+    x  xxx_.x  xxx_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

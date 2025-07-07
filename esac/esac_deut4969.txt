@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Vergaenglichkeit der Liebe
+    SO HAT GOTT DIE WELT GESCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1155]
+KEY[Z1155   08  E 4/4]
+MEL[3b_6b4  3b__1_1_  2b_4_4_3b_  3b__
+    3b_6b4  3b__1_1_  2b_4_4_3b_  3b__
+    3b453b  6b__7b__  6b54_3b_
+    6b4  3b_3b2b1__  3b__3b2b-7b2b  1__
+    3b453b  6b__7b__  6b54_3b_
+    6b4  3b_3b2b1__  3b__3b2b-7b2b  1__ //]
+BEM[]
+MEL_SEM[5 -3 -2 -3 0 1 4 0 -2 0 0 5 -3 -2 -3 0 1 4 0 -2 0 0 2 2 -4 5 2 -2 -1 -2 -2 5 -3 -2 0 -2 -1 3 0 -2 -3 3 -1 3 2 2 -4 5 2 -2 -1 -2 -2 5 -3 -2 0 -2 -1 3 0 -2 -3 3 -1]
+MEL_RAW[3b6b4  3b11  2b443b  3b
+    3b6b4  3b11  2b443b  3b
+    3b453b  6b7b  6b543b
+    6b4  3b3b2b1  3b3b2b-7b2b  1
+    3b453b  6b7b  6b543b
+    6b4  3b3b2b1  3b3b2b-7b2b  1]
+NO_REP[3b6b43b12b43b
+    3b6b43b12b43b
+    3b453b6b7b6b543b
+    6b43b2b13b2b-7b2b1
+    3b453b6b7b6b543b
+    6b43b2b13b2b-7b2b1]
+RTM[x_xx  x__x_x_  x_x_x_x_  x__
+    x_xx  x__x_x_  x_x_x_x_  x__
+    xxxx  x__x__  xxx_x_
+    xx  x_xxx__  x__xxxx  x__
+    xxxx  x__x__  xxx_x_
+    xx  x_xxx__  x__xxxx  x__]
+SCL_DEG[-7b12b3b456b7b]
+SCL_SEM[2 1 2 2 2 1 2]
+

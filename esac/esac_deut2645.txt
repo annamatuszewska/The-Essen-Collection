@@ -1,0 +1,36 @@
+BOEHME
+CUT[IN EINEM KUEHLEN GRUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0453A]
+KEY[B0453A  08  F 6/8]
+MEL[-5  3_3323  4_2-7_
+    -5  1_11-71  2__0
+    2  2_2234  5_.-6_
+    2  1_1212  3__0
+    3  322234  5_+164
+    2  1_13_2  1__0 //]
+BEM[]
+MEL_SEM[9 0 0 -2 2 1 -3 -3 -4 5 0 0 -1 1 2 0 0 0 0 2 1 2 -10 5 -2 0 2 -2 2 2 0 0 -2 0 0 2 1 2 5 -3 -4 -3 -2 0 4 -2 -2]
+MEL_RAW[-5  33323  42-7
+    -5  111-71  20
+    2  22234  5-6
+    2  11212  30
+    3  322234  5+164
+    2  1132  10]
+NO_REP[-532342-7
+    -51-7120
+    2345-6
+    2121230
+    32345+164
+    213210]
+RTM[x  x_xxxx  x_xx_
+    x  x_xxxx  x__x
+    x  x_xxxx  x_.x_
+    x  x_xxxx  x__x
+    x  xxxxxx  x_xxx
+    x  x_xx_x  x__x]
+SCL_DEG[-5-6-7123456+1]
+SCL_SEM[2 2 1 2 2 1 2 2 3]
+

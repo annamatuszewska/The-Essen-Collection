@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Lass rauschen
+    ICH HOERTE EIN SICHLEIN RAUSCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[Z1177]
+KEY[Z1177   16  F 3/8]
+MEL[-5_  1_1_3_  5_.654  3__.  2_0_
+    2_  3_4_5_  5_4_3_  2__0_  0__
+    5_  3_4_5_  3_4_5_  6__5_  4__.
+    3_5_3_  2_1_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 4 3 2 -2 -2 -1 -2 0 2 1 2 0 -2 -1 -2 5 -3 1 2 -3 1 2 2 -2 -2 -1 3 -3 -2 -2 2 -2]
+MEL_RAW[-5  113  5654  3  20
+    2  345  543  20  0
+    5  345  345  65  4
+    353  212  1]
+NO_REP[-5135654320
+    23454320
+    5345345654
+    3532121]
+RTM[x_  x_x_x_  x_.xxx  x__.  x_x_
+    x_  x_x_x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  x_x_x_  x__x_  x__.
+    x_x_x_  x_x_x_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

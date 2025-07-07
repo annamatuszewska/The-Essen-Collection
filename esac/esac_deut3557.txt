@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die Unbestechliche
+    Wol auf, mein sel, gehab dich wol;]
+REG[Mitteleuropa, Deutschland]
+TRD[7, S. 36
+    14?? Handschrift Hohenfurt]
+FKT[]
+SIG[Q1144E]
+KEY[Q1144E  08  G 6/8]
+MEL[1  3_45_5  43510
+    4  554213  1-71-50
+    -5  1-713_4  2121_ //]
+BEM[]
+MEL_SEM[4 1 2 0 -2 -1 3 -7 5 2 0 -2 -3 -2 4 -4 -1 1 -5 0 5 -1 1 4 1 -3 -2 2 -2]
+MEL_RAW[1  3455  43510
+    4  554213  1-71-50
+    -5  1-7134  2121]
+NO_REP[134543510
+    4542131-71-50
+    -51-71342121]
+RTM[x  x_xx_x  xxxxx
+    x  xxxxxx  xxxxx
+    x  xxxx_x  xxxx_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

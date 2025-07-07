@@ -1,0 +1,36 @@
+BOEHME
+CUT[AUS FEUER IST DER GEIST GESCHAFFEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0337]
+KEY[B0337   08  F 4/4]
+MEL[554  3_.33_.3  544_0
+    443  2_.25_.4  4_3_0
+    554  3_.33_.3  544_0
+    443  2_.25_.4  4_3_0
+    555  6_.47_.5  +1__0
+    666  5_.13_2_  1__0 //]
+BEM[]
+MEL_SEM[0 -2 -1 0 0 0 3 -2 0 0 0 -1 -2 0 5 -2 0 -1 3 0 -2 -1 0 0 0 3 -2 0 0 0 -1 -2 0 5 -2 0 -1 3 0 0 2 -4 6 -4 5 -3 0 0 -2 -7 4 -2 -2]
+MEL_RAW[554  3333  5440
+    443  2254  430
+    554  3333  5440
+    443  2254  430
+    555  6475  +10
+    666  5132  10]
+NO_REP[543540
+    4325430
+    543540
+    4325430
+    56475+10
+    6513210]
+RTM[xxx  x_.xx_.x  xxx_x
+    xxx  x_.xx_.x  x_x_x
+    xxx  x_.xx_.x  xxx_x
+    xxx  x_.xx_.x  x_x_x
+    xxx  x_.xx_.x  x__x
+    xxx  x_.xx_x_  x__x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

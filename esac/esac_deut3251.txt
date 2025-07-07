@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
+    Ohne Text]
+REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wenden]
+TRD[4, S. 32
+    1881 gedruckt]
+FKT[]
+SIG[Q2072J]
+KEY[Q2072J  16  G 6/8]
+MEL[1_2_3_  5__5_4_5_6_  5__0_
+    5_3_1_  3_2_1_-7_-5_2_  1__2_
+    4_3_12  3_2_1_-7_-5_2_  1__0_ //]
+BEM[]
+MEL_SEM[2 2 3 0 -2 2 2 -2 0 -3 -4 4 -2 -2 -1 -4 7 -2 2 3 -1 -4 2 2 -2 -2 -1 -4 7 -2]
+MEL_RAW[123  55456  50
+    531  321-7-52  12
+    4312  321-7-52  10]
+NO_REP[123545650
+    531321-7-5212
+    4312321-7-5210]
+RTM[x_x_x_  x__x_x_x_x_  x__x_
+    x_x_x_  x_x_x_x_x_x_  x__x_
+    x_x_xx  x_x_x_x_x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

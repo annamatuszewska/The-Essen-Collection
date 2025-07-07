@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Die hohe Blume
+    ES STAND EIN BAUM IM SCHWITZERLAND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+TRD[]
+FKT[]
+SIG[Z1106]
+KEY[Z1106   16 Ab 6/8]
+MEL[-5_  1__2_3__5_  3_2_3_1__
+    34  5__6_5__7_  +1_6_7_+1__
+    34  5__4_3_2_3_  1_-7_1_2__
+    34  5__4_3_2_3_  -5_-6_-7_1__ //]
+BEM[]
+MEL_SEM[5 2 2 3 -3 -2 2 -4 4 1 2 2 -2 4 1 -3 2 1 -8 1 2 -2 -1 -2 2 -4 -1 1 2 2 1 2 -2 -1 -2 2 -9 2 2 1]
+MEL_RAW[-5  1235  3231
+    34  5657  +167+1
+    34  54323  1-712
+    34  54323  -5-6-71]
+NO_REP[-512353231
+    345657+167+1
+    34543231-712
+    3454323-5-6-71]
+RTM[x_  x__x_x__x_  x_x_x_x__
+    xx  x__x_x__x_  x_x_x_x__
+    xx  x__x_x_x_x_  x_x_x_x__
+    xx  x__x_x_x_x_  x_x_x_x__]
+SCL_DEG[-5-6-71234567+1]
+SCL_SEM[2 2 1 2 2 1 2 2 2 1]
+

@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Jaegerraenke
+    ES WAR  EIN JAEGER DER STIESS INS HORN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z1068]
+KEY[Z1068   16 Bb 2/4]
+MEL[-5_  1_312_33  -6_2_1_0
+    1  2_2_2_22  3_2_1_
+    1_  2_2_2_2_  3_2_1_
+    -5_  -6__-7__  1__0_ //]
+BEM[]
+MEL_SEM[5 4 -4 2 2 0 -7 5 -2 0 2 0 0 0 0 2 -2 -2 0 2 0 0 0 2 -2 -2 -5 2 2 1]
+MEL_RAW[-5  131233  -6210
+    1  22222  321
+    1  2222  321
+    -5  -6-7  10]
+NO_REP[-513123-6210
+    12321
+    12321
+    -5-6-710]
+RTM[x_  x_xxx_xx  x_x_x_x
+    x  x_x_x_xx  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x__x__  x__x_]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Die Versuchung
+    DES MORGENS IN DER KUEHLEN ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1278]
+KEY[Z1278   08  G 6/8]
+MEL[1  1_53_1  2123_
+    5  4_32_.  1_0_.
+    3  444332  3_4#5_
+    4  3_21_5  6_54_
+    3  2222_3  1_0_. //]
+BEM[]
+MEL_SEM[0 7 -3 -4 2 -2 2 2 3 -2 -1 -2 -2 4 1 0 0 -1 0 -2 2 2 1 -2 -1 -2 -2 7 2 -2 -2 -1 -2 0 0 0 2 -4]
+MEL_RAW[1  1531  2123
+    5  432  10
+    3  444332  34#5
+    4  3215  654
+    3  22223  10]
+NO_REP[15312123
+    543210
+    343234#5
+    43215654
+    32310]
+RTM[x  x_xx_x  xxxx_
+    x  x_xx_.  x_x_.
+    x  xxxxxx  x_xx_
+    x  x_xx_x  x_xx_
+    x  xxxx_x  x_x_.]
+SCL_DEG[12344#56]
+SCL_SEM[2 2 1 1 1 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Das Schwabentoechterlein
+    Es hatt' ein Soldat ein Toechterlein,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[4, S. 52
+    1842 gedruckt in Leipzig]
+FKT[]
+SIG[Q0073L]
+KEY[Q0073L  16  G 3/4]
+MEL[-5_  1_335__.3_  3_2_2__0_
+    2_  4_4_6__.4_  4_3_3__0_
+    5_  5_5_6__.5_  442_5__0_
+    4_  332_4__3_2_  2__1__0_ //]
+BEM[]
+MEL_SEM[5 4 0 3 -3 0 -2 0 0 3 0 4 -4 0 -1 0 3 0 0 2 -2 -2 0 -3 5 -2 -1 0 -2 3 -1 -2 0 -2]
+MEL_RAW[-5  13353  3220
+    2  4464  4330
+    5  5565  44250
+    4  332432  210]
+NO_REP[-5135320
+    246430
+    5654250
+    43243210]
+RTM[x_  x_xxx__.x_  x_x_x__x_
+    x_  x_x_x__.x_  x_x_x__x_
+    x_  x_x_x__.x_  xxx_x__x_
+    x_  xxx_x__x_x_  x__x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

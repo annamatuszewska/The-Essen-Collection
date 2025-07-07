@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Das Traenenkrueglein
+    Es kam von einer Neustadt her]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grabig]
+TRD[5, S. 334
+    1841 aufgezeichnet]
+FKT[]
+SIG[Q0122B]
+KEY[Q0122B  16  G 3/4]
+MEL[-5_  1_-7_1_3_5__  432_1__0_
+    21  -7_1_2__5__  5_4#_5__0_
+    3_  4_5_6__.5_  4_6_5__.
+    4_  3_2_1_2_4_3_  3_2_1__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 4 3 -2 -1 -2 -2 2 -2 -1 1 2 5 0 -1 1 -3 1 2 2 -2 -2 4 -2 -2 -1 -2 -2 2 3 -1 0 -2 -2]
+MEL_RAW[-5  1-7135  43210
+    21  -7125  54#50
+    3  4565  465
+    4  321243  3210]
+NO_REP[-51-713543210
+    21-71254#50
+    34565465
+    4321243210]
+RTM[x_  x_x_x_x_x__  xxx_x__x_
+    xx  x_x_x__x__  x_x_x__x_
+    x_  x_x_x__.x_  x_x_x__.
+    x_  x_x_x_x_x_x_  x_x_x__x_]
+SCL_DEG[-5-712344#56]
+SCL_SEM[4 1 2 2 1 1 1 2]
+

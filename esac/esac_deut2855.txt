@@ -1,0 +1,28 @@
+BOEHME
+CUT[UNSER LEBEN GLEICHT DER REISE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0664]
+KEY[B0664   08  A 4/4]
+MEL[1_1_1-7-7_  2_2_211_
+    3_3_2_.1  -7_-6_-5__
+    -5_-6-71_-5_  2_.2311_
+    -6_2_-5_1_  32-6-71_0_ //]
+BEM[]
+MEL_SEM[0 0 -1 0 3 0 0 -2 0 4 0 -2 -2 -1 -2 -2 0 2 2 1 -5 7 0 2 -4 0 -3 5 -7 5 4 -2 -5 2 1]
+MEL_RAW[111-7-7  22211
+    3321  -7-6-5
+    -5-6-71-5  22311
+    -62-51  32-6-710]
+NO_REP[1-721
+    321-7-6-5
+    -5-6-71-5231
+    -62-5132-6-710]
+RTM[x_x_xxx_  x_x_xxx_
+    x_x_x_.x  x_x_x__
+    x_xxx_x_  x_.xxxx_
+    x_x_x_x_  xxxxx_x_]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

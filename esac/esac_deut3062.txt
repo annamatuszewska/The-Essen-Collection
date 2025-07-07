@@ -1,0 +1,27 @@
+BALLADEN
+CUT[Herr und Schildknecht
+    Es reit' aus ein Herr und aus ein Knecht,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach,
+    Hilsprich]
+TRD[2, S. 23
+    1936 aufgezeichnet]
+FKT[]
+SIG[Q0034C]
+KEY[Q0034C  08  G 4/4]
+MEL[-5-5  1_-5_123_  2_1_2_
+    -5-5  3_1_3_5_  4_3_2_
+    5_  432_123_  2_2_1_ //]
+BEM[]
+MEL_SEM[0 5 -5 5 2 2 -2 -2 2 -7 0 9 -4 4 3 -2 -1 -2 5 -2 -1 -2 -2 2 2 -2 0 -2]
+MEL_RAW[-5-5  1-5123  212
+    -5-5  3135  432
+    5  432123  221]
+NO_REP[-51-5123212
+    -53135432
+    543212321]
+RTM[xx  x_x_xxx_  x_x_x_
+    xx  x_x_x_x_  x_x_x_
+    x_  xxx_xxx_  x_x_x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

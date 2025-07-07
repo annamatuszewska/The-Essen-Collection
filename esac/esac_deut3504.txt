@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Muskatbaum
+    In Oestereich da steht ein Baum,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
+TRD[6, S. 146
+    1840 gedruckt in Berlin]
+FKT[]
+SIG[Q0130A]
+KEY[Q0130A  16  D 6/8]
+MEL[1_  5__5_5__5_  6__7_+1__
+    6_  +2__+1_7_6_5_  6__.5_0_
+    5_  +1__+1_3__6_  5_.6543__
+    1_  2__345_.43_  2__.1__ //]
+BEM[]
+MEL_SEM[7 0 0 0 2 2 1 -3 5 -2 -1 -2 -2 2 -2 0 5 0 -8 5 -2 2 -2 -2 -1 -4 2 2 1 2 -2 -1 -2 -2]
+MEL_RAW[1  5555  67+1
+    6  +2+1765  650
+    5  +1+136  56543
+    1  234543  21]
+NO_REP[1567+1
+    6+2+1765650
+    5+13656543
+    123454321]
+RTM[x_  x__x_x__x_  x__x_x__
+    x_  x__x_x_x_x_  x__.x_x_
+    x_  x__x_x__x_  x_.xxxx__
+    x_  x__xxx_.xx_  x__.x__]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

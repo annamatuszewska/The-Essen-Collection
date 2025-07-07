@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Gottesgericht
+    ZU FRANKFURT DA STEHET EIN WIRTSHAUS]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1002]
+KEY[Z1002   16  G 6/8]
+MEL[-5_  1_-7_1_2_1_2_  3b_1_0_2__.  3b__4_5__
+    54  3b_2_1_2_1_-7_  1__0__.
+    -5_  1_-7_1_2_1_2_  3b_1_0_2__.  3b__4_5__
+    54  3b_2_1_-7_1_2_  1__.0__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 2 1 -3 2 1 2 2 0 -2 -2 -1 -2 2 -2 -1 1 -5 5 -1 1 2 -2 2 1 -3 2 1 2 2 0 -2 -2 -1 -2 -1 1 2 -2]
+MEL_RAW[-5  1-71212  3b102  3b45
+    54  3b2121-7  10
+    -5  1-71212  3b102  3b45
+    54  3b21-712  10]
+NO_REP[-51-712123b1023b45
+    543b2121-710
+    -51-712123b1023b45
+    543b21-71210]
+RTM[x_  x_x_x_x_x_x_  x_x_x_x__.  x__x_x__
+    xx  x_x_x_x_x_x_  x__x__.
+    x_  x_x_x_x_x_x_  x_x_x_x__.  x__x_x__
+    xx  x_x_x_x_x_x_  x__.x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

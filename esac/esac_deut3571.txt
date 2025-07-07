@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die Brombeerpflueckerin
+    Und wollt das Maderl in der Fruah aufstehn,]
+REG[Mitteleuropa, Deutschland (BRD) , Bayern, Bayerischer Wald, Zwiesel]
+TRD[7, S. 73
+    1935 aufgezeichnet (?)]
+FKT[]
+SIG[Q0147B]
+KEY[Q0147B  16  G 6/8]
+MEL[1_  3__3_5_.533  4__4_5__.
+    4__2_5__4_  3__3_3__
+    1_  3__3_5_.53_  4__5_7__
+    77  +2__777__+4_  +3__+1_5__
+    3_  4__5_7_.54_  3__.0__ //]
+BEM[]
+MEL_SEM[4 0 3 0 -3 0 1 0 2 -2 -3 5 -2 -1 0 0 -4 4 0 3 0 -3 1 2 4 0 0 3 -3 0 0 6 -1 -4 -5 -3 1 2 4 -4 -2 -1]
+MEL_RAW[1  335533  445
+    4254  333
+    1  33553  457
+    77  +2777+4  +3+15
+    3  45754  30]
+NO_REP[135345
+    42543
+    1353457
+    7+27+4+3+15
+    34575430]
+RTM[x_  x__x_x_.xxx  x__x_x__.
+    x__x_x__x_  x__x_x__
+    x_  x__x_x_.xx_  x__x_x__
+    xx  x__xxx__x_  x__x_x__
+    x_  x__x_x_.xx_  x__.x__]
+SCL_DEG[123457+1+2+3+4]
+SCL_SEM[2 2 1 2 4 1 2 2 1]
+

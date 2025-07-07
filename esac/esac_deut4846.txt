@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der reiche Schlemmer
+    ALS LAZARUS AUF DEM MISTE LAG UND SCHLIEF]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[Z1030]
+KEY[Z1030   16  A 4/4]
+MEL[-5__  1_.-71_5___4_  5_5_4_3b_2__
+    2_3b_  4__4__5__2_3b_  4_3b_2_1_-7__
+    -5__  1_.11_2_3b__2_1_  2___-5___  3b__.4_5__
+    4__  5__2_3b_4__5__  2___1__ //]
+BEM[]
+MEL_SEM[5 -1 1 7 -2 2 0 -2 -2 -1 0 1 2 0 2 -5 1 2 -2 -1 -2 -1 -4 5 0 0 2 1 -1 -2 2 -7 8 2 2 -2 2 -5 1 2 2 -5 -2]
+MEL_RAW[-5  1-7154  5543b2
+    23b  44523b  43b21-7
+    -5  11123b21  2-5  3b45
+    4  523b45  21]
+NO_REP[-51-7154543b2
+    23b4523b43b21-7
+    -5123b212-53b45
+    4523b4521]
+RTM[x__  x_.xx_x___x_  x_x_x_x_x__
+    x_x_  x__x__x__x_x_  x_x_x_x_x__
+    x__  x_.xx_x_x__x_x_  x___x___  x__.x_x__
+    x__  x__x_x_x__x__  x___x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

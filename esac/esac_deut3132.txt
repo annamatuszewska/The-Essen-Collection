@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die elfjaehrige Markgraefin
+    Solemnis dies advenit]
+REG[Mitteleuropa, Deutschland]
+TRD[2, S 294
+    1646 Handschrift Kloster Seeon]
+FKT[]
+SIG[Q3053G]
+KEY[Q3053G  04  F 4/4 6/4]
+MEL[112  3532  1_0
+    156  75+16  5_0
+    +176  5654  3_0
+    654  3122  1 //]
+BEM[]
+MEL_SEM[0 2 2 3 -3 -2 -2 0 7 2 2 -4 5 -3 -2 5 -1 -2 -2 2 -2 -2 -1 5 -2 -2 -1 -4 2 0 -2]
+MEL_RAW[112  3532  10
+    156  75+16  50
+    +176  5654  30
+    654  3122  1]
+NO_REP[12353210
+    15675+1650
+    +176565430
+    6543121]
+RTM[xxx  xxxx  x_x
+    xxx  xxxx  x_x
+    xxx  xxxx  x_x
+    xxx  xxxx  x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

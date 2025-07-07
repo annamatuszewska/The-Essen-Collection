@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES RATT (REI'T) WOHL AUS DER HAEDE (HEIDE)]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0041]
+KEY[Z0041   08  G 3/4]
+MEL[-5_  112_-7-5  1_2_0
+    2  226_2_  6_5_0
+    5  442_-7-7  1_2_0
+    3  442_-7-5  1_2_ //]
+BEM[]
+MEL_SEM[5 0 2 -3 -4 5 2 0 0 0 7 -7 7 -2 0 -2 0 -3 -3 0 1 2 2 1 0 -3 -3 -4 5 2]
+MEL_RAW[-5  112-7-5  120
+    2  2262  650
+    5  442-7-7  120
+    3  442-7-5  12]
+NO_REP[-512-7-5120
+    262650
+    542-7120
+    342-7-512]
+RTM[x_  xxx_xx  x_x_x
+    x  xxx_x_  x_x_x
+    x  xxx_xx  x_x_x
+    x  xxx_xx  x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

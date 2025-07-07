@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[HAB UNTER EINER LINDE DIE GANZE LIEBE NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Mittelrhein]
+TRD[]
+FKT[]
+SIG[Z1061]
+KEY[Z1061   16  G 2/4]
+MEL[-5_  1_-5_-3_-5_  1_3_1_
+    3_  2_1_-7_-6_  -5__.
+    -5_  -5_-6_-7_1_  2_.32_
+    5_  1_1_1_32  1__0_ //]
+BEM[]
+MEL_SEM[5 -5 -3 3 5 4 -4 4 -2 -2 -1 -2 -2 0 0 2 2 1 2 2 -2 5 -7 0 0 4 -2 -2]
+MEL_RAW[-5  1-5-3-5  131
+    3  21-7-6  -5
+    -5  -5-6-71  232
+    5  11132  10]
+NO_REP[-51-5-3-5131
+    321-7-6-5
+    -5-6-71232
+    513210]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__.
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_xx  x__x_]
+SCL_DEG[-3-5-6-71235]
+SCL_SEM[3 2 2 1 2 2 3]
+

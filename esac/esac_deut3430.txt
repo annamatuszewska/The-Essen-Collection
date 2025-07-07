@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Geburt im Grabe
+    Nun Last uns wunder Hoeren,]
+REG[Mitteleuropa, Deutschland (Text: Pommern)]
+TRD[5, S. 217
+    1647 gedruckt]
+FKT[]
+SIG[Q0109]
+KEY[Q0109   04  F FREI]
+MEL[1_1_-7-6_12_1_
+    1_1_2-7_-51_-7_
+    -7_1_12_32_2_
+    3_4_32_12_1_ //]
+BEM[]
+MEL_SEM[0 -1 -2 3 2 -2 0 0 2 -3 -4 5 -1 0 1 0 2 2 -2 0 2 1 -1 -2 -2 2 -2]
+MEL_RAW[11-7-6121
+    112-7-51-7
+    -7112322
+    3432121]
+NO_REP[1-7-6121
+    12-7-51-7
+    -71232
+    3432121]
+RTM[x_x_xx_xx_x_
+    x_x_xx_xx_x_
+    x_x_xx_xx_x_
+    x_x_xx_xx_x_]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

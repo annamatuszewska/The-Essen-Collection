@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES KUMMA SECHS BOLLACHA]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[Z0244]
+KEY[Z0244   16  G 2/4]
+MEL[1_  5_5_6_6_  5__3_
+    -6_  555_666_  5__3_
+    5_  554_2_3_  435_3__
+    5_4_2_3_  4_5_3_ //]
+BEM[]
+MEL_SEM[7 0 2 0 -2 -3 -7 10 0 0 2 0 0 -2 -3 3 0 0 -2 -3 2 1 -1 3 -3 3 -2 -3 2 1 2 -3]
+MEL_RAW[1  5566  53
+    -6  555666  53
+    5  55423  4353
+    5423  453]
+NO_REP[15653
+    -65653
+    54234353
+    5423453]
+RTM[x_  x_x_x_x_  x__x_
+    x_  xxx_xxx_  x__x_
+    x_  xxx_x_x_  xxx_x__
+    x_x_x_x_  x_x_x_]
+SCL_DEG[-6123456]
+SCL_SEM[3 2 2 1 2 2]
+

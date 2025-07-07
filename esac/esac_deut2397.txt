@@ -1,0 +1,36 @@
+BOEHME
+CUT[ES STAND AUF HOHEN BERGEN]
+REG[Europa, Mitteleuropa, Deutschland, Merxheim a.d. Nahe]
+TRD[]
+FKT[]
+SIG[B0160]
+KEY[B0160   08  A 3/4]
+MEL[34  5_3_34  3_2_
+    22  4_2_24  5__
+    13  5_-6_11  -6_-6_
+    2_  -5-72432  1__
+    13  5_-6_11  -6_-6_
+    2_  -5-72432  1__ //]
+BEM[]
+MEL_SEM[1 2 -3 0 1 -1 -2 0 0 3 -3 0 3 2 -7 4 3 -10 3 0 -3 0 5 -7 4 3 3 -1 -2 -2 0 4 3 -10 3 0 -3 0 5 -7 4 3 3 -1 -2 -2]
+MEL_RAW[34  5334  32
+    22  4224  5
+    13  5-611  -6-6
+    2  -5-72432  1
+    13  5-611  -6-6
+    2  -5-72432  1]
+NO_REP[3453432
+    24245
+    135-61-6
+    2-5-724321
+    135-61-6
+    2-5-724321]
+RTM[xx  x_x_xx  x_x_
+    xx  x_x_xx  x__
+    xx  x_x_xx  x_x_
+    x_  xxxxxx  x__
+    xx  x_x_xx  x_x_
+    x_  xxxxxx  x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

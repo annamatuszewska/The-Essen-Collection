@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Frau von Weissenburg
+    Was wollen wir aber singen,]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 304
+    1557 gedruckt]
+FKT[]
+SIG[Q0030A]
+KEY[Q0030A  08  C 6/4]
+MEL[1_  1__3_3__1_  3__454__
+    32  1_1_1_5__4_  3__.0__
+    45  4__3_1__3_  2__2_-5__
+    3_  4__321__-6-7  1__.0__ //]
+BEM[]
+MEL_SEM[0 4 0 -4 4 1 2 -2 -1 -2 -2 0 0 7 -2 -1 1 2 -2 -1 -4 4 -2 0 -7 9 1 -1 -2 -2 -3 2 1]
+MEL_RAW[1  1331  3454
+    32  11154  30
+    45  4313  22-5
+    3  4321-6-7  10]
+NO_REP[1313454
+    3215430
+    4543132-5
+    34321-6-710]
+RTM[x_  x__x_x__x_  x__xxx__
+    xx  x_x_x_x__x_  x__.x__
+    xx  x__x_x__x_  x__x_x__
+    x_  x__xxx__xx  x__.x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

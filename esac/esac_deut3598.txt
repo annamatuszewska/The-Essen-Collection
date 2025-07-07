@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Verschlafener Jaeger
+    Es ging sen ein Jaeger jagen]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Hainau, Conradsdorf]
+TRD[7, S. 183
+    1829 aufgezeichnet]
+FKT[]
+SIG[Q0152]
+KEY[Q0152   16  G 3/8]
+MEL[34  5_.654  3_2_3_  4_.353  2__
+    34  5_.654  3_2_3_  4_.353  2__
+    4_  3_.53_  2_.12_  1_.234  5__
+    54  3_.53_  2_.12_  1__ //]
+BEM[]
+MEL_SEM[1 2 2 -2 -2 -1 -2 2 1 -1 3 -3 -2 2 1 2 2 -2 -2 -1 -2 2 1 -1 3 -3 -2 3 -1 3 -3 -2 -2 2 -2 2 2 1 2 0 -2 -1 3 -3 -2 -2 2 -2]
+MEL_RAW[34  5654  323  4353  2
+    34  5654  323  4353  2
+    4  353  212  1234  5
+    54  353  212  1]
+NO_REP[34565432343532
+    34565432343532
+    435321212345
+    543532121]
+RTM[xx  x_.xxx  x_x_x_  x_.xxx  x__
+    xx  x_.xxx  x_x_x_  x_.xxx  x__
+    x_  x_.xx_  x_.xx_  x_.xxx  x__
+    xx  x_.xx_  x_.xx_  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

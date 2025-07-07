@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Winterrosen
+    Es wollt' ein Maedchen Wasser hol'n]
+REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Altlandsberg]
+TRD[7, S. 63
+    1842 aufgezeichnet]
+FKT[]
+SIG[Q0145K]
+KEY[Q0145K  16  G 2/4]
+MEL[-5_  1_.11_.3  5_.22_.
+    2  5_.22_.1  -7_.-6-5_0_
+    -5_3_1_0_  -5_4_2_
+    -5_  1_.15_.4  3_.21_ //]
+BEM[]
+MEL_SEM[5 0 0 4 3 -5 0 0 5 -5 0 -2 -1 -2 -2 0 9 -4 -5 10 -3 -7 5 0 7 -2 -1 -2 -2]
+MEL_RAW[-5  1113  522
+    2  5221  -7-6-50
+    -5310  -542
+    -5  1154  321]
+NO_REP[-51352
+    2521-7-6-50
+    -5310-542
+    -5154321]
+RTM[x_  x_.xx_.x  x_.xx_.
+    x  x_.xx_.x  x_.xx_x_
+    x_x_x_x_  x_x_x_
+    x_  x_.xx_.x  x_.xx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

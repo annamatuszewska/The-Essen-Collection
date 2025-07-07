@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Schlachtlied
+    LUSTIG LUSTIG IHR DEUTSCHEN BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z1140]
+KEY[Z1140   08  F 3/4]
+MEL[12  3_.343  322_
+    23  4_.454  433_
+    55  5_.364  2_0_
+    13  5_.565  4346
+    54  323543  255_
+    22  2_.345  3__ //]
+BEM[]
+MEL_SEM[2 2 0 1 -1 0 -2 0 0 2 1 0 2 -2 0 -1 0 3 0 0 -3 5 -4 -3 -2 4 3 0 2 -2 -2 -1 1 4 -2 -2 -1 -2 2 3 -2 -1 -2 5 0 -5 0 0 2 1 2 -3]
+MEL_RAW[12  3343  322
+    23  4454  433
+    55  5364  20
+    13  5565  4346
+    54  323543  255
+    22  2345  3]
+NO_REP[123432
+    234543
+    536420
+    135654346
+    5432354325
+    23453]
+RTM[xx  x_.xxx  xxx_
+    xx  x_.xxx  xxx_
+    xx  x_.xxx  x_x_
+    xx  x_.xxx  xxxx
+    xx  xxxxxx  xxx_
+    xx  x_.xxx  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

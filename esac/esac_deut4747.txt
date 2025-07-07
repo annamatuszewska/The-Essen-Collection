@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[AUS DEM KARLSRUH MUSS ICH REISEN, AUS DER ALLERSCHOENSTEN STADT]
+REG[Europa, Mitteleuropa, Deutschland, Baden]
+TRD[]
+FKT[]
+SIG[Z0248]
+KEY[Z0248   08  G 3/4]
+MEL[13  5_.+154  433_
+    23  544_31  2_0_
+    23  4_.332  211_
+    (567)  +153_22  1__
+    23  4_.332  211_
+    (567)  +153_22  1__ //]
+BEM[]
+MEL_SEM[4 3 5 -5 -2 0 -1 0 -2 2 3 -2 0 -1 -4 2 0 2 1 -1 0 -2 0 -2 0 7 2 2 1 -5 -3 -2 0 -2 2 2 1 -1 0 -2 0 -2 0 7 2 2 1 -5 -3 -2 0 -2]
+MEL_RAW[13  5+154  433
+    23  54431  20
+    23  4332  211
+    567  +15322  1
+    23  4332  211
+    567  +15322  1]
+NO_REP[135+1543
+    23543120
+    234321
+    567+15321
+    234321
+    567+15321]
+RTM[xx  x_.xxx  xxx_
+    xx  xxx_xx  x_x_
+    xx  x_.xxx  xxx_
+    (xxx)  xxx_xx  x__
+    xx  x_.xxx  xxx_
+    (xxx)  xxx_xx  x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

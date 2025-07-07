@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Das Wunder
+    ZWISCHEN BRIX UND KOMOTHAU]
+REG[Europa, Mitteleuropa, Deutschland, Boehmen]
+TRD[]
+FKT[]
+SIG[Z1357]
+KEY[Z1357   16  C 2/4]
+MEL[+1_5_5_5_  5_.43_
+    5_  6_7_+1_6_  6__5__
+    +1_5_5_5_  5_.43_
+    5_  6_5_4_3_  3__2__
+    5_5_5__  +1_+1_+1__
+    6_+2+2+1_7_  7__+1__ //]
+BEM[]
+MEL_SEM[-5 0 0 0 -2 -1 3 2 2 1 -3 0 -2 5 -5 0 0 0 -2 -1 3 2 -2 -2 -1 0 -2 5 0 0 5 0 0 -3 5 0 -2 -1 0 1]
+MEL_RAW[+1555  543
+    5  67+16  65
+    +1555  543
+    5  6543  32
+    555  +1+1+1
+    6+2+2+17  7+1]
+NO_REP[+1543
+    567+165
+    +1543
+    565432
+    5+1
+    6+2+17+1]
+RTM[x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x__
+    x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x__
+    x_x_x__  x_x_x__
+    x_xxx_x_  x__x__]
+SCL_DEG[234567+1+2]
+SCL_SEM[2 1 2 2 2 1 2]
+

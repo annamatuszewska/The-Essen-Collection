@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[DU! DU! LIEGST MIR IM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z0264]
+KEY[Z0264   08  G 3/8]
+MEL[3_0  3_0  323  54#4
+    2_0  2_0  234  3_0
+    3_0  3_0  323  54#4
+    222  332  1_0
+    5_0  54#4  3_0
+    222  432  1_0 //]
+BEM[]
+MEL_SEM[0 0 -2 2 3 -1 -1 -3 0 0 2 1 -1 0 0 0 -2 2 3 -1 -1 -3 0 0 2 0 -2 -2 7 0 -1 -1 -1 -2 0 0 3 -1 -2 -2]
+MEL_RAW[30  30  323  54#4
+    20  20  234  30
+    30  30  323  54#4
+    222  332  10
+    50  54#4  30
+    222  432  10]
+NO_REP[303032354#4
+    202023430
+    303032354#4
+    23210
+    5054#430
+    243210]
+RTM[x_x  x_x  xxx  xxx
+    x_x  x_x  xxx  x_x
+    x_x  x_x  xxx  xxx
+    xxx  xxx  x_x
+    x_x  xxx  x_x
+    xxx  xxx  x_x]
+SCL_DEG[12344#5]
+SCL_SEM[2 2 1 1 1]
+

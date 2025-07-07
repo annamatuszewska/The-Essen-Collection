@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Koenigskinder
+    Es waren zwei Koenigeskinder,]
+REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
+TRD[1, S. 219
+    1840 aufgezeichnet]
+FKT[]
+SIG[Q0020M]
+KEY[Q0020M  16  G 3/8]
+MEL[-5_  1_.-51_  3_.13_  5__.  2__
+    2_  3_.45_  5_.43_  2__0_  0__
+    5_  5_.555  5_.31_  4_.56_  5__
+    4_  3_.33_  2_.32_  1__ //]
+BEM[]
+MEL_SEM[5 -5 5 4 -4 4 3 -5 0 2 1 2 0 -2 -1 -2 5 0 0 0 0 0 -3 -4 5 2 2 -2 -2 -1 0 0 -2 2 -2 -2]
+MEL_RAW[-5  1-51  313  5  2
+    2  345  543  20  0
+    5  5555  531  456  5
+    4  333  232  1]
+NO_REP[-51-5131352
+    23454320
+    5314565
+    432321]
+RTM[x_  x_.xx_  x_.xx_  x__.  x__
+    x_  x_.xx_  x_.xx_  x__x_  x__
+    x_  x_.xxx  x_.xx_  x_.xx_  x__
+    x_  x_.xx_  x_.xx_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

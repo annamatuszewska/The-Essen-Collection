@@ -1,0 +1,32 @@
+ZUCCAL
+CUT[ICH HEV SE NICH UP DE SCHOLEN GEBRACHT]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+TRD[]
+FKT[]
+SIG[Z0050]
+KEY[Z0050   08  D 3/4]
+MEL[-5_  1_1_1_  1_2_3b_  4_2_2_  2__
+    -5_  1__1_  3b_2_11  5__5_  5__
+    5_  4_4_4_  3b_3b_21  5_-5_
+    5_  5_4_5_  5_4_5_  7b_6b_5_  4_5_4_  3b__
+    3b3b  3b_3b_3b_  3b_2_1_  5__-5_ //]
+BEM[]
+MEL_SEM[5 0 0 0 2 1 2 -3 0 0 -7 5 0 3 -1 -2 0 7 0 0 0 -2 0 0 -2 0 -1 -2 7 -12 12 0 -2 2 0 -2 2 3 -2 -1 -2 2 -2 -2 0 0 0 0 0 0 -1 -2 7 -12]
+MEL_RAW[-5  111  123b  422  2
+    -5  11  3b211  55  5
+    5  444  3b3b21  5-5
+    5  545  545  7b6b5  454  3b
+    3b3b  3b3b3b  3b21  5-5]
+NO_REP[-5123b42
+    -513b215
+    543b215-5
+    545457b6b54543b
+    3b215-5]
+RTM[x_  x_x_x_  x_x_x_  x_x_x_  x__
+    x_  x__x_  x_x_xx  x__x_  x__
+    x_  x_x_x_  x_x_xx  x_x_
+    x_  x_x_x_  x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_x_x_  x_x_x_  x__x_]
+SCL_DEG[-5123b456b7b]
+SCL_SEM[5 2 1 2 2 1 2]
+

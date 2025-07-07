@@ -1,0 +1,24 @@
+ZUCCAL
+CUT[EINS ZWEI DREI ALT IST NICHT NEU]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[Z0126]
+KEY[Z0126   08  C 4/4]
+MEL[1_1_5__  4_2-71_0_
+    1_135_4_  2_244_3_
+    1_112_4_  35321_0_ //]
+BEM[]
+MEL_SEM[0 7 -2 -3 -3 1 0 0 4 3 -2 -3 0 3 0 -1 -4 0 0 2 3 -1 3 -3 -2 -2]
+MEL_RAW[115  42-710
+    11354  22443
+    11124  353210]
+NO_REP[1542-710
+    1354243
+    124353210]
+RTM[x_x_x__  x_xxx_x_
+    x_xxx_x_  x_xxx_x_
+    x_xxx_x_  xxxxx_x_]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

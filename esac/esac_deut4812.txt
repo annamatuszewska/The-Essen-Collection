@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[DA DROBEN IN JENEM THALE, DA TREIBET DAS WASSER DAS RAD]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0313]
+KEY[Z0313   16  F 3/8]
+MEL[-5_  1_-7_1_  2_1_2_  3__2_  1__
+    12  3_.45_  5_4_3_  2__
+    4_  3_4_5_  5_4_3_  4_.56_  5__
+    4_  3_2_1_  2_1_2_  1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 2 2 -2 -2 0 2 2 1 2 0 -2 -1 -2 3 -1 1 2 0 -2 -1 1 2 2 -2 -2 -1 -2 -2 2 -2 2 -2]
+MEL_RAW[-5  1-71  212  32  1
+    12  345  543  2
+    4  345  543  456  5
+    4  321  212  1]
+NO_REP[-51-71212321
+    12345432
+    4345434565
+    43212121]
+RTM[x_  x_x_x_  x_x_x_  x__x_  x__
+    xx  x_.xx_  x_x_x_  x__
+    x_  x_x_x_  x_x_x_  x_.xx_  x__
+    x_  x_x_x_  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

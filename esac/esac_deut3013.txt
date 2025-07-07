@@ -1,0 +1,42 @@
+BALLADEN
+CUT[Der Abendgang
+    O das jch kunt von hertzen]
+REG[Mitteleuropa, Deutschland]
+TRD[1, S. 183
+    1581 gedruckt in Prag]
+FKT[]
+SIG[Q0019A]
+KEY[Q0019A  04  A FREI]
+MEL[1_  3b_3b4_4  5_5_
+    5_  7b_7b6b_4  5_4_0_
+    4_  5_55_7b  6b_5_0_
+    5_  4_3b5_3b  2_1_0_
+    5_  4_43b_1  23b4_
+    4_  4_44_5  6b_5_0_
+    5_  4_3b5_3b  2_1_ //]
+BEM[]
+MEL_SEM[3 0 2 0 2 0 0 3 0 -2 -3 2 -2 0 2 0 0 3 -2 -1 0 -2 -2 4 -4 -1 -2 7 -2 0 -2 -3 2 1 2 0 0 0 0 2 1 -1 0 -2 -2 4 -4 -1 -2]
+MEL_RAW[1  3b3b44  55
+    5  7b7b6b4  540
+    4  5557b  6b50
+    5  43b53b  210
+    5  443b1  23b4
+    4  4445  6b50
+    5  43b53b  21]
+NO_REP[13b45
+    57b6b4540
+    457b6b50
+    543b53b210
+    543b123b4
+    456b50
+    543b53b21]
+RTM[x_  x_xx_x  x_x_
+    x_  x_xx_x  x_x_x_
+    x_  x_xx_x  x_x_x_
+    x_  x_xx_x  x_x_x_
+    x_  x_xx_x  xxx_
+    x_  x_xx_x  x_x_x_
+    x_  x_xx_x  x_x_]
+SCL_DEG[123b456b7b]
+SCL_SEM[2 1 2 2 1 2]
+

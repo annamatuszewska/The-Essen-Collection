@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Vorwirt
+    Es wollt' ein Herr ausreiten,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[5, S. 16
+    1926 gedruckt in Heidelberg]
+FKT[]
+SIG[Q0089H]
+KEY[Q0089H  08  G FREI]
+MEL[-5_1__1_  1_2_3_3__23  1__.
+    1_-7_-6_  -5__-5_1_-7_1_  2__3_1__.
+    1_1_-7_-6_  -5_-5_1_4_3_2_3__
+    2_  1_-7_-6_-5__1_3__2_  1__ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 0 -2 2 -4 0 -1 -2 -2 0 5 -1 1 2 2 -4 0 0 -1 -2 -2 0 5 5 -1 -2 2 -2 -2 -1 -2 -2 5 4 -2 -2]
+MEL_RAW[-511  123323  1
+    1-7-6  -5-51-71  231
+    11-7-6  -5-514323
+    2  1-7-6-5132  1]
+NO_REP[-5123231
+    1-7-6-51-71231
+    1-7-6-514323
+    21-7-6-51321]
+RTM[x_x__x_  x_x_x_x__xx  x__.
+    x_x_x_  x__x_x_x_x_  x__x_x__.
+    x_x_x_x_  x_x_x_x_x_x_x__
+    x_  x_x_x_x__x_x__x_  x__]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

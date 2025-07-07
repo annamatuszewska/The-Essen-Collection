@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Giessen, Crumbach]
+TRD[8, S. 67
+    1921 aufgezeichnet]
+FKT[]
+SIG[Q0155R]
+KEY[Q0155R  16  G 6/8]
+MEL[-5_  3__2_1__-6_  -5__3_3__
+    33  2__2_4_3_2_  3___0_
+    3_  5__3_6__5_  4__3_2__
+    1_  -7__2_5__4_  3___0_
+    3_  4__6_5__4_  3__2_1__
+    1_  -7__2_5__4_  3__.^__ //]
+BEM[]
+MEL_SEM[9 -2 -2 -3 -2 9 0 0 0 -2 0 3 -1 -2 2 0 3 -3 5 -2 -2 -1 -2 -2 -1 3 5 -2 -1 0 1 4 -2 -2 -1 -2 -2 0 -1 3 5 -2 -1]
+MEL_RAW[-5  321-6  -533
+    33  22432  30
+    3  5365  432
+    1  -7254  30
+    3  4654  321
+    1  -7254  3^]
+NO_REP[-5321-6-53
+    3243230
+    35365432
+    1-725430
+    34654321
+    1-72543^]
+RTM[x_  x__x_x__x_  x__x_x__
+    xx  x__x_x_x_x_  x___x_
+    x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__x_  x___x_
+    x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__x_  x__.x__]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

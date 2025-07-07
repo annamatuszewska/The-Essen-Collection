@@ -1,0 +1,22 @@
+BALLADEN
+CUT[Die Todesbraut
+    Dixit Dominus Domino meo:]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[2, S. 237
+    1933 gedruckt in Heidelberg]
+FKT[]
+SIG[Q1049F]
+KEY[Q1049F  04  G FREI]
+MEL[1__  12343  2
+    5__  23432  1 //]
+BEM[]
+MEL_SEM[0 2 2 1 -1 -2 5 -5 2 1 -1 -2 -2]
+MEL_RAW[1  12343  2
+    5  23432  1]
+NO_REP[123432
+    5234321]
+RTM[x__  xxxxx  x
+    x__  xxxxx  x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

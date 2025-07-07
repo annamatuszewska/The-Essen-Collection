@@ -1,0 +1,40 @@
+ZUCCAL
+CUT[WAER ICH EIN BRUENNLEIN KLAR, BOET ICH DIR KUEHLUNG DAR]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z0302]
+KEY[Z0302   08  G 3/4]
+MEL[3_.23_  5_.43_
+    2_1_2_  3_2_1_
+    3_3_2#_  3_0__
+    3_2_34  6_.543
+    3_2_34  6_.543
+    322_43  2_.0_.
+    3_5432  1_.0_. //]
+BEM[]
+MEL_SEM[-2 2 3 -2 -1 -2 -2 2 2 -2 -2 4 0 -1 1 0 -2 2 1 4 -2 -2 -1 0 -2 2 1 4 -2 -2 -1 0 -2 0 3 -1 -2 2 3 -2 -1 -2 -2]
+MEL_RAW[323  543
+    212  321
+    332#  30
+    3234  6543
+    3234  6543
+    32243  20
+    35432  10]
+NO_REP[323543
+    212321
+    32#30
+    32346543
+    32346543
+    324320
+    3543210]
+RTM[x_.xx_  x_.xx_
+    x_x_x_  x_x_x_
+    x_x_x_  x_x__
+    x_x_xx  x_.xxx
+    x_x_xx  x_.xxx
+    xxx_xx  x_.x_.
+    x_xxxx  x_.x_.]
+SCL_DEG[122#3456]
+SCL_SEM[2 1 1 1 2 2]
+

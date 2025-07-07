@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Der Koenigin Luise Abschied
+    WILHELM KOMM AN MEINE SEITE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0042]
+KEY[Z0042   08 Bb 3/4]
+MEL[-5-7  1_.-5-6-7  1-5-5
+    -513  2_.-712  -7__
+    -5-5  432151  1-7-6-5
+    -3-5  1_5_42  1__ //]
+BEM[]
+MEL_SEM[4 1 -5 2 2 1 -5 0 0 5 4 -2 -3 1 2 -3 -4 0 10 -1 -2 -2 7 -7 0 -1 -2 -2 -3 3 5 7 -2 -3 -2]
+MEL_RAW[-5-7  1-5-6-7  1-5-5
+    -513  2-712  -7
+    -5-5  432151  1-7-6-5
+    -3-5  1542  1]
+NO_REP[-5-71-5-6-71-5
+    -5132-712-7
+    -5432151-7-6-5
+    -3-515421]
+RTM[xx  x_.xxx  xxx
+    xxx  x_.xxx  x__
+    xx  xxxxxx  xxxx
+    xx  x_x_xx  x__]
+SCL_DEG[-3-5-6-712345]
+SCL_SEM[3 2 2 1 2 2 1 2]
+

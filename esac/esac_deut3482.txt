@@ -1,0 +1,34 @@
+BALLADEN
+CUT[Die schoene Magdalena
+    Es hat sich eines Bauers schoenes Toechterlein,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[6, S. 64
+    1939 gedruckt in Kassel]
+FKT[]
+SIG[Q0125A]
+KEY[Q0125A  16  G 6/8]
+MEL[-5__  1_.23b3b2_1_-7-7  1_.23b12__
+    55  5_5_5_5_3b_4_  5__.0__
+    3b4  5_5_554_4_54  3b45_0__.
+    43b  23b4_0__.3b2  1_.23b12__
+    12  3b_5_445_3b_2_  1__0__ //]
+BEM[]
+MEL_SEM[5 2 1 0 -1 -2 -1 0 1 2 1 -3 2 5 0 0 0 0 0 -4 2 2 -4 2 2 0 0 0 -2 0 2 -2 -2 2 2 -2 -2 -1 1 2 -2 -1 -2 2 1 -3 2 -2 2 1 4 -2 0 2 -4 -1 -2]
+MEL_RAW[-5  123b3b21-7-7  123b12
+    55  55553b4  50
+    3b4  55554454  3b450
+    43b  23b403b2  123b12
+    12  3b54453b2  10]
+NO_REP[-5123b21-7123b12
+    53b450
+    3b454543b450
+    43b23b403b2123b12
+    123b5453b210]
+RTM[x__  x_.xxxx_x_xx  x_.xxxx__
+    xx  x_x_x_x_x_x_  x__.x__
+    xx  x_x_xxx_x_xx  xxx_x__.
+    xx  xxx_x__.xx  x_.xxxx__
+    xx  x_x_xxx_x_x_  x__x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

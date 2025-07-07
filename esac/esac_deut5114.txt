@@ -1,0 +1,45 @@
+ZUCCAL
+CUT[Vorsorge
+    WENN I MAL EN HAUS BEKOMM]
+REG[Europa, Mitteleuropa, Deutschland Schwaben]
+TRD[]
+FKT[]
+SIG[Z1377]
+KEY[Z1377   08  A 2/4]
+MEL[-5  1234  553_
+    5_22  345_
+    345_  345_
+    345_  345_
+    3_44  565
+    4  3355  345_
+    3_44  565
+    4  3454  3_. //]
+BEM[]
+MEL_SEM[5 2 2 1 2 0 -3 3 -5 0 2 1 2 -3 1 2 -3 1 2 -3 1 2 -3 1 2 -3 1 0 2 2 -2 -2 -1 0 3 0 -3 1 2 -3 1 0 2 2 -2 -2 -1 1 2 -2 -1]
+MEL_RAW[-5  1234  553
+    522  345
+    345  345
+    345  345
+    344  565
+    4  3355  345
+    344  565
+    4  3454  3]
+NO_REP[-5123453
+    52345
+    345345
+    345345
+    34565
+    435345
+    34565
+    434543]
+RTM[x  xxxx  xxx_
+    x_xx  xxx_
+    xxx_  xxx_
+    xxx_  xxx_
+    x_xx  xxx
+    x  xxxx  xxx_
+    x_xx  xxx
+    x  xxxx  x_.]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Der Kuechenjunge und die Koenigstochter
+    HABT IHR KEINEN MANN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+TRD[]
+FKT[]
+SIG[Z1079]
+KEY[Z1079   08 Ab 4/4]
+MEL[-5  1_111_.3  23221_.
+    1  2_2_5_5_  2__5_
+    34  5_654_23  44543_.
+    3  5_1_1_-7_  -6__-5__
+    3_1_1__  12345_.
+    5  4_2_5_3_  2__1_0 //]
+BEM[]
+MEL_SEM[5 0 0 0 4 -2 2 -2 0 -2 0 2 0 5 0 -5 5 -3 1 2 2 -2 -2 -3 2 1 0 2 -2 -1 0 3 -7 0 -1 -2 -2 9 -4 0 0 2 2 1 2 0 -2 -3 5 -3 -2 -2]
+MEL_RAW[-5  11113  23221
+    1  2255  25
+    34  565423  44543
+    3  511-7  -6-5
+    311  12345
+    5  4253  210]
+NO_REP[-5132321
+    12525
+    345654234543
+    351-7-6-5
+    312345
+    54253210]
+RTM[x  x_xxx_.x  xxxxx_.
+    x  x_x_x_x_  x__x_
+    xx  x_xxx_xx  xxxxx_.
+    x  x_x_x_x_  x__x__
+    x_x_x__  xxxxx_.
+    x  x_x_x_x_  x__x_x]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

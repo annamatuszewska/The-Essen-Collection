@@ -1,0 +1,39 @@
+BALLADEN
+CUT[Maedchen und Hasel
+    Et wull en Maeke Schwin utjoge]
+REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Kr. Friedland,
+    Markienen]
+TRD[6, S. 244
+    1912 aufgezeichnet]
+FKT[]
+SIG[Q0138B]
+KEY[Q0138B  16  G 3/4]
+MEL[-5_  -5_1_1__.-6_  1_-7_-5_-5_0_
+    -5_  -5_-7_2__-6__  -6__-5__0_
+    -5_  -5_4_4__.2_  4_3_1__0_
+    3_  3_22-6__.2_  2__1__0_
+    -5_  -5_4_4__.2_  4_3_1__0_
+    3_  3_22-6__.2_  2__1__0_ //]
+BEM[]
+MEL_SEM[0 5 0 -3 3 -1 -4 0 0 0 4 3 -5 0 -2 0 0 10 0 -3 3 -1 -4 4 0 -2 0 -5 5 0 -2 -5 0 10 0 -3 3 -1 -4 4 0 -2 0 -5 5 0 -2]
+MEL_RAW[-5  -511-6  1-7-5-50
+    -5  -5-72-6  -6-50
+    -5  -5442  4310
+    3  322-62  210
+    -5  -5442  4310
+    3  322-62  210]
+NO_REP[-51-61-7-50
+    -5-72-6-50
+    -5424310
+    32-6210
+    -5424310
+    32-6210]
+RTM[x_  x_x_x__.x_  x_x_x_x_x_
+    x_  x_x_x__x__  x__x__x_
+    x_  x_x_x__.x_  x_x_x__x_
+    x_  x_xxx__.x_  x__x__x_
+    x_  x_x_x__.x_  x_x_x__x_
+    x_  x_xxx__.x_  x__x__x_]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

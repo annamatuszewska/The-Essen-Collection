@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der Spielmannssohn
+    Als ich ein kleines Buewelein war,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Rechicourt]
+TRD[3, S. 167
+    1937 aufgezeichnet]
+FKT[]
+SIG[Q0062]
+KEY[Q0062   16  F 6/4]
+MEL[5__3__2__1___1_2_  3__.3_4__5___
+    1_5_  5__5__5__+1__.+2_+1_7_  6__.+1_5_6_5__0__
+    5__  +1__.7_+1_7_6__.5_4__  4__5__6__5___
+    1_3_  3__.5_5__5__4__3_.4  2___1__1___. //]
+BEM[]
+MEL_SEM[-3 -2 -2 0 2 2 0 1 2 -7 7 0 0 0 5 2 -2 -1 -2 3 -5 2 -2 0 5 -1 1 -1 -2 -2 -2 0 2 2 -2 -7 4 0 3 0 0 -2 -1 1 -3 -2 0]
+MEL_RAW[532112  3345
+    15  555+1+2+17  6+15650
+    5  +17+17654  4565
+    13  3555434  211]
+NO_REP[53212345
+    15+1+2+176+15650
+    5+17+17654565
+    13543421]
+RTM[x__x__x__x___x_x_  x__.x_x__x___
+    x_x_  x__x__x__x__.x_x_x_  x__.x_x_x_x__x__
+    x__  x__.x_x_x_x__.x_x__  x__x__x__x___
+    x_x_  x__.x_x__x__x__x_.x  x___x__x___.]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

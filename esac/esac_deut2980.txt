@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der verkleidete Markgrafensohn
+    Es wollt' ein Koenigssohn freien gehn,]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Gelmingen]
+TRD[1, S. 52
+    1930 aufgezeichnet (17. Jh. ?)]
+FKT[]
+SIG[Q0006B]
+KEY[Q0006B  08  G 3/2]
+MEL[5_  5_1_2__2_3_  4_2_3__0_
+    2_  1_3_2__3_1_  -7__1__0_
+    1_  3_112__2_3_  4_2_3__0_
+    2_  1_3_2__3_1_  -7__1__0_ //]
+BEM[]
+MEL_SEM[0 -7 2 0 2 1 -3 2 -2 -2 4 -2 2 -4 -1 1 0 4 -4 0 2 0 2 1 -3 2 -2 -2 4 -2 2 -4 -1 1]
+MEL_RAW[5  51223  4230
+    2  13231  -710
+    1  311223  4230
+    2  13231  -710]
+NO_REP[51234230
+    213231-710
+    131234230
+    213231-710]
+RTM[x_  x_x_x__x_x_  x_x_x__x_
+    x_  x_x_x__x_x_  x__x__x_
+    x_  x_xxx__x_x_  x_x_x__x_
+    x_  x_x_x__x_x_  x__x__x_]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

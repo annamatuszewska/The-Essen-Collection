@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Falscher Sinn
+    JETZT KOMMT DIE ZEIT DASS ICH WANDERN MUSS]
+REG[Europa, Mitteleuropa, Deutschland, Pfalz]
+TRD[]
+FKT[]
+SIG[Z1165]
+KEY[Z1165   16  C 2/4]
+MEL[34  5_.+15_54  3_3_2_
+    2_  3_5_4#_6_  5__0_
+    35  +1_7_6_5_  6__5__  4_543_
+    +1_  6_543_2_  1__0_ //]
+BEM[]
+MEL_SEM[1 2 5 -5 0 -2 -1 0 -2 0 2 3 -1 3 -2 -3 3 5 -1 -2 -2 2 -2 -2 2 -2 -1 8 -3 -2 -2 -1 -2 -2]
+MEL_RAW[34  5+1554  332
+    2  354#6  50
+    35  +1765  65  4543
+    +1  65432  10]
+NO_REP[345+15432
+    2354#650
+    35+1765654543
+    +16543210]
+RTM[xx  x_.xx_xx  x_x_x_
+    x_  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x__x__  x_xxx_
+    x_  x_xxx_x_  x__x_]
+SCL_DEG[12344#567+1]
+SCL_SEM[2 2 1 1 1 2 2 1]
+

@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[ES ZOG EIN KNAB INS NIEDERLAND]
+REG[Europa, Mitteleuropa, Deutschland, Herzogtum Berg]
+TRD[]
+FKT[]
+SIG[Z0100]
+KEY[Z0100   08  G 3/4]
+MEL[-5-5-7b  1_.23b3b  2_1
+    23b4  5_.543b  2_0
+    111  5_.543b  2_.
+    543b  5_.43b2  1_0 //]
+BEM[]
+MEL_SEM[0 3 2 2 1 0 -1 -2 2 1 2 2 0 -2 -2 -1 -2 0 0 7 0 -2 -2 -1 5 -2 -2 4 -2 -2 -1 -2]
+MEL_RAW[-5-5-7b  123b3b  21
+    23b4  5543b  20
+    111  5543b  2
+    543b  543b2  10]
+NO_REP[-5-7b123b21
+    23b4543b20
+    1543b2
+    543b543b210]
+RTM[xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_x]
+SCL_DEG[-5-7b123b45]
+SCL_SEM[3 2 2 1 2 2]
+

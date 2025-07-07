@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Ritter und Magd
+    'Ach junckfraw, wolt jr mit mir gan?]
+REG[Mitteleuropa, Deutschland]
+TRD[3, S. 54
+    1549 gedruckt in Nuernberg; vom Hg. vereinfachte Fassung]
+FKT[]
+SIG[Q1055N]
+KEY[Q1055N  08  F 6/4 4/4]
+MEL[1_1_2_  3__4_5__3_  1_
+    +1__+1_+1_+1_  7_5_6__  5_0_
+    1_5__+1_  7_5_6_5__5_  3_
+    6_5_.4  3_1_2__  1_ //]
+BEM[]
+MEL_SEM[0 2 2 1 2 -3 -4 12 0 0 0 -1 -4 2 -2 -7 7 5 -1 -4 2 -2 0 -3 5 -2 -2 -1 -4 2 -2]
+MEL_RAW[112  3453  1
+    +1+1+1+1  756  50
+    15+1  75655  3
+    654  312  1]
+NO_REP[1234531
+    +175650
+    15+175653
+    6543121]
+RTM[x_x_x_  x__x_x__x_  x_
+    x__x_x_x_  x_x_x__  x_x_
+    x_x__x_  x_x_x_x__x_  x_
+    x_x_.x  x_x_x__  x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

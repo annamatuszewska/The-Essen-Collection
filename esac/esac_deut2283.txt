@@ -1,0 +1,28 @@
+BOEHME
+CUT[DEUTSCHES HERZ VERZAGE NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0011]
+KEY[B0011   08  F 4/4]
+MEL[34  5_.34_2_  3__0_
+    11  -7_1_4_3_  2__0_
+    -71  2_.23_23  4__0_
+    22  3_5_3_2_  1__0_ //]
+BEM[]
+MEL_SEM[1 2 -3 1 -3 2 -4 0 -1 1 5 -1 -2 -3 1 2 0 2 -2 2 1 -3 0 2 3 -3 -2 -2]
+MEL_RAW[34  5342  30
+    11  -7143  20
+    -71  22323  40
+    22  3532  10]
+NO_REP[34534230
+    1-714320
+    -71232340
+    2353210]
+RTM[xx  x_.xx_x_  x__x_
+    xx  x_x_x_x_  x__x_
+    xx  x_.xx_xx  x__x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

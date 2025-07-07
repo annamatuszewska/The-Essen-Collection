@@ -1,0 +1,29 @@
+ZUCCAL
+CUT[Eifersucht
+    IN DEN GARTEN WOLLN WIR GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Lothringen]
+TRD[]
+FKT[]
+SIG[Z1161]
+KEY[Z1161   08  D 3/8]
+MEL[135  135  165  5_4
+    2_2  2_5  5_4  433
+    222  432  135  +1_.
+    6_6  5_3  542  1_0 //]
+BEM[]
+MEL_SEM[4 3 -7 4 3 -7 9 -2 0 -2 -3 0 0 5 0 -2 0 -1 0 -2 0 0 3 -1 -2 -2 4 3 5 -3 0 -2 -3 3 -2 -3 -2]
+MEL_RAW[135  135  165  54
+    22  25  54  433
+    222  432  135  +1
+    66  53  542  10]
+NO_REP[1351351654
+    2543
+    2432135+1
+    65354210]
+RTM[xxx  xxx  xxx  x_x
+    x_x  x_x  x_x  xxx
+    xxx  xxx  xxx  x_.
+    x_x  x_x  xxx  x_x]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

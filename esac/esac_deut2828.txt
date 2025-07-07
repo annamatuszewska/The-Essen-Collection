@@ -1,0 +1,28 @@
+BOEHME
+CUT[DU LIEBER FROMMER HEILGER CHRIST]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0641]
+KEY[B0641   08  G 2/4]
+MEL[1  3_1_  4_3_  2123  1_0
+    -5  1_3_  2_.-7  21-7-6  -5_0
+    -5  4_.2  1-7-6-5  1_3_  5_.
+    4  3_5_  5432  1_-7_  1_0 //]
+BEM[]
+MEL_SEM[4 -4 5 -1 -2 -2 2 2 -4 -5 5 4 -2 -3 3 -2 -1 -2 -2 0 10 -3 -2 -1 -2 -2 5 4 3 -2 -1 3 0 -2 -1 -2 -2 -1 1]
+MEL_RAW[1  31  43  2123  10
+    -5  13  2-7  21-7-6  -50
+    -5  42  1-7-6-5  13  5
+    4  35  5432  1-7  10]
+NO_REP[13143212310
+    -5132-721-7-6-50
+    -5421-7-6-5135
+    4354321-710]
+RTM[x  x_x_  x_x_  xxxx  x_x
+    x  x_x_  x_.x  xxxx  x_x
+    x  x_.x  xxxx  x_x_  x_.
+    x  x_x_  xxxx  x_x_  x_x]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

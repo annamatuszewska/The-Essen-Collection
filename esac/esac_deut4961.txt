@@ -1,0 +1,33 @@
+ZUCCAL
+CUT[Keine Antwort und doch eine
+    WO FIND ICH DEINES VATERS HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z1147]
+KEY[Z1147   08  G 4/4]
+MEL[-5-5-5  1_3_3_21  2_0_.
+    -5-5-7  2_4_4_32  3__0
+    554  34556543  4__0
+    443  23445432  3__0_
+    12  3_5_2__  1__0 //]
+BEM[]
+MEL_SEM[0 0 5 4 0 -2 -2 2 -7 0 4 3 3 0 -1 -2 2 3 0 -2 -1 1 2 0 2 -2 -2 -1 1 0 0 -1 -2 2 1 0 2 -2 -1 -2 2 -4 2 2 3 -5 -2]
+MEL_RAW[-5-5-5  13321  20
+    -5-5-7  24432  30
+    554  34556543  40
+    443  23445432  30
+    12  352  10]
+NO_REP[-5132120
+    -5-7243230
+    54345654340
+    43234543230
+    1235210]
+RTM[xxx  x_x_x_xx  x_x_.
+    xxx  x_x_x_xx  x__x
+    xxx  xxxxxxxx  x__x
+    xxx  xxxxxxxx  x__x_
+    xx  x_x_x__  x__x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

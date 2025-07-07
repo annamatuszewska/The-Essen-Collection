@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Rabenmutter
+    Am Dienstag z'Morgen in aller Frueh',]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
+TRD[5, S. 252
+    1918 aufgezeichnet]
+FKT[]
+SIG[Q0114B]
+KEY[Q0114B  16  G FREI]
+MEL[-5_-5_1_  1__1_1_1_6_  5__
+    3_3_3333  4_3_2_1_-7_2_  1__0__
+    3_4_  2__2_3_4_5_  2__0_
+    5_  5__5__5_5_  6__5_4_  3__2__1__ //]
+BEM[]
+MEL_SEM[0 5 0 0 0 0 9 -2 -3 0 0 0 0 0 1 -1 -2 -2 -1 3 -2 4 1 -3 0 2 1 2 -5 5 0 0 0 0 2 -2 -2 -1 -2 -2]
+MEL_RAW[-5-51  11116  5
+    333333  4321-72  10
+    34  22345  20
+    5  5555  654  321]
+NO_REP[-5165
+    34321-7210
+    34234520
+    5654321]
+RTM[x_x_x_  x__x_x_x_x_  x__
+    x_x_xxxx  x_x_x_x_x_x_  x__x__
+    x_x_  x__x_x_x_x_  x__x_
+    x_  x__x__x_x_  x__x_x_  x__x__x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

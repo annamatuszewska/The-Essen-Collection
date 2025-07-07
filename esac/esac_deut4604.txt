@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[EIN MAEDCHEN VON ACHTZEHN JAHREN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[Z0104]
+KEY[Z0104   08  E 3/4]
+MEL[1_  1_5_5_  5_4_6b_  5__3b_  2__
+    23b  4_.3b23b  4_5_3b_  2__
+    12  3b_.21_  3b_.21_  4__6b_  5__
+    4_  3b_.21_  2_.3b2_  1__ //]
+BEM[]
+MEL_SEM[0 7 0 0 -2 3 -1 -4 -1 0 1 2 -2 -1 1 2 2 -4 -1 -2 2 1 -1 -2 3 -1 -2 5 3 -1 -2 -2 -1 -2 2 1 -1 -2]
+MEL_RAW[1  155  546b  53b  2
+    23b  43b23b  453b  2
+    12  3b21  3b21  46b  5
+    4  3b21  23b2  1]
+NO_REP[1546b53b2
+    23b43b23b453b2
+    123b213b2146b5
+    43b2123b21]
+RTM[x_  x_x_x_  x_x_x_  x__x_  x__
+    xx  x_.xxx  x_x_x_  x__
+    xx  x_.xx_  x_.xx_  x__x_  x__
+    x_  x_.xx_  x_.xx_  x__]
+SCL_DEG[123b456b]
+SCL_SEM[2 1 2 2 1]
+

@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die elfjaehrige Markgraefin
+    Es freit' eine junge Markgraefin,]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien]
+TRD[2, S. 299
+    1842 gedruckt in Leipzig]
+FKT[]
+SIG[Q0053Q]
+KEY[Q0053Q  08  F 4/4]
+MEL[1_  5_555565  544_0_
+    54  333_321_  2_3_2_
+    32  113_5_1_  2__1_ //]
+BEM[]
+MEL_SEM[7 0 0 0 0 2 -2 0 -2 0 2 -2 -1 0 0 0 -2 -2 2 2 -2 2 -2 -2 0 4 3 -7 2 -2]
+MEL_RAW[1  5555565  5440
+    54  333321  232
+    32  11351  21]
+NO_REP[156540
+    54321232
+    32135121]
+RTM[x_  x_xxxxxx  xxx_x_
+    xx  xxx_xxx_  x_x_x_
+    xx  xxx_x_x_  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

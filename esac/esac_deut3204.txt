@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der junge Held
+    Des Nachts beim hellen Mondenschein]
+REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
+TRD[3, S. 152
+    1933 gedruckt in Heidelberg (nach)]
+FKT[]
+SIG[Q0060G]
+KEY[Q0060G  08  D 4/4]
+MEL[1_  5_5_3b_6b_  5_4_3b_
+    3b3b  6b_5_4_3b3b  3b21_-7b_
+    -7b_  3b_3b_43b4_  5__0_
+    6b_  5_1_3b_2_  1__0_ //]
+BEM[]
+MEL_SEM[7 0 -4 5 -1 -2 -2 0 0 5 -1 -2 -2 0 0 -1 -2 -2 0 5 0 2 -2 2 2 1 -1 -7 3 -1 -2]
+MEL_RAW[1  553b6b  543b
+    3b3b  6b543b3b  3b21-7b
+    -7b  3b3b43b4  50
+    6b  513b2  10]
+NO_REP[153b6b543b
+    3b6b543b21-7b
+    -7b3b43b450
+    6b513b210]
+RTM[x_  x_x_x_x_  x_x_x_
+    xx  x_x_x_xx  xxx_x_
+    x_  x_x_xxx_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

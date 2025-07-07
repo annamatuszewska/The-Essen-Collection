@@ -1,0 +1,38 @@
+BALLADEN
+CUT[Graf und Nonne (Die Nonne)
+    Ich stand auf hohem Berge,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen, Eder, Kleinern]
+TRD[8, S. 77
+    1931 aufgezeichnet]
+FKT[]
+SIG[Q0155X]
+KEY[Q0155X  16 Eb 3/4]
+MEL[1__  3__.3_3_3_  2_5_5__
+    3_.2  1__.2_3_5_  2__.
+    1_1_2_  5__3_.56_.5  5_4_2__
+    6_6_  5__.3_4_2_  1__.
+    1_1_2_  5__3_.56_.5  5_4_2__
+    6_6_  5__.3_4_2_  1__.0_ //]
+BEM[]
+MEL_SEM[4 0 0 0 -2 5 0 -3 -2 -2 2 2 3 -5 -2 0 2 5 -3 3 2 -2 0 -2 -3 7 0 -2 -3 1 -3 -2 0 0 2 5 -3 3 2 -2 0 -2 -3 7 0 -2 -3 1 -3 -2]
+MEL_RAW[1  3333  255
+    32  1235  2
+    112  53565  542
+    66  5342  1
+    112  53565  542
+    66  5342  10]
+NO_REP[1325
+    3212352
+    125356542
+    653421
+    125356542
+    6534210]
+RTM[x__  x__.x_x_x_  x_x_x__
+    x_.x  x__.x_x_x_  x__.
+    x_x_x_  x__x_.xx_.x  x_x_x__
+    x_x_  x__.x_x_x_  x__.
+    x_x_x_  x__x_.xx_.x  x_x_x__
+    x_x_  x__.x_x_x_  x__.x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

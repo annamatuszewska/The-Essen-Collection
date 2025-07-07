@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[WILLST DU NICHTS VOM FREIEN HOEREN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0312]
+KEY[Z0312   02  A 3/2]
+MEL[1_3b  2_4  3b_4  5_1
+    3b_2  1_3b  2_5  2_.
+    1_3b  2_4  3b_4  5_1
+    3b_2  1_3b  2_5  2_.
+    3b_4  5_3b  6b_5  4_.
+    3b_5  2_5  3b_2  1_. //]
+BEM[]
+MEL_SEM[3 -1 3 -2 2 2 -7 3 -1 -2 3 -1 5 -5 -2 3 -1 3 -2 2 2 -7 3 -1 -2 3 -1 5 -5 1 2 2 -4 5 -1 -2 -2 4 -5 5 -4 -1 -2]
+MEL_RAW[13b  24  3b4  51
+    3b2  13b  25  2
+    13b  24  3b4  51
+    3b2  13b  25  2
+    3b4  53b  6b5  4
+    3b5  25  3b2  1]
+NO_REP[13b243b451
+    3b213b252
+    13b243b451
+    3b213b252
+    3b453b6b54
+    3b5253b21]
+RTM[x_x  x_x  x_x  x_x
+    x_x  x_x  x_x  x_.
+    x_x  x_x  x_x  x_x
+    x_x  x_x  x_x  x_.
+    x_x  x_x  x_x  x_.
+    x_x  x_x  x_x  x_.]
+SCL_DEG[123b456b]
+SCL_SEM[2 1 2 2 1]
+

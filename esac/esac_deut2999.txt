@@ -1,0 +1,46 @@
+BALLADEN
+CUT[Graf von Rom
+    Ich verkund euch newe mere,]
+REG[Mitteleuropa, Deutschland / Niederlande]
+TRD[1, S. 134
+    1539 gedruckt in Antwerpen]
+FKT[]
+SIG[Q0014]
+KEY[Q0014   04  F FREI]
+MEL[1  1_13_4  5_5_0
+    6  7776  5_0
+    5  66+1+1  5_3_0
+    6  5432  1_0
+    1  5_5654  3_2_0
+    1  -721-6  -5_0
+    -5  1111  3_5_0_
+    6  4432  1_0 //]
+BEM[]
+MEL_SEM[0 0 4 1 2 0 2 2 0 0 -2 -2 0 2 0 3 0 -5 -3 5 -2 -2 -1 -2 -2 0 7 0 2 -2 -2 -1 -2 -2 -1 3 -2 -3 -2 0 5 0 0 0 4 3 2 -4 0 -1 -2 -2]
+MEL_RAW[1  1134  550
+    6  7776  50
+    5  66+1+1  530
+    6  5432  10
+    1  55654  320
+    1  -721-6  -50
+    -5  1111  350
+    6  4432  10]
+NO_REP[13450
+    67650
+    56+1530
+    6543210
+    15654320
+    1-721-6-50
+    -51350
+    643210]
+RTM[x  x_xx_x  x_x_x
+    x  xxxx  x_x
+    x  xxxx  x_x_x
+    x  xxxx  x_x
+    x  x_xxxx  x_x_x
+    x  xxxx  x_x
+    x  xxxx  x_x_x_
+    x  xxxx  x_x]
+SCL_DEG[-5-6-71234567+1]
+SCL_SEM[2 2 1 2 2 1 2 2 2 1]
+

@@ -1,0 +1,28 @@
+BOEHME
+CUT[ALS DER GROSSVATER DIE GROSSMUTTER NAHM]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0712]
+KEY[B0712   08  G 3/4]
+MEL[1_.11_  1_.23_  3_2_2_  2__
+    2_  3_.45_  5_.43_  3_2_2_  2__
+    -5_  1_.11_  1_.23_  3_2_2_  2__
+    4_  3_.45_  4_3_2_  2_1_1_  1__. //]
+BEM[]
+MEL_SEM[0 0 0 2 2 0 -2 0 0 0 2 1 2 0 -2 -1 0 -2 0 0 -7 5 0 0 0 2 2 0 -2 0 0 3 -1 1 2 -2 -1 -2 0 -2 0 0]
+MEL_RAW[111  123  322  2
+    2  345  543  322  2
+    -5  111  123  322  2
+    4  345  432  211  1]
+NO_REP[1232
+    2345432
+    -51232
+    43454321]
+RTM[x_.xx_  x_.xx_  x_x_x_  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__
+    x_  x_.xx_  x_x_x_  x_x_x_  x__.]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Verschlafener Jaeger
+    Es ging ein Jaeger jagen]
+REG[Mitteleuropa, Deutschland / Polen, Schlesien, Peterwitz]
+TRD[7, S. 217
+    ????]
+FKT[]
+SIG[Q0152M]
+KEY[Q0152M  08  C 4/4]
+MEL[5_  5_5_5_5_  5_+3_+1_
+    7_  6_6_666_  6_+4_+2_
+    +1_  7_7_+2+1+2_  +3__+4+3
+    +2_  +1_+1_+2+1+2_  +1__0_ //]
+BEM[]
+MEL_SEM[0 0 0 0 0 9 -4 -1 -2 0 0 0 0 0 8 -3 -2 -1 0 3 -2 2 2 1 -1 -2 -2 0 2 -2 2 -2]
+MEL_RAW[5  5555  5+3+1
+    7  66666  6+4+2
+    +1  77+2+1+2  +3+4+3
+    +2  +1+1+2+1+2  +10]
+NO_REP[5+3+1
+    76+4+2
+    +17+2+1+2+3+4+3
+    +2+1+2+1+2+10]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_xxx_  x_x_x_
+    x_  x_x_xxx_  x__xx
+    x_  x_x_xxx_  x__x_]
+SCL_DEG[567+1+2+3+4]
+SCL_SEM[2 2 1 2 2 1]
+

@@ -1,0 +1,28 @@
+BOEHME
+CUT[UEB IMMER TREU UND REDLICHKEIT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0745]
+KEY[B0745   08  G 4/4]
+MEL[-5_  1_1_2_2_  3_.21_
+    -5_  4_4_3234  2__0_
+    -5_  4_4_2_2_  5_.565
+    43  2_2_-7_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 -2 -2 -5 10 0 -1 -2 2 1 -3 -7 10 0 -3 0 5 0 2 -2 -2 -1 -2 0 -3 0 1]
+MEL_RAW[-5  1122  321
+    -5  443234  20
+    -5  4422  5565
+    43  22-7-7  10]
+NO_REP[-512321
+    -54323420
+    -542565
+    432-710]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_x_xxxx  x__x_
+    x_  x_x_x_x_  x_.xxx
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Die Mordeltern
+    Es war'n einmal zwei Bauersoehn',]
+REG[Mitteleuropa, Deutschland (BRD) , Baden, Odenwald]
+TRD[4, S. 307
+    ????]
+FKT[]
+SIG[Q0085G]
+KEY[Q0085G  08  G 3/4]
+MEL[1  331_3_  22-7_0
+    2  11-6_2_  -7-6-5_0
+    3  432_1_  253_0
+    3  432_1_  321_0 //]
+BEM[]
+MEL_SEM[4 0 -4 4 -2 0 -3 3 -2 0 -3 5 -3 -2 -2 9 1 -1 -2 -2 2 5 -3 0 1 -1 -2 -2 4 -2 -2]
+MEL_RAW[1  3313  22-70
+    2  11-62  -7-6-50
+    3  4321  2530
+    3  4321  3210]
+NO_REP[13132-70
+    21-62-7-6-50
+    343212530
+    343213210]
+RTM[x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

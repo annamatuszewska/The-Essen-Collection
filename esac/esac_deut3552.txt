@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Der schwatzhafte Junggeselle
+    Es sassen drei Halunken]
+REG[Mitteleuropa, Deutschland (BRD) , Franken]
+TRD[6, S. 312
+    ????]
+FKT[]
+SIG[Q0139R]
+KEY[Q0139R  08  G FREI]
+MEL[-5  1_-7-6  -5_13  2_1_0_
+    -5  1_-7-6  -5_13  2_1_0_
+    5_  33333_.5  65432_
+    1  -72225_.4  33331_ //]
+BEM[]
+MEL_SEM[5 -1 -2 -2 5 4 -2 -2 -5 5 -1 -2 -2 5 4 -2 -2 7 -3 0 0 0 0 3 2 -2 -2 -1 -2 -2 -1 3 0 0 5 -2 -1 0 0 0 -4]
+MEL_RAW[-5  1-7-6  -513  210
+    -5  1-7-6  -513  210
+    5  333335  65432
+    1  -722254  33331]
+NO_REP[-51-7-6-513210
+    -51-7-6-513210
+    53565432
+    1-725431]
+RTM[x  x_xx  x_xx  x_x_x_
+    x  x_xx  x_xx  x_x_x_
+    x_  xxxxx_.x  xxxxx_
+    x  xxxxx_.x  xxxxx_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

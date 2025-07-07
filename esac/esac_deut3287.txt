@@ -1,0 +1,26 @@
+BALLADEN
+CUT[Die dienende Schwester
+    Es wohnt ein Pfalzgraf dort ueber dem Rhein,]
+REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
+TRD[4, S. 112
+    ????]
+FKT[]
+SIG[Q0075a]
+KEY[Q0075a  08  F 4/4]
+MEL[5_  3_5_3_55  6_664_
+    4_  224_2_4_  5_5_3_
+    3_  2_77+1_76  7_6_5_ //]
+BEM[]
+MEL_SEM[-3 3 -3 3 0 2 0 0 -4 0 -3 0 3 -3 3 2 0 -3 0 -2 9 0 1 -1 -2 2 -2 -2]
+MEL_RAW[5  35355  6664
+    4  22424  553
+    3  277+176  765]
+NO_REP[5353564
+    4242453
+    327+176765]
+RTM[x_  x_x_x_xx  x_xxx_
+    x_  xxx_x_x_  x_x_x_
+    x_  x_xxx_xx  x_x_x_]
+SCL_DEG[234567+1]
+SCL_SEM[2 1 2 2 2 1]
+

@@ -1,0 +1,30 @@
+BALLADEN
+CUT[Jungfer Doertchen
+    Es war ein Jaeger wohlgemut,]
+REG[Mitteleuropa, Deutschland (BRD) , Hessen]
+TRD[3, S. 103
+    1893 gedruckt in Hamburg]
+FKT[]
+SIG[Q0057W]
+KEY[Q0057W  16  G 3/4]
+MEL[-5__3_2_  1__6__6_5_  5__0_
+    5_665_  4__2__5_4_  3__0_
+    1_(1_1_6_)  6__4_6_(+1_7_6_)  5__3_
+    5_(6_6_5_)  4__2_6_5_4_  3__ //]
+BEM[]
+MEL_SEM[9 -2 -2 9 0 -2 0 0 2 0 -2 -2 -3 5 -2 -1 -4 0 0 9 0 -4 4 3 -1 -2 -2 -3 3 2 0 -2 -2 -3 7 -2 -2 -1]
+MEL_RAW[-532  1665  50
+    5665  4254  30
+    1116  646+176  53
+    5665  42654  3]
+NO_REP[-5321650
+    565425430
+    1646+17653
+    565426543]
+RTM[x__x_x_  x__x__x_x_  x__x_
+    x_xxx_  x__x__x_x_  x__x_
+    x_(x_x_x_)  x__x_x_(x_x_x_)  x__x_
+    x_(x_x_x_)  x__x_x_x_x_  x__]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

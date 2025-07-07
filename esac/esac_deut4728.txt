@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[WOHL UNTER EINER LINDE SCHLIEF ICH DIE NACHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0229]
+KEY[Z0229   16  G 2/4]
+MEL[-5_  1_.-51_.3  3_1_2__
+    1__-5-3-5_  -3__0_
+    34  5_5_5_34  5_3_1__
+    3__542_  1__0_ //]
+BEM[]
+MEL_SEM[5 -5 5 4 0 -4 2 -2 -5 -3 3 -3 12 1 2 0 0 -3 1 2 -3 -4 4 3 -2 -3 -2]
+MEL_RAW[-5  1-513  312
+    1-5-3-5  -30
+    34  55534  531
+    3542  10]
+NO_REP[-51-51312
+    1-5-3-5-30
+    34534531
+    354210]
+RTM[x_  x_.xx_.x  x_x_x__
+    x__xxx_  x__x_
+    xx  x_x_x_xx  x_x_x__
+    x__xxx_  x__x_]
+SCL_DEG[-3-512345]
+SCL_SEM[3 5 2 2 1 2]
+

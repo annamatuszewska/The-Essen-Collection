@@ -1,0 +1,28 @@
+BOEHME
+CUT[ES WAR EIN KOENIG IN THULE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[B0110]
+KEY[B0110   08  A 6/4]
+MEL[5_  +1__+1_5_.55_  6b__.3b__
+    3b_  4__5_6b__4_  5___0_
+    5_  +1__+1_7b__7b_  3b__.4__
+    44  5__6b_4__5_  1___0_ //]
+BEM[]
+MEL_SEM[5 0 -5 0 0 1 -5 0 2 2 1 -3 2 0 5 0 -2 0 -7 2 0 0 2 1 -3 2 -7]
+MEL_RAW[5  +1+1555  6b3b
+    3b  456b4  50
+    5  +1+17b7b  3b4
+    44  56b45  10]
+NO_REP[5+156b3b
+    3b456b450
+    5+17b3b4
+    456b4510]
+RTM[x_  x__x_x_.xx_  x__.x__
+    x_  x__x_x__x_  x___x_
+    x_  x__x_x__x_  x__.x__
+    xx  x__x_x__x_  x___x_]
+SCL_DEG[13b456b7b+1]
+SCL_SEM[3 2 2 1 2 2]
+
