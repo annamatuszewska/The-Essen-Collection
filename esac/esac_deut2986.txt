@@ -3,7 +3,7 @@ CUT[Die Geburt im Walde
     Es wundert und wundert mich immer so sehr,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[1, S. 70
-    1914 aufgezeichnet]
+  1914 aufgezeichnet]
 FKT[]
 SIG[Q0007C]
 KEY[Q0007C  16  G 3/8]

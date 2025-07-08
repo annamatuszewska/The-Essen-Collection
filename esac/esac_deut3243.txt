@@ -3,7 +3,7 @@ CUT[Bai Raedder
     Ohne Text]
 REG[Mitteleuropa, Deutschland (BRD) , Nordsee, Foehr]
 TRD[3, S. 282
-    1924 aufgezeichnet]
+  1924 aufgezeichnet]
 FKT[]
 SIG[Q0071C]
 KEY[Q0071C  04  G 4/4]

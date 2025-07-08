@@ -4,7 +4,7 @@ CUT[Der Markgraf von Backenweil
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kreis
     Saargemuend, Gebenhausen]
 TRD[1, S. 133
-    1913 aufgezeichnet  (vom Hg. veraenderte Fassung)]
+  1913 aufgezeichnet (vom Hg. veraenderte Fassung)]
 FKT[]
 SIG[Q0013B]
 KEY[Q0013B  16  F 4/4]

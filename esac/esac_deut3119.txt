@@ -3,7 +3,7 @@ CUT[Die erzwungene Ehe
     Ich woelt, daz ich doheime wer]
 REG[Mitteleuropa, Deutschland / Frankreich, Strassburg ?]
 TRD[2, S. 250
-    ???? Handschrift aus Strassburg]
+  ???? Handschrift aus Strassburg]
 FKT[]
 SIG[Q1050C]
 KEY[Q1050C  04  D FREI]

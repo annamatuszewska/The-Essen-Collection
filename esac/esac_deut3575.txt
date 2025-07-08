@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt ein Maedel in der Frueh aufstehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Wipperfuerth]
 TRD[7, S. 104
-    1920 aufgezeichnet (ca.: waehrend und nach dem ersten Krieg)]
+  1920 aufgezeichnet (ca.: waehrend und nach dem ersten Krieg)]
 FKT[]
 SIG[Q0147K]
 KEY[Q0147K  16  G 4/4]

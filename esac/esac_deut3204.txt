@@ -3,7 +3,7 @@ CUT[Der junge Held
     Des Nachts beim hellen Mondenschein]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 152
-    1933 gedruckt in Heidelberg (nach)]
+  1933 gedruckt in Heidelberg (nach)]
 FKT[]
 SIG[Q0060G]
 KEY[Q0060G  08  D 4/4]

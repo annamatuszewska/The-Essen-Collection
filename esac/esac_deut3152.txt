@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt' sich ein Ritter mit einer Dam',]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[3, S. 54
-    ????]
+  ????]
 FKT[]
 SIG[Q0055R]
 KEY[Q0055R  16  F 6/8]

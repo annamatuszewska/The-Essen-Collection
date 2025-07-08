@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Odilia blind geboren war,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland und Elsass]
 TRD[4, S. 338
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q1086F]
 KEY[Q1086F  08  G 4/4]

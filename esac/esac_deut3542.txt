@@ -3,7 +3,7 @@ CUT[Maedchen und Hasel
     Ach, lieber Gott im hoechsten thron,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 261
-    1587 gedruckt]
+  1587 gedruckt]
 FKT[]
 SIG[Q0138F]
 KEY[Q0138F  08  G FREI]

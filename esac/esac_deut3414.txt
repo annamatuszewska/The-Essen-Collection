@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Es klappert die Muehle am rauschenden Bach, klipp, klapp!]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 160
-    1824 gedruckt (ca.)]
+  1824 gedruckt (ca.)]
 FKT[]
 SIG[Q1103F]
 KEY[Q1103F  16  G 6/8]

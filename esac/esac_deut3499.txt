@@ -3,7 +3,7 @@ CUT[Das Maedchen und der Faehnrich
     Es wohnt ein reicher Kaufmannssohn]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Grossenhain]
 TRD[6, S. 108
-    1929 augezeichnet (vor)]
+  1929 augezeichnet (vor)]
 FKT[]
 SIG[Q0127J]
 KEY[Q0127J  16  G 2/4]

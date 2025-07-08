@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es wollt ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Marburg, Fronhausen]
 TRD[7, S. 185
-    ????]
+  ????]
 FKT[]
 SIG[Q0152A]
 KEY[Q0152A  16 Bb 6/8]

@@ -4,7 +4,7 @@ CUT[Der Jaeger im Tannenholz
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Frankfurt a.d.O.,
     Seelow]
 TRD[7, S. 169
-    1846 aufgezeichnet]
+  1846 aufgezeichnet]
 FKT[]
 SIG[Q0151A]
 KEY[Q0151A  08  C 6/8]

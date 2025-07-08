@@ -4,7 +4,7 @@ CUT[Der schwatzhafte Junggeselle
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz,
     Kamnitz]
 TRD[6, S. 312
-    1908 aufgezeichnet]
+  1908 aufgezeichnet]
 FKT[]
 SIG[Q1139Q]
 KEY[Q1139Q  08  G 4/4]

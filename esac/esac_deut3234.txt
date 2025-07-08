@@ -4,7 +4,7 @@ CUT[Der grausame Bruder
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
     Kr. Bolchen, Lauterfangen]
 TRD[3, S. 258
-    1914 aufgezeichnet]
+  1914 aufgezeichnet]
 FKT[]
 SIG[Q0068J]
 KEY[Q0068J  08  G 2/4]

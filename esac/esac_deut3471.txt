@@ -3,7 +3,7 @@ CUT[Die brave Stiefmutter
     Wol auf, mein sel, gehab dich wohl!]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 326
-    14?? gedruckt (15. Jh., nachgedruckt 1895 in Leipzig)]
+  14?? gedruckt (15. Jh., nachgedruckt 1895 in Leipzig)]
 FKT[]
 SIG[Q1121B]
 KEY[Q1121B  04  F 6/4]

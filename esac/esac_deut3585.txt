@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Ich sach mir einen blauen Storchen]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 150
-    1575 gedruckt (vor)]
+  1575 gedruckt (vor)]
 FKT[]
 SIG[Q0149J]
 KEY[Q0149J  04  D 6/4 3/2]

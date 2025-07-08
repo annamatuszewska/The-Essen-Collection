@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es ritt ein Ritter wol durch das Ried,]
 REG[Mitteleuropa, Deutschland (BRD) , Gegend von Heidelberg]
 TRD[2, S. 105
-    1806 aufgezeichnet]
+  1806 aufgezeichnet]
 FKT[]
 SIG[Q0041N]
 KEY[Q0041N  08  G 3/2 6/4]

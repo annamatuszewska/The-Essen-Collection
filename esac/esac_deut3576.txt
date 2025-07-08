@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt ein Maedchen in der Frueh aufstehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Adorf]
 TRD[7, S. 104
-    1932 aufgezeichnet (vor)]
+  1932 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0147L]
 KEY[Q0147L  16  G 4/4]

@@ -4,7 +4,7 @@ CUT[Graf und Nonne (Die Nonne)
 REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen,
     Wipperfeld (Wipperfuerth) , Grund]
 TRD[8, S. 74
-    1930 aufgezeichnet]
+  1930 aufgezeichnet]
 FKT[]
 SIG[Q0155V]
 KEY[Q0155V  04  C 3/4]

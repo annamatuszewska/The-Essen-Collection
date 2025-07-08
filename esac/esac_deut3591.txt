@@ -3,7 +3,7 @@ CUT[Der Jaeger auf koeniglicher Heide
     Ein Jaeger wollte jagen,]
 REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Laufen a.d. Eyach]
 TRD[7, S. 158
-    1925 aufgezeichnet]
+  1925 aufgezeichnet]
 FKT[]
 SIG[Q0150A]
 KEY[Q0150A  16  C 2/4]

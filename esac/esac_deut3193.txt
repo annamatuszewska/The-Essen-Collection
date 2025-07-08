@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es ritt ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[3, S. 104
-    ????]
+  ????]
 FKT[]
 SIG[Q0057Y]
 KEY[Q0057Y  16  G 3/4 2/4 3/8]

@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     'Junger Prinz Napoleon]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
 TRD[3, S. 80
-    ????]
+  ????]
 FKT[]
 SIG[Q1056G]
 KEY[Q1056G  16  G 3/4]

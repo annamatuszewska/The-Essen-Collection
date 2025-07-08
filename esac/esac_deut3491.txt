@@ -3,7 +3,7 @@ CUT[Das mannstolle Maedchen
     'Hett ich ein jungen Knaben,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 92
-    1611 gedruckt; Satz: Melchior Franck]
+  1611 gedruckt; Satz: Melchior Franck]
 FKT[]
 SIG[Q0126D]
 KEY[Q0126D  16  D 2/4]

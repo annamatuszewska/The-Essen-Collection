@@ -3,7 +3,7 @@ CUT[Peter Unverdorben
     Zu mitterfasten es beschach,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 286
-    1439 Handschrift; vom Hg. metrisch interpretierte Fassung]
+  1439 Handschrift; vom Hg. metrisch interpretierte Fassung]
 FKT[]
 SIG[Q0026A]
 KEY[Q0026A  08  D FREI]

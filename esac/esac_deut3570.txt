@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt' ein Maedel wohl frueh aufstehn]
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Stettin - Gruenhof]
 TRD[7, S. 72
-    1895 aufgezeichnet (eingesandt: 1930)]
+  1895 aufgezeichnet (eingesandt: 1930)]
 FKT[]
 SIG[Q0147A]
 KEY[Q0147A  16  F 4/4]

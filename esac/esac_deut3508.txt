@@ -4,7 +4,7 @@ CUT[Der Werber und der Jude
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Saargemuend,
     Hambach]
 TRD[6, S. 148
-    ????]
+  ????]
 FKT[]
 SIG[Q0131]
 KEY[Q0131   08  G 4/4]

@@ -3,7 +3,7 @@ CUT[Tochter als Faehnrich
     Es reist' eine Jungfrau zum Tor hinaus:]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hommert]
 TRD[5, S. 89
-    1913 aufgezeichnet]
+  1913 aufgezeichnet]
 FKT[]
 SIG[Q0096A]
 KEY[Q0096A  16  G 4/4]

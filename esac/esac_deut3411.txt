@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Ein Soldat kam aus dem Kriege, hurrah!]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Priestewitz]
 TRD[5, S. 147
-    1908 aufgezeichnet]
+  1908 aufgezeichnet]
 FKT[]
 SIG[Q0103]
 KEY[Q0103   08  G 4/4]

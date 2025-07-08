@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es hatte ein Gastwirt einen Sohn,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Mark]
 TRD[4, S. 307
-    ????]
+  ????]
 FKT[]
 SIG[Q0085E]
 KEY[Q0085E  16  G 3/4]

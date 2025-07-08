@@ -3,7 +3,7 @@ CUT[Frau von Weissenburg
     Wer mir es zu essen und trinken gibt,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hottweiler]
 TRD[1, S. 313
-    1935 aufgezeichnet]
+  1935 aufgezeichnet]
 FKT[]
 SIG[Q0030D]
 KEY[Q0030D  08  F 3/4]

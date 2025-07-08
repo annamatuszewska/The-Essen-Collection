@@ -3,7 +3,7 @@ CUT[Der Tod als Erloeser
     'Mich drueckt's und darf's nicht sagen,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden, Zell am Wiesental]
 TRD[5, S. 314
-    1930 aufgezeichnet]
+  1930 aufgezeichnet]
 FKT[]
 SIG[Q0120]
 KEY[Q0120   16  C 6/8]

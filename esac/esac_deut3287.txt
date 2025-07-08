@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt ein Pfalzgraf dort ueber dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
 TRD[4, S. 112
-    ????]
+  ????]
 FKT[]
 SIG[Q0075a]
 KEY[Q0075a  08  F 4/4]

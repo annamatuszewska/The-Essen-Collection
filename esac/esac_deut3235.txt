@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es reist ein Knab wohl ueber den Rhein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
 TRD[3, S 258
-    1918 aufgezeichnet]
+  1918 aufgezeichnet]
 FKT[]
 SIG[Q0068K]
 KEY[Q0068K  16  G 3/8]

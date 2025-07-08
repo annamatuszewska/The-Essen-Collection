@@ -4,7 +4,7 @@ CUT[Der schwatzhafte Junggeselle
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
     Altripp]
 TRD[6, S. 273
-    1929 gedruckt]
+  1929 gedruckt]
 FKT[]
 SIG[Q0139C]
 KEY[Q0139C  08 Bb 3/4 4/4]

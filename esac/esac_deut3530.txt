@@ -3,7 +3,7 @@ CUT[Nachtigall als Warnerin
     Da droben bei meines Vaters Haus,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[6, S. 234
-    ????]
+  ????]
 FKT[]
 SIG[Q0137D]
 KEY[Q0137D  08  C 6/4]

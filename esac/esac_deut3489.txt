@@ -3,7 +3,7 @@ CUT[Das mannstolle Maedchen
     Ein megdlein an dem laden stundt]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 92
-    15?? gedruckt (spaetes 16. Jh.) ; Satz: Orlando di Lasso]
+  15?? gedruckt (spaetes 16. Jh.) ; Satz: Orlando di Lasso]
 FKT[]
 SIG[Q0126B]
 KEY[Q0126B  08  G FREI]

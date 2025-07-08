@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt ein Maedel in der Frueh aufstehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Luetzelburg]
 TRD[7, S. 181
-    1937 Handschrift (vor)]
+  1937 Handschrift (vor)]
 FKT[]
 SIG[Q0147P]
 KEY[Q0147P  16  G 4/4]

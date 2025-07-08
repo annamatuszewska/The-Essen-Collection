@@ -3,7 +3,7 @@ CUT[Der geraechte Bruder
     Es sind drei schwarze Raben]
 REG[Mitteleuropa, Deutschland (BRD) , Niederrhein, Grevenbroich, Wickrath]
 TRD[1, S. 292
-    1842 aufgezeichnet (um 1800 entstanden ?)]
+  1842 aufgezeichnet (um 1800 entstanden ?)]
 FKT[]
 SIG[Q0028]
 KEY[Q0028   16  G 6/8]

@@ -3,7 +3,7 @@ CUT[Gerstebinden
     Nun hoert zw disem rayen,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 208
-    1460 Handschrift Hohenfurt (ca.)]
+  1460 Handschrift Hohenfurt (ca.)]
 FKT[]
 SIG[Q1135B]
 KEY[Q1135B  04  G 6/4]

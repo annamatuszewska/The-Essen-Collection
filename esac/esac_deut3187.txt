@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es ging ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz]
 TRD[3, S. 102
-    1909 gedruckt in Kaiserslautern]
+  1909 gedruckt in Kaiserslautern]
 FKT[]
 SIG[Q0057R]
 KEY[Q0057R  16  G 3/4]

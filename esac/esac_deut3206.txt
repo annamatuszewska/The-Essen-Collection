@@ -3,7 +3,7 @@ CUT[Totenamt
     Es taget in oesteriche,]
 REG[Mitteleuropa, Deutschland (BRD) , Schwarzwald]
 TRD[3, S. 155
-    1439 Handschrift aus St. Blasien (ca.)]
+  1439 Handschrift aus St. Blasien (ca.)]
 FKT[]
 SIG[Q0061A]
 KEY[Q0061A  08  D FREI]

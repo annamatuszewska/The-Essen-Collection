@@ -3,7 +3,7 @@ CUT[Der Bremberger
     Sie legten ihn auf einen Tisch,]
 REG[Mitteleuropa, Deutschland (BRD) , Niederrhein]
 TRD[1, S. 170
-    184? aufgezeichnet (nach 1840)]
+  184? aufgezeichnet (nach 1840)]
 FKT[]
 SIG[Q0016A]
 KEY[Q0016A  16  G 6/8]

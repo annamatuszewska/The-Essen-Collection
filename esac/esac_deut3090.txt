@@ -3,7 +3,7 @@ CUT[Der betruegerische Freier
     Stolz Syburg der wollt' freien gehn]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
 TRD[2, S. 132
-    1912 gedruckt in Prenzlau]
+  1912 gedruckt in Prenzlau]
 FKT[]
 SIG[Q0042C]
 KEY[Q0042C  16  A 2/4]

@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es war ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[3, S. 103
-    1893 gedruckt in Hamburg]
+  1893 gedruckt in Hamburg]
 FKT[]
 SIG[Q0057W]
 KEY[Q0057W  16  G 3/4]

@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es war einmal ein Reitersmann,]
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Koenigsberg]
 TRD[2, S. 100
-    1830 aufgezeichnet]
+  1830 aufgezeichnet]
 FKT[]
 SIG[Q0041K]
 KEY[Q0041K  08  A 4/4]

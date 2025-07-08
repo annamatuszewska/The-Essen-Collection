@@ -4,7 +4,7 @@ CUT[Der Spielmannssohn
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
     Kr. Saargemuend, Hambach]
 TRD[3, S. 167
-    1927 aufgezeichnet]
+  1927 aufgezeichnet]
 FKT[]
 SIG[Q0062A]
 KEY[Q0062A  08  F 6/4]

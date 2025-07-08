@@ -3,7 +3,7 @@ CUT[Graf von Rom
     Ich verkund euch newe mere,]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[1, S. 134
-    1539 gedruckt in Antwerpen]
+  1539 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0014]
 KEY[Q0014   04  F FREI]

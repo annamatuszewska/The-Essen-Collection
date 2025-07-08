@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielte ein Ritter mit einer Madam,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[3, S. 58
-    ????]
+  ????]
 FKT[]
 SIG[Q0055V]
 KEY[Q0055V  08 Bb 4/4]

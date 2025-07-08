@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt' ein Ritter mit einer Dam',]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Strehlen, Krummendorf]
 TRD[3, S. 63
-    ????]
+  ????]
 FKT[]
 SIG[Q0055j]
 KEY[Q0055j  16  G 2/4]

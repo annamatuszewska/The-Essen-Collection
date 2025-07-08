@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es hatt' ein Gastwirt einen Sohn,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oberlausitz]
 TRD[4, S. 313
-    ????]
+  ????]
 FKT[]
 SIG[Q0085o]
 KEY[Q0085o  08  G 3/4 2/4]

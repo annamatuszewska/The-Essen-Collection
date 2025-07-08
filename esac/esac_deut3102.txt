@@ -3,7 +3,7 @@ CUT[Die Rheinbraut
     Christinchen ging in' Garten,]
 REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Greiz]
 TRD[2, S. 176
-    1914 aufgezeichnet]
+  1914 aufgezeichnet]
 FKT[]
 SIG[Q0047E]
 KEY[Q0047E  08  D 6/8]

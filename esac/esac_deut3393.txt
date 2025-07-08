@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreiten,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 20
-    1936 aufgezeichnet]
+  1936 aufgezeichnet]
 FKT[]
 SIG[Q0089K]
 KEY[Q0089K  16  G FREI]

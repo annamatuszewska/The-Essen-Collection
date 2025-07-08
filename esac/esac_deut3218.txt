@@ -3,7 +3,7 @@ CUT[Der Spielmannssohn
     Als ich ein kleines Buewele war,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 178
-    ????]
+  ????]
 FKT[]
 SIG[Q0062I]
 KEY[Q0062I  16 Bb 6/8]

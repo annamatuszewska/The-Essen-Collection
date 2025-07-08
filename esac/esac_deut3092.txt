@@ -3,7 +3,7 @@ CUT[Der betruegerische Freier
     Stolze Hendrich de woll freie gonn]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Duesseldorf, Itter]
 TRD[2, S. 132
-    1908 aufgezeichnet (um 1860 bis 1880 allgemein gesungen)]
+  1908 aufgezeichnet (um 1860 bis 1880 allgemein gesungen)]
 FKT[]
 SIG[Q0042E]
 KEY[Q0042E  16  A 6/8]

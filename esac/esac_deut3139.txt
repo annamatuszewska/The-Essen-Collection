@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Es hatt' ein Bauer ein Toechterlein,]
 REG[Mitteleuropa, Deutschland (BRD) , Franken]
 TRD[2, S. 299
-    1855 gedruckt in Leipzig]
+  1855 gedruckt in Leipzig]
 FKT[]
 SIG[Q0053P]
 KEY[Q0053P  08  F 6/8]

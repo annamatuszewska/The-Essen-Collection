@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     Ein Juengling wollt' zum Kampfe ziehn,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Erzgebirge]
 TRD[3, S. 86
-    1901 aufgezeichnet]
+  1901 aufgezeichnet]
 FKT[]
 SIG[Q0056L]
 KEY[Q0056L  08  F 4/4]

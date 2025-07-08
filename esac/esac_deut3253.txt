@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Es wohnt' ein Mueller an jenem Teich,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[4, S. 34
-    1845 gedruckt in Berlin]
+  1845 gedruckt in Berlin]
 FKT[]
 SIG[Q1072P]
 KEY[Q1072P  16  F 2/4]

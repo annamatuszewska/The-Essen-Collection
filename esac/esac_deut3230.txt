@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     'Markrygrafen, kann ich jue Dochter wol krieg'n?']
 REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hannover, Gifhorn]
 TRD[3, S. 245
-    1874 aufgezeichnet]
+  1874 aufgezeichnet]
 FKT[]
 SIG[Q0068B]
 KEY[Q0068B  16  F 6/8]

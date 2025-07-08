@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es ritt ein Ritter sehr wohlgemut,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Altmark]
 TRD[3, S. 104
-    1879 gedruckt in Magdeburg]
+  1879 gedruckt in Magdeburg]
 FKT[]
 SIG[Q0057a]
 KEY[Q0057a  16  G 4/4]

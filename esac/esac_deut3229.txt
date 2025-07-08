@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es fuhr ein Fuhrknecht ueber'n Rhein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
 TRD[3, S. 243
-    1932 gedruckt in Metz]
+  1932 gedruckt in Metz]
 FKT[]
 SIG[Q0068A]
 KEY[Q0068A  08  G 2/4]

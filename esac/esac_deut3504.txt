@@ -3,7 +3,7 @@ CUT[Der Muskatbaum
     In Oestereich da steht ein Baum,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
 TRD[6, S. 146
-    1840 gedruckt in Berlin]
+  1840 gedruckt in Berlin]
 FKT[]
 SIG[Q0130A]
 KEY[Q0130A  16  D 6/8]

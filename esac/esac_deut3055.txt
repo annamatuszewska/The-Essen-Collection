@@ -3,7 +3,7 @@ CUT[Frau von Weissenburg
     'Hans, sattle mir den Gaul,]
 REG[Mitteleuropa, Deutschland (DDR) , Provinz Brandenburg ?]
 TRD[1, S. 306
-    1807 gedruckt in Berlin]
+  1807 gedruckt in Berlin]
 FKT[]
 SIG[Q0030B]
 KEY[Q0030B  16  C 4/8]

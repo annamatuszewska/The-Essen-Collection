@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Es wollt ein Maedel grasen,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[7, S. 152
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0149Q]
 KEY[Q0149Q  08  A 3/4]

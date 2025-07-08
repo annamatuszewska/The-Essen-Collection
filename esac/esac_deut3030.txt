@@ -3,7 +3,7 @@ CUT[Herr von Falkenstein
     Eck sach muinen Heren von Falkensteun]
 REG[Mitteleuropa, Deutschland (BRD) , Gegend von Lippe]
 TRD[1, S. 225
-    1843 aufgezeichnet]
+  1843 aufgezeichnet]
 FKT[]
 SIG[Q0021B]
 KEY[Q0021B  08  F 6/8]

@@ -4,7 +4,7 @@ CUT[Graf und Nonne (Die Nonne)
 REG[Mitteleuropa, Deutschland (BRD) , Franken, Mittelfranken, Hersbruck,
     Altsittenbach]
 TRD[8, S. 61
-    1914 aufgezeichnet]
+  1914 aufgezeichnet]
 FKT[]
 SIG[Q0155O]
 KEY[Q0155O  08  C 4/4]

@@ -3,7 +3,7 @@ CUT[Der verkleidete Markgrafensohn
     Es wollt' ein Koenigssohn freien gehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Gelmingen]
 TRD[1, S. 52
-    1930 aufgezeichnet (17. Jh. ?)]
+  1930 aufgezeichnet (17. Jh. ?)]
 FKT[]
 SIG[Q0006B]
 KEY[Q0006B  08  G 3/2]

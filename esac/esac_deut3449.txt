@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es wollt' ein Bauer frueh aufstehn]
 REG[Mitteleuropa, Deutschland / Polen, Westpreussen]
 TRD[5, S. 270
-    1965 gedruckt in Duesseldorf]
+  1965 gedruckt in Duesseldorf]
 FKT[]
 SIG[Q0114S]
 KEY[Q0114S  08  G FREI]

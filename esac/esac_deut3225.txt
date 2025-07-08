@@ -3,7 +3,7 @@ CUT[Koenig von Mailand
     Es wohnt wohl ein Koenig sich ane dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bergisches Land]
 TRD[3, S. 234
-    ????]
+  ????]
 FKT[]
 SIG[Q1067B]
 KEY[Q1067B  08  F 2/4]

@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Ein Schaefer trieb mit Laemmern aus,]
 REG[Mitteleuropa, Deutschland / Polen, Pommern]
 TRD[5, S. 269
-    1933 gedruckt in Leipzig]
+  1933 gedruckt in Leipzig]
 FKT[]
 SIG[Q0114P]
 KEY[Q0114P  08  G 2/4]

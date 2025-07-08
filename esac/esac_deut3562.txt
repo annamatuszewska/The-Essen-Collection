@@ -3,7 +3,7 @@ CUT[Winterrosen
     Es wollt ein Maedchen Wasser holen,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kurhessen, Lenderode]
 TRD[7, S. 61
-    1931 aufgezeichnet]
+  1931 aufgezeichnet]
 FKT[]
 SIG[Q0145E]
 KEY[Q0145E  08  F 2/4 3/4]

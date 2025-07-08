@@ -3,7 +3,7 @@ CUT[Winterrosen
     Es wollt ein maegdlein wasser holln]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 59
-    1530 Handschrift Muenchen]
+  1530 Handschrift Muenchen]
 FKT[]
 SIG[Q1145B]
 KEY[Q1145B  08  F 4/4]

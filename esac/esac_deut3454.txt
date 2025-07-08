@@ -3,7 +3,7 @@ CUT[Das hungernde Kind
     'Liebe Mutter, es hungert mich,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[5, S. 280
-    1911 gedruckt in Habelschwerdt]
+  1911 gedruckt in Habelschwerdt]
 FKT[]
 SIG[Q0115C]
 KEY[Q0115C  16  G 2/4]

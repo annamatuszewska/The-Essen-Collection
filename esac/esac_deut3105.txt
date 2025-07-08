@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Graf Friederich wollt' ausreiten]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 199
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0048B]
 KEY[Q0048B  16  F FREI]

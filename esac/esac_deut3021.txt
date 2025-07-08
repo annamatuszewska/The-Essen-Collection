@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Elzeleyn lipstis elzeleyn.]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 217
-    1480 Handschrift]
+  1480 Handschrift]
 FKT[]
 SIG[Q0020G]
 KEY[Q0020G  08  G 6/4]

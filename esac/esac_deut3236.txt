@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Wir lobn die Heilig und die rein,]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 260
-    1631 gedruckt]
+  1631 gedruckt]
 FKT[]
 SIG[Q1068M]
 KEY[Q1068M  04  D 6/4]

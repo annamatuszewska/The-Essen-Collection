@@ -3,7 +3,7 @@ CUT[Der Gluecksjaeger
     Es reitet ein Edelmann durch das Holz,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden, Freiburg i. Br., Hugstetten]
 TRD[6, S. 192
-    1848 aufgezeichnet]
+  1848 aufgezeichnet]
 FKT[]
 SIG[Q0134B]
 KEY[Q0134B  16  G 6/8]

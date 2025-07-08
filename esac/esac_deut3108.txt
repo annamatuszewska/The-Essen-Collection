@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Was sind doch die Strassen so enge!]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen - Nassau, Eitelborn]
 TRD[2, S. 204
-    1927 aufgezeichnet]
+  1927 aufgezeichnet]
 FKT[]
 SIG[Q0048E]
 KEY[Q0048E  16  C 6/8]

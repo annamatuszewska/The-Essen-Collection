@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Well will met Gert Olbert utriden gohn,]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[2, S. 70
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0041A]
 KEY[Q0041A  08  D 2/2]

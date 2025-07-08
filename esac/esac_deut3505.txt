@@ -3,7 +3,7 @@ CUT[Der Muskatbaum
     Spewaj mi, spewaj socholask,]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
 TRD[6, S. 147
-    1893 gedruckt]
+  1893 gedruckt]
 FKT[]
 SIG[Q2130B]
 KEY[Q2130B  08  C 3/4]

@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohen Bergen,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland - Pfalz, Simmern, Laubach]
 TRD[8, S. 46
-    1895 aufgezeichnet (1891 - 1895)]
+  1895 aufgezeichnet (1891 - 1895)]
 FKT[]
 SIG[Q0155H]
 KEY[Q0155H  16  G 6/8]

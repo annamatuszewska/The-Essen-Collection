@@ -3,7 +3,7 @@ CUT[Die zwei armen Waislein
     O Herr, wir sagen dir lob vnd danck]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 307
-    1567 gedruckt]
+  1567 gedruckt]
 FKT[]
 SIG[Q1117C]
 KEY[Q1117C  08  G FREI]

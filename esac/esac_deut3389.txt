@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreiten,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Neisse, Korkwitz]
 TRD[5, S. 16
-    1856 gedruckt in Berlin]
+  1856 gedruckt in Berlin]
 FKT[]
 SIG[Q0089G]
 KEY[Q0089G  16  G 6/8]

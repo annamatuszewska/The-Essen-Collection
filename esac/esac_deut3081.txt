@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es ritte ein Ritter ueber Berg und Tal,]
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Baden]
 TRD[2, S. 112
-    1914 aufgezeichnet]
+  1914 aufgezeichnet]
 FKT[]
 SIG[Q0041U]
 KEY[Q0041U  16  G 6/8]

@@ -3,7 +3,7 @@ CUT[Der Hammerschmiedssohn
     Es war ein wilder Wassermann,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, bei Oderberg]
 TRD[4, S. 360
-    ????]
+  ????]
 FKT[]
 SIG[Q1088I]
 KEY[Q1088I  16  F 2/4]

@@ -3,7 +3,7 @@ CUT[Nachtigall als Warnerin
     Was sitzt dort auf dem Lindle gruen?]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[6, S. 237
-    ????]
+  ????]
 FKT[]
 SIG[Q0137K]
 KEY[Q0137K  08  G 6/8]

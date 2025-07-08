@@ -4,7 +4,7 @@ CUT[Das Schwabentoechterlein
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Kr. Pr. - Eylau,
     Paroesken]
 TRD[4, S. 41
-    1933 aufgezeichnet]
+  1933 aufgezeichnet]
 FKT[]
 SIG[Q0073A]
 KEY[Q0073A  08  C 3/4]

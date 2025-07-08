@@ -3,7 +3,7 @@ CUT[Kerenstein
     Ich bin durch frawen willen]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 174
-    1549 gedruckt in Nuernberg]
+  1549 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0018A]
 KEY[Q0018A  08  G FREI]

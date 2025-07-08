@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Einst stand ich auf hohen Bergen,]
 REG[Mitteleuropa, Deutschland / Polen, Danzig]
 TRD[8, S. 284
-    ????]
+  ????]
 FKT[]
 SIG[Q1155u]
 KEY[Q1155u  16  G 3/4]

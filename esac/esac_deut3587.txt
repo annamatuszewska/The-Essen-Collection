@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Da droben auf dem Berge,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[7, S. 150
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0149O]
 KEY[Q0149O  16  G 2/4]

@@ -4,7 +4,7 @@ CUT[Die Koenigskinder
 REG[Mitteleuropa, Deutschland (BRD) , Schleswig Holstein,
     deutsch - daenisches Grenzgebiet]
 TRD[1, S. 217
-    1853 gedruckt]
+  1853 gedruckt]
 FKT[]
 SIG[Q0020J]
 KEY[Q0020J  16  G 6/8]

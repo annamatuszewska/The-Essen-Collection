@@ -3,7 +3,7 @@ CUT[Der heimkehrende Braeutigam
     Es wollt' sich ein Juengling erwerben,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden]
 TRD[5, S. 144
-    1951 gedruckt in Lahr]
+  1951 gedruckt in Lahr]
 FKT[]
 SIG[Q0102B]
 KEY[Q0102B  16  G 6/8]

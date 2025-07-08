@@ -3,7 +3,7 @@ CUT[Die Rheinbraut
     Es freite ein Ritter, der reiche,]
 REG[Mitteleuropa, Deutschland / Polen / UdSSR, Ostpreussen]
 TRD[2, S. 171
-    ????]
+  ????]
 FKT[]
 SIG[Q0047B]
 KEY[Q0047B  08  G 4/4]

@@ -3,7 +3,7 @@ CUT[Der Muskatbaum
     Bjestaj tam, bjestaj tam 'rodaj mi dwaj,]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
 TRD[6, S. 147
-    1841 gedruckt in Grimma]
+  1841 gedruckt in Grimma]
 FKT[]
 SIG[Q2130D]
 KEY[Q2130D  08  A 3/4]

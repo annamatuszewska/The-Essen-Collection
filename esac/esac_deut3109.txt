@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Die Gassen sein so enge,]
 REG[Mitteleuropa, Deutschland (DDR) , Pommern, Ruegen]
 TRD[2, S. 204
-    1933 gedruckt in Leipzig]
+  1933 gedruckt in Leipzig]
 FKT[]
 SIG[Q0048F]
 KEY[Q0048F  08  G 6/8 3/8]

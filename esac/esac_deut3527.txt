@@ -3,7 +3,7 @@ CUT[Kornschneiden
     Idt is ein Boicken kamen int landt,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 210
-    1608 Handschrift (1603 - 08)]
+  1608 Handschrift (1603 - 08)]
 FKT[]
 SIG[Q0136]
 KEY[Q0136   04  F 3/4]

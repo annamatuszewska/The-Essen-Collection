@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Es gieng ein Mueller wol ueber Feld,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[4, S. 338
-    1856 gedruckt in Berlin]
+  1856 gedruckt in Berlin]
 FKT[]
 SIG[Q0086D]
 KEY[Q0086D  16  G 3/4]

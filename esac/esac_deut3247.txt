@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Es ritt ein Ritter wohl ueber den Rhein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Gutebern]
 TRD[4, S. 6
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0072D]
 KEY[Q0072D  08  F 4/4]

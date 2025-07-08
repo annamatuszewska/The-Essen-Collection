@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Die Holvinger Maedchen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[7, S. 148
-    1918 aufgezeichnet]
+  1918 aufgezeichnet]
 FKT[]
 SIG[Q0149G]
 KEY[Q0149G  08  G 2/4]

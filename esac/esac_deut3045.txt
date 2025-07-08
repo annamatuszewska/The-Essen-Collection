@@ -2,8 +2,8 @@ BALLADEN
 CUT[Schloss in Oesterreich
     Das ganze Dorf versammelt sich]
 REG[Mitteleuropa, Deutschland]
-TRD[1, S. 274  komponiert
-    1842 gedruckt]
+TRD[1, S. 274 komponiert
+  1842 gedruckt]
 FKT[]
 SIG[Q1024M]
 KEY[Q1024M  08  D 3/4]

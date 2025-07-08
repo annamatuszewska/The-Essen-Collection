@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Solemnis dies advenit]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 296
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q3053M]
 KEY[Q3053M  08  F 4/4 6/4]

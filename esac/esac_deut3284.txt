@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es war ein Pfalzgraf wohl ueber dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Saarland, Kreis Merzig]
 TRD[4, S. 111
-    ????]
+  ????]
 FKT[]
 SIG[Q0075W]
 KEY[Q0075W  08  F FREI]

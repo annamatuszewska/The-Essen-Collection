@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es wollt' ein Maedchen nach Frankreich zieh'n,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen - Nassau]
 TRD[4, S. 52
-    1894 gedruckt in Berlin]
+  1894 gedruckt in Berlin]
 FKT[]
 SIG[Q0073K]
 KEY[Q0073K  08  G 4/4]

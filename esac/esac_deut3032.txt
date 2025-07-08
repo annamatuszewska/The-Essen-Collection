@@ -3,7 +3,7 @@ CUT[Erloesung vom Galgen
     Es ritt ein Herr zum kuehlen Wein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Liegnitz, Bienowitz]
 TRD[1, S. 233
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0022]
 KEY[Q0022   16  C 6/8]

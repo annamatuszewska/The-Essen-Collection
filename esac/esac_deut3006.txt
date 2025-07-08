@@ -3,7 +3,7 @@ CUT[Der Tannhaeuser
     Wer grosse Wunder schauen will,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 160
-    1914 gedruckt in Leipzig]
+  1914 gedruckt in Leipzig]
 FKT[]
 SIG[Q0015E]
 KEY[Q0015E  08  E 4/4]

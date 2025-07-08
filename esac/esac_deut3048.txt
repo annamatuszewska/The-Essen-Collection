@@ -3,7 +3,7 @@ CUT[Alter Mann und Schueler
     Es steht ein Schloesschen im Oesterreich,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz, Bergzabern]
 TRD[1, S. 283
-    1860 aufgezeichnet (erste Haelfte des 19. Jh.)]
+  1860 aufgezeichnet (erste Haelfte des 19. Jh.)]
 FKT[]
 SIG[Q0025]
 KEY[Q0025   16  G FREI]

@@ -3,7 +3,7 @@ CUT[Der Elsberger
     Was sein die Griesemer Leit' so froh!]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[3, S. 140
-    ????]
+  ????]
 FKT[]
 SIG[Q1059F]
 KEY[Q1059F  16  G FREI]

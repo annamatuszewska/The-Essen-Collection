@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Is leyt eyn schlos eyn ostirreich,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 250
-    1480 Handschrift (ca.)]
+  1480 Handschrift (ca.)]
 FKT[]
 SIG[Q0024]
 KEY[Q0024   16  F FREI]

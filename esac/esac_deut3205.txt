@@ -3,7 +3,7 @@ CUT[Der junge Held
     Ich ging einmal spazieren]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 152
-    1933 gedruckt in Heidelberg]
+  1933 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0060H]
 KEY[Q0060H  08  G 4/4]

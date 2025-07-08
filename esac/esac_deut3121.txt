@@ -3,7 +3,7 @@ CUT[Die erzwungene Ehe
     Mein Freund hat mir versprochen etwas:]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 250
-    1933 gedruckt in Heidelberg]
+  1933 gedruckt in Heidelberg]
 FKT[]
 SIG[Q1050E]
 KEY[Q1050E  08  D 2/4]

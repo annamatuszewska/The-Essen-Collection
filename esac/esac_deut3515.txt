@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Ein stolzer Jaeger, der blies das Jaegerhorn,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[6, S. 166
-    1894 gedruckt in Berlin]
+  1894 gedruckt in Berlin]
 FKT[]
 SIG[Q0133C]
 KEY[Q0133C  16  G 2/4]

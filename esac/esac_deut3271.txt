@@ -4,7 +4,7 @@ CUT[Die dienende Schwester
 REG[Mitteleuropa, Deutschland (BRD) , Westerwald, Kr. Altenkirchen,
     Bachenberg]
 TRD[4, S. 71
-    1931 aufgezeichnet (ca.)]
+  1931 aufgezeichnet (ca.)]
 FKT[]
 SIG[Q0075B]
 KEY[Q0075B  08  D 3/4]

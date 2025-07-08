@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Lustig ist das Zigeunerleben,]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 218
-    1917 gedruckt in Berlin]
+  1917 gedruckt in Berlin]
 FKT[]
 SIG[Q1152N]
 KEY[Q1152N  08  C 3/4]

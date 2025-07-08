@@ -3,7 +3,7 @@ CUT[Der heimkehrende Braeutigam
     Sankt Michel, der will bauen]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
 TRD[5, S. 144
-    1915 aufgezeichnet]
+  1915 aufgezeichnet]
 FKT[]
 SIG[Q1102I]
 KEY[Q1102I  08  G 6/8]

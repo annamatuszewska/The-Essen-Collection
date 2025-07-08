@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es war ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[3, S. 103
-    1892 gedruckt in Neuwied]
+  1892 gedruckt in Neuwied]
 FKT[]
 SIG[Q0057V]
 KEY[Q0057V  16  G 6/8]

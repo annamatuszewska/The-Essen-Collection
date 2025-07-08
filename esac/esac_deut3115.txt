@@ -3,7 +3,7 @@ CUT[Die Todesbraut
     Es fuhr ein Schifflein wohl ueber den Rhein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[2, S. 237
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q1049E]
 KEY[Q1049E  16  G 6/8]

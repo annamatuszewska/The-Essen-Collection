@@ -4,7 +4,7 @@ CUT[Der schwatzhafte Junggeselle
 REG[Mitteleuropa, Deutschland (DDR) , Pommern, Kr. Ueckermuende,
     Sandfoerde]
 TRD[6, S. 270
-    1930 aufgezeichnet]
+  1930 aufgezeichnet]
 FKT[]
 SIG[Q0139A]
 KEY[Q0139A  08  G 4/4]

@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt ein Markgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
 TRD[4, S. 118
-    ????]
+  ????]
 FKT[]
 SIG[Q0075x]
 KEY[Q0075x  08  F 3/4]

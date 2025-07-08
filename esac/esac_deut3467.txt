@@ -3,7 +3,7 @@ CUT[Das boese Stiefmuetterlein
     Es war einmal ein Kindlein klein,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Grossenhain, Basslitz]
 TRD[5, S. 311
-    1929 aufgezeichnet]
+  1929 aufgezeichnet]
 FKT[]
 SIG[Q0119]
 KEY[Q0119   08  G 3/4]

@@ -3,7 +3,7 @@ CUT[Der schwatzhafte Junggeselle
     Es sassen drei Halunken]
 REG[Mitteleuropa, Deutschland (BRD) , Franken]
 TRD[6, S. 312
-    ????]
+  ????]
 FKT[]
 SIG[Q0139R]
 KEY[Q0139R  08  G FREI]

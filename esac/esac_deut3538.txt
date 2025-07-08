@@ -3,7 +3,7 @@ CUT[Maedchen und Hasel
     Es wollt ein Maedel zum Tanze gehn,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Strehlen]
 TRD[6, S. 240
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0138]
 KEY[Q0138   16  G 3/4]

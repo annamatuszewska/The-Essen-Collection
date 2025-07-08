@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es wollt es ein Jaegerlein jagen]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Hellimer]
 TRD[7, S. 215
-    1932 aufgezeichnet]
+  1932 aufgezeichnet]
 FKT[]
 SIG[Q0152G]
 KEY[Q0152G  08  G 3/4]

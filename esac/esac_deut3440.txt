@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es trieb ein Hirtlein oben aus,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oppeln]
 TRD[5, S. 248
-    1848 aufgezeichnet (vor)]
+  1848 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0114]
 KEY[Q0114   08  G 2/4]

@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es wollt es ein Jaegerlein jagen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
 TRD[7, S. 219
-    1940 gedruckt (Umbruchexemplar)]
+  1940 gedruckt (Umbruchexemplar)]
 FKT[]
 SIG[Q0152R]
 KEY[Q0152R  16  C 4/4]

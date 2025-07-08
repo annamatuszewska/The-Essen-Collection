@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreiten,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Walscheid]
 TRD[5, S. 1
-    1933 aufgezeichnet]
+  1933 aufgezeichnet]
 FKT[]
 SIG[Q0089A]
 KEY[Q0089A  08  G 4/4]

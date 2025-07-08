@@ -3,7 +3,7 @@ CUT[Der Abendgang
     Es wonet lieb bey liebe]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 179
-    1538 gedruckt in Nuernberg]
+  1538 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0019]
 KEY[Q0019   16  A FREI]

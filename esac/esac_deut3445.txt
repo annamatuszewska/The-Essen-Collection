@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es trieb ein Schaefer oben ein,]
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Mittel - Franken]
 TRD[5, S. 269
-    ????]
+  ????]
 FKT[]
 SIG[Q0114O]
 KEY[Q0114O  08  G FREI]

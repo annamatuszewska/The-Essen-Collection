@@ -3,7 +3,7 @@ CUT[Der Hammerschmiedssohn
     Erstanden ist der Herre Christ,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 358
-    1559 gedruckt]
+  1559 gedruckt]
 FKT[]
 SIG[Q1088D]
 KEY[Q1088D  04  C 6/4]

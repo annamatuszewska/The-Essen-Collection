@@ -3,7 +3,7 @@ CUT[Der betruegerische Freier
     Und als ich auf gruen' Heide kam,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
 TRD[2, S. 132
-    18?? aufgezeichnet (Ende d. Jh.)]
+  18?? aufgezeichnet (Ende d. Jh.)]
 FKT[]
 SIG[Q0042D]
 KEY[Q0042D  16  A 2/4]

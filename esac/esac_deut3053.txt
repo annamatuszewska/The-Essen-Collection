@@ -3,7 +3,7 @@ CUT[Frau von Weissenburg
     Die mi te drincken gaue,]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[1, S. 301
-    1557 gedruckt in Antwerpen]
+  1557 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0030]
 KEY[Q0030   08  G FREI]

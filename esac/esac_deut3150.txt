@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Ich waiss ein schoens Lustgaertelein,]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 54
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q1055O]
 KEY[Q1055O  04  F 6/4 4/4]

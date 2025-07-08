@@ -3,7 +3,7 @@ CUT[Die verunglueckte Muellerstochter
     Meister Mueller tut sich graemen,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[5, S. 193
-    ????]
+  ????]
 FKT[]
 SIG[Q0106D]
 KEY[Q0106D  08  G 4/4]

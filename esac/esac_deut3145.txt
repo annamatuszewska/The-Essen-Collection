@@ -4,7 +4,7 @@ CUT[Ritter und Magd
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt,
     Gegend von Halberstadt]
 TRD[3, S. 14
-    1847 aufgezeichnet]
+  1847 aufgezeichnet]
 FKT[]
 SIG[Q0055F]
 KEY[Q0055F  16  G 2/4]

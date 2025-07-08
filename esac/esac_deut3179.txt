@@ -4,7 +4,7 @@ CUT[Wiedersehen an der Bahre
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Oberschlesien,
     Kr. Kreuzburg]
 TRD[3, S. 86
-    ????]
+  ????]
 FKT[]
 SIG[Q0056O]
 KEY[Q0056O  08  F 4/4 2/4 3/4]

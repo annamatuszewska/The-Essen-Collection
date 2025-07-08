@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt ein Pfalzgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
 TRD[4, S. 106
-    1892 gedruckt in Neuwied]
+  1892 gedruckt in Neuwied]
 FKT[]
 SIG[Q0075J]
 KEY[Q0075J  16  D 2/4]

@@ -3,7 +3,7 @@ CUT[Die Schlangenkoechin
     'Mariele, wo bist du mit der Kunkel gewesen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
 TRD[4, S. 210
-    1933 gedruckt in Heidelberg]
+  1933 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0079S]
 KEY[Q0079S  08  G 3/4]

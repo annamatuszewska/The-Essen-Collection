@@ -3,7 +3,7 @@ CUT[Das mannstolle Maedchen
     'Bistu des goldschmids tochterlein,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 95
-    1608 Handschrift (1603 - 08)]
+  1608 Handschrift (1603 - 08)]
 FKT[]
 SIG[Q0126E]
 KEY[Q0126E  16  A 2/4 3/4]

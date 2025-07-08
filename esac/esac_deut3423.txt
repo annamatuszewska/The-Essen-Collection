@@ -3,7 +3,7 @@ CUT[Die verunglueckte Muellerstochter
     Feinster Mueller, tu nachsehen,]
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Unter - Franken]
 TRD[5, S. 193
-    ????]
+  ????]
 FKT[]
 SIG[Q0106C]
 KEY[Q0106C  04  G 3/4]

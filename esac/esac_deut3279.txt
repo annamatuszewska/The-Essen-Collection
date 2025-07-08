@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt' ein Markgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
 TRD[4, S. 106
-    1911 gedruckt in Berlin]
+  1911 gedruckt in Berlin]
 FKT[]
 SIG[Q0075L]
 KEY[Q0075L  08  F 2/4]

@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Stund ich auf hohen Bergen]
 REG[Mitteleuropa, Deutschland]
 TRD[8, S. 285
-    1791 gedruckt in Leipzig]
+  1791 gedruckt in Leipzig]
 FKT[]
 SIG[Q0155w]
 KEY[Q0155w  16  G 2/4]

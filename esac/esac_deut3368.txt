@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Es ging ein Mueller wohl ueber Feld,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden]
 TRD[4, S. 338
-    1848 aufgezeichnet]
+  1848 aufgezeichnet]
 FKT[]
 SIG[Q0086J]
 KEY[Q0086J  08  G 4/4]

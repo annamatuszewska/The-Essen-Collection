@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es ging ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland (BRD) , Bayern, Niederbayern]
 TRD[7, S. 218
-    ????]
+  ????]
 FKT[]
 SIG[Q0152P]
 KEY[Q0152P  16  C 6/8]

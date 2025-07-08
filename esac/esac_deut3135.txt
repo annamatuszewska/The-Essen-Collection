@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Ein Schaefer trieb wohl oben aus]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
 TRD[2, S. 296
-    ????]
+  ????]
 FKT[]
 SIG[Q0053L]
 KEY[Q0053L  08  F 4/4]

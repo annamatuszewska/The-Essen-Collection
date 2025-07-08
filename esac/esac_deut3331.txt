@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Warum betruebst du dich, mein Herz,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 265
-    1666 gedruckt in Rheinfels]
+  1666 gedruckt in Rheinfels]
 FKT[]
 SIG[Q0085C]
 KEY[Q0085C  08  G 4/4]

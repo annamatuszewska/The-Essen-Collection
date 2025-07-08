@@ -4,7 +4,7 @@ CUT[Ritter und Magd
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Oberhessen, Kr. Alsfeld,
     Maulbach]
 TRD[3, S. 13
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0055E]
 KEY[Q0055E  16  G 3/4]

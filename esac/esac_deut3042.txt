@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Ich weiss ein ewiges Himmelreich,]
 REG[Mitteleuropa, Deutschland / Polen / UdSSR, Ostpreussen]
 TRD[1, S. 272
-    1931 aufgezeichnet]
+  1931 aufgezeichnet]
 FKT[]
 SIG[Q0024J]
 KEY[Q0024J  08  D 4/4]

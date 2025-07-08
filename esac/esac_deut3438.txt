@@ -4,7 +4,7 @@ CUT[Richmudis von Adocht
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
     Sengbusch]
 TRD[5, S. 241
-    ????]
+  ????]
 FKT[]
 SIG[Q1112D]
 KEY[Q1112D  16  G 6/8]

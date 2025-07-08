@@ -3,7 +3,7 @@ CUT[Der Hammerschmiedssohn
     Susannchen sprang zum Thor hinaus,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen - Darmstadt, Schlierbach]
 TRD[4, S. 358
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q0088E]
 KEY[Q0088E  08  C 4/4]

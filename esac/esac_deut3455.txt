@@ -3,7 +3,7 @@ CUT[Das hungernde Kind
     Gestern Abend ging ich aus,]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 280
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q1115D]
 KEY[Q1115D  08  G 2/4]

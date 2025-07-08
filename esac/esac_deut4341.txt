@@ -1,0 +1,28 @@
+ALTDEU
+CUT[Von dem heiligen Bischof St. Martin]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[A0616]
+KEY[A0616   02  C 3/2]
+MEL[5  5_5  6_7  +1_.  +1_
+    +3  +2_7  +16_  5_.  0_
+    5  5_6  7_+2  +1_.  5_
+    6  5_3  42_  1_.  0_ //]
+BEM[]
+MEL_SEM[0 0 2 2 1 0 4 -2 -3 1 -3 -2 0 0 2 2 3 -2 -5 2 -2 -3 1 -3 -2]
+MEL_RAW[5  55  67  +1  +1
+    +3  +27  +16  5  0
+    5  56  7+2  +1  5
+    6  53  42  1  0]
+NO_REP[567+1
+    +3+27+1650
+    567+2+15
+    6534210]
+RTM[x  x_x  x_x  x_.  x_
+    x  x_x  xx_  x_.  x_
+    x  x_x  x_x  x_.  x_
+    x  x_x  xx_  x_.  x_]
+SCL_DEG[1234567+1+2+3]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

@@ -3,7 +3,7 @@ CUT[Genovefa
     Schicksalswege gibt's auf Erden]
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Zarnikow]
 TRD[5, S. 173
-    1918 aufgezeichnet (1914 - 18)]
+  1918 aufgezeichnet (1914 - 18)]
 FKT[]
 SIG[Q0104B]
 KEY[Q0104B  04  G 3/4]

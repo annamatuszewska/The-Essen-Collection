@@ -3,7 +3,7 @@ CUT[Richmudis von Adocht
     Heilger Geist, du Troester mein]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 241
-    1639 gedruckt in Bremen]
+  1639 gedruckt in Bremen]
 FKT[]
 SIG[Q1112B]
 KEY[Q1112B  04  G 3/4]

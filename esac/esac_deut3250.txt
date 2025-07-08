@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Ha Maruska pjesacku 'rajese]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wenden]
 TRD[4, S. 32
-    1841 gedruckt in Grimma]
+  1841 gedruckt in Grimma]
 FKT[]
 SIG[Q2072I]
 KEY[Q2072I  16  G 3/4]

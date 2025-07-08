@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohen Bergen]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg an der Havel]
 TRD[8, S. 36
-    1847 aufgezeichnet]
+  1847 aufgezeichnet]
 FKT[]
 SIG[Q0155F]
 KEY[Q0155F  08  C 4/4]

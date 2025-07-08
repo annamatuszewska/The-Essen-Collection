@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Schoen Ullerich und Hanselein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Neusalz, Rauden]
 TRD[2, S. 112
-    1841 aufgezeichnet]
+  1841 aufgezeichnet]
 FKT[]
 SIG[Q0041Z]
 KEY[Q0041Z  08  G 4/4]

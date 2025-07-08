@@ -3,7 +3,7 @@ CUT[Gerstebinden
     Es war eins Bauren Toechterlein,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 202
-    1534 gedruckt in Nuernberg; Satz: Ludwig Senfl]
+  1534 gedruckt in Nuernberg; Satz: Ludwig Senfl]
 FKT[]
 SIG[Q0135]
 KEY[Q0135   08  G 2/2]

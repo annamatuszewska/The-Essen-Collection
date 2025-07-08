@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spieltsen ein Ritter mit einer Dam',]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[3, S. 58
-    ????]
+  ????]
 FKT[]
 SIG[Q0055W]
 KEY[Q0055W  16 Bb 6/8 4/4]

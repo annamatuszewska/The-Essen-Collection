@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es huetet ein Schaefer an jenem Rain,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[5, S. 269
-    1894 gedruckt in Berlin]
+  1894 gedruckt in Berlin]
 FKT[]
 SIG[Q0114R]
 KEY[Q0114R  08  G 4/4]

@@ -3,7 +3,7 @@ CUT[Winterrosen
     Ein Maedchen wollte Wasser schoepfen]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bessenich]
 TRD[7, S. 60
-    1926 aufgezeichnet]
+  1926 aufgezeichnet]
 FKT[]
 SIG[Q0145D]
 KEY[Q0145D  16  C 2/4]

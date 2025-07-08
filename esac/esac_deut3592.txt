@@ -4,7 +4,7 @@ CUT[Der Jaeger auf koeniglicher Heide
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland - Pfalz, Pruem,
     Hallschlag]
 TRD[7, S. 160
-    1928 aufgezeichnet (1926/28)]
+  1928 aufgezeichnet (1926/28)]
 FKT[]
 SIG[Q0150B]
 KEY[Q0150B  16  G 6/8]

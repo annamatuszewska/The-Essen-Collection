@@ -3,7 +3,7 @@ CUT[Die Unbestechliche
     Es reyt ein ritter wolgemut,]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 33
-    1535 gedruckt]
+  1535 gedruckt]
 FKT[]
 SIG[Q0144A]
 KEY[Q0144A  08  G 4/4]

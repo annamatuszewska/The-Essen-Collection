@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es war ein Jaeger gar wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau, Ellershausen]
 TRD[3, S. 89
-    1860 aufgezeichnet (ca.)]
+  1860 aufgezeichnet (ca.)]
 FKT[]
 SIG[Q0057D]
 KEY[Q0057D  16  G 6/8]

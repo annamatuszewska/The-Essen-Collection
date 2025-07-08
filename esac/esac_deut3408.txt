@@ -4,7 +4,7 @@ CUT[Der heimkehrende Braeutigam
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
     Oetingen (?)]
 TRD[5, S. 144
-    1937 aufgezeichnet]
+  1937 aufgezeichnet]
 FKT[]
 SIG[Q0102E]
 KEY[Q0102E  08  G 3/4]

@@ -3,7 +3,7 @@ CUT[Winterrosen
     Es wollt so'n wacker Maedchen aufs Wasser holen gehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[7, S. 63
-    1928 gedruckt]
+  1928 gedruckt]
 FKT[]
 SIG[Q0145J]
 KEY[Q0145J  16  G 2/4]

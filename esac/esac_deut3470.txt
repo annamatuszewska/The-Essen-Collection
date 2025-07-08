@@ -3,7 +3,7 @@ CUT[Der Tod als Erloeser
     Ich bin ein armes Maedchen,]
 REG[Mitteleuropa, Deutschland (BRD) , Pfalz]
 TRD[5, S. 317
-    1909 gedruckt in Kaiserslautern]
+  1909 gedruckt in Kaiserslautern]
 FKT[]
 SIG[Q0120A]
 KEY[Q0120A  16  G 6/8]

@@ -4,7 +4,7 @@ CUT[Der junge Held
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bergisches Land,
     Paffrath]
 TRD[3, S. 144
-    ????]
+  ????]
 FKT[]
 SIG[Q0060A]
 KEY[Q0060A  16  D 6/8]

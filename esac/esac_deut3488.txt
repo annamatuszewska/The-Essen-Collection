@@ -3,7 +3,7 @@ CUT[Das mannstolle Maedchen
     Ein meydlin an dem laden lag,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 76
-    1535 gedruckt in Frankfurt a.M.]
+  1535 gedruckt in Frankfurt a.M.]
 FKT[]
 SIG[Q0126]
 KEY[Q0126   08  G FREI]

@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Stand ich auf hohen Bergen,]
 REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Poermitz]
 TRD[8, S. 51
-    1909 aufgezeichnet]
+  1909 aufgezeichnet]
 FKT[]
 SIG[Q0155J]
 KEY[Q0155J  08  F 6/8]

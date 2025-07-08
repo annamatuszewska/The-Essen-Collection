@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Es blast ein Jaegerlein wohl in sein Horn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[6, S. 169
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0133F]
 KEY[Q0133F  16  D 2/4]

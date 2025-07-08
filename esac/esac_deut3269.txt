@@ -3,7 +3,7 @@ CUT[Schoen Adelheid
     Es wolt ain maydlein wasser holl]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 66
-    1530 Handschrift aus Muenchen (ca.)]
+  1530 Handschrift aus Muenchen (ca.)]
 FKT[]
 SIG[Q1074B]
 KEY[Q1074B  08  G FREI]

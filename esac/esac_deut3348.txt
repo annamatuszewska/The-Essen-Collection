@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es war'n einmal zwei Bauernsoehn',]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[4, S. 310
-    1920 gedruckt (1919/20)]
+  1920 gedruckt (1919/20)]
 FKT[]
 SIG[Q0085Y]
 KEY[Q0085Y  16  G 3/4]

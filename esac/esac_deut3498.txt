@@ -3,7 +3,7 @@ CUT[Das Maedchen und der Faehnrich
     Es wohnt ein reicher Schlaechtersmann]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Charlottenburg]
 TRD[6, S. 107
-    1843 aufgezeichnet]
+  1843 aufgezeichnet]
 FKT[]
 SIG[Q0127G]
 KEY[Q0127G  16  G 2/4]

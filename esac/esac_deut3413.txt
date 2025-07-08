@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Es ritten drei Reiter zum Tore hinaus, ade!]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 160
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q1103D]
 KEY[Q1103D  16  G 6/8]

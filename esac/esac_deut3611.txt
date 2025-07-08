@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es wollt' ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland (BRD) , Baden, Ortenau, Meissenheim]
 TRD[7, S. 219
-    1897 aufgezeichnet (ca.)]
+  1897 aufgezeichnet (ca.)]
 FKT[]
 SIG[Q0152Q]
 KEY[Q0152Q  16  G 6/8]

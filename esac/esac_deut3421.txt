@@ -3,7 +3,7 @@ CUT[Der falsche Schreiber
     Es zog ein Herr wohl in den Krieg,]
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Greifenhagen]
 TRD[5, S. 181
-    1893 gedruckt in Leipzig]
+  1893 gedruckt in Leipzig]
 FKT[]
 SIG[Q0105]
 KEY[Q0105   16  G 2/4]

@@ -4,7 +4,7 @@ CUT[Der Werber und der Jude
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Saargemuend,
     Hambach]
 TRD[6, S. 149
-    1930 aufgezeichnet]
+  1930 aufgezeichnet]
 FKT[]
 SIG[Q0131A]
 KEY[Q0131A  08  G 4/4]

@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es hat ein Wirtsmann einen Sohn,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[4, S. 312
-    ????]
+  ????]
 FKT[]
 SIG[Q0085g]
 KEY[Q0085g  08  G FREI]

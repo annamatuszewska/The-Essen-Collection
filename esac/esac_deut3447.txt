@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es kam ein Jaeger obenrein,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
 TRD[5, S. 269
-    1909 gedruckt in Annaberg]
+  1909 gedruckt in Annaberg]
 FKT[]
 SIG[Q0114Q]
 KEY[Q0114Q  08  G 4/4]

@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Maria die ist geritten aus,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 298
-    193? aufgezeichnet]
+  193? aufgezeichnet]
 FKT[]
 SIG[Q1053O]
 KEY[Q1053O  04  F 6/4]

@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Es wollt ein Maedchen grasen gehn]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kreis Forbach]
 TRD[7, S. 130
-    1935 aufgezeichnet]
+  1935 aufgezeichnet]
 FKT[]
 SIG[Q0149A]
 KEY[Q0149A  08  G 3/4]

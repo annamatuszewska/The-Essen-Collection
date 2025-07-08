@@ -3,7 +3,7 @@ CUT[Der Bremberger
     Ich habe gewacht ein Winterlange nacht,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 163
-    1603 Handschrift (zwischen 1603 und 1608)]
+  1603 Handschrift (zwischen 1603 und 1608)]
 FKT[]
 SIG[Q0016]
 KEY[Q0016   08  G FREI]

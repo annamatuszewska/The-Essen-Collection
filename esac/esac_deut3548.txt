@@ -4,7 +4,7 @@ CUT[Der schwatzhafte Junggeselle
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Oberwesterwald,
     Stein - Neukirch]
 TRD[6, S. 275
-    1906 aufgezeichnet (1905/06)]
+  1906 aufgezeichnet (1905/06)]
 FKT[]
 SIG[Q0139F]
 KEY[Q0139F  16  G 4/4]

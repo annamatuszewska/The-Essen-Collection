@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Ich hoer mir ein Sichelein rauschen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[7, S. 150
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q1149M]
 KEY[Q1149M  08  G 6/8]

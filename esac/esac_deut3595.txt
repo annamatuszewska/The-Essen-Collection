@@ -3,7 +3,7 @@ CUT[Der Jaeger im Tannenholz
     Es wollt ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hadeln, Ottendorf]
 TRD[7, S. 170
-    1929 aufgezeichnet]
+  1929 aufgezeichnet]
 FKT[]
 SIG[Q0151B]
 KEY[Q0151B  16  D 6/8]

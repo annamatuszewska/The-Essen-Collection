@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Es wolt ein meydlin grasen gan:]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 126
-    1546 gedruckt (1535 bis 1546) ; Satz: Heinrich Isaac]
+  1546 gedruckt (1535 bis 1546) ; Satz: Heinrich Isaac]
 FKT[]
 SIG[Q0149]
 KEY[Q0149   04  G 2/2]

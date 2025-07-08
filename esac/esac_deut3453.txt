@@ -4,7 +4,7 @@ CUT[Das hungernde Kind
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
     Weiler]
 TRD[5, S. 273
-    1928 aufgezeichnet]
+  1928 aufgezeichnet]
 FKT[]
 SIG[Q0115]
 KEY[Q0115   08  G 4/4]

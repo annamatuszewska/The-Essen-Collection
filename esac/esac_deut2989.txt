@@ -3,7 +3,7 @@ CUT[Die Geburt im Walde
     Es gingen zwei Liebchen wohl durch den gruenen Wald;]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[1, S. 72
-    1907 aufgezeichnet]
+  1907 aufgezeichnet]
 FKT[]
 SIG[Q0007G]
 KEY[Q0007G  16  G 3/4]

@@ -3,7 +3,7 @@ CUT[Jerman Weizers Frau
     Was kan uns kommen an fuer noth]
 REG[Mitteleuropa, Deutschland (Text: Bayern, Nuernberg)]
 TRD[5, S. 216
-    1608 Handschrift (1603/08)]
+  1608 Handschrift (1603/08)]
 FKT[]
 SIG[Q0108C]
 KEY[Q0108C  16  G 4/4]

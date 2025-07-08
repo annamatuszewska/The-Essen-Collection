@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Es warn zwei Koenigskinder,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
 TRD[1, S. 221
-    1833 gedruckt]
+  1833 gedruckt]
 FKT[]
 SIG[Q0020N]
 KEY[Q0020N  16  G 2/4]

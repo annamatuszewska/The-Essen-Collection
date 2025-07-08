@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es war ein Pfalzgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[4, S. 112
-    1931 gedruckt in Wiesbaden - Biebrich]
+  1931 gedruckt in Wiesbaden - Biebrich]
 FKT[]
 SIG[Q0075e]
 KEY[Q0075e  32  F 2/4]

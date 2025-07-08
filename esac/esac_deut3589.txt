@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Es ging ein schwarzbraun Maedchen]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[7, S. 153
-    1939 gedruckt (1938/39)]
+  1939 gedruckt (1938/39)]
 FKT[]
 SIG[Q0149R]
 KEY[Q0149R  08  G 3/4]

@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es war ein Ritter wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Odenwald, Neunkirchen]
 TRD[3, S. 87
-    1843 aufgezeichnet]
+  1843 aufgezeichnet]
 FKT[]
 SIG[Q0057]
 KEY[Q0057   08  G 6/8]

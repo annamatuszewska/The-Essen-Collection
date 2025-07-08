@@ -3,7 +3,7 @@ CUT[Herr von Falkenstein
     Ick sah mynen Heern von Falkensteen]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen, Steinhagen]
 TRD[1, S. 224
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0021A]
 KEY[Q0021A  08  G 4/4]

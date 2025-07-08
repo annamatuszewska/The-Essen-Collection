@@ -3,7 +3,7 @@ CUT[Der betruegerische Freier
     Stolz Heinrich der wollt' freien gehn]
 REG[Mitteleuropa, Deutschland (BRD) , nord - deutsch; Rheinprovinz]
 TRD[2, S. 117
-    1840 gedruckt in Berlin]
+  1840 gedruckt in Berlin]
 FKT[]
 SIG[Q0042A]
 KEY[Q0042A  16  E 2/4]

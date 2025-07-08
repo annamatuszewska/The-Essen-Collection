@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Es reisen ihrer Herren alle dreie,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hassenburg]
 TRD[4, S. 30
-    1928 gedruckt in Heidelberg]
+  1928 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0072G]
 KEY[Q0072G  16  G 3/4]

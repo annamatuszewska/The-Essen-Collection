@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es hatt ein Schwab ein Toechterlein,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 52
-    1611 gedruckt in Coburg; Satz: Melchior Franck]
+  1611 gedruckt in Coburg; Satz: Melchior Franck]
 FKT[]
 SIG[Q0073H]
 KEY[Q0073H  16  G 2/4]

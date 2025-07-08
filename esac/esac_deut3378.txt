@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Es wollt ein Mueller frueh aufstehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
 TRD[4, S. 346
-    1892 gedruckt in Neuwied]
+  1892 gedruckt in Neuwied]
 FKT[]
 SIG[Q0086Z]
 KEY[Q0086Z  08  G 4/4]

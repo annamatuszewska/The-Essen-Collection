@@ -3,7 +3,7 @@ CUT[Die Geburt im Grabe
     Eine Landmannsfrau ging schwanger,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Luebben, Schoenwalde]
 TRD[5, S. 224
-    ????]
+  ????]
 FKT[]
 SIG[Q0109B]
 KEY[Q0109B  16  G FREI]

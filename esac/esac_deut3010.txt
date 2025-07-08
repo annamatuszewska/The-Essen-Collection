@@ -3,7 +3,7 @@ CUT[Kerenstein
     Ich bin durch frawen willen]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[1, S. 173
-    1540 gedruckt in Antwerpen]
+  1540 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0018]
 KEY[Q0018   08  G FREI]

@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Schoen Ullerich und Hanselein]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Breslau]
 TRD[2, S. 81
-    1912 gedruckt]
+  1912 gedruckt]
 FKT[]
 SIG[Q0041D]
 KEY[Q0041D  08  G 4/4]

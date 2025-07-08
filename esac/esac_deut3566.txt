@@ -3,7 +3,7 @@ CUT[Winterrosen
     Rejt'wal jo rejtar spy gyli, hurra!]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz, sorbisch]
 TRD[7, S. 62
-    1889 gedruckt]
+  1889 gedruckt]
 FKT[]
 SIG[Q2145I]
 KEY[Q2145I  08  G 6/8]

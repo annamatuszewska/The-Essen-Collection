@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Es wollt ein Mueller frueh aufstehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Schleswig - Holstein, Dithmarschen]
 TRD[4, S. 342
-    1881 gedruckt]
+  1881 gedruckt]
 FKT[]
 SIG[Q0086P]
 KEY[Q0086P  08  G 4/4]

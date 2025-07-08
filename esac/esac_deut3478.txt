@@ -3,7 +3,7 @@ CUT[Sangeslohn
     Gegruest seyst du Maria rein,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 60
-    1666 gedruckt in Erfurt]
+  1666 gedruckt in Erfurt]
 FKT[]
 SIG[Q0124A]
 KEY[Q0124A  02  D FREI]

@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es schlief ein Graf bei seiner Magd]
 REG[Mitteleuropa, Deutschland (BRD) , nordwest - deutsch ?]
 TRD[3, S. 19
-    1916 aufgezeichnet (1914/16)]
+  1916 aufgezeichnet (1914/16)]
 FKT[]
 SIG[Q0055K]
 KEY[Q0055K  08  C 4/4]

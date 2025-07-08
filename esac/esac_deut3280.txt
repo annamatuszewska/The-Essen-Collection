@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Der erste Koenig an dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Lueneburg]
 TRD[4, S. 108
-    ????]
+  ????]
 FKT[]
 SIG[Q0075O]
 KEY[Q0075O  16  F 3/4]

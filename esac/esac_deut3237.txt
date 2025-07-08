@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es wollt' sich ein stolzer Schuhknecht freien gehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 260
-    1933 gedruckt in Heidelberg (?)]
+  1933 gedruckt in Heidelberg (?)]
 FKT[]
 SIG[Q1068N]
 KEY[Q1068N  16  F 4/4]

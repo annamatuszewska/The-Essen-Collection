@@ -3,7 +3,7 @@ CUT[Das Traenenkrueglein
     Es kam von einer Neustadt her]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grabig]
 TRD[5, S. 334
-    1841 aufgezeichnet]
+  1841 aufgezeichnet]
 FKT[]
 SIG[Q0122B]
 KEY[Q0122B  16  G 3/4]

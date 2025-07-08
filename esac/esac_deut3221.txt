@@ -3,7 +3,7 @@ CUT[Des Grafen Toechterlein
     Graf Friederich wollt ausreiten]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 186
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q1063B]
 KEY[Q1063B  16  F FREI]

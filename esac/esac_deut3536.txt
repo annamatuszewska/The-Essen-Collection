@@ -3,7 +3,7 @@ CUT[Nachtigall als Warnerin
     Naechten als ich schlafen ging,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[6, S. 237
-    1842 aufgezeichnet (vor)]
+  1842 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0137J]
 KEY[Q0137J  16  G 3/4]

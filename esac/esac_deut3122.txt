@@ -4,7 +4,7 @@ CUT[Das Bauerntoechterlein
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saargemuend,
     Eppingen]
 TRD[2, S. 259
-    1939 aufgezeichnet]
+  1939 aufgezeichnet]
 FKT[]
 SIG[Q0051D]
 KEY[Q0051D  08  G 3/4]

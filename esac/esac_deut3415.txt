@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Husar, der aus dem Kriege kam, hurrah!]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[5, S. 160
-    ????]
+  ????]
 FKT[]
 SIG[Q0103G]
 KEY[Q0103G  16  G 6/8]

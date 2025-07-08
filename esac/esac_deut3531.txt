@@ -3,7 +3,7 @@ CUT[Nachtigall als Warnerin
     Dort oben vor meines Vaters Haus,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[6, S. 234
-    ????]
+  ????]
 FKT[]
 SIG[Q0137E]
 KEY[Q0137E  08  C 3/4]

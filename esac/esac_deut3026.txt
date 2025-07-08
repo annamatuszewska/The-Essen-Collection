@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Es waren zwei Koenigeskinder,]
 REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
 TRD[1, S. 219
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0020M]
 KEY[Q0020M  16  G 3/8]

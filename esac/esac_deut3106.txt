@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Es wollt' ein Ritter ausreiten]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Erzgebirge, Rittersgruen]
 TRD[2, S. 201
-    1893 aufgezeichnet]
+  1893 aufgezeichnet]
 FKT[]
 SIG[Q0048C]
 KEY[Q0048C  08  C 4/4]

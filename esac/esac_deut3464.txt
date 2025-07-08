@@ -3,7 +3,7 @@ CUT[Die beiden Waisenkinder
     Es waren zwei Waisenkinder,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[5, S. 310
-    ????]
+  ????]
 FKT[]
 SIG[Q0118C]
 KEY[Q0118C  08  G 3/4]

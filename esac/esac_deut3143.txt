@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt' ein Graf mit einer Magd,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Wetterau]
 TRD[3, S. 13
-    1856 aufgezeichnet (vor)]
+  1856 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0055D]
 KEY[Q0055D  08  G 3/4]

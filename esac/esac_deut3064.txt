@@ -4,7 +4,7 @@ CUT[Koenig und Marquise
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saarburg,
     Walscheid]
 TRD[2, S. 24
-    1936 aufgezeichnet]
+  1936 aufgezeichnet]
 FKT[]
 SIG[Q0035]
 KEY[Q0035   16  D FREI]

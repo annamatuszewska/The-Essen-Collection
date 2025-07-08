@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Maria unser frowe,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S.50
-    1349 Handschrift]
+  1349 Handschrift]
 FKT[]
 SIG[Q1073G]
 KEY[Q1073G  08  D 4/4]

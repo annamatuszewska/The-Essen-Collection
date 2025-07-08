@@ -2,8 +2,8 @@ BALLADEN
 CUT[Die Geburt im Walde
     Hier sitz' ich auf Rosen mit Veilchen bekraenzt.]
 REG[Mitteleuropa, Deutschland]
-TRD[1, S. 72  Komponist: J.G.W. Schneider
-    1801 gedruckt]
+TRD[1, S. 72 Komponist: J.G.W. Schneider
+  1801 gedruckt]
 FKT[]
 SIG[Q1007E]
 KEY[Q1007E  08  G 3/4]

@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es fuhr ein Schifflein wol ueber den Rhein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[3, S. 258
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0068G]
 KEY[Q0068G  16  G 6/8]

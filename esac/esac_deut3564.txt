@@ -3,7 +3,7 @@ CUT[Winterrosen
     Es wollt' ein Maegdelein Wasser hol'n]
 REG[Mitteleuropa, Deutschland (BRD) , Franken]
 TRD[7, S. 61
-    1855 gedruckt in Leipzig]
+  1855 gedruckt in Leipzig]
 FKT[]
 SIG[Q0145G]
 KEY[Q0145G  16  G 6/8]

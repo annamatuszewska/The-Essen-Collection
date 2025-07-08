@@ -3,7 +3,7 @@ CUT[Die schoene Magdalena
     Es waren's sich ein schoene Mannstoechterlein]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[6, S. 74
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0125D]
 KEY[Q0125D  16  G 6/8]

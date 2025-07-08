@@ -3,7 +3,7 @@ CUT[Der Jaeger auf koeniglicher Heide
     Es wollt' ein Jaeger jagen,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Cottbus, Peitz]
 TRD[7, S. 156
-    1839 aufgezeichnet]
+  1839 aufgezeichnet]
 FKT[]
 SIG[Q0150]
 KEY[Q0150   16  F 3/8 4/8]

@@ -3,7 +3,7 @@ CUT[Der heimkehrende Braeutigam
     Es wollt' sich ein Juengling erwerben,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden]
 TRD[5, S. 144
-    ????]
+  ????]
 FKT[]
 SIG[Q0102A]
 KEY[Q0102A  16  G 6/8]

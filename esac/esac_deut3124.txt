@@ -3,7 +3,7 @@ CUT[Das Bauerntoechterlein
     Es hat sich ein Bauer ein Toechterlein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
 TRD[2, S. 266
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0051F]
 KEY[Q0051F  08  G 6/8]

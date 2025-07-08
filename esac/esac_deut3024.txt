@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Die Muehle die dreht ihre Fluegel]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 217
-    1833 gedruckt]
+  1833 gedruckt]
 FKT[]
 SIG[Q0020K]
 KEY[Q0020K  16  G 6/8]

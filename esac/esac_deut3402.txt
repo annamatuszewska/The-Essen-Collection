@@ -3,7 +3,7 @@ CUT[Die Hauptmannstochter
     Ein Liedelein wollen wir singen,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[5, S. 132
-    1894 gedruckt in Berlin]
+  1894 gedruckt in Berlin]
 FKT[]
 SIG[Q0101A]
 KEY[Q0101A  16  G 6/8]

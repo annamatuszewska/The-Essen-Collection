@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es ritt ein Reiter wohl ueber den Rhein,]
 REG[Mitteleuropa, Deutschland / Polen / UdSSR, Ostpreussen]
 TRD[2, S. 112
-    1911 aufgezeichnet]
+  1911 aufgezeichnet]
 FKT[]
 SIG[Q0041Y]
 KEY[Q0041Y  16  G 4/4]

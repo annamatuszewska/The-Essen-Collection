@@ -3,7 +3,7 @@ CUT[Das weinholende Maedchen
     Es trug ein schwarzbraun' Maedchen]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
 TRD[6, S. 137
-    1840 gedruckt in Berlin]
+  1840 gedruckt in Berlin]
 FKT[]
 SIG[Q0129B]
 KEY[Q0129B  08  G 6/8]

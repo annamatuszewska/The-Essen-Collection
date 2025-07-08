@@ -4,7 +4,7 @@ CUT[Der Jaeger im Tannenholz
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland - Pfalz, Unterwesterwald,
     Eitelborn]
 TRD[7, S. 181
-    1927 aufgezeichnet]
+  1927 aufgezeichnet]
 FKT[]
 SIG[Q0151D]
 KEY[Q0151D  08  G 4/4]

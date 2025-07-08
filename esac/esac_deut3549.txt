@@ -3,7 +3,7 @@ CUT[Der schwatzhafte Junggeselle
     Nechten war ich trunken,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 312
-    1611 gedruckt in Coburg]
+  1611 gedruckt in Coburg]
 FKT[]
 SIG[Q0139M]
 KEY[Q0139M  16  G 4/4]

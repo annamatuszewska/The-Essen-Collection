@@ -3,7 +3,7 @@ CUT[Der schwatzhafte Junggeselle
     Es waren mal drei Gesellen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Fremersdorf]
 TRD[6, S. 312
-    1932 gedruckt in Metz]
+  1932 gedruckt in Metz]
 FKT[]
 SIG[Q0139S]
 KEY[Q0139S  16  G 3/8 4/4]

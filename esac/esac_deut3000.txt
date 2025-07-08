@@ -3,7 +3,7 @@ CUT[Graf von Rom
     An Gott hats nie gemangelt]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 144
-    1609 gedruckt in Wolfenbuettel]
+  1609 gedruckt in Wolfenbuettel]
 FKT[]
 SIG[Q0014A]
 KEY[Q0014A  08  F FREI]

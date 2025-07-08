@@ -4,7 +4,7 @@ CUT[Verschlafener Jaeger
 REG[Mitteleuropa, Deutschland / Polen, Grenzmark Posen - Westpreussen,
     Flatow, Dobrin]
 TRD[7, S. 218
-    1928 aufgezeichnet]
+  1928 aufgezeichnet]
 FKT[]
 SIG[Q0152O]
 KEY[Q0152O  08  C 4/4]

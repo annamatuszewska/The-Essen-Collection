@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Ich waiss ein schoens Lustgaertelein]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 294
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q1053H]
 KEY[Q1053H  08  F 2/2 3/2]

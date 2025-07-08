@@ -3,7 +3,7 @@ CUT[Die schoene Magdalena
     An einem schoenen Morgen]
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
 TRD[6, S. 74
-    ????]
+  ????]
 FKT[]
 SIG[Q0125E]
 KEY[Q0125E  16  G 6/8]

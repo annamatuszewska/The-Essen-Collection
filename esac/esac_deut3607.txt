@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es ging ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Peterwitz]
 TRD[7, S. 217
-    ????]
+  ????]
 FKT[]
 SIG[Q0152M]
 KEY[Q0152M  08  C 4/4]

@@ -3,7 +3,7 @@ CUT[Maedchen und Hasel
     Es wollt' ein Maedchen auf Kirwe gehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[6, S. 264
-    ????]
+  ????]
 FKT[]
 SIG[Q0138G]
 KEY[Q0138G  16  G 2/4]

@@ -4,7 +4,7 @@ CUT[Graf und Nonne (Die Nonne)
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach,
     Fremersdorf]
 TRD[8, S. 86
-    1936 aufgezeichnet]
+  1936 aufgezeichnet]
 FKT[]
 SIG[Q0155c]
 KEY[Q0155c  08  G 4/4]

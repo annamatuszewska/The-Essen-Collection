@@ -3,7 +3,7 @@ CUT[Das weinholende Maedchen
     Slo je holco po piwo,]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wittichenau; sorbisch]
 TRD[6, S. 136
-    1841 gedruckt in Grimma]
+  1841 gedruckt in Grimma]
 FKT[]
 SIG[Q2129A]
 KEY[Q2129A  08  G 2/4]

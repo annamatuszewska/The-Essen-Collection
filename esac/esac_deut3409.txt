@@ -4,7 +4,7 @@ CUT[Der heimkehrende Braeutigam
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
     Tremersdorf]
 TRD[5, S. 144
-    1937 aufgezeichnet]
+  1937 aufgezeichnet]
 FKT[]
 SIG[Q0102F]
 KEY[Q0102F  08  G 3/4]

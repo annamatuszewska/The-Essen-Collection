@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Ess blys ein Jeger wol ynn seyn Horn,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 161
-    1777 gedruckt in Berlin und Stettin]
+  1777 gedruckt in Berlin und Stettin]
 FKT[]
 SIG[Q0133]
 KEY[Q0133   16  C 6/8 2/4]

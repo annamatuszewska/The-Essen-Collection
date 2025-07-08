@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Es haett' e Buur e' Toechterli,]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 294
-    17?? gedruckt]
+  17?? gedruckt]
 FKT[]
 SIG[Q1053I]
 KEY[Q1053I  04  F 2/2]

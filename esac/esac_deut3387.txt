@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreiten]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Saarburg]
 TRD[5, S. 1
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0089]
 KEY[Q0089   08  G 3/8]

@@ -3,7 +3,7 @@ CUT[Frau von Weissenburg
     Was wollen wir aber singen,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 304
-    1557 gedruckt]
+  1557 gedruckt]
 FKT[]
 SIG[Q0030A]
 KEY[Q0030A  08  C 6/4]

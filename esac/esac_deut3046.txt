@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Es stand ein Schloss in Oest'reichs Landen]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
 TRD[1, S. 274
-    1892 gedruckt in Neuwied]
+  1892 gedruckt in Neuwied]
 FKT[]
 SIG[Q0024O]
 KEY[Q0024O  16  D 3/4]

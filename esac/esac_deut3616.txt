@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Was wird er mitte bringen]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kanth]
 TRD[8, S. 34
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0155D]
 KEY[Q0155D  08  D 2/4]

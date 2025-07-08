@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es schlief ein Graf bei seiner Dienstmagd,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[3, S. 64
-    ????]
+  ????]
 FKT[]
 SIG[Q0055k]
 KEY[Q0055k  16  G 6/8]

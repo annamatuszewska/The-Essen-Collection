@@ -3,7 +3,7 @@ CUT[Nachtigall als Warnerin
     Naechten als ich schlafen ging,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[6, S. 237
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0137I]
 KEY[Q0137I  08  G 3/4]

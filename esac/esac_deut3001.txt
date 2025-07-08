@@ -3,7 +3,7 @@ CUT[Graf von Rom
     Est Virgo coeli rore]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 144
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q0014B]
 KEY[Q0014B  08  F FREI]

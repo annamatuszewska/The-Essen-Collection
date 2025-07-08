@@ -3,7 +3,7 @@ CUT[Die drei Hexen
     Hyet ich die gnad, so wolt ich mich aufschwingen]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 225
-    14?? Handschrift (15. Jh.)]
+  14?? Handschrift (15. Jh.)]
 FKT[]
 SIG[Q1080H]
 KEY[Q1080H  08  F 6/8]

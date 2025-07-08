@@ -3,7 +3,7 @@ CUT[Bai Raedder
     Ae Redder traeed ae Baoi un ae Daons,]
 REG[Mitteleuropa, Deutschland (BRD) , Nordsee, Foehr, Oevenum]
 TRD[3, S. 272
-    1886 aufgezeichnet]
+  1886 aufgezeichnet]
 FKT[]
 SIG[Q0071]
 KEY[Q0071   08  A 4/4]

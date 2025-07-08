@@ -3,7 +3,7 @@ CUT[Der junge Held
     Es wollt' ein Jungknab auf Botschaft gehn]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 152
-    ????]
+  ????]
 FKT[]
 SIG[Q1060E]
 KEY[Q1060E  08  D FREI]

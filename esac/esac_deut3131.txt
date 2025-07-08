@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Mich freud, schoens Lieb, dein schoen anblick,]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 294
-    1556 gedruckt in Nuernberg]
+  1556 gedruckt in Nuernberg]
 FKT[]
 SIG[Q1053F]
 KEY[Q1053F  16  F 3/2 4/2]

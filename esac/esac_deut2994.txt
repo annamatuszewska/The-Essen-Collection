@@ -3,7 +3,7 @@ CUT[Herzog Ernst
     Es was einmal ein reicher man,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 87
-    1545 gedruckt in Leipzig]
+  1545 gedruckt in Leipzig]
 FKT[]
 SIG[Q0010B]
 KEY[Q0010B  08  E FREI]

@@ -3,7 +3,7 @@ CUT[Der Tannhaeuser
     Nun wil ichs aber heben an]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 145
-    1500 Handschrift Muenchen]
+  1500 Handschrift Muenchen]
 FKT[]
 SIG[Q0015]
 KEY[Q0015   16  G FREI]

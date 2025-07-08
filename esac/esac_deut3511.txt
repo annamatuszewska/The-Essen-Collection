@@ -4,7 +4,7 @@ CUT[Lieber ins Wasser
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Kr. Forbach,
     Weiler]
 TRD[6, S. 160
-    1931 aufgezeichnet]
+  1931 aufgezeichnet]
 FKT[]
 SIG[Q0132A]
 KEY[Q0132A  16  E 6/4]

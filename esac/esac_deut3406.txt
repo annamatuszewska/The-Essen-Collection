@@ -3,7 +3,7 @@ CUT[Der heimkehrende Braeutigam
     Es wollt' es ein Juengling werben,]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
 TRD[5, S. 144
-    1947 gedruckt in Colmar]
+  1947 gedruckt in Colmar]
 FKT[]
 SIG[Q0102C]
 KEY[Q0102C  08  G 6/8]

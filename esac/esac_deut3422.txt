@@ -4,7 +4,7 @@ CUT[Die verunglueckte Muellerstochter
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Mittel - Franken,
     Ipsheim]
 TRD[5, S. 187
-    1962 aufgezeichnet]
+  1962 aufgezeichnet]
 FKT[]
 SIG[Q0106A]
 KEY[Q0106A  16  D FREI]

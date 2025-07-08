@@ -3,7 +3,7 @@ CUT[Die Todesbraut
     Wir kommen daher in der heiligsten Zeit]
 REG[Mitteleuropa, Deutschland (BRD) , Franken]
 TRD[2, S. 237
-    1855 gedruckt in Leipzig]
+  1855 gedruckt in Leipzig]
 FKT[]
 SIG[Q1049D]
 KEY[Q1049D  16  G 6/8]

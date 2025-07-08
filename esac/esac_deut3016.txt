@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Es warb ein schoner Juengling]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 197
-    1540 gedruckt in Nuernberg]
+  1540 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0020]
 KEY[Q0020   08  G 6/4]

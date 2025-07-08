@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     Ein Juengling, der auf Reisen ging,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kurhessen]
 TRD[3, S. 86
-    1926 aufgezeichnet]
+  1926 aufgezeichnet]
 FKT[]
 SIG[Q0056K]
 KEY[Q0056K  16  F 6/8]

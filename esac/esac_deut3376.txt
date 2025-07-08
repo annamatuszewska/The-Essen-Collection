@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Es wollt' ein Mueller frueh aufstehn,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Altmark]
 TRD[4, S. 346
-    1912 gedruckt]
+  1912 gedruckt]
 FKT[]
 SIG[Q0086X]
 KEY[Q0086X  08  G 3/4]

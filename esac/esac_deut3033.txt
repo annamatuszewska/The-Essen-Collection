@@ -4,7 +4,7 @@ CUT[Erloesung vom Galgen
 REG[Mitteleuropa, Deutschland / Polen, Ober - Schlesien,
     Waltdorf bei Neisse]
 TRD[1, S. 235
-    1844 aufgezeichnet]
+  1844 aufgezeichnet]
 FKT[]
 SIG[Q0022A]
 KEY[Q0022A  08  D 2/4]

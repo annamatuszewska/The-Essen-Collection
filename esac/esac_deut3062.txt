@@ -4,7 +4,7 @@ CUT[Herr und Schildknecht
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach,
     Hilsprich]
 TRD[2, S. 23
-    1936 aufgezeichnet]
+  1936 aufgezeichnet]
 FKT[]
 SIG[Q0034C]
 KEY[Q0034C  08  G 4/4]

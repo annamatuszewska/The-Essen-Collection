@@ -4,7 +4,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
 REG[Mitteleuropa, Deutschland / Polen, Grenzmark - Westpreussen, Kreis
     Flatow, Dollnik]
 TRD[2, S. 79
-    1904 aufgezeichnet]
+  1904 aufgezeichnet]
 FKT[]
 SIG[Q0041C]
 KEY[Q0041C  08  F 6/8]

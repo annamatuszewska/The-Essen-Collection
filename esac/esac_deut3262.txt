@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es hatt' ein Soldat ein Toechterlein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[4, S. 52
-    ????]
+  ????]
 FKT[]
 SIG[Q0073I]
 KEY[Q0073I  08  G 2/4]

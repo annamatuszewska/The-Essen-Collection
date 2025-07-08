@@ -3,7 +3,7 @@ CUT[Reiter und Hirtenmaedchen
     Es wollte ein Maedchen die Laemmelein hueten im Holze,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Taunus, Bechtheim]
 TRD[7, S. 112
-    18?? aufgezeichnet (2. Haelfte des 19. Jh.)]
+  18?? aufgezeichnet (2. Haelfte des 19. Jh.)]
 FKT[]
 SIG[Q0148A]
 KEY[Q0148A  08  G 6/8]

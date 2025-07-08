@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es warn einmal zwei Bauernsoehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[4, S. 310
-    ????]
+  ????]
 FKT[]
 SIG[Q0085S]
 KEY[Q0085S  16  G 3/4]

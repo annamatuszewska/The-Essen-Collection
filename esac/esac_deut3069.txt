@@ -2,8 +2,8 @@ BALLADEN
 CUT[Der Mordknecht
     Ess reyt eyn Herr und auch sein Knecht]
 REG[Mitteleuropa, Deutschland]
-TRD[2, S. 41  Komponist: Nicolai
-    1777 gedruckt in Berlin und Stettin]
+TRD[2, S. 41 Komponist: Nicolai
+  1777 gedruckt in Berlin und Stettin]
 FKT[]
 SIG[Q0037]
 KEY[Q0037   04 Eb 4/4]

@@ -3,7 +3,7 @@ CUT[Maedchen als Stallknecht
     Jetzt kommt die Zeit, da ich sterben muss,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 127
-    1928 gedruckt in Heidelberg]
+  1928 gedruckt in Heidelberg]
 FKT[]
 SIG[Q1100G]
 KEY[Q1100G  08  G 2/4]

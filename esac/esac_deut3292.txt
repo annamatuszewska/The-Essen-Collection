@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt ein Pfalzgraf ueber dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz]
 TRD[4, S. 112
-    1909 gedruckt in Kaiserslautern]
+  1909 gedruckt in Kaiserslautern]
 FKT[]
 SIG[Q0075g]
 KEY[Q0075g  16  F 2/4]

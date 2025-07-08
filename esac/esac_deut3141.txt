@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Es war ein Maedchen von kaum zwoelf Jahren,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz]
 TRD[2, S. 299
-    1911 gedruckt in Habelschwerdt]
+  1911 gedruckt in Habelschwerdt]
 FKT[]
 SIG[Q0053R]
 KEY[Q0053R  08  F 3/4]

@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Es ging ein Maedchen grasen]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Wuerges]
 TRD[7, S. 148
-    1904 aufgezeichnet]
+  1904 aufgezeichnet]
 FKT[]
 SIG[Q0149H]
 KEY[Q0149H  08  G 4/4]

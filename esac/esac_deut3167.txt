@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es scherzt' ein Graf mit seiner Magd,]
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern]
 TRD[3, S. 64
-    ????]
+  ????]
 FKT[]
 SIG[Q0055l]
 KEY[Q0055l  08  F 6/8]

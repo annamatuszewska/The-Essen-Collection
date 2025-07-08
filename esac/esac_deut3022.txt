@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Ohne Text]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 217
-    1538 gedruckt in Nuernberg]
+  1538 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0020H]
 KEY[Q0020H  16  G 4/4]

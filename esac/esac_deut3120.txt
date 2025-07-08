@@ -3,7 +3,7 @@ CUT[Die erzwungene Ehe
     Es hat sich ein Bauer ein Toechterlein fein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 250
-    1933 gedruckt in Heidelberg]
+  1933 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0050D]
 KEY[Q0050D  04  F 3/4]

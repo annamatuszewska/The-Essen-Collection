@@ -3,7 +3,7 @@ CUT[Das juengere Hildebrandslied
     'Ich wil zu Land aussreiten',]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 18
-    1603 gedruckt in Nuernberg]
+  1603 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0001A]
 KEY[Q0001A  16  D FREI]

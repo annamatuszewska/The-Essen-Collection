@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Es hatte ein Markgraf ein Toechterlein;]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinpfalz]
 TRD[2, S. 279
-    1909 gedruckt in Kaiserslautern]
+  1909 gedruckt in Kaiserslautern]
 FKT[]
 SIG[Q0053A]
 KEY[Q0053A  08  C 4/4]

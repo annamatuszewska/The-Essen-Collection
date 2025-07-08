@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es wollt' ein Hirtlein treiben aus,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[5, S. 267
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0114E]
 KEY[Q0114E  08  G 3/4]

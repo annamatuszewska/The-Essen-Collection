@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es waren drei Schelme und Spitzbub'n,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
 TRD[4, S. 104
-    1860 aufgezeichnet]
+  1860 aufgezeichnet]
 FKT[]
 SIG[Q1075I]
 KEY[Q1075I  08  F 4/4 3/2]

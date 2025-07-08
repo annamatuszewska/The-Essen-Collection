@@ -3,7 +3,7 @@ CUT[Der verkleidete Markgrafensohn
     Es wurb, es wurb eins Koenigsson]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 49
-    1556 gedruckt in Nuernberg]
+  1556 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0006]
 KEY[Q0006   08  F FREI]

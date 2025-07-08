@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt ein Pfalzgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[4, S. 104
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0075D]
 KEY[Q0075D  08  F 4/4]

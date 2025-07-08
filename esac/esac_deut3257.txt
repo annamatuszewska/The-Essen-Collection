@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     ES het ein schwab ein toechterlin,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 39
-    1535 gedruckt]
+  1535 gedruckt]
 FKT[]
 SIG[Q0073]
 KEY[Q0073   08  D FREI]

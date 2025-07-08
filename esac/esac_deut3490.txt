@@ -3,7 +3,7 @@ CUT[Das mannstolle Maedchen
     Mir ist ein junges Knaeblein]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 92
-    1615 gedruckt; Satz: Melchior Franck]
+  1615 gedruckt; Satz: Melchior Franck]
 FKT[]
 SIG[Q0126C]
 KEY[Q0126C  08  G 2/4]

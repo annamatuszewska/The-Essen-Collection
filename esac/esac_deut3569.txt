@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt' ein Maedchen in der Frueh aufstehn]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Kerbach]
 TRD[7, S. 71
-    1980 aufgezeichnet]
+  1980 aufgezeichnet]
 FKT[]
 SIG[Q0147]
 KEY[Q0147   08  G 4/4]

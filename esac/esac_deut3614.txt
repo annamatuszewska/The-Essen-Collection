@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Stand ich auf hohem Berge,]
 REG[Mitteleuropa, Deutschland]
 TRD[8, S. 30
-    1818 gedruckt in Berlin]
+  1818 gedruckt in Berlin]
 FKT[]
 SIG[Q0155B]
 KEY[Q0155B  08  G 2/4]

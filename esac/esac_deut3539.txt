@@ -3,7 +3,7 @@ CUT[Maedchen und Hasel
     Es wollt' ein Maedchen spazieren gehn,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Uckermark, Gramzow]
 TRD[6, S. 243
-    1844 aufgezeichnet]
+  1844 aufgezeichnet]
 FKT[]
 SIG[Q0138A]
 KEY[Q0138A  16  G 3/4]

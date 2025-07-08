@@ -3,7 +3,7 @@ CUT[Die Bernauerin
     Es reiten drei Herren zu Muenchen hinaus,]
 REG[Mitteleuropa, Deutschland (BRD) , Bayern, Regensburg]
 TRD[3, S. 210
-    1817 gedruckt in Breslau]
+  1817 gedruckt in Breslau]
 FKT[]
 SIG[Q0065B]
 KEY[Q0065B  08  C 4/4]

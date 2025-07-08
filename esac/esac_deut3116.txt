@@ -3,7 +3,7 @@ CUT[Die Todesbraut
     Dixit Dominus Domino meo:]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 237
-    1933 gedruckt in Heidelberg]
+  1933 gedruckt in Heidelberg]
 FKT[]
 SIG[Q1049F]
 KEY[Q1049F  04  G FREI]

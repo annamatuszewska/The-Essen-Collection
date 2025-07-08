@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Wir kommen hierher von Gott gesandt,]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 58
-    ????]
+  ????]
 FKT[]
 SIG[Q1055T]
 KEY[Q1055T  08 Bb 4/4]

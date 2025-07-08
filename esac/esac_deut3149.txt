@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     'Ach junckfraw, wolt jr mit mir gan?]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 54
-    1549 gedruckt in Nuernberg; vom Hg. vereinfachte Fassung]
+  1549 gedruckt in Nuernberg; vom Hg. vereinfachte Fassung]
 FKT[]
 SIG[Q1055N]
 KEY[Q1055N  08  F 6/4 4/4]

@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt' ein Ritter mit seiner Magd]
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Franken]
 TRD[3, S. 60
-    1855 gedruckt in Leipzig]
+  1855 gedruckt in Leipzig]
 FKT[]
 SIG[Q0055Z]
 KEY[Q0055Z  16  F 6/8]

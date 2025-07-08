@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreiten,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Neisse, Waltdorf]
 TRD[5, S. 19
-    1844 gedruckt (in "bereinigter" Form)]
+  1844 gedruckt (in "bereinigter" Form)]
 FKT[]
 SIG[Q0089J]
 KEY[Q0089J  16  G 3/8]

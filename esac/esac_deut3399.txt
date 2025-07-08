@@ -3,7 +3,7 @@ CUT[Die Antwerpener Kaufmannstochter
     Andreas, Andreas kumm heuer zu mir,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz]
 TRD[5, S. 113
-    1911 gedruckt in Habelschwerdt]
+  1911 gedruckt in Habelschwerdt]
 FKT[]
 SIG[Q1098A]
 KEY[Q1098A  08  G 3/4]

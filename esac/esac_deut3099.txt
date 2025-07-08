@@ -3,7 +3,7 @@ CUT[Die Rheinbraut
     Es freit' ein Herr so reiche,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Salzwedel, Lagendorf]
 TRD[2, S. 170
-    185? aufgezeichnet (1850er Jahre)]
+  185? aufgezeichnet (1850er Jahre)]
 FKT[]
 SIG[Q0047A]
 KEY[Q0047A  16  G 6/8]

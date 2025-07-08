@@ -3,7 +3,7 @@ CUT[Die Naehterin
     Es suoss a Madla und naehte,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Zobtenberg]
 TRD[1, S. 74
-    1839 aufgezeichnet]
+  1839 aufgezeichnet]
 FKT[]
 SIG[Q0008]
 KEY[Q0008   16  G 2/4]

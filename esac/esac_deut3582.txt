@@ -3,7 +3,7 @@ CUT[Graserin und Reiter
     Nun ist es doch kein Reuter,]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 146
-    1540 gedruckt; Satz: Hans Teuglin]
+  1540 gedruckt; Satz: Hans Teuglin]
 FKT[]
 SIG[Q0149D]
 KEY[Q0149D  08  F FREI]

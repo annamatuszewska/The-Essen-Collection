@@ -3,7 +3,7 @@ CUT[Der Gluecksjaeger
     Es bliess sich ein Jaeger wohl in sein Horn, wohl in sein Horn,]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen, Muensterland]
 TRD[6, S. 190
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0134]
 KEY[Q0134   16  G 4/4]

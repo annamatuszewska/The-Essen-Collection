@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Es waren zwei Koenigskinder,]
 REG[Mitteleuropa, Deutschland / Polen, Pommern]
 TRD[1, S. 202
-    18?? aufgezeichnet (Ende des Jh.)]
+  18?? aufgezeichnet (Ende des Jh.)]
 FKT[]
 SIG[Q0020D]
 KEY[Q0020D  08  G 4/4]

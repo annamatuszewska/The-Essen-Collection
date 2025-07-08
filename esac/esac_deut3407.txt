@@ -3,7 +3,7 @@ CUT[Der heimkehrende Braeutigam
     Es wollt' sich ein Juengling vermaehlen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 144
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0102D]
 KEY[Q0102D  16  G 6/8]

@@ -3,7 +3,7 @@ CUT[Der Hammerschmiedssohn
     Ach Bruder gib mir ein guten Rat,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Baumbiedersdorf]
 TRD[4, S. 360
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0088G]
 KEY[Q0088G  08  F 2/4]

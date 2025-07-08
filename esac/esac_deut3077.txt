@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Als ich ein kleines Maedchen war,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 100
-    1928 gedruckt in Heidelberg]
+  1928 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0041L]
 KEY[Q0041L  08  A 3/4]

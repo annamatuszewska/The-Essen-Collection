@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt ein Maedchen frueh aufstehn,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Erzgebirge, Rittersgruen]
 TRD[7, S. 104
-    1893 aufgezeichnet]
+  1893 aufgezeichnet]
 FKT[]
 SIG[Q0147I]
 KEY[Q0147I  08  G 4/4]

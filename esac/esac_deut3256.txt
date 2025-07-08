@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Herr Conrad war ein mueder Mann,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 37
-    ????]
+  ????]
 FKT[]
 SIG[Q0072S]
 KEY[Q0072S  08  E 4/4]

@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Es stiess ein Jaeger wohl in sein Horn,]
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
 TRD[6, S. 188
-    1911 gedruckt in Berlin]
+  1911 gedruckt in Berlin]
 FKT[]
 SIG[Q0133G]
 KEY[Q0133G  08  F 4/4]

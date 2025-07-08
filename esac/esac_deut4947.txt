@@ -1,0 +1,37 @@
+ZUCCAL
+CUT[Altdeutsches Kampflied
+    WIR STEHEN HIER ZUR SCHLACHT BEREIT]
+REG[Europa, Mitteleuropa, Deutschland, Rhein]
+TRD[]
+FKT[]
+SIG[Z1132]
+KEY[Z1132   08  E 3/4]
+MEL[12  3b45_4_  5_.43b_  4_5_4_  5__
+    3b_  4_5_4_  5__
+    5_  5_4_56b  7b_.6b54  5__4_  3b__.
+    +1__.  1_-6_-7_  1_-6_
+    53b  4_5_43b  2_1_
+    23b  4_3b_2_  1__ //]
+BEM[]
+MEL_SEM[2 1 2 2 -2 2 -2 -2 2 2 -2 2 -4 2 2 -2 2 0 0 -2 2 1 2 -2 -1 -2 2 -2 -2 9 -12 -3 2 1 -3 10 -4 2 2 -2 -2 -1 -2 2 1 2 -2 -1 -2]
+MEL_RAW[12  3b454  543b  454  5
+    3b  454  5
+    5  5456b  7b6b54  54  3b
+    +1  1-6-7  1-6
+    53b  4543b  21
+    23b  43b2  1]
+NO_REP[123b454543b4545
+    3b4545
+    5456b7b6b54543b
+    +1-6-71-6
+    53b4543b21
+    23b43b21]
+RTM[xx  xxx_x_  x_.xx_  x_x_x_  x__
+    x_  x_x_x_  x__
+    x_  x_x_xx  x_.xxx  x__x_  x__.
+    x__.  x_x_x_  x_x_
+    xx  x_x_xx  x_x_
+    xx  x_x_x_  x__]
+SCL_DEG[-6-7123b456b7b+1]
+SCL_SEM[2 1 2 1 2 2 1 2 2]
+

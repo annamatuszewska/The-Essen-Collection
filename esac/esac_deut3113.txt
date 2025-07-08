@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Karl Friedrich taet ausreiten]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Konradsdorf]
 TRD[2, S. 217
-    1841 aufgezeichnet (vor)]
+  1841 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0048K]
 KEY[Q0048K  16  G 3/8 4/8]

@@ -3,7 +3,7 @@ CUT[Das Maedchen und der Faehnrich
     Es war ein reicher Schlaechtersmann]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Birkenwerder]
 TRD[6, S. 107
-    1841 aufgezeichnet (vor)]
+  1841 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0127F]
 KEY[Q0127F  08  G 4/4]

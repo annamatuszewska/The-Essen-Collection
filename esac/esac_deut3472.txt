@@ -3,7 +3,7 @@ CUT[Das Traenenkrueglein
     Merckt auf, ihr christen gross und klein,]
 REG[Mitteleuropa, Deutschland (Text: Pommern)]
 TRD[5, S. 327
-    1692 gedruckt in Stuttgart]
+  1692 gedruckt in Stuttgart]
 FKT[]
 SIG[Q0122]
 KEY[Q0122   08  G 3/4]

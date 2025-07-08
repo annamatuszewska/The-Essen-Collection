@@ -3,7 +3,7 @@ CUT[Sangeslohn
     In dieser abendstunde]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 60
-    1649 gedruckt]
+  1649 gedruckt]
 FKT[]
 SIG[Q0124C]
 KEY[Q0124C  02  F 3/2]

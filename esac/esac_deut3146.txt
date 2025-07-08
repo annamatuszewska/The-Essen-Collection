@@ -4,7 +4,7 @@ CUT[Ritter und Magd
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Liegnitz,
     Gross Laeswitz]
 TRD[3, S. 16
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0055H]
 KEY[Q0055H  08 Bb 6/8]

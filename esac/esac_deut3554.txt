@@ -3,7 +3,7 @@ CUT[Vater und Tochter
     Es wollt ein Jaeger jagen,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[7, S. 10
-    1854 aufgezeichnet]
+  1854 aufgezeichnet]
 FKT[]
 SIG[Q0142]
 KEY[Q0142   16  G 2/4]

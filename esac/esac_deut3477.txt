@@ -3,7 +3,7 @@ CUT[Der undankbare Sohn
     Ein altes Sprichwort wirdt gemeldt:]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 334
-    1893  gedruckt in Guetersloh (16. Jh.)]
+  1893 gedruckt in Guetersloh (16. Jh.)]
 FKT[]
 SIG[Q0123]
 KEY[Q0123   08  G FREI]

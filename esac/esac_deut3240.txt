@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es fuhr ein Bauer ueber den Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg]
 TRD[3, S. 262
-    ????]
+  ????]
 FKT[]
 SIG[Q0068R]
 KEY[Q0068R  16  C FREI]

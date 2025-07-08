@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es wollte ein Kuechenjung ueber den Rhein,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Genthin]
 TRD[3, S. 258
-    1847 aufgezeichnet]
+  1847 aufgezeichnet]
 FKT[]
 SIG[Q0068H]
 KEY[Q0068H  04  G 3/4]

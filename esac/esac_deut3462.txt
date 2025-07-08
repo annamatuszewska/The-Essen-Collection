@@ -3,7 +3,7 @@ CUT[Die beiden Waisenkinder
     Es waren zwei Koenigskinder,]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[5, S. 310
-    ????]
+  ????]
 FKT[]
 SIG[Q1118A]
 KEY[Q1118A  08  G 6/8]

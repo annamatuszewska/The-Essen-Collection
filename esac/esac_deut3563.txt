@@ -3,7 +3,7 @@ CUT[Winterrosen
     O Strassburg, o Strassburg,]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 61
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q1145F]
 KEY[Q1145F  08  G 2/4]

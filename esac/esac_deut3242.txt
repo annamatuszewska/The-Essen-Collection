@@ -3,7 +3,7 @@ CUT[Bai Raedder
     E baai hi traeaed e redr uun e daans]
 REG[Mitteleuropa, Deutschland (BRD) , Nordsee, Foehr]
 TRD[3, S. 281
-    ????]
+  ????]
 FKT[]
 SIG[Q1071B]
 KEY[Q1071B  08  A FREI]

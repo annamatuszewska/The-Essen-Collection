@@ -3,7 +3,7 @@ CUT[Die Schlangenkoechin
     'Wu warschte daenn wol naechta,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Sudetenschlesien]
 TRD[4, S. 210
-    1865 gedruckt in Troppau]
+  1865 gedruckt in Troppau]
 FKT[]
 SIG[Q0079N]
 KEY[Q0079N  16  G 2/4]

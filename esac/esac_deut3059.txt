@@ -3,7 +3,7 @@ CUT[Herr und Schildknecht
     Watt fand sik an dem Wege stahn?]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen, Soester Gegend]
 TRD[2, S. 14
-    1856 aufgezeichnet]
+  1856 aufgezeichnet]
 FKT[]
 SIG[Q0034]
 KEY[Q0034   16  D 2/4 3/4]

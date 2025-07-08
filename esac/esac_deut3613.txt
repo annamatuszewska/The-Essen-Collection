@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich steh auf einem hohen Berg]
 REG[Mitteleuropa, Deutschland]
 TRD[8, S. 23
-    1782 gedruckt]
+  1782 gedruckt]
 FKT[]
 SIG[Q0155]
 KEY[Q0155   08  C 6/8]

@@ -3,7 +3,7 @@ CUT[Der Gluecksjaeger
     Es ritt ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kapsdorf]
 TRD[6, S. 191
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0134A]
 KEY[Q0134A  16  G 6/8]

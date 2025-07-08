@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     'Nun adje, Schatz, und ich muss fort,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 86
-    ????]
+  ????]
 FKT[]
 SIG[Q0056P]
 KEY[Q0056P  04  G 6/4]

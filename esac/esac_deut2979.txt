@@ -3,7 +3,7 @@ CUT[Der verkleidete Markgrafensohn
     Es war eins jungen Markgrafen Sohn,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grabig]
 TRD[1, S. 51
-    1841 aufgezeichnet (entstanden nach 1750 ?)]
+  1841 aufgezeichnet (entstanden nach 1750 ?)]
 FKT[]
 SIG[Q0006A]
 KEY[Q0006A  16  C 2/4]

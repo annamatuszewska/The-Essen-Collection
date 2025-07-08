@@ -3,7 +3,7 @@ CUT[Der Hammerschmiedssohn
     Susanna sprang zum Thor hinaus,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
 TRD[4, S. 351
-    1864 gedruckt]
+  1864 gedruckt]
 FKT[]
 SIG[Q0088]
 KEY[Q0088   08 Eb 4/4]

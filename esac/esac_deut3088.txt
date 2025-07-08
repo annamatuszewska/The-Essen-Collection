@@ -3,7 +3,7 @@ CUT[Der betruegerische Freier
     Stolz Heinrich der wollt' freien gehn]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
 TRD[2, S. 115
-    1893 gedruckt in Leipzig (frueher aufgezeichnet)]
+  1893 gedruckt in Leipzig (frueher aufgezeichnet)]
 FKT[]
 SIG[Q0042]
 KEY[Q0042   16  A 2/4]

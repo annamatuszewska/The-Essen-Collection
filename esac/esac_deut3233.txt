@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es warn einmal zwei Koenigskinder,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Neumark, Fuerstenfelde]
 TRD[3, S. 258
-    1861 aufgezeichnet]
+  1861 aufgezeichnet]
 FKT[]
 SIG[Q0068I]
 KEY[Q0068I  08  G 3/4]

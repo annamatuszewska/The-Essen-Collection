@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es ging sen ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Hainau, Conradsdorf]
 TRD[7, S. 183
-    1829 aufgezeichnet]
+  1829 aufgezeichnet]
 FKT[]
 SIG[Q0152]
 KEY[Q0152   16  G 3/8]

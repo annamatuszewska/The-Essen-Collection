@@ -3,7 +3,7 @@ CUT[Schoen Adelheid
     Es war einmal ein Kuepper gut,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Muelheim Rh., Paffrath]
 TRD[4, S. 55
-    1838 aufgezeichnet (vor)]
+  1838 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0074]
 KEY[Q0074   16  A 3/8]

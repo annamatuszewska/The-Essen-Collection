@@ -3,7 +3,7 @@ CUT[Koenig und Marquise
     Es giengen drey Frawen,]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 30
-    1586 gedruckt in Muenchen]
+  1586 gedruckt in Muenchen]
 FKT[]
 SIG[Q1035A]
 KEY[Q1035A  16  E 6/8]

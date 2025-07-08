@@ -3,7 +3,7 @@ CUT[Herzog Ernst
     Die Schrifft die gibt uns weis und Lehr,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 86
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q0010A]
 KEY[Q0010A  04  E FREI]

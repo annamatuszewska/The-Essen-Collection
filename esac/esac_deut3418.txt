@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Husaren kommen aus dem Krieg, hurrah!]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[5, S. 160
-    ????]
+  ????]
 FKT[]
 SIG[Q0103J]
 KEY[Q0103J  08  G 6/4]

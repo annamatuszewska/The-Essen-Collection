@@ -1,0 +1,24 @@
+ZUCCAL
+CUT['S HAT EIN BAUR EIN SCHOENES WEIB]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0128]
+KEY[Z0128   08  B 4/4]
+MEL[7b7b7b7b+1+2+3b_  7b7b7b6b56b7b_
+    +17b6b54_5_  445_445_
+    +1+2+3+1+2_+1_ //]
+BEM[]
+MEL_SEM[0 0 0 2 2 1 -5 0 0 -2 -1 1 2 2 -2 -2 -1 -2 2 -2 0 2 -2 0 2 5 2 2 -4 2 -2]
+MEL_RAW[7b7b7b7b+1+2+3b  7b7b7b6b56b7b
+    +17b6b545  445445
+    +1+2+3+1+2+1]
+NO_REP[7b+1+2+3b7b6b56b7b
+    +17b6b5454545
+    +1+2+3+1+2+1]
+RTM[xxxxxxx_  xxxxxxx_
+    xxxxx_x_  xxx_xxx_
+    xxxxx_x_]
+SCL_DEG[456b7b+1+2+3b+3]
+SCL_SEM[2 1 2 2 2 1 1]
+

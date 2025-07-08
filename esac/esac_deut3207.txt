@@ -3,7 +3,7 @@ CUT[Totenamt
     Es taget minnecliche]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 162
-    1421 Handschrift aus Strassburg]
+  1421 Handschrift aus Strassburg]
 FKT[]
 SIG[Q0061B]
 KEY[Q0061B  04  G FREI]

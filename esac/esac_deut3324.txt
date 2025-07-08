@@ -3,7 +3,7 @@ CUT[Die Schlangenkoechin
     'Wo bist du denn mit der Kunkel gewesen,]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass]
 TRD[4, S. 212
-    1933 gedruckt in Heidelberg]
+  1933 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0079V]
 KEY[Q0079V  08  G 3/4]

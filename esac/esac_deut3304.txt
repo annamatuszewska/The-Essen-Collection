@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     ohne Text]
 REG[Mitteleuropa, Deutschland / Polen, Pommern]
 TRD[4, S. 118
-    ????]
+  ????]
 FKT[]
 SIG[Q0075t]
 KEY[Q0075t  16  F 3/4]

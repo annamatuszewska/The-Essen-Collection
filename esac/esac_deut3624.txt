@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohem Berge]
 REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Muenster]
 TRD[8, S. 60
-    ???? aufgezeichnet]
+  ???? aufgezeichnet]
 FKT[]
 SIG[Q0155N]
 KEY[Q0155N  08  G 3/4]

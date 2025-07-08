@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     Ein Juengling wollt' zum Kampfe gehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Wuppertal, Beyenburg]
 TRD[3, S. 70
-    ????]
+  ????]
 FKT[]
 SIG[Q0056C]
 KEY[Q0056C  08 Eb 3/4]

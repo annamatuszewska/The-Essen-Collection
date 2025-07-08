@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohem Berge,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Giessen, Crumbach]
 TRD[8, S. 67
-    1921 aufgezeichnet]
+  1921 aufgezeichnet]
 FKT[]
 SIG[Q0155R]
 KEY[Q0155R  16  G 6/8]

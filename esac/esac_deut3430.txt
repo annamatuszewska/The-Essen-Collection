@@ -3,7 +3,7 @@ CUT[Die Geburt im Grabe
     Nun Last uns wunder Hoeren,]
 REG[Mitteleuropa, Deutschland (Text: Pommern)]
 TRD[5, S. 217
-    1647 gedruckt]
+  1647 gedruckt]
 FKT[]
 SIG[Q0109]
 KEY[Q0109   04  F FREI]

@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Wenn alle Waesserlein fliessen,]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 106
-    ????]
+  ????]
 FKT[]
 SIG[Q1147N]
 KEY[Q1147N  08  G 4/4]

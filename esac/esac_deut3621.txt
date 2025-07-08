@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohem Berge]
 REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Attendorn]
 TRD[8, S. 48
-    1908 aufgezeichnet]
+  1908 aufgezeichnet]
 FKT[]
 SIG[Q0155I]
 KEY[Q0155I  08  F 4/4]

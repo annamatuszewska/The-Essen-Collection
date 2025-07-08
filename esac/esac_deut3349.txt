@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es war einmal ein Gastwirtssohn,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Kurhessen]
 TRD[4, S. 310
-    ????]
+  ????]
 FKT[]
 SIG[Q0085a]
 KEY[Q0085a  08  G 3/4 2/4]

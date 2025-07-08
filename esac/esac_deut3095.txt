@@ -3,7 +3,7 @@ CUT[Die Bluthochzeit
     Es fuhr ein Pfalzgraf ueber den Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Siebengebirge]
 TRD[2, S. 157
-    1860 aufgezeichnet]
+  1860 aufgezeichnet]
 FKT[]
 SIG[Q0046]
 KEY[Q0046   16  G 4/4]

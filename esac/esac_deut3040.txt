@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Ich weiss ein ewiges Himmelreich.]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 272
-    1692 gedruckt in Stuttgart]
+  1692 gedruckt in Stuttgart]
 FKT[]
 SIG[Q0024G]
 KEY[Q0024G  08  F 6/4]

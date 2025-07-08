@@ -3,7 +3,7 @@ CUT[Die schoene Magdalena
     Es hat sich eines Bauers schoenes Toechterlein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[6, S. 64
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0125A]
 KEY[Q0125A  16  G 6/8]

@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Ich waiss ein schoens Lustgaertelein,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 272
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q1024F]
 KEY[Q1024F  08  D FREI]

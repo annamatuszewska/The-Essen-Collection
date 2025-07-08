@@ -3,7 +3,7 @@ CUT[Graf von Rom
     Gott hat den mensch fur allen]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[1, S. 144
-    1555 gedruckt in Breslau]
+  1555 gedruckt in Breslau]
 FKT[]
 SIG[Q0014C]
 KEY[Q0014C  04  F FREI]

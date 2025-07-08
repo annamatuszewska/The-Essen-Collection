@@ -3,7 +3,7 @@ CUT[Die Geburt im Walde
     Es war ein Maedchen von Farbe so bleich,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Siebengebirge]
 TRD[1, S. 62
-    1860 aufgezeichnet]
+  1860 aufgezeichnet]
 FKT[]
 SIG[Q0007]
 KEY[Q0007   08  E 3/4]

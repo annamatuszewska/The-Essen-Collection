@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es war ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[3, S. 102
-    1894 gedruckt in Berlin]
+  1894 gedruckt in Berlin]
 FKT[]
 SIG[Q0057S]
 KEY[Q0057S  16  G 3/4]

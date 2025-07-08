@@ -3,7 +3,7 @@ CUT[Der Muskatbaum
     Spewal jo spewal sylojik]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz; sorbisch]
 TRD[6, S. 147
-    1883 gedruckt]
+  1883 gedruckt]
 FKT[]
 SIG[Q2130C]
 KEY[Q2130C  04  G 3/4]

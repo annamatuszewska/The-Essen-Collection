@@ -3,7 +3,7 @@ CUT[Vriesken
     De Velden stonden groen en daertoe breydt,]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[2, S. 3
-    1540 gedruckt in Antwerpen]
+  1540 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0032]
 KEY[Q0032   08  D FREI]

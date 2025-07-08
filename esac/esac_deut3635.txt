@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Es welken alle Blaetter,]
 REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hildesheim, Mehle]
 TRD[8, S. 98
-    1945 aufgezeichnet]
+  1945 aufgezeichnet]
 FKT[]
 SIG[Q0155l]
 KEY[Q0155l  08  G 4/4]

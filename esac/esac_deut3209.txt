@@ -3,7 +3,7 @@ CUT[Der Spielmannssohn
     Als ich ein kleines Buewelein war,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Rechicourt]
 TRD[3, S. 167
-    1937 aufgezeichnet]
+  1937 aufgezeichnet]
 FKT[]
 SIG[Q0062]
 KEY[Q0062   16  F 6/4]

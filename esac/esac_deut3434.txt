@@ -3,7 +3,7 @@ CUT[Richmudis von Adocht
     Hoert, Christenleut', jetzt ein neues Lied,]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 237
-    1856 aufgezeichnet (?)]
+  1856 aufgezeichnet (?)]
 FKT[]
 SIG[Q0112]
 KEY[Q0112   16  G 3/8]

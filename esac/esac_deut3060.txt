@@ -3,7 +3,7 @@ CUT[Herr und Schildknecht
     Es ritt ein Herr und auch sein Knecht,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Konradsdorf]
 TRD[2, S. 16
-    1839 aufgezeichnet]
+  1839 aufgezeichnet]
 FKT[]
 SIG[Q0034A]
 KEY[Q0034A  16  G 2/4]

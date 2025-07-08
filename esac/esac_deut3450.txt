@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     ohne Text]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 270
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0114U]
 KEY[Q0114U  08  G FREI]

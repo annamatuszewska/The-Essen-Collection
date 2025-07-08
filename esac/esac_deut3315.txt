@@ -3,7 +3,7 @@ CUT[Die Schlangenkoechin
     'Wo bist du denn gewesen,]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 192
-    1922 gedruckt in Leipzig und Berlin]
+  1922 gedruckt in Leipzig und Berlin]
 FKT[]
 SIG[Q0079B]
 KEY[Q0079B  16  G 2/4]

@@ -3,7 +3,7 @@ CUT[Sangeslohn
     O Christe Morgensterne,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 60
-    1586 gedruckt]
+  1586 gedruckt]
 FKT[]
 SIG[Q0124B]
 KEY[Q0124B  08  F 6/4]

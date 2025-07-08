@@ -3,7 +3,7 @@ CUT[Das Bauerntoechterlein
     Es hat ein Bauer ein Toechterlein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 266
-    ????]
+  ????]
 FKT[]
 SIG[Q0051G]
 KEY[Q0051G  08  G 6/8]

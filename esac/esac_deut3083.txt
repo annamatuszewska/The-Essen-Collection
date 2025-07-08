@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es ritten drei Reiter wohl ueber den Rhein]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[2, S. 112
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0041W]
 KEY[Q0041W  16  G 6/8]

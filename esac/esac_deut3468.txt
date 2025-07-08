@@ -3,7 +3,7 @@ CUT[Das boese Stiefmuetterlein
     Es ging ein treuverliebtes Paar]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen]
 TRD[5, S. 313
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q1119A]
 KEY[Q1119A  08  G 3/4]

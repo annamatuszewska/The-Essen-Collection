@@ -3,7 +3,7 @@ CUT[Die verkaufte Muellerin
     Es wollt ein Mueller frueh aufstehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[4, S. 344
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0086R]
 KEY[Q0086R  16  G 3/4]

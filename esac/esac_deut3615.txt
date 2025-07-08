@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohem Berge,]
 REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Meurs]
 TRD[8, S. 32
-    1838 aufgezeichnet]
+  1838 aufgezeichnet]
 FKT[]
 SIG[Q0155C]
 KEY[Q0155C  32  F 2/4]

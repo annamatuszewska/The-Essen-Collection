@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Es blies ein Jaeger wohl in sein Horn, wohl in sein Horn,]
 REG[Mitteleuropa, Deutschland (DDR) , Pommern, Stralsund]
 TRD[6, S. 164
-    1930 aufgezeichnet]
+  1930 aufgezeichnet]
 FKT[]
 SIG[Q0133B]
 KEY[Q0133B  08  G 4/4]

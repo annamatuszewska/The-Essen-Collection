@@ -3,7 +3,7 @@ CUT[Der Abendgang
     Der tag der ist vergangen]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 321
-    1586 gedruckt in Strassburg]
+  1586 gedruckt in Strassburg]
 FKT[]
 SIG[Q0019C]
 KEY[Q0019C  08  G FREI]

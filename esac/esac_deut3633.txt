@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Stand ich auf hohe Berge,]
 REG[Mitteleuropa, Deutschland (BRD) , Franken, Haselbach v.d. Rhoen]
 TRD[8, S. 84
-    1935 aufgezeichnet]
+  1935 aufgezeichnet]
 FKT[]
 SIG[Q0155b]
 KEY[Q0155b  08  F 3/4]

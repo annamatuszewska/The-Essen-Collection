@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Et quam sick es Heerken ut Dania,]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[2, S. 281
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0053B]
 KEY[Q0053B  08  F 3/4]

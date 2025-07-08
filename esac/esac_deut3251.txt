@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Ohne Text]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz, Wenden]
 TRD[4, S. 32
-    1881 gedruckt]
+  1881 gedruckt]
 FKT[]
 SIG[Q2072J]
 KEY[Q2072J  16  G 6/8]

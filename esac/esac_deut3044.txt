@@ -2,8 +2,8 @@ BALLADEN
 CUT[Schloss in Oesterreich
     Das ganze Dorf versammelt sich]
 REG[Mitteleuropa, Deutschland]
-TRD[1, S. 274  Komponist: J.M. Miller
-    1799 gedruckt, 1772 komponiert]
+TRD[1, S. 274 Komponist: J.M. Miller
+  1799 gedruckt, 1772 komponiert]
 FKT[]
 SIG[Q1024L]
 KEY[Q1024L  08  D 3/4]

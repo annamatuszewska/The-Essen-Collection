@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es ritt ein Reiter wohlgemut,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[3, S. 99
-    ????]
+  ????]
 FKT[]
 SIG[Q0057G]
 KEY[Q0057G  16  G 6/8]

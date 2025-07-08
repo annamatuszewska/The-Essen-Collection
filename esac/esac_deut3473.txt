@@ -4,7 +4,7 @@ CUT[Das Traenenkrueglein
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Kr. Glogau, Biegnitz
     und Kr. Goldberg - Haynau, Konradsdorf]
 TRD[5, S. 329
-    1845 aufgezeichnet]
+  1845 aufgezeichnet]
 FKT[]
 SIG[Q0122A]
 KEY[Q0122A  16  G 3/4]

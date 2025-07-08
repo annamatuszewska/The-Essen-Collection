@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt' ein Pfalzgraf wohl an dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Kr. Balingen, Eyach]
 TRD[4, S. 69
-    1925 aufgezeichnet]
+  1925 aufgezeichnet]
 FKT[]
 SIG[Q0075A]
 KEY[Q0075A  16  C 3/4]

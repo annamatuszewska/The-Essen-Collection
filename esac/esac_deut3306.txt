@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es war einmal ein Maegdelein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz]
 TRD[4, S. 118
-    ????]
+  ????]
 FKT[]
 SIG[Q0075v]
 KEY[Q0075v  08  F 4/4]

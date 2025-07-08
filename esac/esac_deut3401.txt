@@ -3,7 +3,7 @@ CUT[Maedchen als Stallknecht
     Hier treten wir her mit unserm Stern,]
 REG[Mitteleuropa, Deutschland (BRD) , Schleswig]
 TRD[5, S. 127
-    1897 gedruckt in Leipzig]
+  1897 gedruckt in Leipzig]
 FKT[]
 SIG[Q1100J]
 KEY[Q1100J  08  G 3/4]

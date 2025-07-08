@@ -4,7 +4,7 @@ CUT[Verschlafener Jaeger
 REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Solingen,
     Schlebusch]
 TRD[7, S. 215
-    ????]
+  ????]
 FKT[]
 SIG[Q0152I]
 KEY[Q0152I  16  G 6/8]

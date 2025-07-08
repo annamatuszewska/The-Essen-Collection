@@ -3,7 +3,7 @@ CUT[Herzog Ernst
     Ez was ein herre erenrich,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[1, S. 85
-    1555 gedruckt in Breslau]
+  1555 gedruckt in Breslau]
 FKT[]
 SIG[Q0010]
 KEY[Q0010   08  E FREI]

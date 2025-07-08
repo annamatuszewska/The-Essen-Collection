@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreite]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 21
-    ????]
+  ????]
 FKT[]
 SIG[Q0089M]
 KEY[Q0089M  08  G 4/4]

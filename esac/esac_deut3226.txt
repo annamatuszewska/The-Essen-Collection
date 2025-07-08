@@ -3,7 +3,7 @@ CUT[Koenig von Mailand
     Als ich ein kleines Maedchen war,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 234
-    1928 gedruckt in Heidelberg]
+  1928 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0041c]
 KEY[Q0041c  08  D FREI]

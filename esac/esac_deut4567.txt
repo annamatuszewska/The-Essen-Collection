@@ -1,0 +1,36 @@
+ZUCCAL
+CUT[PRINZ EUGEN DER EDLE RITTER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0066]
+KEY[Z0066   08  A 5/4]
+MEL[-5-51112330_
+    123_5_5443
+    2123432_5_
+    543_5_5443
+    212_4_4332
+    1-51_3_443_ //]
+BEM[]
+MEL_SEM[0 5 0 0 2 2 0 -4 2 2 3 0 -2 0 -1 -2 -2 2 2 1 -1 -2 5 0 -2 -1 3 0 -2 0 -1 -2 -2 2 3 0 -1 0 -2 -2 -5 5 4 1 0 -1]
+MEL_RAW[-5-51112330
+    12355443
+    21234325
+    54355443
+    21244332
+    1-513443]
+NO_REP[-51230
+    123543
+    21234325
+    543543
+    212432
+    1-51343]
+RTM[xxxxxxxxx_
+    xxx_x_xxxx
+    xxxxxxx_x_
+    xxx_x_xxxx
+    xxx_x_xxxx
+    xxx_x_xxx_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

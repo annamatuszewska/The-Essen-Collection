@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Graf Friedrich wollt' ausreiten]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[2, S. 202
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0048D]
 KEY[Q0048D  08 Bb 4/4]

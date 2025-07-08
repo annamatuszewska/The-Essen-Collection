@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt' ein Fuerst mit einer Dam',]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen - Nassau]
 TRD[3, S. 51
-    1928 gedruckt in Bad Ems]
+  1928 gedruckt in Bad Ems]
 FKT[]
 SIG[Q0055L]
 KEY[Q0055L  08  G 4/4]

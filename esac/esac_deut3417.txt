@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Es kehrt ein Soldat vom Krieg zurueck, hurra!]
 REG[Mitteleuropa, Deutschland (BRD) , Baden]
 TRD[5, S. 160
-    ????]
+  ????]
 FKT[]
 SIG[Q0103I]
 KEY[Q0103I  16  G 4/4]

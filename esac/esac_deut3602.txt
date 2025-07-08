@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es wollt ein Jaeger jagen]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 215
-    1856 gedruckt in Berlin]
+  1856 gedruckt in Berlin]
 FKT[]
 SIG[Q0152F]
 KEY[Q0152F  16  G 6/8]

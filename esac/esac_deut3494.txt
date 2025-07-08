@@ -3,7 +3,7 @@ CUT[Das Maedchen und der Faehnrich
     Es wohnt sich ein reicher Metzger mein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[6, S. 107
-    1928 gedruckt in Heidelberg]
+  1928 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0127C]
 KEY[Q0127C  16  G 6/8]

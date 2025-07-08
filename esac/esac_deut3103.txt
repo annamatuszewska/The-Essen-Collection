@@ -3,7 +3,7 @@ CUT[Die Rheinbraut
     Es freit' ein edler Reicher,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[2, S. 186
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0047G]
 KEY[Q0047G  16  G 6/8]

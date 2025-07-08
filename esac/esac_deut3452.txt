@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Es fahrt ein Hirt den Wald hinein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 272
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0114c]
 KEY[Q0114c  08  G FREI]

@@ -3,7 +3,7 @@ CUT[Herr von Falkenstein
     Ick sach mijn heere van valckensteyn]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[1, S. 223
-    1539 gedruckt in Antwerpen]
+  1539 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0021]
 KEY[Q0021   08  D FREI]

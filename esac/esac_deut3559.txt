@@ -3,7 +3,7 @@ CUT[Winterrosen
     Ein Maedchen wollte Wasser hol'n]
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Stettin, Sandfoerde]
 TRD[7, S. 46
-    1930 aufgezeichnet (vor)]
+  1930 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0145A]
 KEY[Q0145A  08 Bb 2/4]

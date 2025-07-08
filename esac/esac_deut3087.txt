@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Hannchen, komm mit mir in Wald,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[2, S. 112
-    1857 aufgezeichnet]
+  1857 aufgezeichnet]
 FKT[]
 SIG[Q0041a]
 KEY[Q0041a  08  G 4/4]

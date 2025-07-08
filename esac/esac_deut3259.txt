@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Barmherziger gerechter Gott]
 REG[Mitteleuropa, Deutschland]
 TRD[4, S. 50
-    1646 Handschrift Kloster Seeon]
+  1646 Handschrift Kloster Seeon]
 FKT[]
 SIG[Q0073D]
 KEY[Q0073D  04  D 2/2 3/2]

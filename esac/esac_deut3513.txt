@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Es blies ein Jaeger wohl in sein Horn, ju he deredere]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt]
 TRD[6, S. 163
-    1957 gedruckt in Berlin]
+  1957 gedruckt in Berlin]
 FKT[]
 SIG[Q0133A]
 KEY[Q0133A  08  G 4/4]

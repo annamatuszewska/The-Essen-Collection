@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Steig' hinauf auf hohe Berge,]
 REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Lauingen]
 TRD[8, S. 65
-    1921 aufgezeichnet]
+  1921 aufgezeichnet]
 FKT[]
 SIG[Q0155Q]
 KEY[Q0155Q  16  C 3/4 6/8 2/4]

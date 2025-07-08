@@ -4,7 +4,7 @@ CUT[Der heimkehrende Soldat
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau,
     Kr. St. Goarshausen, Lierscheid]
 TRD[5, S. 147
-    ????]
+  ????]
 FKT[]
 SIG[Q0103A]
 KEY[Q0103A  04  F 6/4]

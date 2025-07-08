@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Es kam ein betruebter Reiter daher,]
 REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen]
 TRD[4, S. 34
-    1879 gedruckt in Magdeburg]
+  1879 gedruckt in Magdeburg]
 FKT[]
 SIG[Q0072Q]
 KEY[Q0072Q  16  F 4/4]

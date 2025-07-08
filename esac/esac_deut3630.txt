@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohem Berge,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Eder, Kleinern]
 TRD[8, S. 77
-    1931 aufgezeichnet]
+  1931 aufgezeichnet]
 FKT[]
 SIG[Q0155X]
 KEY[Q0155X  16 Eb 3/4]

@@ -3,7 +3,7 @@ CUT[Das Traenenkrueglein
     Meine Freude ist, wenn die Sonn' aufgeht,]
 REG[Mitteleuropa, Deutschland (DDR) , Thueringen, Saaldorf]
 TRD[5, S. 334
-    1906 aufgezeichnet]
+  1906 aufgezeichnet]
 FKT[]
 SIG[Q1122D]
 KEY[Q1122D  16  G 3/4]

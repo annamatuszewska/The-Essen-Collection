@@ -3,7 +3,7 @@ CUT[Der verkleidete Markgrafensohn
     Es freiet ein reicher Kaufmannssohn]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach]
 TRD[1, S. 53
-    1927 aufgezeichnet  (17. Jh. ?)]
+  1927 aufgezeichnet (17. Jh. ?)]
 FKT[]
 SIG[Q0006C]
 KEY[Q0006C  08  G 6/8]

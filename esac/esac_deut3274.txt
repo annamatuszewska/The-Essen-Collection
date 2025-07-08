@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt wohl ein Koenig sich ane dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
 TRD[4, S. 104
-    1840 gedruckt in Berlin]
+  1840 gedruckt in Berlin]
 FKT[]
 SIG[Q0075E]
 KEY[Q0075E  08  F 2/4]

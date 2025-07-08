@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es wollt' ein Herr und seine Frau,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Korkwitz]
 TRD[3, S. 262
-    1844 aufgezeichnet (vor)]
+  1844 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0068Q]
 KEY[Q0068Q  08  G 4/4]

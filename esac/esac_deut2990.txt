@@ -3,7 +3,7 @@ CUT[Die Geburt im Walde
     Es gingen zwei Verliebte durch einen tiefen Wald;]
 REG[Mitteleuropa, Deutschland (BRD) , Pfalz]
 TRD[1, S. 72
-    1909 aufgezeichnet (vor)]
+  1909 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0007H]
 KEY[Q0007H  08  G 3/4]

@@ -3,7 +3,7 @@ CUT[Richmudis von Adocht
     All Augen hoffen auff dich Herr,]
 REG[Mitteleuropa, Deutschland]
 TRD[5, S. 241
-    1602 gedruckt in Graz]
+  1602 gedruckt in Graz]
 FKT[]
 SIG[Q1112C]
 KEY[Q1112C  02  G 3/2]

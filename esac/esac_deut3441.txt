@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Am Dienstag z'Morgen in aller Frueh',]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Hambach]
 TRD[5, S. 252
-    1918 aufgezeichnet]
+  1918 aufgezeichnet]
 FKT[]
 SIG[Q0114B]
 KEY[Q0114B  16  G FREI]

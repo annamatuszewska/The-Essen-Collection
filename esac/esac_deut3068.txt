@@ -3,7 +3,7 @@ CUT[Ritter und Otter
     Es wollt' einmal ein edler Herr ausreiten,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien? , Breslau?]
 TRD[2, S. 34
-    1840 aufgezeichnet (?)]
+  1840 aufgezeichnet (?)]
 FKT[]
 SIG[Q0036]
 KEY[Q0036   08  F 2/4]

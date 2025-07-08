@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Graf Siegfried wollt' ausreiten]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[2, S. 216
-    ????]
+  ????]
 FKT[]
 SIG[Q0048I]
 KEY[Q0048I  08  C 4/4]

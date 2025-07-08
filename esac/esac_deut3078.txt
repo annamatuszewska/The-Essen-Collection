@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Als Odilia ein klein Kind war,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Niederrhein]
 TRD[2, S. 100
-    1840 gedruckt in Berlin]
+  1840 gedruckt in Berlin]
 FKT[]
 SIG[Q0041M]
 KEY[Q0041M  08  A 3/4]

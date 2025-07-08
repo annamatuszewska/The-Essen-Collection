@@ -3,7 +3,7 @@ CUT[Graf Friedrich
     Graf Friedrich wollt' ausreiten]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 215
-    1934 aufgezeichnet]
+  1934 aufgezeichnet]
 FKT[]
 SIG[Q0048G]
 KEY[Q0048G  08  F FREI]

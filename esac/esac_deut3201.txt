@@ -3,7 +3,7 @@ CUT[Der junge Held
     Des Abends in dem Mondensching]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Bergisches Land]
 TRD[3, S. 152
-    ????]
+  ????]
 FKT[]
 SIG[Q0060D]
 KEY[Q0060D  08  D 4/4 3/4]

@@ -3,7 +3,7 @@ CUT[Das Traenenkrueglein
     Ich hab' ja mein Feinsliebchen,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden, Oberschefflenz]
 TRD[5, S. 334
-    1902 gedruckt in Karlsruhe]
+  1902 gedruckt in Karlsruhe]
 FKT[]
 SIG[Q1122C]
 KEY[Q1122C  16  G 3/4 2/4]

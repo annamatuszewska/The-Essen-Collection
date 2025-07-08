@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielte ein Ritter mit einer Madam]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Nassau]
 TRD[3, S. 11
-    1890 aufgezeichnet (um 1880/90)]
+  1890 aufgezeichnet (um 1880/90)]
 FKT[]
 SIG[Q0055C]
 KEY[Q0055C  08  F 6/8]

@@ -4,7 +4,7 @@ CUT[Verschlafener Jaeger
 REG[Mitteleuropa, Deutschland (BRD) , Nordrhein - Westfalen, Gummersbach,
     Berghausen]
 TRD[7, S. 217
-    1933 aufgezeichnet (vor)]
+  1933 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0152L]
 KEY[Q0152L  08  C 6/8]

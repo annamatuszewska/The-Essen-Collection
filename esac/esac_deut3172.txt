@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     Als wie die Sonn' am Himmel glaenzt]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[3, S. 80
-    18?? gedruckt (Fliegendes Blatt) in Saargemuend (Mitte d. 19. Jh.)]
+  18?? gedruckt (Fliegendes Blatt) in Saargemuend (Mitte d. 19. Jh.)]
 FKT[]
 SIG[Q1056F]
 KEY[Q1056F  16  G 3/4]

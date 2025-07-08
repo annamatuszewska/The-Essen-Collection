@@ -3,7 +3,7 @@ CUT[Gerstebinden
     Da kam bruder Hanigken,]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 203
-    1544 gedruckt in Nuernberg; Satz: Wolfgang Schmeltzl]
+  1544 gedruckt in Nuernberg; Satz: Wolfgang Schmeltzl]
 FKT[]
 SIG[Q0135A]
 KEY[Q0135A  04  G 4/2]

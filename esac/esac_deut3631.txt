@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Es welken alle Blaetter, ja Blaetter,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Fulda, Neuhof]
 TRD[8, S. 81
-    1934 aufgezeichnet]
+  1934 aufgezeichnet]
 FKT[]
 SIG[Q0155Z]
 KEY[Q0155Z  16  G 6/8]

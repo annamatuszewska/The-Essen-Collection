@@ -3,7 +3,7 @@ CUT[Der Gluecksjaeger
     Es blost ein Jaeger wohl in sein Horn,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden, Horben]
 TRD[6, S. 194
-    1848 aufgezeichnet]
+  1848 aufgezeichnet]
 FKT[]
 SIG[Q0134D]
 KEY[Q0134D  16  C 4/4]

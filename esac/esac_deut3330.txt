@@ -3,7 +3,7 @@ CUT[Die Mordeltern
     Es waren einst zwei Kaufmannssoehn',]
 REG[Mitteleuropa, Deutschland (BRD) , Nordbayern, Franken, Eibelstadt]
 TRD[4, S. 261
-    1855 gedruckt in Leipzig]
+  1855 gedruckt in Leipzig]
 FKT[]
 SIG[Q0085A]
 KEY[Q0085A  16  F 3/4]

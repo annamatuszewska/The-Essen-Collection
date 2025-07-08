@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es war ein Markgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland / Polen, Pommern]
 TRD[4, S. 116
-    ????]
+  ????]
 FKT[]
 SIG[Q0075o]
 KEY[Q0075o  16  F 3/4]

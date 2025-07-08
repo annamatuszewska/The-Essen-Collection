@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es war ein Markgraf an dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Niedersachsen, Hannover]
 TRD[4, S. 116
-    1912 gedruckt in Hannover]
+  1912 gedruckt in Hannover]
 FKT[]
 SIG[Q0075q]
 KEY[Q0075q  08  F 4/4]

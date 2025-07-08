@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     In Ostirreich da ligt ein Schloss,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 274
-    1603 Handschrift (ca.)]
+  1603 Handschrift (ca.)]
 FKT[]
 SIG[Q0024K]
 KEY[Q0024K  08  G FREI]

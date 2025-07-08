@@ -3,7 +3,7 @@ CUT[Die Rheinbraut
     Es war ein Wassermann,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Neisse, Waltdorf]
 TRD[2, S. 188
-    1844 aufgezeichnet]
+  1844 aufgezeichnet]
 FKT[]
 SIG[Q0041P]
 KEY[Q0041P  16  D 2/4]

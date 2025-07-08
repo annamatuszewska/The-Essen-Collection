@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Ein Maedchen wollte frueh aufstehn,]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 104
-    1918 aufgezeichnet (vor)]
+  1918 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0147J]
 KEY[Q0147J  08  G 4/4]

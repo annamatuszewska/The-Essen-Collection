@@ -3,7 +3,7 @@ CUT[Die Geburt im Walde
     Es gingen zwei Verliebte durch einen gruenen Wald;]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen]
 TRD[1, S. 72
-    18?? aufgezeichnet (zweite Haelfte d. Jh.)]
+  18?? aufgezeichnet (zweite Haelfte d. Jh.)]
 FKT[]
 SIG[Q0007F]
 KEY[Q0007F  08  G 3/4]

@@ -3,7 +3,7 @@ CUT[Das Maedchen und der Faehnrich
     Es wohnte ein reiches Schlaechterlein]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Neustadt - Eberswalde]
 TRD[6, S. 107
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0127E]
 KEY[Q0127E  08  G 4/4]

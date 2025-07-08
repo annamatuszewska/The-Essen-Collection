@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es ritt ein Reiter wohl durch das Ried,]
 REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg]
 TRD[2, S. 112
-    1855 aufgezeichnet (vor)]
+  1855 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0041V]
 KEY[Q0041V  08  G 6/8]

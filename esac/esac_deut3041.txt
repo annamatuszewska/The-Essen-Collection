@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Es liegt ein Schloss in Oesterreich]
 REG[Mitteleuropa, Deutschland (DDR) , Niederlausitz]
 TRD[1, S. 272
-    1812 gedruckt]
+  1812 gedruckt]
 FKT[]
 SIG[Q0024I]
 KEY[Q0024I  08  D 4/4]

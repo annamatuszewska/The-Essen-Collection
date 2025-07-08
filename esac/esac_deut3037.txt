@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Ach junckfraw wolt jr mit mir gan?]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 271
-    1549 gedruckt in Nuernberg]
+  1549 gedruckt in Nuernberg]
 FKT[]
 SIG[Q1024D]
 KEY[Q1024D  08  F FREI]

@@ -3,7 +3,7 @@ CUT[Der schwatzhafte Junggeselle
     Es sassen drei Junggesellchen]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Niederschlesien, Wohlau]
 TRD[6, S. 271
-    1840 aufgezeichnet]
+  1840 aufgezeichnet]
 FKT[]
 SIG[Q0139B]
 KEY[Q0139B  08  G 2/4]

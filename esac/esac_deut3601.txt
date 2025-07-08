@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es wollt gut Jaeger jagen]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 215
-    1611 gedruckt in Coburg; Satz M. Franck]
+  1611 gedruckt in Coburg; Satz M. Franck]
 FKT[]
 SIG[Q0152E]
 KEY[Q0152E  08  G 6/4]

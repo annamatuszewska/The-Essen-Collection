@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Uns ist gborn ein Kindelein]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 298
-    1609 gedruckt in Wolfenbuettel]
+  1609 gedruckt in Wolfenbuettel]
 FKT[]
 SIG[Q1053N]
 KEY[Q1053N  04  F 6/4]

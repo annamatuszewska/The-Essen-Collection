@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Es ging ein Jaeger zu jagen]
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Guetzlaffshagen]
 TRD[7, S. 186
-    1880 aufgezeichnet (ca.)]
+  1880 aufgezeichnet (ca.)]
 FKT[]
 SIG[Q0152B]
 KEY[Q0152B  08 Bb 6/8]

@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es ritt ein Ritter wohl ueber ein Rain,]
 REG[Mitteleuropa, Deutschland / Tschechoslowakei, Boehmen]
 TRD[2, S. 112
-    1914 aufgezeichnet]
+  1914 aufgezeichnet]
 FKT[]
 SIG[Q0041T]
 KEY[Q0041T  16  G 6/8]

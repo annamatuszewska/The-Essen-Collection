@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es war sich ein Pfalzgrafen an dem Rhein.]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[4, S. 104
-    1939 gedruckt in Kassel]
+  1939 gedruckt in Kassel]
 FKT[]
 SIG[Q0075H]
 KEY[Q0075H  08  F 4/4]

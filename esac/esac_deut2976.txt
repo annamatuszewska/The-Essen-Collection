@@ -3,7 +3,7 @@ CUT[Das juengere Hildebrandslied
     'Ich wil zu Land ausreiten',]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 1
-    1545 gedruckt in Wittenberg]
+  1545 gedruckt in Wittenberg]
 FKT[]
 SIG[Q0001]
 KEY[Q0001   08  G FREI]

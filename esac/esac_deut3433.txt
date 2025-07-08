@@ -3,7 +3,7 @@ CUT[Die Geburt im Grabe
     ohne Text]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[5, S. 224
-    ????]
+  ????]
 FKT[]
 SIG[Q0109C]
 KEY[Q0109C  08  G 4/4]

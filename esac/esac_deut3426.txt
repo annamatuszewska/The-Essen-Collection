@@ -3,7 +3,7 @@ CUT[Jerman Weizers Frau
     HOeret zu, jhr lieben Christenleuth,]
 REG[Mitteleuropa, Deutschland (Text: Bayern, Nuernberg)]
 TRD[5, S. 208
-    1646 Handschrift Kloster Seeon (ca.)]
+  1646 Handschrift Kloster Seeon (ca.)]
 FKT[]
 SIG[Q0108]
 KEY[Q0108   02  G 3/2]

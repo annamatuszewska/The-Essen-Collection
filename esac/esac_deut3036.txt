@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Es liegt ein Schloss in Oesterreich,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Gruenberg, Drentkau]
 TRD[1, S. 254
-    1847 aufgezeichnet]
+  1847 aufgezeichnet]
 FKT[]
 SIG[Q0024C]
 KEY[Q0024C  08  F 6/8]

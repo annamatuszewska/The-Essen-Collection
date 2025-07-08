@@ -3,7 +3,7 @@ CUT[Die beiden Waisenkinder
     Es gingen zwei Waisenkinder]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland]
 TRD[5, S. 310
-    1924 gedruckt in Moenchengladbach]
+  1924 gedruckt in Moenchengladbach]
 FKT[]
 SIG[Q0118D]
 KEY[Q0118D  16  G 6/8]

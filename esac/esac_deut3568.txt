@@ -3,7 +3,7 @@ CUT[Winterrosen
     Es wollt' ein Maedchen Wasser hol'n]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Altlandsberg]
 TRD[7, S. 63
-    1842 aufgezeichnet]
+  1842 aufgezeichnet]
 FKT[]
 SIG[Q0145K]
 KEY[Q0145K  16  G 2/4]

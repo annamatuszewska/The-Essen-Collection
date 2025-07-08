@@ -3,7 +3,7 @@ CUT[Die schoene Magdalena
     An einem Montag morgen]
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Stettin und Kolberg]
 TRD[6, S. 74
-    1843 aufgezeichnet]
+  1843 aufgezeichnet]
 FKT[]
 SIG[Q0125F]
 KEY[Q0125F  16  G 6/8]

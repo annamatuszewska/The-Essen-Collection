@@ -3,7 +3,7 @@ CUT[Reiter und Hirtenmaedchen
     Es huet' ein Maedchen die Laemmelein im Holze,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Blattersleben]
 TRD[7, S. 109
-    1910 aufgezeichnet]
+  1910 aufgezeichnet]
 FKT[]
 SIG[Q0148]
 KEY[Q0148   16  G 4/4 6/8]

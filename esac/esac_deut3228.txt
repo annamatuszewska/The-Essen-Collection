@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es schwang sich ein Kuechenjung ueber den Rhein,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen, Kr. Wolmirstedt, Samswegen]
 TRD[3, S. 240
-    1879 gedruckt in Magdeburg]
+  1879 gedruckt in Magdeburg]
 FKT[]
 SIG[Q0068]
 KEY[Q0068   16  D 6/8]

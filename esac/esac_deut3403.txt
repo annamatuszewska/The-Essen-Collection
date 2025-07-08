@@ -3,7 +3,7 @@ CUT[Der heimkehrende Braeutigam
     Es wollt' sich ein Juengling erwerben,]
 REG[Mitteleuropa, Deutschland / Frankreich, Elsass, Puberg]
 TRD[5, S. 140
-    1820 aufgezeichnet (vor)]
+  1820 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0102]
 KEY[Q0102   16 Bb 6/8]

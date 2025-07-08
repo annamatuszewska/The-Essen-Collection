@@ -3,7 +3,7 @@ CUT[Der Muskatbaum
     In Oesterriek do staat eenen Boom,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Niederrhein]
 TRD[6, S. 141
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q0130]
 KEY[Q0130   08  F 4/4]

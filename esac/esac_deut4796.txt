@@ -1,0 +1,44 @@
+ZUCCAL
+CUT[MEIN FEINES LIEB VERLIESS MIT MIR]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[Z0298]
+KEY[Z0298   04  B 6/4]
+MEL[5  1_3b2_4  3b_21_
+    5  6b_54_5  4_3b2_
+    5  6b_54_5  4_3b2_
+    2  3b_21_2  3b_45_
+    5  7b_6b5_4  6b_54_.  3b_.^_
+    5  1_23b_4  5_.^_
+    5  1_23b_4  5_.^_
+    5  6b_42_4  5_3b2_.  1_.^_ //]
+BEM[]
+MEL_SEM[-7 3 -1 3 -2 -1 -2 7 1 -1 -2 2 -2 -2 -1 5 1 -1 -2 2 -2 -2 -1 0 1 -1 -2 2 1 2 2 0 3 -2 -1 -2 3 -1 -2 -2 4 -7 2 1 2 2 0 -7 2 1 2 2 0 1 -3 -3 3 2 -4 -1 -2]
+MEL_RAW[5  13b24  3b21
+    5  6b545  43b2
+    5  6b545  43b2
+    2  3b212  3b45
+    5  7b6b54  6b54  3b^
+    5  123b4  5^
+    5  123b4  5^
+    5  6b424  53b2  1^]
+NO_REP[513b243b21
+    56b54543b2
+    56b54543b2
+    23b2123b45
+    57b6b546b543b^
+    5123b45^
+    5123b45^
+    56b42453b21^]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_.  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_.  x_.x_]
+SCL_DEG[123b456b7b]
+SCL_SEM[2 1 2 2 1 2]
+

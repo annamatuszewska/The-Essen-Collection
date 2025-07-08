@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     'Mein Schatz, warum willst du es doch nicht]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen, Hillnhuetten]
 TRD[3, S. 54
-    1847 aufgezeichnet]
+  1847 aufgezeichnet]
 FKT[]
 SIG[Q0055P]
 KEY[Q0055P  16  F 6/8]

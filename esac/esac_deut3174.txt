@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     'Nun adje, jetzt reis' ich fort,]
 REG[Mitteleuropa, Deutschland (BRD) , Wuerttemberg, Schwaebische Alb]
 TRD[2, S. 80
-    1913 gedruckt in Tuebingen]
+  1913 gedruckt in Tuebingen]
 FKT[]
 SIG[Q0056H]
 KEY[Q0056H  16  G 3/4]

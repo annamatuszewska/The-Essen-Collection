@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohem Berge]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Ziegenhals]
 TRD[8, S. 54
-    ???? aufgezeichnet]
+  ???? aufgezeichnet]
 FKT[]
 SIG[Q0155L]
 KEY[Q0155L  08  F 4/4]

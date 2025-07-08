@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt'sich ein Ritter mit seiner Dam',]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[3, S. 60
-    ????]
+  ????]
 FKT[]
 SIG[Q0055X]
 KEY[Q0055X  08  D 4/4]

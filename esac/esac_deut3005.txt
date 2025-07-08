@@ -3,7 +3,7 @@ CUT[Der Tannhaeuser
     Over wyl yck heven aen]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[1, S. 147
-    1540 gedruckt in Antwerpen]
+  1540 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0015A]
 KEY[Q0015A  16  C FREI]

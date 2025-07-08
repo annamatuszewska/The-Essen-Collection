@@ -3,7 +3,7 @@ CUT[Graf von Rom
     Der Junker Bursche wissen will,]
 REG[Mitteleuropa, Deutschland (DDR) , Lausitz - Gebiet, wendisch]
 TRD[1, S. 320 (Anhang)
-    1841 gedruckt in Grimma]
+  1841 gedruckt in Grimma]
 FKT[]
 SIG[Q0014D]
 KEY[Q0014D  08  G 4/4]

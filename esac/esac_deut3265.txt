@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es hatt' ein Soldat ein Toechterlein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[4, S. 52
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0073L]
 KEY[Q0073L  16  G 3/4]

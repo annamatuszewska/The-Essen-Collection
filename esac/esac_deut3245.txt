@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     Es reiset aus ein Herre,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Weiler]
 TRD[4, S. 3
-    1928 gedruckt in Heidelberg]
+  1928 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0072B]
 KEY[Q0072B  08  F 3/4]

@@ -3,7 +3,7 @@ CUT[Das Bauerntoechterlein
     Es wollt' ein Maegdlein einen Freier habn,]
 REG[Mitteleuropa, Deutschland / Polen, Soldin, Adamsdorf]
 TRD[2, S. 269
-    ????]
+  ????]
 FKT[]
 SIG[Q1051L]
 KEY[Q1051L  16  G 6/8 5/8]

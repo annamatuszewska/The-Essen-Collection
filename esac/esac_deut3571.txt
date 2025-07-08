@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Und wollt das Maderl in der Fruah aufstehn,]
 REG[Mitteleuropa, Deutschland (BRD) , Bayern, Bayerischer Wald, Zwiesel]
 TRD[7, S. 73
-    1935 aufgezeichnet (?)]
+  1935 aufgezeichnet (?)]
 FKT[]
 SIG[Q0147B]
 KEY[Q0147B  16  G 6/8]

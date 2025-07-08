@@ -3,7 +3,7 @@ CUT[Der Scheintod
     Maria ist ein liechter Stern,]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 120
-    1660 gedruckt]
+  1660 gedruckt]
 FKT[]
 SIG[Q1058D]
 KEY[Q1058D  04  F 6/4]

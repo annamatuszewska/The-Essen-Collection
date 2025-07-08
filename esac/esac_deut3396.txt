@@ -3,7 +3,7 @@ CUT[Tochter als Faehnrich
     'Valet, valet, zum Tor hinaus,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[5, S. 88
-    1842 aufgezeichnet (vor)]
+  1842 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0096]
 KEY[Q0096   08  C 4/4]

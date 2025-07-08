@@ -3,7 +3,7 @@ CUT[Die drei Hexen
     Die Engel singen suessen sang,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Andernach]
 TRD[4, S. 227
-    1608 gedruckt]
+  1608 gedruckt]
 FKT[]
 SIG[Q1080J]
 KEY[Q1080J  08  F 6/4]

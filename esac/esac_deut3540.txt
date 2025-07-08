@@ -4,7 +4,7 @@ CUT[Maedchen und Hasel
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen, Kr. Friedland,
     Markienen]
 TRD[6, S. 244
-    1912 aufgezeichnet]
+  1912 aufgezeichnet]
 FKT[]
 SIG[Q0138B]
 KEY[Q0138B  16  G 3/4]

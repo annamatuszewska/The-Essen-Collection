@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Ess rytt eyn Ritter wol durch dz Ried,]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 84
-    1778 gedruckt]
+  1778 gedruckt]
 FKT[]
 SIG[Q0041F]
 KEY[Q0041F  16  G 6/8]

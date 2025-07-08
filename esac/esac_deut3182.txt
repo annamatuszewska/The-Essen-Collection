@@ -4,7 +4,7 @@ CUT[Jungfer Doertchen
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Niederlausitz,
     Zerkwitz]
 TRD[3, S. 87
-    1848 aufgezeichnet]
+  1848 aufgezeichnet]
 FKT[]
 SIG[Q0057A]
 KEY[Q0057A  16  G 6/8]

@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Es ligt ein schlos in Ostereich,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 250
-    1549 gedruckt in Nuernberg]
+  1549 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0024A]
 KEY[Q0024A  08  F FREI]

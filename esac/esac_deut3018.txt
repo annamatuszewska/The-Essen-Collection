@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Ach Mutter, liebe Mutter,]
 REG[Mitteleuropa, Deutschland (DDR) , Provinz Brandenburg]
 TRD[1, S. 199
-    1804 aufgezeichnet (vor)]
+  1804 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0020B]
 KEY[Q0020B  16  G 2/4]

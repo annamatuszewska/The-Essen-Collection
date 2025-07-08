@@ -3,7 +3,7 @@ CUT[Der schwatzhafte Junggeselle
     Es waren drei Gesellen,]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen, Vogelsberg, Storndorf]
 TRD[6, S. 274
-    1909 aufgezeichnet (1907 - 09)]
+  1909 aufgezeichnet (1907 - 09)]
 FKT[]
 SIG[Q0139E]
 KEY[Q0139E  16  F 2/4]

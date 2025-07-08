@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es wollt ein Maedchen nach Frankfurt ziehn]
 REG[Mitteleuropa, Deutschland / UdSSR, Ostpreussen]
 TRD[4, S. 52
-    ????]
+  ????]
 FKT[]
 SIG[Q0073J]
 KEY[Q0073J  16  G 3/4]

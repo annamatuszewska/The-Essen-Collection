@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es hat ein Schwab' ein Toechterlein,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt]
 TRD[4, S. 52
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q0073N]
 KEY[Q0073N  08  G 6/8]

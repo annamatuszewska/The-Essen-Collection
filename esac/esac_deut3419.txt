@@ -3,7 +3,7 @@ CUT[Der heimkehrende Soldat
     Ein Soldat zog in ein Wirtshaus ein, hurrah!]
 REG[Mitteleuropa, Deutschland (DDR) , Thueringen]
 TRD[5, S. 162
-    ????]
+  ????]
 FKT[]
 SIG[Q0103M]
 KEY[Q0103M  08  G 4/4]

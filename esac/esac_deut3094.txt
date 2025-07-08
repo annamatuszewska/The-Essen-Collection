@@ -3,7 +3,7 @@ CUT[Die entfuehrte Graserin
     Wollte's Gott Graeserin grasene gehn,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 148
-    1934 aufgezeichnet]
+  1934 aufgezeichnet]
 FKT[]
 SIG[Q0045A]
 KEY[Q0045A  16  F 2/4]

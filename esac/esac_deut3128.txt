@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     'Ach muter, gib mir keinen man!]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 279
-    1556 gedruckt in Nuernberg]
+  1556 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0053]
 KEY[Q0053   08  F 3/2 4/2]

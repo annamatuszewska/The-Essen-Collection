@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     Ein guter Hirt im Walde hut',]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[5, S. 268
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0114M]
 KEY[Q0114M  08  G FREI]

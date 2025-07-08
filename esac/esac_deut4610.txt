@@ -1,0 +1,28 @@
+ZUCCAL
+CUT[MEI MUTTER MAG MI NET, UND KEIN SCHATZ HAN I NET]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[Z0110]
+KEY[Z0110   16  B 3/8]
+MEL[3_3_3_  3_.22_  4_4_4_  4_.33_
+    5_6543  6_.65_  3_3_54  2__0_
+    2_2654  4_.33_  6_+1_76  5_.43_
+    1_-7_24  3__0_  5_5654  3__0_ //]
+BEM[]
+MEL_SEM[0 0 0 -2 0 3 0 0 0 -1 0 3 2 -2 -2 -1 5 0 -2 -3 0 3 -2 -3 0 0 7 -2 -2 0 -1 0 5 3 -1 -2 -2 -2 -1 -4 -1 3 3 -1 3 0 2 -2 -2 -1]
+MEL_RAW[333  322  444  433
+    56543  665  3354  20
+    22654  433  6+176  543
+    1-724  30  55654  30]
+NO_REP[3243
+    565436535420
+    265436+176543
+    1-72430565430]
+RTM[x_x_x_  x_.xx_  x_x_x_  x_.xx_
+    x_xxxx  x_.xx_  x_x_xx  x__x_
+    x_xxxx  x_.xx_  x_x_xx  x_.xx_
+    x_x_xx  x__x_  x_xxxx  x__x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

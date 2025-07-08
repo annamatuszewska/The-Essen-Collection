@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     In oostenrijck daer staet een stadt,]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[1, S. 272
-    1540 gedruckt in Antwerpen]
+  1540 gedruckt in Antwerpen]
 FKT[]
 SIG[Q0024E]
 KEY[Q0024E  08  D FREI]

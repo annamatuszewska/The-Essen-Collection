@@ -3,7 +3,7 @@ CUT[Der schwatzhafte Junggeselle
     Es sassen drei Gesellen.]
 REG[Mitteleuropa, Deutschland]
 TRD[6, S. 312
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q0139N]
 KEY[Q0139N  08  G 4/4]

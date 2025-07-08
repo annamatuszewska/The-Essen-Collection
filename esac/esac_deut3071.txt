@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Es reitet ein Reiter durch Heu und Klee,]
 REG[Mitteleuropa, Deutschland (BRD) , Ahrweiler, Bentgerhof]
 TRD[2, S. 78
-    1912 aufgezeichnet (vor)]
+  1912 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0041B]
 KEY[Q0041B  16  G 6/8]

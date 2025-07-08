@@ -3,7 +3,7 @@ CUT[Die elfjaehrige Markgraefin
     Es freit' eine junge Markgraefin,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[2, S. 299
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0053Q]
 KEY[Q0053Q  08  F 4/4]

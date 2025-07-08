@@ -3,7 +3,7 @@ CUT[Der Nachtjaeger
     Es jagt sen ein Jaeger ein wildes Schwein,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien, Grafschaft Glatz]
 TRD[6, S. 167
-    1911 gedruckt in Habelschwerdt]
+  1911 gedruckt in Habelschwerdt]
 FKT[]
 SIG[Q0133D]
 KEY[Q0133D  08  C 4/4]

@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     'Schatz, ach Schatz, jetzt muss ich fort,]
 REG[Mitteleuropa, Deutschland (BRD) , Rheinprovinz, Hunsrueck]
 TRD[3, S. 69
-    1927 aufgezeichnet (vor)]
+  1927 aufgezeichnet (vor)]
 FKT[]
 SIG[Q0056B]
 KEY[Q0056B  08  F 3/4]

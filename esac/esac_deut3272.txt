@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Doa toog sech 'ne Markgraf wal oever den Rhin,]
 REG[Mitteleuropa, Deutschland (BRD) , Niederrhein, Niederkruechten]
 TRD[4, S. 73
-    1890 aufgezeichnet]
+  1890 aufgezeichnet]
 FKT[]
 SIG[Q0075C]
 KEY[Q0075C  08  F 4/4]

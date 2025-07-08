@@ -3,7 +3,7 @@ CUT[Der Maedchenmoerder (Halewijn - Ulinger)
     Schoenster Ulrich wollt' spazieren gehn,]
 REG[Mitteleuropa, Deutschland / Polen, Pommern]
 TRD[2, S. 112
-    1892 aufgezeichnet (oder 1894)]
+  1892 aufgezeichnet (oder 1894)]
 FKT[]
 SIG[Q0041X]
 KEY[Q0041X  08  G 4/4]

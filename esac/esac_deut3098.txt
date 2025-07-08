@@ -4,7 +4,7 @@ CUT[Die Rheinbraut
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Oranienburg,
     Birkenwerder]
 TRD[2, S. 170
-    1841 aufgezeichnet (in den 1770er Jahren entstanden ?)]
+  1841 aufgezeichnet (in den 1770er Jahren entstanden ?)]
 FKT[]
 SIG[Q0047]
 KEY[Q0047   08  G 3/4]

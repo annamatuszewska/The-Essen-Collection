@@ -4,7 +4,7 @@ CUT[Herr und Schildknecht
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
     Chateau - Salins, Insweiler]
 TRD[2, S. 23
-    1936 aufgezeichnet]
+  1936 aufgezeichnet]
 FKT[]
 SIG[Q0034D]
 KEY[Q0034D  16  G 3/4]

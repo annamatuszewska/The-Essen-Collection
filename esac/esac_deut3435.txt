@@ -4,7 +4,7 @@ CUT[Richmudis von Adocht
 REG[Mitteleuropa, Deutschland (BRD) , Rheinland, Ldkr. Muellheim / Rhein,
     Scherf]
 TRD[5, S. 241
-    1840 gedruckt in Berlin]
+  1840 gedruckt in Berlin]
 FKT[]
 SIG[Q0112A]
 KEY[Q0112A  16  G 3/8]

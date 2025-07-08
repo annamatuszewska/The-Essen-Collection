@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielt' ein Markgraf mit einer schoenen Dam',]
 REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen - Anhalt, Altmark]
 TRD[3, S. 63
-    1879 gedruckt in Magdeburg]
+  1879 gedruckt in Magdeburg]
 FKT[]
 SIG[Q0055h]
 KEY[Q0055h  08  F 4/4]

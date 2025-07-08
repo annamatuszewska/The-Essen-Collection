@@ -3,7 +3,7 @@ CUT[Schloss in Oesterreich
     Es stand ein Schloss in Oesterreich]
 REG[Mitteleuropa, Deutschland (BRD) , Hessen und Nassau]
 TRD[1, S. 274
-    1912 aufgezeichnet]
+  1912 aufgezeichnet]
 FKT[]
 SIG[Q0024P]
 KEY[Q0024P  16  D 3/4]

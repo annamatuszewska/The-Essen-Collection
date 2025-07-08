@@ -3,7 +3,7 @@ CUT[Herr von Falkenstein
     Es ligt ein hauss im Oberlandt,]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 226
-    1544 gedruckt in Nuernberg]
+  1544 gedruckt in Nuernberg]
 FKT[]
 SIG[Q0021C]
 KEY[Q0021C  16  F FREI]

@@ -3,7 +3,7 @@ CUT[Koenig von Mailand
     Ich sachs eins mals den lichten morgensterne:]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 234
-    1480 Handschrift Glogau]
+  1480 Handschrift Glogau]
 FKT[]
 SIG[Q1067D]
 KEY[Q1067D  08  D FREI]

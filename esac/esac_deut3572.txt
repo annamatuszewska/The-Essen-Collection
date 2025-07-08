@@ -3,7 +3,7 @@ CUT[Die Brombeerpflueckerin
     Es wollt ein Maedel in der Frueh aufstehn]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Forbach, Bousbach]
 TRD[7, S. 79
-    1980 aufgezeichnet]
+  1980 aufgezeichnet]
 FKT[]
 SIG[Q0147E]
 KEY[Q0147E  16  G 4/4]

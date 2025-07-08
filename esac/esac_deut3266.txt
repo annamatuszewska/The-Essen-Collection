@@ -3,7 +3,7 @@ CUT[Das Schwabentoechterlein
     Es hat ein Schwab' ein Toechterlein,]
 REG[Mitteleuropa, Deutschland (DDR) , Sachsen - Anhalt]
 TRD[4, S. 52
-    ????]
+  ????]
 FKT[]
 SIG[Q0073M]
 KEY[Q0073M  08  G 6/8]

@@ -3,7 +3,7 @@ CUT[Die Koenigskinder
     Ack Elschen Liber Bulle Meinn]
 REG[Mitteleuropa, Deutschland]
 TRD[1, S. 219
-    1613 Handschrift]
+  1613 Handschrift]
 FKT[]
 SIG[Q0020L]
 KEY[Q0020L  16  G 3/8]

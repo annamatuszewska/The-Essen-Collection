@@ -3,7 +3,7 @@ CUT[Tochter als Faehnrich
     Naechten Abend da ich ueber die Gasse ging,]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[5, S. 94
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q1096D]
 KEY[Q1096D  16  G 2/4]

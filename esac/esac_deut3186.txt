@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es ritt ein Reuter frisch wohlgemut,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[3, S. 99
-    1839 gedruckt in Berlin]
+  1839 gedruckt in Berlin]
 FKT[]
 SIG[Q0057H]
 KEY[Q0057H  16  G 6/8]

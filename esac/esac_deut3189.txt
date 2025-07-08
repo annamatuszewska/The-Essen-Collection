@@ -3,7 +3,7 @@ CUT[Jungfer Doertchen
     Es war ein Jaeger wohlgemut,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden]
 TRD[3, S. 102
-    ????]
+  ????]
 FKT[]
 SIG[Q0057T]
 KEY[Q0057T  16  G 6/8]

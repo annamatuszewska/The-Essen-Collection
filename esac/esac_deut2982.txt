@@ -4,7 +4,7 @@ CUT[Der verkleidete Markgrafensohn
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen,
     Kr. Saargemuend, Wiesweiler]
 TRD[1, S. 59
-    1930 aufgezeichnet]
+  1930 aufgezeichnet]
 FKT[]
 SIG[Q0006D]
 KEY[Q0006D  08  F 3/4 2/4]

@@ -3,7 +3,7 @@ CUT[Der betruegerische Freier
     Stolz Heinrich wollte freien gehn]
 REG[Mitteleuropa, Deutschland]
 TRD[2, S. 136
-    1854 aufgezeichnet (ca.)]
+  1854 aufgezeichnet (ca.)]
 FKT[]
 SIG[Q0042G]
 KEY[Q0042G  16 Bb 2/4]

@@ -3,7 +3,7 @@ CUT[Die erzwungene Ehe
     Es hat ein Bauer braun Anneli fein,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen, Garburg]
 TRD[2, S. 242
-    1932 aufgezeichnet]
+  1932 aufgezeichnet]
 FKT[]
 SIG[Q0050]
 KEY[Q0050   16  E 3/8]

@@ -3,7 +3,7 @@ CUT[Wiedersehen an der Bahre
     Es zog ein Knab' ins fremde Land,]
 REG[Mitteleuropa, Deutschland (BRD) , Baden]
 TRD[3, S. 80
-    ????]
+  ????]
 FKT[]
 SIG[Q0056E]
 KEY[Q0056E  16  G 4/4]

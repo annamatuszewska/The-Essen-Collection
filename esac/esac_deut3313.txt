@@ -4,7 +4,7 @@ CUT[Die Schlangenkoechin
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Wilsnack,
     Klein - Welle]
 TRD[4, S. 189
-    1847 aufgezeichnet]
+  1847 aufgezeichnet]
 FKT[]
 SIG[Q0079]
 KEY[Q0079   08  G 4/4 3/2]

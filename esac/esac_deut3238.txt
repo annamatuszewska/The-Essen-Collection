@@ -3,7 +3,7 @@ CUT[Der grausame Bruder
     Es ging ein jung Kuechenjung ueber den Rhein,]
 REG[Mitteleuropa, Deutschland (DDR) , Provinz Sachsen, Estedt]
 TRD[3, S. 261
-    1879 gedruckt in Magdeburg]
+  1879 gedruckt in Magdeburg]
 FKT[]
 SIG[Q0068P]
 KEY[Q0068P  16  C 3/8]

@@ -3,7 +3,7 @@ CUT[Richmudis von Adocht
     Im Himmel, im Himmel sind Freuden so viel,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg]
 TRD[5, S. 241
-    1894 gedruckt in Leipzig]
+  1894 gedruckt in Leipzig]
 FKT[]
 SIG[Q1112F]
 KEY[Q1112F  08  G 3/4]

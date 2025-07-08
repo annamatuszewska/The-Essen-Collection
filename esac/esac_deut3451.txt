@@ -3,7 +3,7 @@ CUT[Die Rabenmutter
     ohne Text]
 REG[Mitteleuropa, Deutschland (BRD) , Saar]
 TRD[5, S. 270
-    1896 gedruckt in Halle]
+  1896 gedruckt in Halle]
 FKT[]
 SIG[Q0114V]
 KEY[Q0114V  16  G FREI]

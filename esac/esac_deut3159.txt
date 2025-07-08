@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielet ein Ritter mit einer Dam']
 REG[Mitteleuropa, Deutschland (BRD) , Nord - Bayern, Franken]
 TRD[3, S. 60
-    1855 gedruckt in Leipzig]
+  1855 gedruckt in Leipzig]
 FKT[]
 SIG[Q0055a]
 KEY[Q0055a  16  F 6/8]

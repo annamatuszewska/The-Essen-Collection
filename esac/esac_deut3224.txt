@@ -3,7 +3,7 @@ CUT[Koenig von Mailand
     Ich sach ein pild in plaber wat]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 234
-    1450 Handschrift]
+  1450 Handschrift]
 FKT[]
 SIG[Q1067A]
 KEY[Q1067A  08  F 6/4]

@@ -3,7 +3,7 @@ CUT[Die wiedergefundene Schwester (Suedeli - Ballade)
     O Goede iesu wes ons bi]
 REG[Mitteleuropa, Deutschland / Niederlande]
 TRD[4, S. 1
-    14?? Handschrift (15. Jh.)]
+  14?? Handschrift (15. Jh.)]
 FKT[]
 SIG[Q0072]
 KEY[Q0072   08  D FREI]

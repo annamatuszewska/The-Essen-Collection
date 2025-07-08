@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Ich stand auf hohen Bergen]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Soldin, Adamsdorf]
 TRD[8, S. 36
-    1856 aufgezeichnet]
+  1856 aufgezeichnet]
 FKT[]
 SIG[Q0155G]
 KEY[Q0155G  16  F 2/4]

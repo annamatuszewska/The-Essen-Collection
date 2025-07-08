@@ -3,7 +3,7 @@ CUT[Des Grafen Toechterlein
     Ich weiss eins Grauen Toechterlein,]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 182
-    1580 gedruckt in Frankfurt]
+  1580 gedruckt in Frankfurt]
 FKT[]
 SIG[Q0063]
 KEY[Q0063   08  F FREI]

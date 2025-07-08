@@ -3,7 +3,7 @@ CUT[Koenig und Marquise
     Quand le roi entra dans Paris,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[2, S. 30
-    1904 gedruckt]
+  1904 gedruckt]
 FKT[]
 SIG[Q2035E]
 KEY[Q2035E  08  G 6/8]

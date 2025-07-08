@@ -4,7 +4,7 @@ CUT[Nachtigall als Warnerin
 REG[Mitteleuropa, Deutschland / Polen, Pommern, Kr. Rummelsburg,
     Gross Schwirsen]
 TRD[6, S. 220
-    1937 aufgezeichnet]
+  1937 aufgezeichnet]
 FKT[]
 SIG[Q0137]
 KEY[Q0137   04  C 3/4]

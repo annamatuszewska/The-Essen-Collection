@@ -3,7 +3,7 @@ CUT[Jerman Weizers Frau
     Es ist gewisslich an der Zeit,]
 REG[Mitteleuropa, Deutschland (Text: Bayern, Nuernberg)]
 TRD[5, S. 216
-    1597 gedruckt]
+  1597 gedruckt]
 FKT[]
 SIG[Q0108B]
 KEY[Q0108B  08  G FREI]

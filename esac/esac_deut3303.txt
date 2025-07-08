@@ -3,7 +3,7 @@ CUT[Die dienende Schwester
     Es wohnt ein Kaiser an dem Rhein,]
 REG[Mitteleuropa, Deutschland (BRD) , Westfalen]
 TRD[4, S. 116
-    1913 gedruckt in Leipzig]
+  1913 gedruckt in Leipzig]
 FKT[]
 SIG[Q0075s]
 KEY[Q0075s  08  F 3/4]

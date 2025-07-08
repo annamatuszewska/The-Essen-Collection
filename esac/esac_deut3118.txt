@@ -3,7 +3,7 @@ CUT[Die erzwungene Ehe
     Filii hominum, scitote,]
 REG[Mitteleuropa]
 TRD[2, S. 250
-    0500 Handschrift (vor d. 6. Jh.)]
+  0500 Handschrift (vor d. 6. Jh.)]
 FKT[]
 SIG[Q3050A]
 KEY[Q3050A  08  D FREI]

@@ -3,7 +3,7 @@ CUT[Das Maedchen und der Faehnrich
     Es wohnt ein reiches Schlaechterlein]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Gramzow]
 TRD[6, S. 95
-    1844 aufgezeichnet]
+  1844 aufgezeichnet]
 FKT[]
 SIG[Q0127]
 KEY[Q0127   08  E 4/4]

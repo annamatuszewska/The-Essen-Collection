@@ -3,7 +3,7 @@ CUT[Der Vorwirt
     Es wollt' ein Herr ausreiten,]
 REG[Mitteleuropa, Deutschland / Frankreich, Lothringen]
 TRD[5, S. 16
-    1926 gedruckt in Heidelberg]
+  1926 gedruckt in Heidelberg]
 FKT[]
 SIG[Q0089H]
 KEY[Q0089H  08  G FREI]

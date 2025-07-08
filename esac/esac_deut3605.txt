@@ -3,7 +3,7 @@ CUT[Verschlafener Jaeger
     Im Wald und auf der Heide]
 REG[Mitteleuropa, Deutschland]
 TRD[7, S. 217
-    1895 gedruckt in Leipzig]
+  1895 gedruckt in Leipzig]
 FKT[]
 SIG[Q1152K]
 KEY[Q1152K  08  C 6/8]

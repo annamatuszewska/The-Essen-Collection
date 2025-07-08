@@ -3,7 +3,7 @@ CUT[Die Rheinbraut
     Es freit' ein wilder Wassersmann,]
 REG[Mitteleuropa, Deutschland (DDR) , Brandenburg, Ostprignitz, Wittstock]
 TRD[2, S. 174
-    1852 aufgezeichnet]
+  1852 aufgezeichnet]
 FKT[]
 SIG[Q0047C]
 KEY[Q0047C  08  D 4/4]

@@ -3,7 +3,7 @@ CUT[Ritter und Magd
     Es spielten zwei Ritter mit einer Dam',]
 REG[Mitteleuropa, Deutschland / Polen, Schlesien]
 TRD[3, S. 58
-    1842 gedruckt in Leipzig]
+  1842 gedruckt in Leipzig]
 FKT[]
 SIG[Q0055U]
 KEY[Q0055U  16 Bb 2/4]

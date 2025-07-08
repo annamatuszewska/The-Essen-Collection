@@ -3,7 +3,7 @@ CUT[Der junge Held
     Ach got, wie ser zwingt mich die not]
 REG[Mitteleuropa, Deutschland]
 TRD[3, S. 152
-    1480 Handschrift aus Glogau]
+  1480 Handschrift aus Glogau]
 FKT[]
 SIG[Q1060F]
 KEY[Q1060F  08  D 6/4]

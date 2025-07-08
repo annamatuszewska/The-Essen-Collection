@@ -3,7 +3,7 @@ CUT[Graf und Nonne (Die Nonne)
     Es welken alle Blaetter,]
 REG[Mitteleuropa, Deutschland (BRD) , Franken, Haselbach v.d. Rhoen]
 TRD[8, S. 82
-    1933 aufgezeichnet]
+  1933 aufgezeichnet]
 FKT[]
 SIG[Q0155a]
 KEY[Q0155a  16 Bb 2/4]
