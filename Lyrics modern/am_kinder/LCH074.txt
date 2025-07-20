@@ -1,0 +1,37 @@
+Das Lied ist in einem hochdeutschen Dialekt mit starkem regionalem Einschlag, vermutlich aus dem süddeutschen oder mitteldeutschen Raum, am ehesten Hochdeutsch mit bairisch-fränkischen Einflüssen.
+Da es kein reiner Dialekttext ist, ist der nächstliegende ISO-Code für Standarddeutsch: deu.
+
+Übersetzung ins Hochdeutsche:
+Oben auf der grünen Waldheide
+steht ein schöner Birnbaum,
+schöner Birnbaum trägt Blätter.
+Was ist an diesem Baum?
+Ein wunderschöner Ast.
+Ast am Baum, Baum in der Erde!
+Oben auf der grünen Waldheide
+steht ein schöner Birnbaum,
+schöner Birnbaum trägt Blätter.
+
+Was ist an diesem Ast?
+Ein wunderschöner Zweig.
+Zweig am Ast, Ast am Baum, Baum in der Erde.
+Oben auf der grünen Waldheide
+steht ein schöner Birnbaum,
+schöner Birnbaum trägt Blätter.
+
+Was ist auf diesem Zweig?
+Ein wunderschönes Nest.
+Nest auf dem Zweig, Zweig am Ast, Ast am Baum, Baum in der Erde.
+Oben ...
+
+Was ist in diesem Nest?
+Ein wunderschönes Ei.
+Ei im Nest, Nest auf dem Zweig...
+Oben ...
+
+Was ist in diesem Ei?
+Ein wunderschöner Vogel.
+Vogel im Ei, Ei im Nest, Nest auf dem Zweig, Zweig am Ast, Ast am Baum, Baum in der Erde.
+Oben auf der grünen Waldheide
+steht ein schöner Birnbaum,
+schöner Birnbaum trägt Blätter.
