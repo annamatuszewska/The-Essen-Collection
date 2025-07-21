@@ -1,0 +1,28 @@
+ERK
+CUT[ES THAET EIN KOENIG AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+TRD[]
+FKT[]
+SIG[E0107B]
+KEY[E0107B  08  G 3/8]
+MEL[-5  1_1  1-71  210  0_
+    -5  1_1  1-71  210  0_
+    3  5_2  432  133  2_
+    2  -5-5-7  -5_-7  21-7  1_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 2 -2 -5 5 0 0 -1 1 2 -2 4 3 -5 3 -1 -2 -2 4 0 -2 0 -7 0 4 -4 4 3 -2 -1 1]
+MEL_RAW[-5  11  1-71  210  0
+    -5  11  1-71  210  0
+    3  52  432  133  2
+    2  -5-5-7  -5-7  21-7  1]
+NO_REP[-51-71210
+    -51-71210
+    352432132
+    2-5-7-5-721-71]
+RTM[x  x_x  xxx  xxx  x_
+    x  x_x  xxx  xxx  x_
+    x  x_x  xxx  xxx  x_
+    x  xxx  x_x  xxx  x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

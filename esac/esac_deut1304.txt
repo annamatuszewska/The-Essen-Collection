@@ -1,0 +1,44 @@
+ERK
+CUT[WAS FUEHR ICH DENN SO FUERN TRAURIGES LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0702]
+KEY[E0702   08  E 2/4]
+MEL[1  543b4  2_.
+    3b  543b4  2_.
+    2  2_2_  5_.
+    5  543b1  2_.
+    2  2_22  5_.
+    5  543b5  4_0
+    4  5_5_  3b21
+    3b  5423b  1_0 //]
+BEM[]
+MEL_SEM[7 -2 -2 2 -3 1 4 -2 -2 2 -3 0 0 0 5 0 0 -2 -2 -3 2 0 0 0 0 5 0 0 -2 -2 4 -2 0 2 0 -4 -1 -2 3 4 -2 -3 1 -3]
+MEL_RAW[1  543b4  2
+    3b  543b4  2
+    2  22  5
+    5  543b1  2
+    2  222  5
+    5  543b5  40
+    4  55  3b21
+    3b  5423b  10]
+NO_REP[1543b42
+    3b543b42
+    25
+    543b12
+    25
+    543b540
+    453b21
+    3b5423b10]
+RTM[x  xxxx  x_.
+    x  xxxx  x_.
+    x  x_x_  x_.
+    x  xxxx  x_.
+    x  x_xx  x_.
+    x  xxxx  x_x
+    x  x_x_  xxx
+    x  xxxx  x_x]
+SCL_DEG[123b45]
+SCL_SEM[2 1 2 2]
+

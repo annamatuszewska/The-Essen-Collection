@@ -1,0 +1,36 @@
+ERK
+CUT[BIN I NET A LUSTIGERFUHRMANNSBUE]
+REG[Europa, Mitteleuropa, Deutschland, Nieder - Bayern, Mittel - Franken]
+TRD[]
+FKT[]
+SIG[E1574]
+KEY[E1574   16  F 3/8]
+MEL[+135_.6  5_4_4_  3_345_
+    +135_.6  5_4_4_  3__0_
+    2_2_.3  4_432_
+    3_3_.4  6_54#5_
+    +135_.6  5_4_4_  3_345_
+    +135_.6  5_4_4_  3__0_ //]
+BEM[]
+MEL_SEM[-8 3 2 -2 -2 0 -1 0 1 2 5 -8 3 2 -2 -2 0 -1 -2 0 2 1 0 -1 -2 2 0 1 4 -2 -1 1 5 -8 3 2 -2 -2 0 -1 0 1 2 5 -8 3 2 -2 -2 0 -1]
+MEL_RAW[+1356  544  3345
+    +1356  544  30
+    223  4432
+    334  654#5
+    +1356  544  3345
+    +1356  544  30]
+NO_REP[+135654345
+    +13565430
+    23432
+    34654#5
+    +135654345
+    +13565430]
+RTM[xxx_.x  x_x_x_  x_xxx_
+    xxx_.x  x_x_x_  x__x_
+    x_x_.x  x_xxx_
+    x_x_.x  x_xxx_
+    xxx_.x  x_x_x_  x_xxx_
+    xxx_.x  x_x_x_  x__x_]
+SCL_DEG[2344#56+1]
+SCL_SEM[2 1 1 1 2 3]
+

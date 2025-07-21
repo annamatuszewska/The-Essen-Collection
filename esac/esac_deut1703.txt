@@ -1,0 +1,52 @@
+ERK
+CUT[HIE FUER EINES FROMMEN BRAEUTGAM THUER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1276]
+KEY[E1276   04  F 4/4]
+MEL[1_3_  5_5
+    5  5345  333_  0
+    144  3211  2
+    233  213_  4
+    431  221_  1_0
+    1  1231  555
+    5  5345  3_3_  0
+    144  3211  2
+    233  213_  4
+    431  221_  1__ //]
+BEM[]
+MEL_SEM[4 3 0 0 0 -3 1 2 -3 0 0 -4 5 0 -1 -2 -2 0 2 0 2 0 -2 -2 4 1 0 -1 -4 2 0 -2 0 0 0 2 2 -4 7 0 0 0 0 -3 1 2 -3 0 -4 5 0 -1 -2 -2 0 2 0 2 0 -2 -2 4 1 0 -1 -4 2 0 -2 0]
+MEL_RAW[13  55
+    5  5345  333  0
+    144  3211  2
+    233  213  4
+    431  221  10
+    1  1231  555
+    5  5345  33  0
+    144  3211  2
+    233  213  4
+    431  221  1]
+NO_REP[135
+    534530
+    143212
+    232134
+    431210
+    12315
+    534530
+    143212
+    232134
+    43121]
+RTM[x_x_  x_x
+    x  xxxx  xxx_  x
+    xxx  xxxx  x
+    xxx  xxx_  x
+    xxx  xxx_  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x_  x
+    xxx  xxxx  x
+    xxx  xxx_  x
+    xxx  xxx_  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

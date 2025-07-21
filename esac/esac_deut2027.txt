@@ -1,0 +1,24 @@
+ERK
+CUT[HEY MUTTER DER FINK IST TODT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1752A]
+KEY[E1752A  08  F 4/4]
+MEL[5__3_33  2_2_1__
+    2_22333_  555_3_3_
+    222_111_  222_3_3_ //]
+BEM[]
+MEL_SEM[-3 0 0 -2 0 -2 2 0 0 2 0 0 3 0 0 -3 0 -2 0 0 -2 0 0 2 0 0 2 0]
+MEL_RAW[5333  221
+    222333  55533
+    222111  22233]
+NO_REP[5321
+    2353
+    2123]
+RTM[x__x_xx  x_x_x__
+    x_xxxxx_  xxx_x_x_
+    xxx_xxx_  xxx_x_x_]
+SCL_DEG[1235]
+SCL_SEM[2 2 3]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[HEIJO WOERN WIE DO]
+REG[Europa, Mitteleuropa, Deutschland, Ruhr - Gegend; Mosel - Gegend]
+TRD[]
+FKT[]
+SIG[E1812]
+KEY[E1812   16  F 2/4]
+MEL[5__3__  5_5_3__
+    1_1_222_  3__2_0_
+    1_1_222_  3__2_0_
+    3_3_2_1_  3_3_3__
+    2_2_223_  1_1_1_0_ //]
+BEM[]
+MEL_SEM[-3 3 0 -3 -4 0 2 0 0 2 -2 -2 0 2 0 0 2 -2 2 0 -2 -2 4 0 0 -2 0 0 0 2 -4 0 0]
+MEL_RAW[53  553
+    11222  320
+    11222  320
+    3321  333
+    22223  1110]
+NO_REP[5353
+    12320
+    12320
+    3213
+    2310]
+RTM[x__x__  x_x_x__
+    x_x_xxx_  x__x_x_
+    x_x_xxx_  x__x_x_
+    x_x_x_x_  x_x_x__
+    x_x_xxx_  x_x_x_x_]
+SCL_DEG[1235]
+SCL_SEM[2 2 3]
+

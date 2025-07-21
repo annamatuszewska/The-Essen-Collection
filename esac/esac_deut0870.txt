@@ -1,0 +1,24 @@
+ERK
+CUT[ES WOHNT EIN MARKGRAF AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen; Schlesien; Brandenburg]
+TRD[]
+FKT[]
+SIG[E0182A]
+KEY[E0182A  08  G 2/4]
+MEL[-5  1_-5_  1_5_  333
+    1  222-7  131
+    -5  11-5_  1654  3_2_  1_0 //]
+BEM[]
+MEL_SEM[5 -5 5 7 -3 0 0 -4 2 0 0 -3 1 4 -4 -5 5 0 -5 5 9 -2 -2 -1 -2 -2]
+MEL_RAW[-5  1-5  15  333
+    1  222-7  131
+    -5  11-5  1654  32  10]
+NO_REP[-51-5153
+    12-7131
+    -51-516543210]
+RTM[x  x_x_  x_x_  xxx
+    x  xxxx  xxx
+    x  xxx_  xxxx  x_x_  x_x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

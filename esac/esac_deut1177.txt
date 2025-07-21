@@ -1,0 +1,36 @@
+ERK
+CUT[DU DU LIEGST MIR IM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland]
+TRD[]
+FKT[]
+SIG[E0578]
+KEY[E0578   08  F 3/8 6/8]
+MEL[3_.  3_.  323  5_4
+    2_.  2_.  212  3_0
+    3_.  3_.  323  5_4
+    234  65-7  1_.  0_.
+    6_.5_.  7_.+1_0
+    23465-7  1_.0_. //]
+BEM[]
+MEL_SEM[0 0 -2 2 3 -2 -3 0 0 -2 2 2 0 0 0 -2 2 3 -2 -3 2 1 4 -2 -8 1 9 -2 4 1 -10 2 1 4 -2 -8 1]
+MEL_RAW[3  3  323  54
+    2  2  212  30
+    3  3  323  54
+    234  65-7  1  0
+    65  7+10
+    23465-7  10]
+NO_REP[32354
+    21230
+    32354
+    23465-710
+    657+10
+    23465-710]
+RTM[x_.  x_.  xxx  x_x
+    x_.  x_.  xxx  x_x
+    x_.  x_.  xxx  x_x
+    xxx  xxx  x_.  x_.
+    x_.x_.  x_.x_x
+    xxxxxx  x_.x_.]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[HAETT ICH DEN ZOLL AM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1088]
+KEY[E1088   04  G 4/4]
+MEL[3  2353  2_0
+    3  2354  2_0
+    2  3234  5_5
+    4  3322  3
+    15_  015_  015 //]
+BEM[]
+MEL_SEM[-2 2 3 -3 -2 2 -2 2 3 -2 -3 0 2 -2 2 1 2 0 -2 -1 0 -2 0 2 -4 7 -7 7 -7 7]
+MEL_RAW[3  2353  20
+    3  2354  20
+    2  3234  55
+    4  3322  3
+    15  015  015]
+NO_REP[3235320
+    3235420
+    232345
+    4323
+    15015015]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x
+    xx_  xxx_  xxx]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

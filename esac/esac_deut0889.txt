@@ -1,0 +1,28 @@
+ERK
+CUT[KIND WO BIST DU HIN GEWESEN]
+REG[Europa, Mitteleuropa, Deutschland, Bueckeburg]
+TRD[]
+FKT[]
+SIG[E0190]
+KEY[E0190   08  F 3/4]
+MEL[-5-5  1_1_24  3_1_
+    3_  2_.1-72  1_0_
+    -5_  1_1_22  3_1_
+    3_  2_.1-7_  1_0_ //]
+BEM[]
+MEL_SEM[0 5 0 2 3 -1 -4 4 -2 -2 -1 3 -2 -5 5 0 2 0 2 -4 4 -2 -2 -1 1]
+MEL_RAW[-5-5  1124  31
+    3  21-72  10
+    -5  1122  31
+    3  21-7  10]
+NO_REP[-512431
+    321-7210
+    -51231
+    321-710]
+RTM[xx  x_x_xx  x_x_
+    x_  x_.xxx  x_x_
+    x_  x_x_xx  x_x_
+    x_  x_.xx_  x_x_]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

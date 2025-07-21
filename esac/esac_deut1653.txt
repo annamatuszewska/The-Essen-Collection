@@ -1,0 +1,28 @@
+ERK
+CUT[HERR BRUDER ZUR RECHTEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glogau]
+TRD[]
+FKT[]
+SIG[E1145]
+KEY[E1145   08  D 3/4]
+MEL[12  3_3_3_  3_2_
+    23  4_4_4_  4_3_
+    55  +1_7_66  5_3_
+    55  4_2_7_  +1_1_ //]
+BEM[]
+MEL_SEM[2 2 0 0 0 -2 0 2 1 0 0 0 -1 3 0 5 -1 -2 0 -2 -3 3 0 -2 -3 9 1 -12]
+MEL_RAW[12  333  32
+    23  444  43
+    55  +1766  53
+    55  427  +11]
+NO_REP[1232
+    2343
+    5+17653
+    5427+1]
+RTM[xx  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    xx  x_x_xx  x_x_
+    xx  x_x_x_  x_x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

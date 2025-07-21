@@ -1,0 +1,28 @@
+ERK
+CUT[ES GIENG EIN KNAB SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken, Ziegelanger]
+TRD[]
+FKT[]
+SIG[E0197]
+KEY[E0197   08  G 4/4]
+MEL[13  5_5_5_3_  6_5_0_
+    35  54244313  3_2_0_
+    23  4_4_4_32  355_0_
+    35  54243_2_  1__0_ //]
+BEM[]
+MEL_SEM[4 3 0 0 -3 5 -2 -3 3 0 -2 -3 3 0 -1 -4 4 0 -2 0 2 1 0 0 -1 -2 2 3 0 -3 3 0 -2 -3 3 -1 -2 -2]
+MEL_RAW[13  5553  650
+    35  54244313  320
+    23  44432  3550
+    35  542432  10]
+NO_REP[1353650
+    3542431320
+    23432350
+    354243210]
+RTM[xx  x_x_x_x_  x_x_x_
+    xx  xxxxxxxx  x_x_x_
+    xx  x_x_x_xx  xxx_x_
+    xx  xxxxx_x_  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

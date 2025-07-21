@@ -1,0 +1,28 @@
+ERK
+CUT[IN DEM FRUEHLING IN DEM SOMMER]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Angermuende]
+TRD[]
+FKT[]
+SIG[E0731B]
+KEY[E0731B  16  F 3/4]
+MEL[1_3_  5__3_1_4_6_  6_5_5__
+    1_3_  5__3_1_4_6_  6_5_5__
+    1_3_  5__+1__6_+16  5__.
+    6_5_4_  3__5__4_54  3__0__ //]
+BEM[]
+MEL_SEM[4 3 -3 -4 5 4 0 -2 0 -7 4 3 -3 -4 5 4 0 -2 0 -7 4 3 5 -3 3 -3 -2 2 -2 -2 -1 3 -2 2 -2 -1]
+MEL_RAW[13  53146  655
+    13  53146  655
+    13  5+16+16  5
+    654  35454  30]
+NO_REP[13531465
+    13531465
+    135+16+165
+    6543545430]
+RTM[x_x_  x__x_x_x_x_  x_x_x__
+    x_x_  x__x_x_x_x_  x_x_x__
+    x_x_  x__x__x_xx  x__.
+    x_x_x_  x__x__x_xx  x__x__]
+SCL_DEG[13456+1]
+SCL_SEM[4 1 2 2 3]
+

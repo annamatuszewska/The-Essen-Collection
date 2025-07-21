@@ -1,0 +1,28 @@
+ERK
+CUT[MEIN HERZ IST SO TRAURIG]
+REG[Europa, Mitteleuropa, Deutschland, Geinsheim am Rhein]
+TRD[]
+FKT[]
+SIG[E1793A]
+KEY[E1793A  08  F 3/4]
+MEL[1_  1_3_3_  3_2_
+    -71  2_4_4_  453_0_
+    5_5_6_  5_.43_
+    4_3_2_  231_ //]
+BEM[]
+MEL_SEM[0 4 0 0 -2 -3 1 2 3 0 0 2 -3 3 0 2 -2 -2 -1 1 -1 -2 0 2 -4]
+MEL_RAW[1  133  32
+    -71  244  4530
+    556  543
+    432  231]
+NO_REP[132
+    -7124530
+    56543
+    43231]
+RTM[x_  x_x_x_  x_x_
+    xx  x_x_x_  xxx_x_
+    x_x_x_  x_.xx_
+    x_x_x_  xxx_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

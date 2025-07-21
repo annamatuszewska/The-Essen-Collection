@@ -1,0 +1,28 @@
+ERK
+CUT[ET SAS E KLI WAELTFIJELTCHEN]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen, Muhlbach]
+TRD[]
+FKT[]
+SIG[E0173A]
+KEY[E0173A  16  G 3/4 2/4]
+MEL[-5_  1_.11__2__  3b_.21__.
+    1_  5_5_-5_-5_  1__1__0_
+    5_  5_.43b__.5_  4_.3b2__0_
+    2_  1_.23b__.-7_  1__1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 2 1 -1 -2 0 7 0 -12 0 5 0 7 0 -2 -2 4 -2 -2 -1 0 -2 2 1 -4 1 0]
+MEL_RAW[-5  1112  3b21
+    1  55-5-5  110
+    5  543b5  43b20
+    2  123b-7  110]
+NO_REP[-5123b21
+    15-510
+    543b543b20
+    2123b-710]
+RTM[x_  x_.xx__x__  x_.xx__.
+    x_  x_x_x_x_  x__x__x_
+    x_  x_.xx__.x_  x_.xx__x_
+    x_  x_.xx__.x_  x__x__x_]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

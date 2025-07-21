@@ -1,0 +1,44 @@
+ERK
+CUT[ADJE MEIN LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.d. Oder, Seelow]
+TRD[]
+FKT[]
+SIG[E1411]
+KEY[E1411   04  F 4/4]
+MEL[5  5542  133
+    3  2444  655
+    5  5542  133
+    3  254-7  1_0
+    5  5_4_  1333
+    2444  655
+    6  5_4_  1333
+    254-7  1_0 //]
+BEM[]
+MEL_SEM[0 0 -2 -3 -2 4 0 0 -2 3 0 0 4 -2 0 0 0 0 -2 -3 -2 4 0 0 -2 5 -2 -6 1 7 0 -2 -5 4 0 0 -2 3 0 0 4 -2 0 2 -2 -2 -5 4 0 0 -2 5 -2 -6 1]
+MEL_RAW[5  5542  133
+    3  2444  655
+    5  5542  133
+    3  254-7  10
+    5  54  1333
+    2444  655
+    6  54  1333
+    254-7  10]
+NO_REP[54213
+    32465
+    54213
+    3254-710
+    5413
+    2465
+    65413
+    254-710]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  x_x_  xxxx
+    xxxx  xxx
+    x  x_x_  xxxx
+    xxxx  x_x]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

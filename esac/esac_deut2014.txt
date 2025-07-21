@@ -1,0 +1,24 @@
+ERK
+CUT[AUF EINEM BAUM EIN KUCKUK]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Barmen]
+TRD[]
+FKT[]
+SIG[E1739]
+KEY[E1739   16  G 2/4]
+MEL[5__  3_1_3_5_  5_4_2__
+    1_111_1_  1_112_-7-7  -5__
+    5__  3_1_3_5_  5_4_2__  1__ //]
+BEM[]
+MEL_SEM[-3 -4 4 3 0 -2 -3 -2 0 0 0 0 0 0 0 2 -3 0 -4 12 -3 -4 4 3 0 -2 -3 -2]
+MEL_RAW[5  3135  542
+    11111  1112-7-7  -5
+    5  3135  542  1]
+NO_REP[5313542
+    12-7-5
+    53135421]
+RTM[x__  x_x_x_x_  x_x_x__
+    x_xxx_x_  x_xxx_xx  x__
+    x__  x_x_x_x_  x_x_x__  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

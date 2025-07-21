@@ -1,0 +1,32 @@
+ERK
+CUT[HOP HOP ZEHREN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+TRD[]
+FKT[]
+SIG[E1825]
+KEY[E1825   08  G 2/4]
+MEL[1_2_  3_10
+    1_22  3_10
+    3_21  333_
+    2221  333_
+    2_2_  1_0_ //]
+BEM[]
+MEL_SEM[2 2 -4 0 2 0 2 -4 4 -2 -2 4 0 0 -2 0 0 -2 4 0 0 -2 0 -2]
+MEL_RAW[12  310
+    122  310
+    321  333
+    2221  333
+    22  10]
+NO_REP[12310
+    12310
+    3213
+    213
+    210]
+RTM[x_x_  x_xx
+    x_xx  x_xx
+    x_xx  xxx_
+    xxxx  xxx_
+    x_x_  x_x_]
+SCL_DEG[123]
+SCL_SEM[2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[DIE DONAU IST INS WASSER GEFALLN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Gegend]
+TRD[]
+FKT[]
+SIG[E1113]
+KEY[E1113   16  G 2/4]
+MEL[-5_  -5_1_1_2_  3_3_3_
+    3_  2_3_4_3_  2_3_4_
+    3_  2_1_-7_1_  2_-7_-5_
+    -5_  1_3_5_45  3__0_ //]
+BEM[]
+MEL_SEM[0 5 0 2 2 0 0 0 -2 2 1 -1 -2 2 1 -1 -2 -2 -1 1 2 -3 -4 0 5 4 3 -2 2 -3]
+MEL_RAW[-5  -5112  333
+    3  2343  234
+    3  21-71  2-7-5
+    -5  13545  30]
+NO_REP[-5123
+    32343234
+    321-712-7-5
+    -51354530]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_xx  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[VATER UNSER IN DOMINE]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken, Thoras]
+TRD[]
+FKT[]
+SIG[E1985]
+KEY[E1985   08 Bb 4/4]
+MEL[-5-5  1_221_-7-6  -5_
+    -5_-6-6-6-6  -6_1_-5_.-4  -3_
+    1_1333  3_5_4_3_  2__
+    3_.2  1_3_2__  1_0__ //]
+BEM[]
+MEL_SEM[0 5 2 0 -2 -1 -2 -2 0 2 0 0 0 0 3 -5 -2 -1 8 0 4 0 0 0 3 -2 -1 -2 2 -2 -2 4 -2 -2]
+MEL_RAW[-5-5  1221-7-6  -5
+    -5-6-6-6-6  -61-5-4  -3
+    11333  3543  2
+    32  132  10]
+NO_REP[-5121-7-6-5
+    -5-61-5-4-3
+    135432
+    3213210]
+RTM[xx  x_xxx_xx  x_
+    x_xxxx  x_x_x_.x  x_
+    x_xxxx  x_x_x_x_  x__
+    x_.x  x_x_x__  x_x__]
+SCL_DEG[-3-4-5-6-712345]
+SCL_SEM[1 2 2 2 1 2 2 1 2]
+

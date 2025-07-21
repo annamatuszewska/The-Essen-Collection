@@ -1,0 +1,28 @@
+ERK
+CUT[CHRISTUS DER HERR IM GARTEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Garz]
+TRD[]
+FKT[]
+SIG[E1960]
+KEY[E1960   08  F 4/4]
+MEL[111  -7_1_2_3_  1__.
+    1_  2_3_4_3_  1_2_3_
+    2_  2_2_3_2_  1_-7_-6_
+    2_  3_2_1-6-5_  (123)2_1 //]
+BEM[]
+MEL_SEM[0 0 -1 1 2 2 -4 0 2 2 1 -1 -4 2 2 -2 0 0 2 -2 -2 -1 -2 5 2 -2 -2 -3 -2 5 2 2 -2 -2]
+MEL_RAW[111  -7123  1
+    1  2343  123
+    2  2232  1-7-6
+    2  321-6-5  12321]
+NO_REP[1-71231
+    12343123
+    2321-7-6
+    2321-6-512321]
+RTM[xxx  x_x_x_x_  x__.
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_xxx_  (xxx)x_x]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

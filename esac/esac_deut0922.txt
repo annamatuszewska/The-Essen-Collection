@@ -1,0 +1,32 @@
+ERK
+CUT[ZU FRANKFURTH  STAND EIN SCHIENES HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0209B]
+KEY[E0209B  16  D 2/4]
+MEL[12  3_3_3_3_  2_1_1_
+    12  3_3_5_3_  2__1_
+    12  3_3_3_3_  2_1_2_
+    12  3_3_3_3_  2_1_2_
+    12  3_3_5_3_  2__1_ //]
+BEM[]
+MEL_SEM[2 2 0 0 0 -2 -2 0 0 2 2 0 3 -3 -2 -2 0 2 2 0 0 0 -2 -2 2 -2 2 2 0 0 0 -2 -2 2 -2 2 2 0 3 -3 -2 -2]
+MEL_RAW[12  3333  211
+    12  3353  21
+    12  3333  212
+    12  3333  212
+    12  3353  21]
+NO_REP[12321
+    1235321
+    123212
+    123212
+    1235321]
+RTM[xx  x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[1235]
+SCL_SEM[2 2 3]
+

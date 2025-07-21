@@ -1,0 +1,36 @@
+ERK
+CUT[MARSCHIEREN WIR IN DAS TUERKISCHE LAND]
+REG[Europa, Mitteleuropa, Deutschland, Franken; Oesterreich]
+TRD[]
+FKT[]
+SIG[E0335]
+KEY[E0335   08  A 6/8]
+MEL[-5  -5111_2  1-7-6-5_
+    -5  -5333_3  3_53_
+    1  1333_3  3_53_
+    3  222554  3_21_
+    -5  -5111_2  1-7-6-5_
+    -5  -533543  2_.1_ //]
+BEM[]
+MEL_SEM[0 5 0 0 2 -2 -1 -2 -2 0 0 9 0 0 0 0 3 -3 -4 0 4 0 0 0 0 3 -3 0 -2 0 0 5 0 -2 -1 -2 -2 -5 0 5 0 0 2 -2 -1 -2 -2 0 0 9 0 3 -2 -1 -2 -2]
+MEL_RAW[-5  -51112  1-7-6-5
+    -5  -53333  353
+    1  13333  353
+    3  222554  321
+    -5  -51112  1-7-6-5
+    -5  -533543  21]
+NO_REP[-5121-7-6-5
+    -5353
+    1353
+    3254321
+    -5121-7-6-5
+    -5354321]
+RTM[x  xxxx_x  xxxx_
+    x  xxxx_x  x_xx_
+    x  xxxx_x  x_xx_
+    x  xxxxxx  x_xx_
+    x  xxxx_x  xxxx_
+    x  xxxxxx  x_.x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

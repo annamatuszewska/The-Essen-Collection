@@ -1,0 +1,28 @@
+ERK
+CUT[SIST NO NIT LANG]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1008A]
+KEY[E1008A  16  F 2/4]
+MEL[13  5_.34_.2  32343_
+    13  5_.34_.2  3__0_
+    3_  3_.22_4_  4_.33_
+    5_  +15312432  1__0_ //]
+BEM[]
+MEL_SEM[4 3 -3 1 -3 2 -2 2 1 -1 -4 4 3 -3 1 -3 2 0 0 -2 0 3 0 -1 0 3 5 -5 -3 -4 2 3 -1 -2 -2]
+MEL_RAW[13  5342  32343
+    13  5342  30
+    3  3224  433
+    5  +15312432  10]
+NO_REP[13534232343
+    13534230
+    3243
+    5+1531243210]
+RTM[xx  x_.xx_.x  xxxxx_
+    xx  x_.xx_.x  x__x_
+    x_  x_.xx_x_  x_.xx_
+    x_  xxxxxxxx  x__x_]
+SCL_DEG[12345+1]
+SCL_SEM[2 2 1 2 5]
+

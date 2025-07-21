@@ -1,0 +1,37 @@
+ERK
+CUT[BERGLEUT SIND DIE SCHOENSTEN LEUT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Ober - Lahn - Kreis;
+    Dill - Kreis; Hannover, Bantorf]
+TRD[]
+FKT[]
+SIG[E1532]
+KEY[E1532   16  G 2/4]
+MEL[1_1_1_2_  -7_-6_-5__
+    -6__-7__  1__0_
+    5_  4_3_2_23  4_3_2_
+    23  4_3_2_1_  -7_-6_-5__
+    1__2__  5_.65_
+    4_  3_3_5_2_  1__0__ //]
+BEM[]
+MEL_SEM[0 0 2 -3 -2 -2 2 2 1 7 -2 -1 -2 0 2 1 -1 -2 0 2 1 -1 -2 -2 -1 -2 -2 5 2 5 2 -2 -2 -1 0 3 -5 -2]
+MEL_RAW[1112  -7-6-5
+    -6-7  10
+    5  43223  432
+    23  4321  -7-6-5
+    12  565
+    4  3352  10]
+NO_REP[12-7-6-5
+    -6-710
+    54323432
+    234321-7-6-5
+    12565
+    435210]
+RTM[x_x_x_x_  x_x_x__
+    x__x__  x__x_
+    x_  x_x_x_xx  x_x_x_
+    xx  x_x_x_x_  x_x_x__
+    x__x__  x_.xx_
+    x_  x_x_x_x_  x__x__]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

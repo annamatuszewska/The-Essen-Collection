@@ -1,0 +1,28 @@
+ERK
+CUT[IN GLUCKGLUCK LEB ICH]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+TRD[]
+FKT[]
+SIG[E1626A]
+KEY[E1626A  08  F 3/4]
+MEL[53+1  6666+16  5_3
+    565  542654  433
+    53+1  6666+16  5_3
+    565  542654  433 //]
+BEM[]
+MEL_SEM[-3 8 -3 0 0 0 3 -3 -2 -3 3 2 -2 0 -2 -3 7 -2 -2 0 -1 0 3 -3 8 -3 0 0 0 3 -3 -2 -3 3 2 -2 0 -2 -3 7 -2 -2 0 -1 0]
+MEL_RAW[53+1  6666+16  53
+    565  542654  433
+    53+1  6666+16  53
+    565  542654  433]
+NO_REP[53+16+1653
+    565426543
+    53+16+1653
+    565426543]
+RTM[xxx  xxxxxx  x_x
+    xxx  xxxxxx  xxx
+    xxx  xxxxxx  x_x
+    xxx  xxxxxx  xxx]
+SCL_DEG[23456+1]
+SCL_SEM[2 1 2 2 3]
+

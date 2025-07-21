@@ -1,0 +1,32 @@
+ERK
+CUT[WENN ALLE BAECHLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Hessen]
+TRD[]
+FKT[]
+SIG[E0429A]
+KEY[E0429A  08  G 4/4]
+MEL[-5_  1_1_1-7-6_  -5_132_0_
+    333_2__  1__0_
+    12  3_465_3_  2_3_4_0_
+    3__5_3_  2_1_2__
+    333_2__  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 -2 -2 5 4 -2 2 0 0 -2 -2 0 2 2 1 4 -2 -3 -2 2 1 -1 3 -3 -2 -2 2 2 0 0 -2 -2]
+MEL_RAW[-5  111-7-6  -51320
+    3332  10
+    12  34653  2340
+    353  212
+    3332  10]
+NO_REP[-51-7-6-51320
+    3210
+    12346532340
+    353212
+    3210]
+RTM[x_  x_x_xxx_  x_xxx_x_
+    xxx_x__  x__x_
+    xx  x_xxx_x_  x_x_x_x_
+    x__x_x_  x_x_x__
+    xxx_x__  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

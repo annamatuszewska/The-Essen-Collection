@@ -1,0 +1,36 @@
+ERK
+CUT[ICH HAB MIR EINS ERWAEHLET]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen]
+TRD[]
+FKT[]
+SIG[E0591B]
+KEY[E0591B  08  G 4/4]
+MEL[-5_  1_-7_2_1_  4__3_
+    34  5_5_4345  3__0_
+    13  3221-7_
+    24  43321_
+    13  2_1_2_3_  4__.
+    54  3_3_2123  1__0_ //]
+BEM[]
+MEL_SEM[5 -1 3 -2 5 -1 0 1 2 0 -2 -1 1 2 -3 -4 4 0 -2 0 -2 -1 3 3 0 -1 0 -2 -2 0 4 -2 -2 2 2 1 2 -2 -1 0 -2 -2 2 2 -4]
+MEL_RAW[-5  1-721  43
+    34  554345  30
+    13  3221-7
+    24  43321
+    13  2123  4
+    54  332123  10]
+NO_REP[-51-72143
+    345434530
+    1321-7
+    24321
+    1321234
+    543212310]
+RTM[x_  x_x_x_x_  x__x_
+    xx  x_x_xxxx  x__x_
+    xx  xxxxx_
+    xx  xxxxx_
+    xx  x_x_x_x_  x__.
+    xx  x_x_xxxx  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

@@ -1,0 +1,44 @@
+ERK
+CUT[JESU WUNDEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glatz]
+TRD[]
+FKT[]
+SIG[E2015]
+KEY[E2015   04  G 4/4]
+MEL[1_2_  433_
+    5_43  322_
+    2_32  1_23
+    4_3_  2_0_
+    2_34  322_
+    4_3_  2_0_
+    1_2_  3_54
+    3_2_  1__ //]
+BEM[]
+MEL_SEM[2 3 -1 0 3 -2 -1 0 -2 0 0 2 -2 -2 2 2 1 -1 -2 0 2 1 -1 -2 0 3 -1 -2 -2 2 2 3 -2 -1 -2 -2]
+MEL_RAW[12  433
+    543  322
+    232  123
+    43  20
+    234  322
+    43  20
+    12  354
+    32  1]
+NO_REP[1243
+    5432
+    232123
+    4320
+    23432
+    4320
+    12354
+    321]
+RTM[x_x_  xxx_
+    x_xx  xxx_
+    x_xx  x_xx
+    x_x_  x_x_
+    x_xx  xxx_
+    x_x_  x_x_
+    x_x_  x_xx
+    x_x_  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[ICH WEISS NICHT BIN ICH REICH ODER ARM]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Franken; Baden; Hessen]
+TRD[]
+FKT[]
+SIG[E1374]
+KEY[E1374   08  G 4/4]
+MEL[-5_  1_3_5_31  -7_2_4_
+    2-7  1_3_5_43  3_2_0_
+    23  4_4_6654  3_3_5_
+    31  22225432  2_1_0_
+    23  4_4_6654  3_3_5_
+    31  22225432  2_1_0_ //]
+BEM[]
+MEL_SEM[5 4 3 -3 -4 -1 3 3 -3 -3 1 4 3 -2 -1 0 -2 0 2 1 0 4 0 -2 -2 -1 0 3 -3 -4 2 0 0 0 5 -2 -1 -2 0 -2 2 2 1 0 4 0 -2 -2 -1 0 3 -3 -4 2 0 0 0 5 -2 -1 -2 0 -2]
+MEL_RAW[-5  13531  -724
+    2-7  13543  320
+    23  446654  335
+    31  22225432  210
+    23  446654  335
+    31  22225432  210]
+NO_REP[-513531-724
+    2-71354320
+    23465435
+    312543210
+    23465435
+    312543210]
+RTM[x_  x_x_x_xx  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_x_xxxx  x_x_x_
+    xx  xxxxxxxx  x_x_x_
+    xx  x_x_xxxx  x_x_x_
+    xx  xxxxxxxx  x_x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

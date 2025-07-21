@@ -1,0 +1,32 @@
+ERK
+CUT[ES WAR EIN KLEINER MANN]
+REG[Europa, Mitteleuropa, Deutschland, Schleswig - Holstein]
+TRD[]
+FKT[]
+SIG[E0895]
+KEY[E0895   08  F 3/4]
+MEL[1_3_5_  4_4-7-7_
+    5__6_  5__.
+    +1+1+1+1+1_  7_765_
+    666+176  5_543_
+    4_2_5_  1__0_ //]
+BEM[]
+MEL_SEM[4 3 -2 0 -6 0 8 2 -2 5 0 0 0 0 -1 0 -2 -2 2 0 0 3 -1 -2 -2 0 -2 -1 1 -3 5 -7]
+MEL_RAW[135  44-7-7
+    56  5
+    +1+1+1+1+1  7765
+    666+176  5543
+    425  10]
+NO_REP[1354-7
+    565
+    +1765
+    6+176543
+    42510]
+RTM[x_x_x_  x_xxx_
+    x__x_  x__.
+    xxxxx_  x_xxx_
+    xxxxxx  x_xxx_
+    x_x_x_  x__x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

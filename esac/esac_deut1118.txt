@@ -1,0 +1,28 @@
+ERK
+CUT[JETZT KOMMT DIE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau]
+TRD[]
+FKT[]
+SIG[E0537]
+KEY[E0537   08  G 4/4]
+MEL[-5_  1_1_3_21  -7_.12_
+    -5_  1_1_4_3_  2__0_
+    23  4_6_4_2_  3_5_3_
+    13  2_4_2_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 -1 1 2 -7 5 0 5 -1 -2 0 2 1 4 -4 -3 2 3 -3 -4 4 -2 3 -3 -3 1]
+MEL_RAW[-5  11321  -712
+    -5  1143  20
+    23  4642  353
+    13  242-7  10]
+NO_REP[-51321-712
+    -514320
+    234642353
+    13242-710]
+RTM[x_  x_x_x_xx  x_.xx_
+    x_  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[MAIEKAEFER FRICO FRICO]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1852]
+KEY[E1852   16  F 3/8]
+MEL[55  5_3_6_  5_3_6_  5_3_
+    5_  5_.44_  3__5_  5_.44_  3__0_
+    5__5_  5_.56_  5__.  3__
+    3_  5_5_5_  5_.56_  5__.  3__ //]
+BEM[]
+MEL_SEM[0 0 -3 5 -2 -3 5 -2 -3 3 0 -2 0 -1 3 0 -2 0 -1 3 0 0 0 2 -2 -3 0 3 0 0 0 0 2 -2 -3]
+MEL_RAW[55  536  536  53
+    5  544  35  544  30
+    55  556  5  3
+    3  555  556  5  3]
+NO_REP[53653653
+    5435430
+    5653
+    35653]
+RTM[xx  x_x_x_  x_x_x_  x_x_
+    x_  x_.xx_  x__x_  x_.xx_  x__x_
+    x__x_  x_.xx_  x__.  x__
+    x_  x_x_x_  x_.xx_  x__.  x__]
+SCL_DEG[3456]
+SCL_SEM[1 2 2]
+

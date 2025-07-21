@@ -1,0 +1,32 @@
+ERK
+CUT[REGE REGE SCHUURE]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+TRD[]
+FKT[]
+SIG[E1841]
+KEY[E1841   16  G 2/4]
+MEL[1_1_2_2_  3__1_-5_
+    1_1_2_2_  3__1_-5_
+    3_3_221_  3_3_3_
+    3_  2_2_2_2_  3__3__
+    2_2_2_3_  1_1_1__ //]
+BEM[]
+MEL_SEM[0 2 0 2 -4 -5 5 0 2 0 2 -4 -5 9 0 -2 0 -2 4 0 0 0 -2 0 0 0 2 0 -2 0 0 2 -4 0 0]
+MEL_RAW[1122  31-5
+    1122  31-5
+    33221  333
+    3  2222  33
+    2223  111]
+NO_REP[1231-5
+    1231-5
+    3213
+    323
+    231]
+RTM[x_x_x_x_  x__x_x_
+    x_x_x_x_  x__x_x_
+    x_x_xxx_  x_x_x_
+    x_  x_x_x_x_  x__x__
+    x_x_x_x_  x_x_x__]
+SCL_DEG[-5123]
+SCL_SEM[5 2 2]
+

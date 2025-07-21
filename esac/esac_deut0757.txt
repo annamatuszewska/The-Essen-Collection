@@ -1,0 +1,36 @@
+ERK
+CUT[MEISTER MUELLER THUT MAL SEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Odenwald; Thueringen; Franken]
+TRD[]
+FKT[]
+SIG[E0108]
+KEY[E0108   08  F 4/4]
+MEL[12  3_3_3543  3_2_0_
+    23  4_4_4654  4_3_0_
+    34  5_345+176  6_5_0
+    556  5_.654-72  2_1_0_
+    34  5_345+176  6_5_0
+    556  5_.654-72  2_1_0_ //]
+BEM[]
+MEL_SEM[2 2 0 0 3 -2 -1 0 -2 0 2 1 0 0 4 -2 -2 0 -1 0 1 2 -3 1 2 5 -1 -2 0 -2 0 0 2 -2 2 -2 -2 -6 3 0 -2 4 1 2 -3 1 2 5 -1 -2 0 -2 0 0 2 -2 2 -2 -2 -6 3 0 -2]
+MEL_RAW[12  333543  320
+    23  444654  430
+    34  5345+176  650
+    556  5654-72  210
+    34  5345+176  650
+    556  5654-72  210]
+NO_REP[12354320
+    23465430
+    345345+17650
+    565654-7210
+    345345+17650
+    565654-7210]
+RTM[xx  x_x_xxxx  x_x_x_
+    xx  x_x_xxxx  x_x_x_
+    xx  x_xxxxxx  x_x_x
+    xxx  x_.xxxxx  x_x_x_
+    xx  x_xxxxxx  x_x_x
+    xxx  x_.xxxxx  x_x_x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

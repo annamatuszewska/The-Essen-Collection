@@ -1,0 +1,32 @@
+ERK
+CUT[ZU PRESSBURG STELL ICHS MEIN UNGLUECK]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1396]
+KEY[E1396   16 Bb 2/4]
+MEL[-5_  1__-7_1_  2__1_
+    2_  3_3_2_3_  4_3_20
+    3_  3_3_2_3_  4__0_
+    3_  2_2_1_2_  3__0_
+    2_  3_3_2_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 2 2 0 -2 2 1 -1 -2 2 0 0 -2 2 1 -1 -2 0 -2 2 2 -2 2 0 -2 0 -2]
+MEL_RAW[-5  1-71  21
+    2  3323  4320
+    3  3323  40
+    3  2212  30
+    2  3322  10]
+NO_REP[-51-7121
+    23234320
+    32340
+    321230
+    23210]
+RTM[x_  x__x_x_  x__x_
+    x_  x_x_x_x_  x_x_xx
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

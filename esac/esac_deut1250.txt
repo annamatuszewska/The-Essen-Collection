@@ -1,0 +1,36 @@
+ERK
+CUT[AUS ISTS MIT MIR]
+REG[Europa, Mitteleuropa, Deutschland, Bergstrasse, Alsbach]
+TRD[]
+FKT[]
+SIG[E0665]
+KEY[E0665   08  D 3/8]
+MEL[5_.  5_.  355  3
+    55  6_.  6_.  666  +1
+    76  5_.  5_.  544  5
+    33  422  1
+    35  544  5
+    33  422  1_0 //]
+BEM[]
+MEL_SEM[0 -3 3 0 -3 3 0 2 0 0 0 0 3 -1 -2 -2 0 0 -2 0 2 -3 0 1 -3 0 -2 4 3 0 -2 0 2 -3 0 1 -3 0 -2]
+MEL_RAW[5  5  355  3
+    55  6  6  666  +1
+    76  5  5  544  5
+    33  422  1
+    35  544  5
+    33  422  10]
+NO_REP[5353
+    56+1
+    76545
+    3421
+    3545
+    34210]
+RTM[x_.  x_.  xxx  x
+    xx  x_.  x_.  xxx  x
+    xx  x_.  x_.  xxx  x
+    xx  xxx  x
+    xx  xxx  x
+    xx  xxx  x_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

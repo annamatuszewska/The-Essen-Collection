@@ -1,0 +1,32 @@
+ERK
+CUT[SCHIFFMANN LAT'T SCHIFFKEN SINKEN]
+REG[Europa, Mitteleuropa, Deutschland, Schoenebeck a.d. Elbe]
+TRD[]
+FKT[]
+SIG[E0078C]
+KEY[E0078C  08  F 4/4]
+MEL[13  5_5_5_6_  5_.31_
+    3_  2__3_3_  1_.-7-6_
+    -7_  1_-7_1_-7_  -6__0_
+    3_  3_4_3_2_  1_-7_-6_
+    3_  3_2_3_4_  5_.65_3_  5__3_ //]
+BEM[]
+MEL_SEM[4 3 0 0 2 -2 -3 -4 4 -2 2 0 -4 -1 -2 2 1 -1 1 -1 -2 7 0 1 -1 -2 -2 -1 -2 7 0 -2 2 1 2 2 -2 -3 3 -3]
+MEL_RAW[13  5556  531
+    3  233  1-7-6
+    -7  1-71-7  -60
+    3  3432  1-7-6
+    3  3234  5653  53]
+NO_REP[1356531
+    3231-7-6
+    -71-71-7-60
+    34321-7-6
+    3234565353]
+RTM[xx  x_x_x_x_  x_.xx_
+    x_  x__x_x_  x_.xx_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_.xx_x_  x__x_]
+SCL_DEG[-6-7123456]
+SCL_SEM[2 1 2 2 1 2 2]
+

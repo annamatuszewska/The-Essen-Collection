@@ -1,0 +1,36 @@
+ERK
+CUT[ICH TRAU AUF GOTT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+TRD[]
+FKT[]
+SIG[E2017]
+KEY[E2017   08  G 2/4]
+MEL[12  3b_43b  2_5_  4_3b_  2__
+    3b_21  -7_13b  2__  -5_
+    12  3b_43b  2_5_  4_3b_  2__
+    3b_21  -7_13b  2__  -5_0_
+    5_43b  4_-7b_  5_43b  4_-7b_
+    123b4  5_12  3b_2_  1_ //]
+BEM[]
+MEL_SEM[2 1 2 -2 -1 5 -2 -2 -1 1 -1 -2 -1 1 3 -1 -7 5 2 1 2 -2 -1 5 -2 -2 -1 1 -1 -2 -1 1 3 -1 -7 12 -2 -2 2 -7 9 -2 -2 2 -7 2 2 1 2 2 -7 2 1 -1 -2]
+MEL_RAW[12  3b43b  25  43b  2
+    3b21  -713b  2  -5
+    12  3b43b  25  43b  2
+    3b21  -713b  2  -50
+    543b  4-7b  543b  4-7b
+    123b4  512  3b2  1]
+NO_REP[123b43b2543b2
+    3b21-713b2-5
+    123b43b2543b2
+    3b21-713b2-50
+    543b4-7b543b4-7b
+    123b45123b21]
+RTM[xx  x_xx  x_x_  x_x_  x__
+    x_xx  x_xx  x__  x_
+    xx  x_xx  x_x_  x_x_  x__
+    x_xx  x_xx  x__  x_x_
+    x_xx  x_x_  x_xx  x_x_
+    xxxx  x_xx  x_x_  x_]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

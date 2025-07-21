@@ -1,0 +1,20 @@
+ERK
+CUT[ES HATT EIN BAUER EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken]
+TRD[]
+FKT[]
+SIG[E0109B]
+KEY[E0109B  08  F 3/8]
+MEL[-5  1_1  313  5_5  3_
+    6  5_3  234  5_5  3_ //]
+BEM[]
+MEL_SEM[5 0 4 -4 4 3 0 -3 5 -2 -3 -2 2 1 2 0 -3]
+MEL_RAW[-5  11  313  55  3
+    6  53  234  55  3]
+NO_REP[-5131353
+    65323453]
+RTM[x  x_x  xxx  x_x  x_
+    x  x_x  xxx  x_x  x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

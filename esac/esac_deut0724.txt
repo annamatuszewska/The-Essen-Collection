@@ -1,0 +1,32 @@
+ERK
+CUT[STAND ICH AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0089G]
+KEY[E0089G  16  G 2/4]
+MEL[-5_  3_1_5_3_  3__2_
+    2_  3_1_5_3_  2__0_
+    34  5_5_5_56  5_3_1__
+    4__6__  5_3_1_
+    5_  5_4_2_-7_  1__0_ //]
+BEM[]
+MEL_SEM[9 -4 7 -3 0 -2 0 2 -4 7 -3 -2 2 1 2 0 0 0 2 -2 -3 -4 5 4 -2 -3 -4 7 0 -2 -3 -3 1]
+MEL_RAW[-5  3153  32
+    2  3153  20
+    34  55556  531
+    46  531
+    5  542-7  10]
+NO_REP[-531532
+    2315320
+    3456531
+    46531
+    542-710]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    xx  x_x_x_xx  x_x_x__
+    x__x__  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[ES FUHR EIN ARMER BINDER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0130]
+KEY[E0130   08  G 4/4]
+MEL[34  5_5_6_6_  5_.43_
+    5_  4_3_2_2_  1__0_
+    1_  2_2_3_3_  4__2_
+    5_  1_1_-7_1_  2__
+    3__  4_5_3_2_  1__. //]
+BEM[]
+MEL_SEM[1 2 0 2 0 -2 -2 -1 3 -2 -1 -2 0 -2 0 2 0 2 0 1 -3 5 -7 0 -1 1 2 2 1 2 -3 -2 -2]
+MEL_RAW[34  5566  543
+    5  4322  10
+    1  2233  42
+    5  11-71  2
+    3  4532  1]
+NO_REP[3456543
+    543210
+    12342
+    51-712
+    345321]
+RTM[xx  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__
+    x__  x_x_x_x_  x__.]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

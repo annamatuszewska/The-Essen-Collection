@@ -1,0 +1,32 @@
+ERK
+CUT[WER LEUCHTET UNS DENN BEI DER FINSTREN NACHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau]
+TRD[]
+FKT[]
+SIG[E2003]
+KEY[E2003   08  D 4/4]
+MEL[34  5_5_5_67  +1_345_
+    67  +1_3_2_-7_  1__0_
+    5_  +1_.+2+3+2+17  7_6_6_
+    67  +1_+1+1+2+176  5_4_3_
+    57  +1_3_2_-7_  1__0_ //]
+BEM[]
+MEL_SEM[1 2 0 0 2 2 1 -8 1 2 2 2 1 -8 -2 -3 1 7 5 2 2 -2 -2 -1 0 -2 0 0 2 1 0 0 2 -2 -1 -2 -2 -2 -1 3 4 1 -8 -2 -3 1]
+MEL_RAW[34  55567  +1345
+    67  +132-7  10
+    5  +1+2+3+2+17  766
+    67  +1+1+1+2+176  543
+    57  +132-7  10]
+NO_REP[34567+1345
+    67+132-710
+    5+1+2+3+2+176
+    67+1+2+176543
+    57+132-710]
+RTM[xx  x_x_x_xx  x_xxx_
+    xx  x_x_x_x_  x__x_
+    x_  x_.xxxxx  x_x_x_
+    xx  x_xxxxxx  x_x_x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-71234567+1+2+3]
+SCL_SEM[1 2 2 1 2 2 2 1 2 2]
+

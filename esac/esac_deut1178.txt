@@ -1,0 +1,28 @@
+ERK
+CUT[GUTEN TAG HERR GAERTNERSMANN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[E0582]
+KEY[E0582   08  G 2/4]
+MEL[-5332  211_
+    -51-71  3_20
+    2465  544_
+    234-7  2_10 //]
+BEM[]
+MEL_SEM[9 0 -2 0 -2 0 -5 5 -1 1 4 -2 0 3 4 -2 0 -2 0 -3 2 1 -6 3 -2]
+MEL_RAW[-5332  211
+    -51-71  320
+    2465  544
+    234-7  210]
+NO_REP[-5321
+    -51-71320
+    24654
+    234-7210]
+RTM[xxxx  xxx_
+    xxxx  x_xx
+    xxxx  xxx_
+    xxxx  x_xx]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

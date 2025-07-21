@@ -1,0 +1,36 @@
+ERK
+CUT[ICH HAB EIN KLEINES HUETTCHEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0516]
+KEY[E0516   08  F 3/4]
+MEL[-512  3_.423  1_.
+    334  5_.645  3_0
+    111  6_.6+16  5_3
+    555  4_2555  3_0
+    111  6_.6+16  5_3
+    555  4_2555  3_0 //]
+BEM[]
+MEL_SEM[5 2 2 1 -3 2 -4 4 0 1 2 2 -4 2 -3 -4 0 0 9 0 3 -3 -2 -3 3 0 0 -2 -3 5 0 0 -3 -4 0 0 9 0 3 -3 -2 -3 3 0 0 -2 -3 5 0 0 -3]
+MEL_RAW[-512  3423  1
+    334  5645  30
+    111  66+16  53
+    555  42555  30
+    111  66+16  53
+    555  42555  30]
+NO_REP[-51234231
+    34564530
+    16+1653
+    542530
+    16+1653
+    542530]
+RTM[xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_xxxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_xxxx  x_x]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

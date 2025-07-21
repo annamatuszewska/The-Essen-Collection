@@ -1,0 +1,28 @@
+ERK
+CUT[FAHR MER NET UEBER MEI ACKERLE]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[E1005A]
+KEY[E1005A  08  G 3/4]
+MEL[3_.22_  4_3_4_  5_5_5_
+    3_.22_  4_3_4_  5__0_
+    5_.65_  4_5_4_  3_3_3_
+    5_.65_  4_5_4_  3__0_ //]
+BEM[]
+MEL_SEM[-2 0 3 -1 1 2 0 0 -3 -2 0 3 -1 1 2 0 2 -2 -2 2 -2 -1 0 0 3 2 -2 -2 2 -2 -1]
+MEL_RAW[322  434  555
+    322  434  50
+    565  454  333
+    565  454  30]
+NO_REP[324345
+    3243450
+    5654543
+    56545430]
+RTM[x_.xx_  x_x_x_  x_x_x_
+    x_.xx_  x_x_x_  x__x_
+    x_.xx_  x_x_x_  x_x_x_
+    x_.xx_  x_x_x_  x__x_]
+SCL_DEG[23456]
+SCL_SEM[2 1 2 2]
+

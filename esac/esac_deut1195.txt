@@ -1,0 +1,36 @@
+ERK
+CUT[WIR WOLLEN VERGNUEGT UND EINSAM LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0602A]
+KEY[E0602A  16  G 3/8]
+MEL[1_  1_-5_3_  3_1_
+    5_  5_4_3_  3_2_
+    23  4_3_1_  3_2_
+    23  4_3_1_  3_2_
+    13  5__6_  5_.4
+    3_  6_5_-7_  1__ //]
+BEM[]
+MEL_SEM[0 -5 9 0 -4 7 0 -2 -1 0 -2 0 2 1 -1 -4 4 -2 0 2 1 -1 -4 4 -2 -2 4 3 2 -2 -2 -1 5 -2 -8 1]
+MEL_RAW[1  1-53  31
+    5  543  32
+    23  431  32
+    23  431  32
+    13  56  54
+    3  65-7  1]
+NO_REP[1-531
+    5432
+    2343132
+    2343132
+    135654
+    365-71]
+RTM[x_  x_x_x_  x_x_
+    x_  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    xx  x__x_  x_.x
+    x_  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[BRAUT WO IST DEIN KRAENZCHEN HIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau]
+TRD[]
+FKT[]
+SIG[E0873A]
+KEY[E0873A  08  F 4/4]
+MEL[5_.43_1_  321-71__
+    -71234_4_  3_5_2__
+    5_.44321  4_6_5__
+    4_.53_1_  321-71__ //]
+BEM[]
+MEL_SEM[-2 -1 -4 4 -2 -2 -1 1 -1 1 2 2 1 0 -1 3 -5 5 -2 0 -1 -2 -2 5 4 -2 -2 2 -3 -4 4 -2 -2 -1 1]
+MEL_RAW[5431  321-71
+    -712344  352
+    544321  465
+    4531  321-71]
+NO_REP[5431321-71
+    -71234352
+    54321465
+    4531321-71]
+RTM[x_.xx_x_  xxxxx__
+    xxxxx_x_  x_x_x__
+    x_.xxxxx  x_x_x__
+    x_.xx_x_  xxxxx__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

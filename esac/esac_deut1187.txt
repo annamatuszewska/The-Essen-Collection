@@ -1,0 +1,28 @@
+ERK
+CUT[ACH WENN DOCH MEIN SCHAETZCHEN EIN ROSENSTOCK WAER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+TRD[]
+FKT[]
+SIG[E0593]
+KEY[E0593   16  A 3/8]
+MEL[-5_  1_.23_  2_.34_  5_5_4_  3__
+    56  5_3_56  342_
+    -5_  1_.23_  2_.34_  5_5_4_  3__
+    44  5_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 2 2 -2 2 1 2 0 -2 -1 3 2 -2 -3 3 2 -5 1 -3 -7 5 2 2 -2 2 1 2 0 -2 -1 1 0 2 -3 -2 -2]
+MEL_RAW[-5  123  234  554  3
+    56  5356  342
+    -5  123  234  554  3
+    44  532  1]
+NO_REP[-5123234543
+    565356342
+    -5123234543
+    45321]
+RTM[x_  x_.xx_  x_.xx_  x_x_x_  x__
+    xx  x_x_xx  xxx_
+    x_  x_.xx_  x_.xx_  x_x_x_  x__
+    xx  x_x_x_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

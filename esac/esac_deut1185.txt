@@ -1,0 +1,32 @@
+ERK
+CUT[ICH HABE MIR EINES ERWAEHLT]
+REG[Europa, Mitteleuropa, Deutschland, Kaiserslautern, Westrich]
+TRD[]
+FKT[]
+SIG[E0591A]
+KEY[E0591A  16  F 6/8]
+MEL[12  3_.43_2_1_2_  1__.0__
+    34  5_.65_5_4_4_  3__.0__
+    34  5_5_6_4__
+    23  4_4_5_3__
+    12  3_.43_2_1_2_  1__.0__ //]
+BEM[]
+MEL_SEM[2 2 1 -1 -2 -2 2 -2 4 1 2 2 -2 0 -2 0 -1 0 1 2 0 2 -4 -3 2 1 0 2 -3 -4 2 2 1 -1 -2 -2 2 -2]
+MEL_RAW[12  343212  10
+    34  565544  30
+    34  5564
+    23  4453
+    12  343212  10]
+NO_REP[1234321210
+    34565430
+    34564
+    23453
+    1234321210]
+RTM[xx  x_.xx_x_x_x_  x__.x__
+    xx  x_.xx_x_x_x_  x__.x__
+    xx  x_x_x_x__
+    xx  x_x_x_x__
+    xx  x_.xx_x_x_x_  x__.x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

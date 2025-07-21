@@ -1,0 +1,28 @@
+ERK
+CUT[MEINE SCHUHE SIND ZERISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald]
+TRD[]
+FKT[]
+SIG[E1623]
+KEY[E1623   08  G 3/4]
+MEL[-5-5  1_5_31  -7_5_
+    2-7  1_5_31  2__
+    23  466_6_  5_3_
+    3_  255_4_  3__ //]
+BEM[]
+MEL_SEM[0 5 7 -3 -4 -1 8 -5 -3 1 7 -3 -4 2 0 2 1 4 0 0 -2 -3 0 -2 5 0 -2 -1]
+MEL_RAW[-5-5  1531  -75
+    2-7  1531  2
+    23  4666  53
+    3  2554  3]
+NO_REP[-51531-75
+    2-715312
+    234653
+    32543]
+RTM[xx  x_x_xx  x_x_
+    xx  x_x_xx  x__
+    xx  xxx_x_  x_x_
+    x_  xxx_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

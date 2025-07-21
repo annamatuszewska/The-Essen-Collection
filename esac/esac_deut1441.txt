@@ -1,0 +1,36 @@
+ERK
+CUT[MAEGDLEIN FREI DU NICHT SO FRUEH]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0835]
+KEY[E0835   08  D 4/4]
+MEL[13  5_.34_4_  3__0_
+    34  5_.66_4_  3__0_
+    12  3_3_3_23  4_2_2_
+    1_  3_3_5_43  4_2_2_0
+    -5  12345_55  6_6_5_0
+    5  4_4_3_3_  2_2_1_ //]
+BEM[]
+MEL_SEM[4 3 -3 1 0 -1 0 1 2 2 0 -4 -1 -4 2 2 0 0 -2 2 1 -3 0 -2 4 0 3 -2 -1 1 -3 0 -7 5 2 2 1 2 0 0 2 0 -2 0 -2 0 -1 0 -2 0 -2]
+MEL_RAW[13  5344  30
+    34  5664  30
+    12  33323  422
+    1  33543  4220
+    -5  1234555  6650
+    5  4433  221]
+NO_REP[1353430
+    3456430
+    1232342
+    13543420
+    -512345650
+    54321]
+RTM[xx  x_.xx_x_  x__x_
+    xx  x_.xx_x_  x__x_
+    xx  x_x_x_xx  x_x_x_
+    x_  x_x_x_xx  x_x_x_x
+    x  xxxxx_xx  x_x_x_x
+    x  x_x_x_x_  x_x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

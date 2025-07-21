@@ -1,0 +1,32 @@
+ERK
+CUT[MEIN SCHATZ DER GIENG ZUM BERG HINAUF]
+REG[Europa, Mitteleuropa, Deutschland, Nieder - Hessen, Rengertshausen]
+TRD[]
+FKT[]
+SIG[E0663]
+KEY[E0663   08  F 4/4]
+MEL[-5_  1_.-71_2_  3_.21_
+    13  5_5_6_6_  5_.43_
+    13  5__6__  4_3_2_.
+    3  4__5__  3_2_1_
+    6_  5_3_2__  1__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -2 -2 0 4 3 0 2 0 -2 -2 -1 -4 4 3 2 -4 -1 -2 2 1 2 -3 -2 -2 9 -2 -3 -2 -2]
+MEL_RAW[-5  1-712  321
+    13  5566  543
+    13  56  432
+    3  45  321
+    6  532  10]
+NO_REP[-51-712321
+    1356543
+    1356432
+    345321
+    653210]
+RTM[x_  x_.xx_x_  x_.xx_
+    xx  x_x_x_x_  x_.xx_
+    xx  x__x__  x_x_x_.
+    x  x__x__  x_x_x_
+    x_  x_x_x__  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

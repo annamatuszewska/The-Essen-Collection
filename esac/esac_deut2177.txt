@@ -1,0 +1,28 @@
+ERK
+CUT[ES SUNGEN DREI ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+TRD[]
+FKT[]
+SIG[E2031C]
+KEY[E2031C  08  F 3/4]
+MEL[13  5_.654  3_2_
+    1_  5_.43_  2__
+    12  3_352_  1_-5_
+    13  5_.32_  1__ //]
+BEM[]
+MEL_SEM[4 3 2 -2 -2 -1 -2 -2 7 -2 -1 -2 -2 2 2 0 3 -5 -2 -5 5 4 3 -3 -2 -2]
+MEL_RAW[13  5654  32
+    1  543  2
+    12  3352  1-5
+    13  532  1]
+NO_REP[13565432
+    15432
+    123521-5
+    135321]
+RTM[xx  x_.xxx  x_x_
+    x_  x_.xx_  x__
+    xx  x_xxx_  x_x_
+    xx  x_.xx_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

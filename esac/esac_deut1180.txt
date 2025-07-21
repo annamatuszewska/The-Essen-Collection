@@ -1,0 +1,28 @@
+ERK
+CUT[WAS HAB ICH DENN MEINEM FEINSLIEBCHEN GETHAN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Bergstrasse]
+TRD[]
+FKT[]
+SIG[E0585]
+KEY[E0585   16 Eb 4/4]
+MEL[1_3_  5__5_5_5_6_5_4_  4_3_3_3_5__4_
+    3_  2__2_2_6__5_4_  4_3_3_3_3__0_
+    5_  5_2_2_2_5__5_5_  6__6__7__0_
+    5_  +1__7_6_5_.65_4_  3__2_2_1__ //]
+BEM[]
+MEL_SEM[4 3 0 0 0 2 -2 -2 0 -1 0 0 3 -2 -1 -2 0 0 7 -2 -2 0 -1 0 0 0 3 0 -5 0 0 5 0 0 2 0 2 -4 5 -1 -2 -2 2 -2 -2 -1 -2 0 -2]
+MEL_RAW[13  5555654  433354
+    3  222654  433330
+    5  5222555  6670
+    5  +1765654  3221]
+NO_REP[135654354
+    3265430
+    525670
+    5+1765654321]
+RTM[x_x_  x__x_x_x_x_x_x_  x_x_x_x_x__x_
+    x_  x__x_x_x__x_x_  x_x_x_x_x__x_
+    x_  x_x_x_x_x__x_x_  x__x__x__x_
+    x_  x__x_x_x_.xx_x_  x__x_x_x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

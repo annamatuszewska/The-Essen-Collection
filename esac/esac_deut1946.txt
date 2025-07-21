@@ -1,0 +1,36 @@
+ERK
+CUT[HABT IHR LUST IHR LIEBEN BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1605]
+KEY[E1605   08  G 3/4]
+MEL[32  1_1-512  3_1_
+    23  4_3_21  2__
+    32  1_1-512  3_1_
+    23  4_3_21  2__
+    43  2_1_-71  2__
+    54  3_3_22  1__ //]
+BEM[]
+MEL_SEM[-2 -2 0 -5 5 2 2 -4 2 2 1 -1 -2 -2 2 2 -2 -2 0 -5 5 2 2 -4 2 2 1 -1 -2 -2 2 3 -1 -2 -2 -1 1 2 5 -2 -1 0 -2 0 -2]
+MEL_RAW[32  11-512  31
+    23  4321  2
+    32  11-512  31
+    23  4321  2
+    43  21-71  2
+    54  3322  1]
+NO_REP[321-51231
+    2343212
+    321-51231
+    2343212
+    4321-712
+    54321]
+RTM[xx  x_xxxx  x_x_
+    xx  x_x_xx  x__
+    xx  x_xxxx  x_x_
+    xx  x_x_xx  x__
+    xx  x_x_xx  x__
+    xx  x_x_xx  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

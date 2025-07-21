@@ -1,0 +1,36 @@
+ERK
+CUT[ALS DIE GROSSE STADT BELGARAD]
+REG[Europa, Mitteleuropa, Deutschland, Franken; Oesterreich]
+TRD[]
+FKT[]
+SIG[E0336]
+KEY[E0336   08  G 3/4]
+MEL[-5-5  1_3322  1_
+    1_12  3_5_42  3__
+    53  2_.122  345_
+    53  2_.122  345_
+    -5-5  1_3_22  3__
+    54  3_5_22  1__ //]
+BEM[]
+MEL_SEM[0 5 4 0 -2 0 -2 0 0 2 2 3 -2 -3 2 3 -3 -2 -2 2 0 2 1 2 0 -3 -2 -2 2 0 2 1 2 -12 0 5 4 -2 0 2 3 -2 -1 3 -5 0 -2]
+MEL_RAW[-5-5  13322  1
+    112  3542  3
+    53  2122  345
+    53  2122  345
+    -5-5  1322  3
+    54  3522  1]
+NO_REP[-51321
+    1235423
+    53212345
+    53212345
+    -51323
+    543521]
+RTM[xx  x_xxxx  x_
+    x_xx  x_x_xx  x__
+    xx  x_.xxx  xxx_
+    xx  x_.xxx  xxx_
+    xx  x_x_xx  x__
+    xx  x_x_xx  x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

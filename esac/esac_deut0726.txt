@@ -1,0 +1,28 @@
+ERK
+CUT[ES REITEN DREI HERREN ZU MUENCHEN HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Regensburg]
+TRD[]
+FKT[]
+SIG[E0092]
+KEY[E0092   08  C 4/4]
+MEL[-5  -51-7-6-5-6-71  2_1-71_0
+    -5  -51-7-6-5-6-71  2_1-71_0
+    -5  -511_1_1_  -522_0_
+    -7_  -711_0_. //]
+BEM[]
+MEL_SEM[0 5 -1 -2 -2 2 2 1 2 -2 -1 1 -5 0 5 -1 -2 -2 2 2 1 2 -2 -1 1 -5 0 5 0 0 0 -5 7 0 -3 0 1 0]
+MEL_RAW[-5  -51-7-6-5-6-71  21-710
+    -5  -51-7-6-5-6-71  21-710
+    -5  -51111  -5220
+    -7  -7110]
+NO_REP[-51-7-6-5-6-7121-710
+    -51-7-6-5-6-7121-710
+    -51-520
+    -710]
+RTM[x  xxxxxxxx  x_xxx_x
+    x  xxxxxxxx  x_xxx_x
+    x  xxx_x_x_  xxx_x_
+    x_  xxx_x_.]
+SCL_DEG[-5-6-712]
+SCL_SEM[2 2 1 2]
+

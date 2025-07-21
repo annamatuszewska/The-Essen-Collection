@@ -1,0 +1,45 @@
+ERK
+CUT[ICH WILL MICH UMSCHAUEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Meiningen;
+    Schlesien]
+TRD[]
+FKT[]
+SIG[E0685]
+KEY[E0685   08  G 3/4]
+MEL[13  5_5_64  433_
+    53  32421-7  1__
+    13  5_5_64  433_
+    53  32421-7  1__
+    13  5_3213  2_2_
+    13  5_3213  2__
+    13  5_5_64  433_
+    53  32421-7  1__ //]
+BEM[]
+MEL_SEM[4 3 0 2 -4 0 -1 0 3 -3 0 -2 3 -3 -2 -1 1 0 4 3 0 2 -4 0 -1 0 3 -3 0 -2 3 -3 -2 -1 1 0 4 3 -3 -2 -2 4 -2 0 -2 4 3 -3 -2 -2 4 -2 -2 4 3 0 2 -4 0 -1 0 3 -3 0 -2 3 -3 -2 -1 1]
+MEL_RAW[13  5564  433
+    53  32421-7  1
+    13  5564  433
+    53  32421-7  1
+    13  53213  22
+    13  53213  2
+    13  5564  433
+    53  32421-7  1]
+NO_REP[135643
+    532421-71
+    135643
+    532421-71
+    13532132
+    13532132
+    135643
+    532421-71]
+RTM[xx  x_x_xx  xxx_
+    xx  xxxxxx  x__
+    xx  x_x_xx  xxx_
+    xx  xxxxxx  x__
+    xx  x_xxxx  x_x_
+    xx  x_xxxx  x__
+    xx  x_x_xx  xxx_
+    xx  xxxxxx  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

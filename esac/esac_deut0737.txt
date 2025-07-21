@@ -1,0 +1,36 @@
+ERK
+CUT[ICH WOLLT EINMAL RECHT FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau; Fraustadt]
+TRD[]
+FKT[]
+SIG[E0096C]
+KEY[E0096C  16  G 3/4]
+MEL[-5_1_32  1_-5_-3_3_4321  2__0_
+    -5_1_32  1_-5_-3_3_4321  2__0_
+    543_5_  5_434_
+    432_4_  4_323_
+    543_2_  1_.23_
+    543_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 4 -2 -2 -5 -3 12 1 -1 -2 -2 2 -7 5 4 -2 -2 -5 -3 12 1 -1 -2 -2 2 5 -2 -1 3 0 -2 -1 1 0 -1 -2 3 0 -1 -2 2 3 -2 -1 -2 -2 2 2 3 -2 -1 -2 -2]
+MEL_RAW[-5132  1-5-334321  20
+    -5132  1-5-334321  20
+    5435  5434
+    4324  4323
+    5432  123
+    5432  10]
+NO_REP[-51321-5-3432120
+    -51321-5-3432120
+    5435434
+    4324323
+    5432123
+    543210]
+RTM[x_x_xx  x_x_x_x_xxxx  x__x_
+    x_x_xx  x_x_x_x_xxxx  x__x_
+    xxx_x_  x_xxx_
+    xxx_x_  x_xxx_
+    xxx_x_  x_.xx_
+    xxx_x_  x__x_]
+SCL_DEG[-3-512345]
+SCL_SEM[3 5 2 2 1 2]
+

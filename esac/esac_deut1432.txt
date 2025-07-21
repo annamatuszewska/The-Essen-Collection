@@ -1,0 +1,28 @@
+ERK
+CUT[WENN SICH DIE HAHNEN KRAEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0822]
+KEY[E0822   08  D 2/4]
+MEL[1  123b4  54#5
+    7  +1+154#  5_0
+    5  6b546b  543b
+    5  43b23b  1_0 //]
+BEM[]
+MEL_SEM[0 2 1 2 2 -1 1 4 1 0 -5 -1 1 0 1 -1 -2 3 -1 -2 -2 4 -2 -2 -1 1 -3]
+MEL_RAW[1  123b4  54#5
+    7  +1+154#  50
+    5  6b546b  543b
+    5  43b23b  10]
+NO_REP[123b454#5
+    7+154#50
+    56b546b543b
+    543b23b10]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x]
+SCL_DEG[123b44#56b7+1]
+SCL_SEM[2 1 2 1 1 1 3 1]
+

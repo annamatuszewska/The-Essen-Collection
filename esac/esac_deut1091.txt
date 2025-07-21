@@ -1,0 +1,32 @@
+ERK
+CUT[GESTERN ABEND IN DER STILLEN RUH]
+REG[Europa, Mitteleuropa, Deutschland, Westerwald; Lahnkreis; Dillkreis]
+TRD[]
+FKT[]
+SIG[E0522C]
+KEY[E0522C  16  F 2/4 3/4]
+MEL[1_3_1_3_  1_345_.3  3__2__
+    2_2_2_2_  2_6_5_.6  5__3__
+    5_3_3_3_3_5_  4_2_2_2_2_
+    -5_  1_3_1_3_  1_355_3_  3__2_
+    6_5_.6  5__3__ //]
+BEM[]
+MEL_SEM[4 -4 4 -4 4 1 2 -3 0 -2 0 0 0 0 0 7 -2 2 -2 -3 3 -3 0 0 0 3 -2 -3 0 0 0 -7 5 4 -4 4 -4 4 3 0 -3 0 -2 7 -2 2 -2 -3]
+MEL_RAW[1313  13453  32
+    2222  2656  53
+    533335  42222
+    -5  1313  13553  32
+    656  53]
+NO_REP[1313134532
+    265653
+    53542
+    -5131313532
+    65653]
+RTM[x_x_x_x_  x_xxx_.x  x__x__
+    x_x_x_x_  x_x_x_.x  x__x__
+    x_x_x_x_x_x_  x_x_x_x_x_
+    x_  x_x_x_x_  x_xxx_x_  x__x_
+    x_x_.x  x__x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

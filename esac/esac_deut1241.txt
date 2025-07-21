@@ -1,0 +1,28 @@
+ERK
+CUT[WAT HAEWWK DENN MIENEM SCHAETZCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hannover]
+TRD[]
+FKT[]
+SIG[E0652]
+KEY[E0652   16  G 2/4]
+MEL[-5_  1_3_5_3_  2_.22_
+    -5_  1_3_5_3_  2__0__
+    5__-5__  1_.11_
+    1_  1_3_5_3_  1__0_ //]
+BEM[]
+MEL_SEM[5 4 3 -3 -2 0 0 -7 5 4 3 -3 -2 5 -12 5 0 0 0 0 4 3 -3 -4]
+MEL_RAW[-5  1353  222
+    -5  1353  20
+    5-5  111
+    1  1353  10]
+NO_REP[-513532
+    -5135320
+    5-51
+    135310]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x__x__
+    x__x__  x_.xx_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-51235]
+SCL_SEM[5 2 2 3]
+

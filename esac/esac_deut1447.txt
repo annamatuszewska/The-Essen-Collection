@@ -1,0 +1,28 @@
+ERK
+CUT[HINTER UNSERN PIITE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Alt - Litzgoericke]
+TRD[]
+FKT[]
+SIG[E0840]
+KEY[E0840   16  G 3/8]
+MEL[-5_  111_1_  1-6-5_-5_  1__
+    -5_  111_1_  1-6-5_-5_  1__
+    5_  333_5_  432_
+    3_  111_3_  2-7-5_-5_  1__ //]
+BEM[]
+MEL_SEM[5 0 0 0 0 -3 -2 0 5 -5 5 0 0 0 0 -3 -2 0 5 7 -3 0 0 3 -2 -1 -2 2 -4 0 0 4 -2 -3 -4 0 5]
+MEL_RAW[-5  1111  1-6-5-5  1
+    -5  1111  1-6-5-5  1
+    5  3335  432
+    3  1113  2-7-5-5  1]
+NO_REP[-51-6-51
+    -51-6-51
+    535432
+    3132-7-51]
+RTM[x_  xxx_x_  xxx_x_  x__
+    x_  xxx_x_  xxx_x_  x__
+    x_  xxx_x_  xxx_
+    x_  xxx_x_  xxx_x_  x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

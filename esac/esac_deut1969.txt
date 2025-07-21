@@ -1,0 +1,32 @@
+ERK
+CUT[UND ALS DIE SCHNEIDER JAHRESTAG HATTEN]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+TRD[]
+FKT[]
+SIG[E1635]
+KEY[E1635   08  G 2/4]
+MEL[-5  1111  11-5
+    -5  1131  5_0
+    3  4444  6_40
+    3333  5_3
+    3  2123  1_0 //]
+BEM[]
+MEL_SEM[5 0 0 0 0 0 -5 0 5 0 4 -4 7 -3 1 0 0 0 4 -4 -1 0 0 0 3 -3 0 -2 -2 2 2 -4]
+MEL_RAW[-5  1111  11-5
+    -5  1131  50
+    3  4444  640
+    3333  53
+    3  2123  10]
+NO_REP[-51-5
+    -513150
+    34640
+    353
+    3212310]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  x_xx
+    xxxx  x_x
+    x  xxxx  x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

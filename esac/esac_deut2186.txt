@@ -1,0 +1,24 @@
+ERK
+CUT[DER HIMMEL STEHT OFFEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Lindenfels]
+TRD[]
+FKT[]
+SIG[E2037A]
+KEY[E2037A  08  G 3/4]
+MEL[32  1_-5_1_  2_.12_  3_.43_  2__
+    23  4_.654  3_.43_  2_1_2_  3__
+    23  4_.654  3_.43_  2_1_2_  1__ //]
+BEM[]
+MEL_SEM[-2 -2 -5 5 2 -2 2 2 1 -1 -2 0 2 1 4 -2 -2 -1 1 -1 -2 -2 2 2 -2 2 1 4 -2 -2 -1 1 -1 -2 -2 2 -2]
+MEL_RAW[32  1-51  212  343  2
+    23  4654  343  212  3
+    23  4654  343  212  1]
+NO_REP[321-512123432
+    2346543432123
+    2346543432121]
+RTM[xx  x_x_x_  x_.xx_  x_.xx_  x__
+    xx  x_.xxx  x_.xx_  x_x_x_  x__
+    xx  x_.xxx  x_.xx_  x_x_x_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

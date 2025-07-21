@@ -1,0 +1,28 @@
+ERK
+CUT[SCHOENE AUGEN SCHOENE STRAHLEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Brandenburg]
+TRD[]
+FKT[]
+SIG[E0701]
+KEY[E0701   08  C 3/4]
+MEL[1-71-6-5-6  -5_-4_-3_
+    1-71-6-5-6  -5_-4_-3_
+    133331  -72222-7
+    1-6-5_-7_  1_0__ //]
+BEM[]
+MEL_SEM[-1 1 -3 -2 2 -2 -2 -1 8 -1 1 -3 -2 2 -2 -2 -1 8 4 0 0 0 -4 -1 3 0 0 0 -3 1 -3 -2 4 1]
+MEL_RAW[1-71-6-5-6  -5-4-3
+    1-71-6-5-6  -5-4-3
+    133331  -72222-7
+    1-6-5-7  10]
+NO_REP[1-71-6-5-6-5-4-3
+    1-71-6-5-6-5-4-3
+    131-72-7
+    1-6-5-710]
+RTM[xxxxxx  x_x_x_
+    xxxxxx  x_x_x_
+    xxxxxx  xxxxxx
+    xxx_x_  x_x__]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

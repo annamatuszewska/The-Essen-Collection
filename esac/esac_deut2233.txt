@@ -1,0 +1,32 @@
+ERK
+CUT[ALLES IST VERGAENGLICH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E2149A]
+KEY[E2149A  08  F 4/4]
+MEL[1_.23_4_  5__3_0_
+    5_432_2_  3__0_
+    5_  5_432_2_  3_.45_
+    5_  5_432_2_  3_.45_0_
+    5_432_2_  1__0__ //]
+BEM[]
+MEL_SEM[2 2 1 2 -3 3 -2 -1 -2 0 2 3 0 -2 -1 -2 0 2 1 2 0 0 -2 -1 -2 0 2 1 2 0 -2 -1 -2 0 -2]
+MEL_RAW[1234  530
+    54322  30
+    5  54322  345
+    5  54322  3450
+    54322  10]
+NO_REP[1234530
+    543230
+    5432345
+    54323450
+    543210]
+RTM[x_.xx_x_  x__x_x_
+    x_xxx_x_  x__x_
+    x_  x_xxx_x_  x_.xx_
+    x_  x_xxx_x_  x_.xx_x_
+    x_xxx_x_  x__x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

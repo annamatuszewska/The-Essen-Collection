@@ -1,0 +1,28 @@
+ERK
+CUT[ES GIENGEN ZWEI LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Dillkreis]
+TRD[]
+FKT[]
+SIG[E0194B]
+KEY[E0194B  08  G 3/4]
+MEL[-5_  1_.23_  2_1_
+    2_  3_.453  2_0_
+    13  543_24  321_
+    24  3_5_2_  3__ //]
+BEM[]
+MEL_SEM[5 2 2 -2 -2 2 2 1 2 -3 -2 -2 4 3 -2 -1 -2 3 -1 -2 -2 2 3 -1 3 -5 2]
+MEL_RAW[-5  123  21
+    2  3453  20
+    13  54324  321
+    24  352  3]
+NO_REP[-512321
+    2345320
+    1354324321
+    243523]
+RTM[x_  x_.xx_  x_x_
+    x_  x_.xxx  x_x_
+    xx  xxx_xx  xxx_
+    xx  x_x_x_  x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

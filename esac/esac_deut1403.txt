@@ -1,0 +1,28 @@
+ERK
+CUT[SEID MUNTER UND FROEHLICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Tal]
+TRD[]
+FKT[]
+SIG[E0787]
+KEY[E0787   16  G 3/8]
+MEL[-5_  1_1_3_  322_
+    23  4_.654  345_
+    33  3__65  544_0_
+    2_5_54  3__ //]
+BEM[]
+MEL_SEM[5 0 4 0 -2 0 0 2 1 4 -2 -2 -1 1 2 -3 0 0 5 -2 0 -2 0 -3 5 0 -2 -1]
+MEL_RAW[-5  113  322
+    23  4654  345
+    33  365  5440
+    2554  3]
+NO_REP[-5132
+    234654345
+    36540
+    2543]
+RTM[x_  x_x_x_  xxx_
+    xx  x_.xxx  xxx_
+    xx  x__xx  xxx_x_
+    x_x_xx  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

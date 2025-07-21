@@ -1,0 +1,28 @@
+ERK
+CUT[NUN ADE MEIN SCHOENES LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Gransee, Roennebeck]
+TRD[]
+FKT[]
+SIG[E0781]
+KEY[E0781   08  G 4/4]
+MEL[3_.43_2_  1_.21_-7_
+    4_.53_5_  2_5_3_0_
+    3_.45_.5  4_453_3_
+    2_234_.2  2_231_0_ //]
+BEM[]
+MEL_SEM[1 -1 -2 -2 2 -2 -1 6 2 -3 3 -5 5 -3 0 1 2 0 -2 0 2 -3 0 -2 0 2 1 -3 0 0 2 -4]
+MEL_RAW[3432  121-7
+    4535  2530
+    3455  44533
+    22342  22310]
+NO_REP[3432121-7
+    45352530
+    345453
+    2342310]
+RTM[x_.xx_x_  x_.xx_x_
+    x_.xx_x_  x_x_x_x_
+    x_.xx_.x  x_xxx_x_
+    x_xxx_.x  x_xxx_x_]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

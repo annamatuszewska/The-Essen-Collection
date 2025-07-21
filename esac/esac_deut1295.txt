@@ -1,0 +1,28 @@
+ERK
+CUT[WILLST DU MICH DENN NICHT MEHR LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Mittelmark, Gransee]
+TRD[]
+FKT[]
+SIG[E0699A]
+KEY[E0699A  16  G 3/4]
+MEL[1_.-5-5_-5_-6_-7_  1_3_3__0__
+    4_.-5-5_-5_-6_-7_  1___0__
+    1_.23_3_2_3_  5__4__0__
+    2_.22_6_6_-7_  1___0__ //]
+BEM[]
+MEL_SEM[-5 0 0 2 2 1 4 0 1 -10 0 0 2 2 1 0 2 2 0 -2 2 3 -2 -3 0 0 7 0 -10 1]
+MEL_RAW[1-5-5-5-6-7  1330
+    4-5-5-5-6-7  10
+    123323  540
+    22266-7  10]
+NO_REP[1-5-6-7130
+    4-5-6-710
+    12323540
+    26-710]
+RTM[x_.xx_x_x_x_  x_x_x__x__
+    x_.xx_x_x_x_  x___x__
+    x_.xx_x_x_x_  x__x__x__
+    x_.xx_x_x_x_  x___x__]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

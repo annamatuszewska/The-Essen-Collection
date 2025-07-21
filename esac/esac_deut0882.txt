@@ -1,0 +1,24 @@
+ERK
+CUT[ES FUHR EIN BAUER UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+TRD[]
+FKT[]
+SIG[E0186B]
+KEY[E0186B  08  A 4/4]
+MEL[-5_  1_2_3234  56543_
+    5_  65432_2_  34531_
+    -5_  1_2_3_34  5_543_ //]
+BEM[]
+MEL_SEM[5 2 2 -2 2 1 2 2 -2 -2 -1 3 2 -2 -2 -1 -2 0 2 1 2 -3 -4 -5 5 2 2 0 1 2 0 -2 -1]
+MEL_RAW[-5  123234  56543
+    5  654322  34531
+    -5  12334  5543]
+NO_REP[-512323456543
+    56543234531
+    -51234543]
+RTM[x_  x_x_xxxx  xxxxx_
+    x_  xxxxx_x_  xxxxx_
+    x_  x_x_x_xx  x_xxx_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

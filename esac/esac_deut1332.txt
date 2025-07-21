@@ -1,0 +1,29 @@
+ERK
+CUT[STEHE ICH AM EISENGITTER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillkreis; Westerwald;
+    Rheingau]
+TRD[]
+FKT[]
+SIG[E0727A]
+KEY[E0727A  08  F 4/4]
+MEL[3_.34321  -724_0__
+    4_.46654  3__0__
+    5_.3+1765  246_0__
+    5_.36545  3__0__ //]
+BEM[]
+MEL_SEM[0 1 -1 -2 -2 -1 3 3 0 0 4 0 -2 -2 -1 3 -3 8 -1 -2 -2 -5 3 4 -2 -3 5 -2 -2 2 -3]
+MEL_RAW[334321  -7240
+    446654  30
+    53+1765  2460
+    536545  30]
+NO_REP[34321-7240
+    465430
+    53+17652460
+    53654530]
+RTM[x_.xxxxx  xxx_x__
+    x_.xxxxx  x__x__
+    x_.xxxxx  xxx_x__
+    x_.xxxxx  x__x__]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

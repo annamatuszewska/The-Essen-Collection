@@ -1,0 +1,32 @@
+ERK
+CUT[KOMPT HER IHR LIEBEN SCHWESTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0940]
+KEY[E0940   08  F 4/4]
+MEL[1_  5_5_5_5_  6_543_
+    3_  4_5_6_6_  5__0_
+    5_  5_5_5_3_  5_432_
+    5_  3_212_2_  1__
+    3__  5_432_2_  1__. //]
+BEM[]
+MEL_SEM[7 0 0 0 2 -2 -2 -1 0 1 2 2 0 -2 0 0 0 0 -3 3 -2 -1 -2 5 -3 -2 -2 2 0 -2 4 3 -2 -1 -2 0 -2]
+MEL_RAW[1  5555  6543
+    3  4566  50
+    5  5553  5432
+    5  32122  1
+    3  54322  1]
+NO_REP[156543
+    345650
+    535432
+    532121
+    354321]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_xxx_
+    x_  x_xxx_x_  x__
+    x__  x_xxx_x_  x__.]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

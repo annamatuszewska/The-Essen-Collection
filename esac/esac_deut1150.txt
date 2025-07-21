@@ -1,0 +1,28 @@
+ERK
+CUT[O ENGEL ALLERSCHOENSTES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Kreis, Dill - Kreis]
+TRD[]
+FKT[]
+SIG[E0561]
+KEY[E0561   16  G 3/4]
+MEL[-5_  -5_1_1__.3_  3_.22__0_
+    12  3__5__4_.3  3__2__0_
+    1_  1_6_5__.6_  5_3_4__.
+    5_  3_2_3_4_5__  4__3__0_ //]
+BEM[]
+MEL_SEM[0 5 0 4 0 -2 0 -2 2 2 3 -2 -1 0 -2 -2 0 9 -2 2 -2 -3 1 2 -3 -2 2 1 2 -2 -1]
+MEL_RAW[-5  -5113  3220
+    12  3543  320
+    1  1656  534
+    5  32345  430]
+NO_REP[-51320
+    12354320
+    1656534
+    532345430]
+RTM[x_  x_x_x__.x_  x_.xx__x_
+    xx  x__x__x_.x  x__x__x_
+    x_  x_x_x__.x_  x_x_x__.
+    x_  x_x_x_x_x__  x__x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

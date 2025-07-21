@@ -1,0 +1,24 @@
+ERK
+CUT[DES ABENDS WENN ICH FRUEH AUFSTEH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Schwalbach, Hennethal]
+TRD[]
+FKT[]
+SIG[E1116]
+KEY[E1116   16  G 6/8]
+MEL[-5_  1__3_2__4_  3__3_2__
+    2_  1__1_-7__-7_  -6__-6_-5__
+    -5_  3__3_2__32  1__0__. //]
+BEM[]
+MEL_SEM[5 4 -2 3 -1 0 -2 0 -2 0 -1 0 -2 0 -2 0 9 0 -2 2 -2 -2]
+MEL_RAW[-5  1324  332
+    2  11-7-7  -6-6-5
+    -5  33232  10]
+NO_REP[-5132432
+    21-7-6-5
+    -5323210]
+RTM[x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__xx  x__x__.]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

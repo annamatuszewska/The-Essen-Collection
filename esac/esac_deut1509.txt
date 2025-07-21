@@ -1,0 +1,28 @@
+ERK
+CUT[WIE STEHT IHR HIER UND SEHT MICH AN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0934]
+KEY[E0934   04  F 4/4]
+MEL[1  3_4_  5_.4  3_2_  1_.
+    1  3_4_  5_.4  3_2_  1_.
+    4  3_2_  -6_-5_  3454  2_.
+    4  3_2_  -6_-5_  3454  2_. //]
+BEM[]
+MEL_SEM[4 1 2 -2 -1 -2 -2 0 4 1 2 -2 -1 -2 -2 5 -1 -2 -5 -2 9 1 2 -2 -3 3 -1 -2 -5 -2 9 1 2 -2 -3]
+MEL_RAW[1  34  54  32  1
+    1  34  54  32  1
+    4  32  -6-5  3454  2
+    4  32  -6-5  3454  2]
+NO_REP[13454321
+    13454321
+    432-6-534542
+    432-6-534542]
+RTM[x  x_x_  x_.x  x_x_  x_.
+    x  x_x_  x_.x  x_x_  x_.
+    x  x_x_  x_x_  xxxx  x_.
+    x  x_x_  x_x_  xxxx  x_.]
+SCL_DEG[-5-612345]
+SCL_SEM[2 3 2 2 1 2]
+

@@ -1,0 +1,29 @@
+ERK
+CUT[IN BOEHMEN LIEGT EIN STAEDTCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Marburg; Lahn - Tal;
+    Schleswig]
+TRD[]
+FKT[]
+SIG[E1383]
+KEY[E1383   16  F 2/4]
+MEL[-5_  -5_.33_3_  3__1_
+    3_  5_.55_6_  5__0_
+    5_  7_.67_6_  6__5_
+    4_  3_5_2_5_  1__0_ //]
+BEM[]
+MEL_SEM[0 9 0 0 0 -4 4 3 0 0 2 -2 0 4 -2 2 -2 0 -2 -2 -1 3 -5 5 -7]
+MEL_RAW[-5  -5333  31
+    3  5556  50
+    5  7676  65
+    4  3525  10]
+NO_REP[-531
+    35650
+    576765
+    4352510]
+RTM[x_  x_.xx_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-51234567]
+SCL_SEM[5 2 2 1 2 2 2]
+

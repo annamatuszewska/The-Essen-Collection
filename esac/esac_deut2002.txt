@@ -1,0 +1,20 @@
+ERK
+CUT[NUN SO WOLLN WIR NOCH EINMAL]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1726]
+KEY[E1726   16  G 3/4]
+MEL[5_3_  1_.11_1_1__  1_.11_1_1__  6__6__6__  5___0__
+    4__4__4__  3__3__3__  5__5__5__  1___ //]
+BEM[]
+MEL_SEM[-3 -4 0 0 0 0 0 0 0 0 0 9 0 0 -2 -2 0 0 -1 0 0 3 0 0 -7]
+MEL_RAW[53  11111  11111  666  50
+    444  333  555  1]
+NO_REP[531650
+    4351]
+RTM[x_x_  x_.xx_x_x__  x_.xx_x_x__  x__x__x__  x___x__
+    x__x__x__  x__x__x__  x__x__x__  x___]
+SCL_DEG[13456]
+SCL_SEM[4 1 2 2]
+

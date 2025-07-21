@@ -1,0 +1,28 @@
+ERK
+CUT[ES RITTEN ZWEI HERZLIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Mosel - Gegend]
+TRD[]
+FKT[]
+SIG[E0194A]
+KEY[E0194A  08  G 3/4]
+MEL[-5_  1_.-713  2_1_
+    2_  3_.43_  2__
+    13  5_5_54  3_2_
+    12  3_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 -1 1 4 -2 -2 2 2 1 -1 -2 -2 4 3 0 0 -2 -1 -2 -2 2 2 0 -2 -2]
+MEL_RAW[-5  1-713  21
+    2  343  2
+    13  5554  32
+    12  332  1]
+NO_REP[-51-71321
+    23432
+    135432
+    12321]
+RTM[x_  x_.xxx  x_x_
+    x_  x_.xx_  x__
+    xx  x_x_xx  x_x_
+    xx  x_x_x_  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

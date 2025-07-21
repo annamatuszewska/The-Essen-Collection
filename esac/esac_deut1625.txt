@@ -1,0 +1,28 @@
+ERK
+CUT[WENN DU WILLST MEIN SCHAETZCHEN BLEIBEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn]
+TRD[]
+FKT[]
+SIG[E1094]
+KEY[E1094   16  C 2/4]
+MEL[1_.23_1_  2_-7_-5__
+    -6_.-71_-6_  -5_-4_-3_0_
+    -4_.-6-5_-3_  -4_-6_-5__
+    1_.23_1_  -7_2_1_0_ //]
+BEM[]
+MEL_SEM[2 2 -4 2 -3 -4 2 2 1 -3 -2 -2 -1 1 4 -2 -3 1 4 -2 5 2 2 -4 -1 3 -2]
+MEL_RAW[1231  2-7-5
+    -6-71-6  -5-4-30
+    -4-6-5-3  -4-6-5
+    1231  -7210]
+NO_REP[12312-7-5
+    -6-71-6-5-4-30
+    -4-6-5-3-4-6-5
+    1231-7210]
+RTM[x_.xx_x_  x_x_x__
+    x_.xx_x_  x_x_x_x_
+    x_.xx_x_  x_x_x__
+    x_.xx_x_  x_x_x_x_]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

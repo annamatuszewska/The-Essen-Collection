@@ -1,0 +1,32 @@
+ERK
+CUT[DEM HERRN UND GUTEN FREUNDE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1128]
+KEY[E1128   04  C 3/4]
+MEL[1  1_1  1_-6  -5_.  -5_
+    -5  -6_-6  -7_-7  1_
+    1  1_1  1_1  2_2  -7_
+    -7  -7_-6  -7_-7  1_1  -6_
+    1  -7_-6  -6_-5  -5_.  0_ //]
+BEM[]
+MEL_SEM[0 0 0 -3 -2 0 0 2 0 2 0 1 0 0 0 0 0 2 0 -3 0 0 -2 2 0 1 0 -3 3 -1 -2 0 -2 0]
+MEL_RAW[1  11  1-6  -5  -5
+    -5  -6-6  -7-7  1
+    1  11  11  22  -7
+    -7  -7-6  -7-7  11  -6
+    1  -7-6  -6-5  -5  0]
+NO_REP[1-6-5
+    -5-6-71
+    12-7
+    -7-6-71-6
+    1-7-6-50]
+RTM[x  x_x  x_x  x_.  x_
+    x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_.  x_]
+SCL_DEG[-5-6-712]
+SCL_SEM[2 2 1 2]
+

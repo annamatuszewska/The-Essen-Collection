@@ -1,0 +1,28 @@
+ERK
+CUT[JETZT LASST UNS MAL SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Neuwied, Wollendorf]
+TRD[]
+FKT[]
+SIG[E1077]
+KEY[E1077   16  G 6/8]
+MEL[1_  1_3_1_1__5_  5_4_2_1__
+    +1_  +1_5_5_5_5_5_  6_5_4#_5__
+    5_  5_+1_5_5_3_1_  6__.5__
+    5_  5_3_333_2_1_  2__5_1__ //]
+BEM[]
+MEL_SEM[0 4 -4 0 7 0 -2 -3 -2 12 0 -5 0 0 0 0 2 -2 -1 1 0 0 5 -5 0 -3 -4 9 -2 0 0 -3 0 0 0 -2 -2 2 5 -7]
+MEL_RAW[1  13115  5421
+    +1  +155555  654#5
+    5  5+15531  65
+    5  5333321  251]
+NO_REP[1315421
+    +15654#5
+    5+153165
+    5321251]
+RTM[x_  x_x_x_x__x_  x_x_x_x__
+    x_  x_x_x_x_x_x_  x_x_x_x__
+    x_  x_x_x_x_x_x_  x__.x__
+    x_  x_x_xxx_x_x_  x__x_x__]
+SCL_DEG[12344#56+1]
+SCL_SEM[2 2 1 1 1 2 3]
+

@@ -1,0 +1,40 @@
+ERK
+CUT[ES BLUEHN DREI ROSEN AUF EINEM ZWEIG]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse, Korkwitz]
+TRD[]
+FKT[]
+SIG[E1190]
+KEY[E1190   16  G 2/4]
+MEL[-5_  1_1_2_2_  3_3_2__
+    3_432__  1__0_
+    -5_  1_1_2_2_  3_3_2__
+    3_432__  1__0__
+    2_1_2_3_  4_3_2_
+    32  1_1_2_2_  3_3_2_
+    54  3__2__  1__0_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 -2 2 1 -1 -2 -2 -5 5 0 2 0 2 0 -2 2 1 -1 -2 -2 2 -2 2 2 1 -1 -2 2 -2 -2 0 2 0 2 0 -2 5 -2 -1 -2 -2]
+MEL_RAW[-5  1122  332
+    3432  10
+    -5  1122  332
+    3432  10
+    2123  432
+    32  1122  332
+    54  32  10]
+NO_REP[-51232
+    343210
+    -51232
+    343210
+    2123432
+    321232
+    543210]
+RTM[x_  x_x_x_x_  x_x_x__
+    x_xxx__  x__x_
+    x_  x_x_x_x_  x_x_x__
+    x_xxx__  x__x__
+    x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  x_x_x_
+    xx  x__x__  x__x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

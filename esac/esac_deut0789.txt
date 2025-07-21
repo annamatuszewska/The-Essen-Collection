@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN MAEDCHEN WASSER HOLN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E0117B]
+KEY[E0117B  16  F 6/8]
+MEL[-5_  1__3_3_2_1_  -7__2_4__
+    2_  3__5_5_.43_  3__.2__
+    13  5__3_5__+1_  5__4_3__
+    4_  3__1_5_.43_  2__.1__ //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 -1 3 3 -3 2 3 0 -2 -1 0 -2 -2 4 3 -3 3 5 -5 -2 -1 1 -1 -4 7 -2 -1 -2 -2]
+MEL_RAW[-5  13321  -724
+    2  35543  32
+    13  535+1  543
+    4  31543  21]
+NO_REP[-51321-724
+    235432
+    13535+1543
+    43154321]
+RTM[x_  x__x_x_x_x_  x__x_x__
+    x_  x__x_x_.xx_  x__.x__
+    xx  x__x_x__x_  x__x_x__
+    x_  x__x_x_.xx_  x__.x__]
+SCL_DEG[-5-712345+1]
+SCL_SEM[4 1 2 2 1 2 5]
+

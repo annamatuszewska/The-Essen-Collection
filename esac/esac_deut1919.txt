@@ -1,0 +1,32 @@
+ERK
+CUT[ZIEH SCHIMMEL ZIEH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1576]
+KEY[E1576   04  G 4/4]
+MEL[5_34  5_0
+    5  5534  5_0_
+    3454  3211
+    3454  3211
+    3_22  1_0_ //]
+BEM[]
+MEL_SEM[-3 1 2 0 0 0 -3 1 2 -3 1 2 -2 -1 -2 -2 0 4 1 2 -2 -1 -2 -2 0 4 -2 0 -2]
+MEL_RAW[534  50
+    5  5534  50
+    3454  3211
+    3454  3211
+    322  10]
+NO_REP[53450
+    53450
+    3454321
+    3454321
+    3210]
+RTM[x_xx  x_x
+    x  xxxx  x_x_
+    xxxx  xxxx
+    xxxx  xxxx
+    x_xx  x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

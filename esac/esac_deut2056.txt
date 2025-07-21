@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN MAEDCHEN EIN SCHNEIDER]
+REG[Europa, Mitteleuropa, Deutschland, Weser - Gegend, Hoepla]
+TRD[]
+FKT[]
+SIG[E1800]
+KEY[E1800   16  G 2/4]
+MEL[-5_  1__(3_2_1_)  2__
+    5_4_  3_2_1_3_  2__.
+    12  3_3_3_3_  5_2_2_
+    2_  5_2_2_1-7  3__21-7-6  -5__. //]
+BEM[]
+MEL_SEM[5 4 -2 -2 2 5 -2 -1 -2 -2 4 -2 -2 2 2 0 0 0 3 -5 0 0 5 -5 0 -2 -1 5 -2 -2 -1 -2 -2]
+MEL_RAW[-5  1321  2
+    54  3213  2
+    12  3333  522
+    2  5221-7  321-7-6  -5]
+NO_REP[-513212
+    5432132
+    12352
+    2521-7321-7-6-5]
+RTM[x_  x__(x_x_x_)  x__
+    x_x_  x_x_x_x_  x__.
+    xx  x_x_x_x_  x_x_x_
+    x_  x_x_x_xx  x__xxxx  x__.]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

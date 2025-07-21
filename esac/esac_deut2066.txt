@@ -1,0 +1,28 @@
+ERK
+CUT[NINA BUBBAEIAE SCHLOF]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1813]
+KEY[E1813   08  F 6/8]
+MEL[5_.3_.  2121_0
+    2_23_5  4_43_.
+    5_54_4  3_32_.
+    1_23_4  3_21_0 //]
+BEM[]
+MEL_SEM[-3 -2 -2 2 -2 2 0 2 3 -2 0 -1 3 0 -2 0 -1 0 -2 -2 2 2 1 -1 -2 -2]
+MEL_RAW[53  21210
+    2235  443
+    5544  332
+    1234  3210]
+NO_REP[5321210
+    23543
+    5432
+    12343210]
+RTM[x_.x_.  xxxx_x
+    x_xx_x  x_xx_.
+    x_xx_x  x_xx_.
+    x_xx_x  x_xx_x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

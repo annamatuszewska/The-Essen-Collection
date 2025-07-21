@@ -1,0 +1,28 @@
+ERK
+CUT[KUMM KUMM BIBELE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1849]
+KEY[E1849   16  F 2/4]
+MEL[5__5__  (4_3_2_)1__
+    1_3_5_55  4_2_1__
+    1_1_1_-5_  1_2_3__
+    5__4__  (4_3_2_)1__ //]
+BEM[]
+MEL_SEM[0 -2 -1 -2 -2 0 4 3 0 0 -2 -3 -2 0 0 0 -5 5 2 2 3 -2 0 -1 -2 -2]
+MEL_RAW[55  4321
+    13555  421
+    111-5  123
+    54  4321]
+NO_REP[54321
+    135421
+    1-5123
+    54321]
+RTM[x__x__  (x_x_x_)x__
+    x_x_x_xx  x_x_x__
+    x_x_x_x_  x_x_x__
+    x__x__  (x_x_x_)x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

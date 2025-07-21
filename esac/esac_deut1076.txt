@@ -1,0 +1,28 @@
+ERK
+CUT[ACH WAS WIRD MEIN SCHAETZCHEN DENKEN]
+REG[Europa, Mitteleuropa, Deutschland, Ober- Hessen; Westfalen; Rheinland]
+TRD[]
+FKT[]
+SIG[E0514]
+KEY[E0514   08  G 4/4]
+MEL[1_321_-5_  3_543_3_
+    2_.12_54  3_2_1__
+    1_321__  3_543__
+    2_.12_54  3_2_1__ //]
+BEM[]
+MEL_SEM[4 -2 -2 -5 9 3 -2 -1 0 -2 -2 2 5 -2 -1 -2 -2 0 4 -2 -2 4 3 -2 -1 -2 -2 2 5 -2 -1 -2 -2]
+MEL_RAW[1321-5  35433
+    21254  321
+    1321  3543
+    21254  321]
+NO_REP[1321-53543
+    21254321
+    13213543
+    21254321]
+RTM[x_xxx_x_  x_xxx_x_
+    x_.xx_xx  x_x_x__
+    x_xxx__  x_xxx__
+    x_.xx_xx  x_x_x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

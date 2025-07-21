@@ -1,0 +1,28 @@
+ERK
+CUT[MEIN SCHATZ IST VIERZIG MEILEN VON HIER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Lahnkreis, Altenkirchen]
+TRD[]
+FKT[]
+SIG[E0447B]
+KEY[E0447B  08  G 4/4]
+MEL[-5_  1_3_3_21  2_-5_-5_
+    -5_  4_4_4654  3__0_
+    25  2_2_321_  -7-6-5_-5_
+    35  46543_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 2 -7 0 0 10 0 0 4 -2 -2 -1 -2 5 -5 0 2 -2 -2 -1 -2 -2 0 9 3 -2 4 -2 -2 -1 -2 -2]
+MEL_RAW[-5  13321  2-5-5
+    -5  444654  30
+    25  22321  -7-6-5-5
+    35  465432  10]
+NO_REP[-513212-5
+    -5465430
+    252321-7-6-5
+    3546543210]
+RTM[x_  x_x_x_xx  x_x_x_
+    x_  x_x_xxxx  x__x_
+    xx  x_x_xxx_  xxx_x_
+    xx  xxxxx_x_  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

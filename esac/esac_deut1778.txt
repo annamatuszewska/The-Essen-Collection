@@ -1,0 +1,36 @@
+ERK
+CUT[ICH WEISS NICHT BIN ICH REICH ODER ARM]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar]
+TRD[]
+FKT[]
+SIG[E1374A]
+KEY[E1374A  08  G 4/4]
+MEL[-5_  1_3_3_21  2_234_
+    32  3_5_5_43  3_2_0_
+    23  4_6_6_54  3_3_5_
+    43  22225_-7-7  2_1_0_
+    23  4_6_6_54  3_3_5_
+    43  22225_-7-7  2_1_0_ //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 2 0 2 1 -1 -2 2 3 0 -2 -1 0 -2 0 2 1 4 0 -2 -2 -1 0 3 -2 -1 -2 0 0 0 5 -8 0 3 -2 2 2 1 4 0 -2 -2 -1 0 3 -2 -1 -2 0 0 0 5 -8 0 3 -2]
+MEL_RAW[-5  13321  2234
+    32  35543  320
+    23  46654  335
+    43  22225-7-7  210
+    23  46654  335
+    43  22225-7-7  210]
+NO_REP[-51321234
+    32354320
+    23465435
+    4325-7210
+    23465435
+    4325-7210]
+RTM[x_  x_x_x_xx  x_xxx_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  xxxxx_xx  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  xxxxx_xx  x_x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

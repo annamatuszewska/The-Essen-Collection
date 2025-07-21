@@ -1,0 +1,32 @@
+ERK
+CUT[BRUEDER JETZT GEHTS IN DEN KRIEG]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+TRD[]
+FKT[]
+SIG[E1344]
+KEY[E1344   08 Bb 3/4]
+MEL[-511112  1_-7-6-5_
+    -6-6-6_1_  -5_.-4-3_
+    -5_-5_1_  -6_.-6-6_
+    11-7_2_  1-7123_
+    465_44  3__. //]
+BEM[]
+MEL_SEM[5 0 0 0 2 -2 -1 -2 -2 2 0 0 3 -5 -2 -1 3 0 5 -3 0 0 3 0 -1 3 -2 -1 1 2 2 1 4 -2 -2 0 -1]
+MEL_RAW[-511112  1-7-6-5
+    -6-6-61  -5-4-3
+    -5-51  -6-6-6
+    11-72  1-7123
+    46544  3]
+NO_REP[-5121-7-6-5
+    -61-5-4-3
+    -51-6
+    1-721-7123
+    46543]
+RTM[xxxxxx  x_xxx_
+    xxx_x_  x_.xx_
+    x_x_x_  x_.xx_
+    xxx_x_  xxxxx_
+    xxx_xx  x__.]
+SCL_DEG[-3-4-5-6-7123456]
+SCL_SEM[1 2 2 2 1 2 2 1 2 2]
+

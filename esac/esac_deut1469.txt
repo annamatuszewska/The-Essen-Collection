@@ -1,0 +1,28 @@
+ERK
+CUT[KOMM HERAUS DU TRAURIGE BRAUT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Limburg, Heringen]
+TRD[]
+FKT[]
+SIG[E0870]
+KEY[E0870   08  G 4/4]
+MEL[15  5_5_6_6_  56543_
+    15  5_5_6_6_  56543_
+    5_  2__.3_  1__
+    2__  35635_24  3__0_ //]
+BEM[]
+MEL_SEM[7 0 0 2 0 -2 2 -2 -2 -1 -4 7 0 0 2 0 -2 2 -2 -2 -1 3 -5 2 -4 2 2 3 2 -5 3 -5 3 -1]
+MEL_RAW[15  5566  56543
+    15  5566  56543
+    5  23  1
+    2  3563524  30]
+NO_REP[15656543
+    15656543
+    5231
+    2356352430]
+RTM[xx  x_x_x_x_  xxxxx_
+    xx  x_x_x_x_  xxxxx_
+    x_  x__.x_  x__
+    x__  xxxxx_xx  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

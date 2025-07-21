@@ -1,0 +1,28 @@
+ERK
+CUT[HOERT IHR LEUT UND LASST EUCH SAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1580A]
+KEY[E1580A  04 Eb 4/4]
+MEL[1155  4433
+    +1+177  6655
+    55+15  653_
+    5543  221_ //]
+BEM[]
+MEL_SEM[0 7 0 -2 0 -1 0 8 0 -1 0 -2 0 -2 0 0 0 5 -5 2 -2 -3 3 0 -2 -1 -2 0 -2]
+MEL_RAW[1155  4433
+    +1+177  6655
+    55+15  653
+    5543  221]
+NO_REP[1543
+    +1765
+    5+15653
+    54321]
+RTM[xxxx  xxxx
+    xxxx  xxxx
+    xxxx  xxx_
+    xxxx  xxx_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

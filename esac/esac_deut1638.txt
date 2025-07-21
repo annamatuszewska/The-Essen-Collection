@@ -1,0 +1,32 @@
+ERK
+CUT[WAS WOELLN WIR AUF DEN ABEND THUN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1120]
+KEY[E1120   08  G 4/4]
+MEL[1_  1_1_2_2_  3_212__
+    3_1_-7_12  1__.0_
+    4_4_2_2_  3_212_
+    2_  4_4_2_2_  3_212__
+    3_1_-7_12  1__. //]
+BEM[]
+MEL_SEM[0 0 2 0 2 -2 -2 2 2 -4 -1 1 2 -2 5 0 -3 0 2 -2 -2 2 0 3 0 -3 0 2 -2 -2 2 2 -4 -1 1 2 -2]
+MEL_RAW[1  1122  3212
+    31-712  10
+    4422  3212
+    2  4422  3212
+    31-712  1]
+NO_REP[123212
+    31-71210
+    423212
+    2423212
+    31-7121]
+RTM[x_  x_x_x_x_  x_xxx__
+    x_x_x_xx  x__.x_
+    x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x_xxx__
+    x_x_x_xx  x__.]
+SCL_DEG[-71234]
+SCL_SEM[1 2 2 1]
+

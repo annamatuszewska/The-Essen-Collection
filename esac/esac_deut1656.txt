@@ -1,0 +1,32 @@
+ERK
+CUT[LASST UNS SINGN UND FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[E1162]
+KEY[E1162   04  F 4/4]
+MEL[1121  -7-7-6_
+    -5_-6_  -7_1
+    1  3332  321
+    1  2222  123_
+    -5_-6_  -7_10 //]
+BEM[]
+MEL_SEM[0 2 -2 -1 0 -2 -2 2 2 1 0 4 0 0 -2 2 -2 -2 0 2 0 0 0 -2 2 2 -9 2 2 1]
+MEL_RAW[1121  -7-7-6
+    -5-6  -71
+    1  3332  321
+    1  2222  123
+    -5-6  -710]
+NO_REP[121-7-6
+    -5-6-71
+    132321
+    12123
+    -5-6-710]
+RTM[xxxx  xxx_
+    x_x_  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx_
+    x_x_  x_xx]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

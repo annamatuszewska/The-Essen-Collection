@@ -1,0 +1,28 @@
+ERK
+CUT[ROSEL WENN DU MEINE WAERST]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0573]
+KEY[E0573   16  G 2/4]
+MEL[5_.55_3_  1_3_3__
+    -5_2_2__  1_3_3__
+    5_.55_3_  1_3_3__
+    -5_2_2__  1__0__ //]
+BEM[]
+MEL_SEM[0 0 -3 -4 4 0 -9 7 0 -2 4 0 3 0 0 -3 -4 4 0 -9 7 0 -2]
+MEL_RAW[5553  133
+    -522  133
+    5553  133
+    -522  10]
+NO_REP[5313
+    -5213
+    5313
+    -5210]
+RTM[x_.xx_x_  x_x_x__
+    x_x_x__  x_x_x__
+    x_.xx_x_  x_x_x__
+    x_x_x__  x__x__]
+SCL_DEG[-51235]
+SCL_SEM[5 2 2 3]
+

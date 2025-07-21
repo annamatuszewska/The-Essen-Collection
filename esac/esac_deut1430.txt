@@ -1,0 +1,28 @@
+ERK
+CUT[SOLL SICH DER MOND NICHT HELLER SCHEINEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+TRD[]
+FKT[]
+SIG[E0819]
+KEY[E0819   08 F# 3/4]
+MEL[-512  3b_2_45  3b21
+    13b4  5_3b543b  2_0
+    256  7b_5_6b5  4_2
+    23b4  5_3b_23b  1_0 //]
+BEM[]
+MEL_SEM[5 2 1 -1 3 2 -4 -1 -2 0 3 2 2 -4 4 -2 -2 -1 0 5 2 1 -3 1 -1 -2 -3 0 1 2 2 -4 -1 1 -3]
+MEL_RAW[-512  3b245  3b21
+    13b4  53b543b  20
+    256  7b56b5  42
+    23b4  53b23b  10]
+NO_REP[-5123b2453b21
+    13b453b543b20
+    2567b56b542
+    23b453b23b10]
+RTM[xxx  x_x_xx  xxx
+    xxx  x_xxxx  x_x
+    xxx  x_x_xx  x_x
+    xxx  x_x_xx  x_x]
+SCL_DEG[-5123b456b67b]
+SCL_SEM[5 2 1 2 2 1 1 1]
+

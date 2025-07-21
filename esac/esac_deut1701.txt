@@ -1,0 +1,28 @@
+ERK
+CUT[SENTER KLOS ES EN BRAVE MANN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+TRD[]
+FKT[]
+SIG[E1271]
+KEY[E1271   08  G 2/4]
+MEL[1122  3210
+    1122  321
+    -5  3321  3_3
+    3  2223  1_10 //]
+BEM[]
+MEL_SEM[0 2 0 2 -2 -2 0 0 2 0 2 -2 -2 -5 9 0 -2 -2 4 0 0 -2 0 0 2 -4 0]
+MEL_RAW[1122  3210
+    1122  321
+    -5  3321  33
+    3  2223  110]
+NO_REP[123210
+    12321
+    -53213
+    32310]
+RTM[xxxx  xxxx
+    xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  x_xx]
+SCL_DEG[-5123]
+SCL_SEM[5 2 2]
+

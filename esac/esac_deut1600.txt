@@ -1,0 +1,28 @@
+ERK
+CUT[DER LIPP UND DER LENZ]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+TRD[]
+FKT[]
+SIG[E1044]
+KEY[E1044   16  F 3/8]
+MEL[1_  3_1353  2_-7_
+    2_  4_2464  3_1_
+    1_  3_1353  2_-7_
+    -7_  2_-7242  1_0_ //]
+BEM[]
+MEL_SEM[4 -4 4 3 -3 -2 -3 3 3 -3 3 4 -4 -1 -4 0 4 -4 4 3 -3 -2 -3 0 3 -3 3 3 -3 -2]
+MEL_RAW[1  31353  2-7
+    2  42464  31
+    1  31353  2-7
+    -7  2-7242  10]
+NO_REP[1313532-7
+    24246431
+    1313532-7
+    -72-724210]
+RTM[x_  x_xxxx  x_x_
+    x_  x_xxxx  x_x_
+    x_  x_xxxx  x_x_
+    x_  x_xxxx  x_x_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

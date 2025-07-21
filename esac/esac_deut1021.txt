@@ -1,0 +1,32 @@
+ERK
+CUT[ES HAT EINN SCHNEE GESCHNEIET]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0424A]
+KEY[E0424A  08  G 3/4]
+MEL[-5_  113_1_  5_5_
+    56  54312_  1__
+    1_  556_5_  442_0
+    -7  224_2_  331_
+    56  54312_  1__ //]
+BEM[]
+MEL_SEM[5 0 4 -4 7 0 0 2 -2 -2 -1 -4 2 -2 0 7 0 2 -2 -2 0 -3 -3 3 0 3 -3 2 0 -4 7 2 -2 -2 -1 -4 2 -2]
+MEL_RAW[-5  1131  55
+    56  54312  1
+    1  5565  4420
+    -7  2242  331
+    56  54312  1]
+NO_REP[-51315
+    56543121
+    1565420
+    -724231
+    56543121]
+RTM[x_  xxx_x_  x_x_
+    xx  xxxxx_  x__
+    x_  xxx_x_  xxx_x
+    x  xxx_x_  xxx_
+    xx  xxxxx_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

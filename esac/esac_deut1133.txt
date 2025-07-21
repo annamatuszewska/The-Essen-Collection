@@ -1,0 +1,40 @@
+ERK
+CUT[GESTERN BEI MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich - Schlesien]
+TRD[]
+FKT[]
+SIG[E0547]
+KEY[E0547   08 Eb 3/4]
+MEL[1_3_4_  5_.65_
+    4_3_2_  3__1_
+    1_3_4_  5_.65_
+    4_3_2_  3__1_
+    2_2_3_  4_.54_
+    3_3_4_  5_.65_
+    4_3_2_  2__1_ //]
+BEM[]
+MEL_SEM[4 1 2 2 -2 -2 -1 -2 2 -4 0 4 1 2 2 -2 -2 -1 -2 2 -4 2 0 2 1 2 -2 -1 0 1 2 2 -2 -2 -1 -2 0 -2]
+MEL_RAW[134  565
+    432  31
+    134  565
+    432  31
+    223  454
+    334  565
+    432  21]
+NO_REP[134565
+    43231
+    134565
+    43231
+    23454
+    34565
+    4321]
+RTM[x_x_x_  x_.xx_
+    x_x_x_  x__x_
+    x_x_x_  x_.xx_
+    x_x_x_  x__x_
+    x_x_x_  x_.xx_
+    x_x_x_  x_.xx_
+    x_x_x_  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

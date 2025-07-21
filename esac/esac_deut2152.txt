@@ -1,0 +1,28 @@
+ERK
+CUT[ALL WELT SOLL BILLIG FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1978]
+KEY[E1978   04  C 3/4]
+MEL[+1  +1_+1  +1+3+2  +176  5_
+    7  +1_7  6_5  6+1+1  7_
+    5  345  6_5  5_3  1_
+    2  3_2  3_6  654  3_ //]
+BEM[]
+MEL_SEM[0 0 0 4 -2 -2 -1 -2 -2 4 1 -1 -2 -2 2 3 0 -1 -4 -3 1 2 2 -2 0 -3 -4 2 2 -2 2 5 0 -2 -2 -1]
+MEL_RAW[+1  +1+1  +1+3+2  +176  5
+    7  +17  65  6+1+1  7
+    5  345  65  53  1
+    2  32  36  654  3]
+NO_REP[+1+3+2+1765
+    7+17656+17
+    53456531
+    23236543]
+RTM[x  x_x  xxx  xxx  x_
+    x  x_x  x_x  xxx  x_
+    x  xxx  x_x  x_x  x_
+    x  x_x  x_x  xxx  x_]
+SCL_DEG[1234567+1+2+3]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

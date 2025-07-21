@@ -1,0 +1,28 @@
+ERK
+CUT[ES SANGEN DREI ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Sued - Schwarzwald]
+TRD[]
+FKT[]
+SIG[E2031B]
+KEY[E2031B  16  F 3/4]
+MEL[1__  1__-5__3__  3__1__
+    1_.2  3__3__5__  2___
+    5__  5__6_5_4_3_  4__5_4_
+    3_2_  3__4_3_2_1_  1___ //]
+BEM[]
+MEL_SEM[0 -5 9 0 -4 0 2 2 0 3 -5 5 0 2 -2 -2 -1 1 2 -2 -1 -2 2 1 -1 -2 -2 0]
+MEL_RAW[1  1-53  31
+    12  335  2
+    5  56543  454
+    32  34321  1]
+NO_REP[1-531
+    12352
+    56543454
+    3234321]
+RTM[x__  x__x__x__  x__x__
+    x_.x  x__x__x__  x___
+    x__  x__x_x_x_x_  x__x_x_
+    x_x_  x__x_x_x_x_  x___]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

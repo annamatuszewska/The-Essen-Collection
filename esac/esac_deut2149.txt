@@ -1,0 +1,28 @@
+ERK
+CUT[ERSTANDEN IST DER HEILIG CHRIST]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1975]
+KEY[E1975   04  F 3/4]
+MEL[+1  +1_+1  7_7  +16_  5_
+    5  6_+1  7_6  5_4  3_
+    3  3_3  5_5  3_2  1_
+    4  3_6  5_2  32_  1_ //]
+BEM[]
+MEL_SEM[0 0 -1 0 1 -3 -2 0 2 3 -1 -2 -2 -2 -1 0 0 0 3 0 -3 -2 -2 5 -1 5 -2 -5 2 -2 -2]
+MEL_RAW[+1  +1+1  77  +16  5
+    5  6+1  76  54  3
+    3  33  55  32  1
+    4  36  52  32  1]
+NO_REP[+17+165
+    56+176543
+    35321
+    43652321]
+RTM[x  x_x  x_x  xx_  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  xx_  x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

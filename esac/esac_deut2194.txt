@@ -1,0 +1,28 @@
+ERK
+CUT[MARIA WOLLTE WANDERN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau; Fulda]
+TRD[]
+FKT[]
+SIG[E2058A]
+KEY[E2058A  08  F 4/4]
+MEL[-5_  1_3_2_54  3_.21_
+    35  4_4_3_54  2__0_
+    54  3_3_212_  3_6_5_
+    4_  3_3_212_  1__. //]
+BEM[]
+MEL_SEM[5 4 -2 5 -2 -1 -2 -2 4 3 -2 0 -1 3 -2 -3 5 -2 -1 0 -2 -2 2 2 5 -2 -2 -1 0 -2 -2 2 -2]
+MEL_RAW[-5  13254  321
+    35  44354  20
+    54  33212  365
+    4  33212  1]
+NO_REP[-513254321
+    35435420
+    543212365
+    432121]
+RTM[x_  x_x_x_xx  x_.xx_
+    xx  x_x_x_xx  x__x_
+    xx  x_x_xxx_  x_x_x_
+    x_  x_x_xxx_  x__.]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

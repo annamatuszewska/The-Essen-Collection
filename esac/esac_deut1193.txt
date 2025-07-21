@@ -1,0 +1,36 @@
+ERK
+CUT[WENN ICH ZUM THUEREL NAUS GEH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse]
+TRD[]
+FKT[]
+SIG[E0600A]
+KEY[E0600A  08  D 3/8]
+MEL[323  434  5_
+    5  5+13  542  3_0
+    5+13  542
+    462  431
+    323  434  5_
+    5  5+13  542  3_0 //]
+BEM[]
+MEL_SEM[-2 2 1 -1 1 2 0 0 5 -8 3 -2 -3 2 3 5 -8 3 -2 -3 3 4 -7 3 -1 -4 4 -2 2 1 -1 1 2 0 0 5 -8 3 -2 -3 2]
+MEL_RAW[323  434  5
+    5  5+13  542  30
+    5+13  542
+    462  431
+    323  434  5
+    5  5+13  542  30]
+NO_REP[3234345
+    5+1354230
+    5+13542
+    462431
+    3234345
+    5+1354230]
+RTM[xxx  xxx  x_
+    x  xxx  xxx  x_x
+    xxx  xxx
+    xxx  xxx
+    xxx  xxx  x_
+    x  xxx  xxx  x_x]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

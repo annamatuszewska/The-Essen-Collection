@@ -1,0 +1,32 @@
+ERK
+CUT[WENN ALL DIE BAECHLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Brauerschwend]
+TRD[]
+FKT[]
+SIG[E0429C]
+KEY[E0429C  08  G 4/4]
+MEL[-5_  -5_1_1_3_  5_3_2_
+    6_  543_2__  1__0_
+    1_  1_3_5_56  5_434__
+    3__5_43  5_2_2_
+    6_  543_2__  1__0_ //]
+BEM[]
+MEL_SEM[0 5 0 4 3 -3 -2 7 -2 -2 -1 -2 -2 0 0 4 3 0 2 -2 -2 -1 1 -1 3 -2 -1 3 -5 0 7 -2 -2 -1 -2 -2]
+MEL_RAW[-5  -5113  532
+    6  5432  10
+    1  13556  5434
+    3543  522
+    6  5432  10]
+NO_REP[-513532
+    6543210
+    13565434
+    354352
+    6543210]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  xxx_x__  x__x_
+    x_  x_x_x_xx  x_xxx__
+    x__x_xx  x_x_x_
+    x_  xxx_x__  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

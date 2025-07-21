@@ -1,0 +1,36 @@
+ERK
+CUT[IN TRAUERN UND UNRUH]
+REG[Europa, Mitteleuropa, Deutschland, Franken, Koenigshofen im Grabfelde]
+TRD[]
+FKT[]
+SIG[E0706]
+KEY[E0706   08  F 4/4]
+MEL[-5_  1_1_1234  2__.
+    -5_  2_2_2345  3__0_
+    13  5_.33_.1  -724_0_
+    2_  4_.22_.-7  135_0_
+    -5_  1_1_1234  2__.
+    4_  3_421_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 1 -3 -7 7 0 0 2 1 2 -3 -4 4 3 -3 0 -4 -1 3 3 -3 3 -3 0 -3 1 4 3 -12 5 0 0 2 2 1 -3 3 -1 1 -3 -2 -1 1]
+MEL_RAW[-5  111234  2
+    -5  222345  30
+    13  5331  -7240
+    2  422-7  1350
+    -5  111234  2
+    4  3421-7  10]
+NO_REP[-512342
+    -5234530
+    13531-7240
+    242-71350
+    -512342
+    43421-710]
+RTM[x_  x_x_xxxx  x__.
+    x_  x_x_xxxx  x__x_
+    xx  x_.xx_.x  xxx_x_
+    x_  x_.xx_.x  xxx_x_
+    x_  x_x_xxxx  x__.
+    x_  x_xxx_x_  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

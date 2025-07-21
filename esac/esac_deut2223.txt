@@ -1,0 +1,29 @@
+ERK
+CUT[ES WOLLT EIN JUNGFRAU FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus, Hennethal;
+    Limburg, Herungen]
+TRD[]
+FKT[]
+SIG[E2125]
+KEY[E2125   08  G 4/4]
+MEL[-5_  1_.23212  5_.35_
+    35  4_3_2_1_  2__0_
+    23  4_3_2_1_  -7_132_
+    46  5_3_5_54  3__0_ //]
+BEM[]
+MEL_SEM[5 2 2 -2 -2 2 5 -3 3 -3 3 -2 -1 -2 -2 2 0 2 1 -1 -2 -2 -1 1 4 -2 3 4 -2 -3 3 0 -2 -1]
+MEL_RAW[-5  123212  535
+    35  4321  20
+    23  4321  -7132
+    46  53554  30]
+NO_REP[-5123212535
+    35432120
+    234321-7132
+    46535430]
+RTM[x_  x_.xxxxx  x_.xx_
+    xx  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x_xxx_
+    xx  x_x_x_xx  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

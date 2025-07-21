@@ -1,0 +1,28 @@
+ERK
+CUT[ACH MUTTER ES HUNGERT MICH]
+REG[Europa, Mitteleuropa, Deutschland, Halle; Eisleben]
+TRD[]
+FKT[]
+SIG[E0189]
+KEY[E0189   08  F 4/4]
+MEL[1_  333_553_  3_2_2_0_
+    3_3_5_3_  3_2_2_0_
+    1_6_6_6_  6_5_5_0
+    4  333_5_54  3__0_ //]
+BEM[]
+MEL_SEM[4 0 0 3 0 -3 0 -2 0 2 0 3 -3 0 -2 0 -2 9 0 0 0 -2 0 -2 -1 0 0 3 0 -2 -1]
+MEL_RAW[1  333553  3220
+    3353  3220
+    1666  6550
+    4  333554  30]
+NO_REP[135320
+    35320
+    1650
+    435430]
+RTM[x_  xxx_xxx_  x_x_x_x_
+    x_x_x_x_  x_x_x_x_
+    x_x_x_x_  x_x_x_x
+    x  xxx_x_xx  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,52 @@
+ERK
+CUT[ES GIENG EIN WOLGEZOGNER KNECHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1540]
+KEY[E1540   04  A 6/4]
+MEL[1  1_11_2  3b_3b3b_
+    3b  1113b_3b  1_.-7b_
+    1  1_11_2  3b_3b3b_
+    3b  1113b_3b  1_.-7b_
+    -7b  3b_45_5  5_55_
+    5  5_55_5  2_.4_
+    4  3b_12_1  1_-71_
+    -7b  3b_45_5  5_55_
+    5  5_55_5  2_.4_
+    4  3b_12_1  1_-71_ //]
+BEM[]
+MEL_SEM[0 0 0 2 1 0 0 0 -3 0 0 3 0 -3 -2 2 0 0 0 2 1 0 0 0 -3 0 0 3 0 -3 -2 0 5 2 2 0 0 0 0 0 0 0 0 0 -5 3 0 -2 -3 2 -2 0 -1 1 -2 5 2 2 0 0 0 0 0 0 0 0 0 -5 3 0 -2 -3 2 -2 0 -1 1]
+MEL_RAW[1  1112  3b3b3b
+    3b  1113b3b  1-7b
+    1  1112  3b3b3b
+    3b  1113b3b  1-7b
+    -7b  3b455  555
+    5  5555  24
+    4  3b121  1-71
+    -7b  3b455  555
+    5  5555  24
+    4  3b121  1-71]
+NO_REP[123b
+    3b13b1-7b
+    123b
+    3b13b1-7b
+    -7b3b45
+    524
+    43b121-71
+    -7b3b45
+    524
+    43b121-71]
+RTM[x  x_xx_x  x_xx_
+    x  xxxx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  xxxx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_]
+SCL_DEG[-7b-7123b45]
+SCL_SEM[1 1 2 1 2 2]
+

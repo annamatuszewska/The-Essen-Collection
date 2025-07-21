@@ -1,0 +1,36 @@
+ERK
+CUT[HANS IM SCHNOCKELOCH]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1723]
+KEY[E1723   16  F 2/4]
+MEL[5__5_6_  5_.43_
+    3_  4_4_2_2_  3__0__
+    2_.34_2_  3_.45_
+    3_  2_.34_2_  3_.45_0_
+    5__5_6_  5_.43_
+    3_  4_4_2_2_  1__0__ //]
+BEM[]
+MEL_SEM[0 2 -2 -2 -1 0 1 0 -3 0 2 -2 2 1 -3 2 1 2 -3 -2 2 1 -3 2 1 2 0 0 2 -2 -2 -1 0 1 0 -3 0 -2]
+MEL_RAW[556  543
+    3  4422  30
+    2342  345
+    3  2342  3450
+    556  543
+    3  4422  10]
+NO_REP[56543
+    34230
+    2342345
+    323423450
+    56543
+    34210]
+RTM[x__x_x_  x_.xx_
+    x_  x_x_x_x_  x__x__
+    x_.xx_x_  x_.xx_
+    x_  x_.xx_x_  x_.xx_x_
+    x__x_x_  x_.xx_
+    x_  x_x_x_x_  x__x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

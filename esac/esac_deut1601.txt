@@ -1,0 +1,28 @@
+ERK
+CUT[MEI MUTTER KOCHT MIR ZWIEBELN]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben, Schwaebisch - Hall]
+TRD[]
+FKT[]
+SIG[E1045]
+KEY[E1045   16  G 2/4]
+MEL[-5_  1_.23_4_  5_54#5_
+    +1_  5_+1_5_+1_  5__0_
+    5_  4_.32_1_  -7_-6_-5_
+    5_  1_5_1_5_  1__0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 0 -1 1 5 -5 5 -5 5 -5 0 -2 -1 -2 -2 -1 -2 -2 12 -7 7 -7 7 -7]
+MEL_RAW[-5  1234  554#5
+    +1  5+15+1  50
+    5  4321  -7-6-5
+    5  1515  10]
+NO_REP[-5123454#5
+    +15+15+150
+    54321-7-6-5
+    5151510]
+RTM[x_  x_.xx_x_  x_xxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_.xx_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-6-712344#5+1]
+SCL_SEM[2 2 1 2 2 1 1 1 5]
+

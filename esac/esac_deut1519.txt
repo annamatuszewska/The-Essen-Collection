@@ -1,0 +1,24 @@
+ERK
+CUT[SCHAU WOL TRITT DER HANSLEIN DAHER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0944]
+KEY[E0944   08  F 3/4]
+MEL[3__3_  1__1_  2_.22_  1__
+    1_  3__3_  1__1_  2__2_  1__
+    4_  3_.21_  2_.1-7_  1_1_2_  1__. //]
+BEM[]
+MEL_SEM[0 -4 0 2 0 0 -2 0 4 0 -4 0 2 0 -2 5 -1 -2 -2 2 -2 -1 1 0 2 -2]
+MEL_RAW[33  11  222  1
+    1  33  11  22  1
+    4  321  21-7  112  1]
+NO_REP[3121
+    13121
+    432121-7121]
+RTM[x__x_  x__x_  x_.xx_  x__
+    x_  x__x_  x__x_  x__x_  x__
+    x_  x_.xx_  x_.xx_  x_x_x_  x__.]
+SCL_DEG[-71234]
+SCL_SEM[1 2 2 1]
+

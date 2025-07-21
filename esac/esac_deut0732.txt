@@ -1,0 +1,28 @@
+ERK
+CUT[ZWEI LIEBTEN SICH AUS REINEM SINN]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Wetzlar; Dillkreis]
+TRD[]
+FKT[]
+SIG[E0093F]
+KEY[E0093F  16  G 3/4]
+MEL[-5_1_2_  3__.3_2_1_  5__.
+    -5_-5_-7_  2__6__5_4_  3__0_
+    5_5_5_  4_.32_5_5_5_  3_.21_
+    3_3_3_  2__6__5_4_  3__0_ //]
+BEM[]
+MEL_SEM[5 2 2 0 -2 -2 7 -12 0 4 3 7 -2 -2 -1 3 0 0 -2 -1 -2 5 0 0 -3 -2 -2 4 0 0 -2 7 -2 -2 -1]
+MEL_RAW[-512  3321  5
+    -5-5-7  2654  30
+    555  432555  321
+    333  2654  30]
+NO_REP[-5123215
+    -5-7265430
+    54325321
+    3265430]
+RTM[x_x_x_  x__.x_x_x_  x__.
+    x_x_x_  x__x__x_x_  x__x_
+    x_x_x_  x_.xx_x_x_x_  x_.xx_
+    x_x_x_  x__x__x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

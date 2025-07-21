@@ -1,0 +1,28 @@
+ERK
+CUT[ICH KANN NICHT SITZN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Oderbruch; Coethen]
+TRD[]
+FKT[]
+SIG[E0816]
+KEY[E0816   08  F 3/4]
+MEL[-5  135_.3  234_.
+    5  321353  322_0
+    1  116_+26  655_.
+    3  23465-7  211_0 //]
+BEM[]
+MEL_SEM[5 4 3 -3 -2 2 1 2 -3 -2 -2 4 3 -3 0 -2 0 -2 0 0 9 5 -5 0 -2 0 -3 -2 2 1 4 -2 -8 3 -2 0]
+MEL_RAW[-5  1353  234
+    5  321353  3220
+    1  116+26  655
+    3  23465-7  2110]
+NO_REP[-51353234
+    532135320
+    16+265
+    323465-7210]
+RTM[x  xxx_.x  xxx_.
+    x  xxxxxx  xxx_x
+    x  xxx_xx  xxx_.
+    x  xxxxxx  xxx_x]
+SCL_DEG[-5-7123456+2]
+SCL_SEM[4 1 2 2 1 2 2 5]
+

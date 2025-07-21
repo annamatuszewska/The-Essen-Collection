@@ -1,0 +1,28 @@
+ERK
+CUT[BEGRABT DEN LEIB IN SEINE GRUFT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E2168]
+KEY[E2168   04  F 4/4]
+MEL[1  21-71  231
+    1  2343  123
+    1  2232  1-7-6
+    2  321-6  121 //]
+BEM[]
+MEL_SEM[2 -2 -1 1 2 2 -4 0 2 2 1 -1 -4 2 2 -4 2 0 2 -2 -2 -1 -2 5 2 -2 -2 -3 3 2 -2]
+MEL_RAW[1  21-71  231
+    1  2343  123
+    1  2232  1-7-6
+    2  321-6  121]
+NO_REP[121-71231
+    12343123
+    12321-7-6
+    2321-6121]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx]
+SCL_DEG[-6-71234]
+SCL_SEM[2 1 2 2 1]
+

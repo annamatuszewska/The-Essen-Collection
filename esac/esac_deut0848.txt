@@ -1,0 +1,36 @@
+ERK
+CUT[GESTERN ABEND GIENG ICH AUS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0167]
+KEY[E0167   08  G 2/4]
+MEL[-5111  -722_
+    3342  211_
+    5331  1-61_
+    4321  -7-6-5_
+    -5111  -722_
+    3342  211_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 3 0 2 0 1 -3 0 -2 0 7 -3 0 -4 0 -3 3 5 -1 -2 -2 -1 -2 -2 0 5 0 0 -1 3 0 2 0 1 -3 0 -2 0]
+MEL_RAW[-5111  -722
+    3342  211
+    5331  1-61
+    4321  -7-6-5
+    -5111  -722
+    3342  211]
+NO_REP[-51-72
+    3421
+    531-61
+    4321-7-6-5
+    -51-72
+    3421]
+RTM[xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

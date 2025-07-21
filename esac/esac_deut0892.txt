@@ -1,0 +1,32 @@
+ERK
+CUT[SOLDAT KAM AUS DEM KRIEGE]
+REG[Europa, Mitteleuropa, Deutschland, Oldenburg]
+TRD[]
+FKT[]
+SIG[E0191]
+KEY[E0191   08  G 6/8]
+MEL[-5  1_1321  2_5542  3_.0_
+    -5  1_1321  2_5542  3_.0_
+    3  3_1123  5_44_
+    4  4_2234  6_55_4  35
+    3242  1_.6_.  5_5542  1_.0_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 2 5 0 -2 -3 2 -9 5 0 4 -2 -2 2 5 0 -2 -3 2 0 0 -4 0 2 2 3 -2 0 0 0 -3 0 2 1 4 -2 0 -2 -1 3 -3 -2 3 -3 -2 9 -2 0 0 -2 -3 -2]
+MEL_RAW[-5  11321  25542  30
+    -5  11321  25542  30
+    3  31123  544
+    4  42234  6554  35
+    3242  16  55542  10]
+NO_REP[-51321254230
+    -51321254230
+    312354
+    423465435
+    32421654210]
+RTM[x  x_xxxx  x_xxxx  x_.x_
+    x  x_xxxx  x_xxxx  x_.x_
+    x  x_xxxx  x_xx_
+    x  x_xxxx  x_xx_x  xx
+    xxxx  x_.x_.  x_xxxx  x_.x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[FOLGE KIND FOLGE]
+REG[Europa, Mitteleuropa, Deutschland, Niederdeutsch]
+TRD[]
+FKT[]
+SIG[E1831]
+KEY[E1831   04  F 4/4]
+MEL[123_  5_3_  5_3_
+    5432  3_1_
+    123_  5_3_  5_3_
+    5432  3_1_
+    3454  321_  2_1_
+    432-6  1_1_ //]
+BEM[]
+MEL_SEM[2 2 3 -3 3 -3 3 -2 -1 -2 2 -4 0 2 2 3 -3 3 -3 3 -2 -1 -2 2 -4 4 1 2 -2 -1 -2 -2 2 -2 5 -1 -2 -5 3 0]
+MEL_RAW[123  53  53
+    5432  31
+    123  53  53
+    5432  31
+    3454  321  21
+    432-6  11]
+NO_REP[1235353
+    543231
+    1235353
+    543231
+    345432121
+    432-61]
+RTM[xxx_  x_x_  x_x_
+    xxxx  x_x_
+    xxx_  x_x_  x_x_
+    xxxx  x_x_
+    xxxx  xxx_  x_x_
+    xxxx  x_x_]
+SCL_DEG[-612345]
+SCL_SEM[3 2 2 1 2]
+

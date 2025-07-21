@@ -1,0 +1,24 @@
+ERK
+CUT[TANZ MAEGDLEIN TANZ]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0948]
+KEY[E0948   04  C 4/4]
+MEL[5_32  1_0
+    1  2342  5_5
+    3  211-7  1_0_ //]
+BEM[]
+MEL_SEM[-3 -2 -2 0 2 2 1 -3 5 0 -3 -2 -2 0 -1 1]
+MEL_RAW[532  10
+    1  2342  55
+    3  211-7  10]
+NO_REP[53210
+    123425
+    321-710]
+RTM[x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x_]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

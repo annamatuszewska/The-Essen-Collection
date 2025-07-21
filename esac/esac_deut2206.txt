@@ -1,0 +1,28 @@
+ERK
+CUT[NUN WILL ICH MARIA GRUESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Baden, Merzhausen]
+TRD[]
+FKT[]
+SIG[E2081]
+KEY[E2081   08  F 4/4]
+MEL[244_2_-5_  355_3_1_
+    244_2_-5_  355_3_1_
+    6__+1_6_  5__+1_
+    5_  3_3_2123  1__0__ //]
+BEM[]
+MEL_SEM[3 0 -3 -7 9 3 0 -3 -4 2 3 0 -3 -7 9 3 0 -3 -4 9 3 -3 -2 5 -5 -3 0 -2 -2 2 2 -4]
+MEL_RAW[2442-5  35531
+    2442-5  35531
+    6+16  5+1
+    5  332123  10]
+NO_REP[242-53531
+    242-53531
+    6+165+1
+    53212310]
+RTM[xxx_x_x_  xxx_x_x_
+    xxx_x_x_  xxx_x_x_
+    x__x_x_  x__x_
+    x_  x_x_xxxx  x__x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

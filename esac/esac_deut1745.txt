@@ -1,0 +1,28 @@
+ERK
+CUT[HOLDE NACHT DEIN DUNKLER SCHLEIER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1342A]
+KEY[E1342A  08  G 4/4]
+MEL[-5-5  1_.11121  321-7-6_
+    -5_  1_.11353  3_2_0_
+    -5-5  4_.44454  433_0_
+    1-7  -6_.45432  2_1_0_ //]
+BEM[]
+MEL_SEM[0 5 0 0 0 2 -2 4 -2 -2 -1 -2 -2 5 0 0 4 3 -3 0 -2 -7 0 10 0 0 0 2 -2 0 -1 0 -4 -1 -2 8 2 -2 -1 -2 0 -2]
+MEL_RAW[-5-5  111121  321-7-6
+    -5  111353  320
+    -5-5  444454  4330
+    1-7  -645432  210]
+NO_REP[-5121321-7-6
+    -5135320
+    -545430
+    1-7-64543210]
+RTM[xx  x_.xxxxx  xxxxx_
+    x_  x_.xxxxx  x_x_x_
+    xx  x_.xxxxx  xxx_x_
+    xx  x_.xxxxx  x_x_x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

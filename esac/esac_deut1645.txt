@@ -1,0 +1,36 @@
+ERK
+CUT[WEM WOELL WIR DIESEN REBNER BRINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1126]
+KEY[E1126   04  C 3/4]
+MEL[111  3_4  5_5  33
+    6  5_5  336  5_5  33
+    3  333  3_3  4_3  22
+    2  1_-6  1_
+    3  333  3_3  4_3  22
+    2  1_-6  1_. //]
+BEM[]
+MEL_SEM[0 0 4 1 2 0 -3 0 5 -2 0 -3 0 5 -2 0 -3 0 0 0 0 0 0 0 1 -1 -2 0 0 -2 -3 3 4 0 0 0 0 0 1 -1 -2 0 0 -2 -3 3]
+MEL_RAW[111  34  55  33
+    6  55  336  55  33
+    3  333  33  43  22
+    2  1-6  1
+    3  333  33  43  22
+    2  1-6  1]
+NO_REP[13453
+    653653
+    3432
+    21-61
+    3432
+    21-61]
+RTM[xxx  x_x  x_x  xx
+    x  x_x  xxx  x_x  xx
+    x  xxx  x_x  x_x  xx
+    x  x_x  x_
+    x  xxx  x_x  x_x  xx
+    x  x_x  x_.]
+SCL_DEG[-6123456]
+SCL_SEM[3 2 2 1 2 2]
+

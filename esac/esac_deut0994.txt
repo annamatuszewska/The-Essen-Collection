@@ -1,0 +1,36 @@
+ERK
+CUT[DIE FRANZOSEN ZOGEN EIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E0364]
+KEY[E0364   08  G 3/4]
+MEL[12  3_3_2_  1__
+    12  3_3_2_  1__
+    13  5_5_5_  5_.4
+    3_  4_4_4_  4_.3
+    2_  3_3_2_  1__
+    13  5_5_4_  3__ //]
+BEM[]
+MEL_SEM[2 2 0 -2 -2 0 2 2 0 -2 -2 0 4 3 0 0 0 -2 -1 1 0 0 0 -1 -2 2 0 -2 -2 0 4 3 0 -2 -1]
+MEL_RAW[12  332  1
+    12  332  1
+    13  555  54
+    3  444  43
+    2  332  1
+    13  554  3]
+NO_REP[12321
+    12321
+    1354
+    343
+    2321
+    13543]
+RTM[xx  x_x_x_  x__
+    xx  x_x_x_  x__
+    xx  x_x_x_  x_.x
+    x_  x_x_x_  x_.x
+    x_  x_x_x_  x__
+    xx  x_x_x_  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

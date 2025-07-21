@@ -1,0 +1,32 @@
+ERK
+CUT[DER ZIEGLER AUF DER HUETTEN SASS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0901]
+KEY[E0901   08  F 4/4]
+MEL[5_  5_5_5_4_  3_3_2_
+    4_  3_1_2_2_  1__0_
+    1_  4_4_5_5_  6_6_5_
+    6_  5_4_5_2_  3_
+    6_5_.4  3_1_2__  1__0_ //]
+BEM[]
+MEL_SEM[0 0 0 -2 -1 0 -2 3 -1 -4 2 0 -2 0 5 0 2 0 2 0 -2 2 -2 -2 2 -5 2 5 -2 -2 -1 -4 2 -2]
+MEL_RAW[5  5554  332
+    4  3122  10
+    1  4455  665
+    6  5452  3
+    654  312  10]
+NO_REP[5432
+    431210
+    14565
+    654523
+    65431210]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_
+    x_x_.x  x_x_x__  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[DA JESUS IN DEN GARTEN GING]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1958A]
+KEY[E1958A  04  F 3/4]
+MEL[5  5_5  5_5  1_1  1_
+    2  3_4  5_2  3_4  5_
+    3  4_5  6_5  4_3  4_
+    3  2_3  4_2  5_4  3_ //]
+BEM[]
+MEL_SEM[0 0 0 0 -7 0 0 2 2 1 2 -5 2 1 2 -3 1 2 2 -2 -2 -1 1 -1 -2 2 1 -3 5 -2 -1]
+MEL_RAW[5  55  55  11  1
+    2  34  52  34  5
+    3  45  65  43  4
+    3  23  42  54  3]
+NO_REP[51
+    23452345
+    34565434
+    32342543]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

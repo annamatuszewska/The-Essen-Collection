@@ -1,0 +1,32 @@
+ERK
+CUT[ES WAREN ZWEI KOENIGSKINDER]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0084]
+KEY[E0084   08  G 4/4]
+MEL[-5_  3_333_2_  2_.11_
+    -5_  4_444353  2__0_
+    -5_  5_565444  3__54
+    32  1_11322_  1__
+    2__  3_33542_  1__0_ //]
+BEM[]
+MEL_SEM[9 0 0 0 -2 0 -2 0 -5 10 0 0 0 -1 3 -3 -2 -7 12 0 2 -2 -2 0 0 -1 3 -2 -1 -2 -2 0 0 4 -2 0 -2 2 2 0 0 3 -2 -3 -2]
+MEL_RAW[-5  33332  211
+    -5  4444353  20
+    -5  5565444  354
+    32  111322  1
+    2  333542  10]
+NO_REP[-5321
+    -5435320
+    -5654354
+    321321
+    2354210]
+RTM[x_  x_xxx_x_  x_.xx_
+    x_  x_xxxxxx  x__x_
+    x_  x_xxxxxx  x__xx
+    xx  x_xxxxx_  x__
+    x__  x_xxxxx_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

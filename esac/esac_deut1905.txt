@@ -1,0 +1,28 @@
+ERK
+CUT[EI MEI LIEBES MALCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Kuhlaendchen]
+TRD[]
+FKT[]
+SIG[E1558]
+KEY[E1558   08  E 3/4]
+MEL[555_+1_  7b7b5_
+    7b_  44456b4  5__0
+    1  123b3b22  3b1-7b-7b3b
+    3b  223b3b54  3b3b2_-7_  1__0_ //]
+BEM[]
+MEL_SEM[0 0 5 -2 0 -3 3 -5 0 0 2 1 -3 2 -7 0 2 1 0 -1 0 1 -3 -2 0 5 0 -1 0 1 0 4 -2 -2 0 -1 -3 1]
+MEL_RAW[555+1  7b7b5
+    7b  44456b4  50
+    1  123b3b22  3b1-7b-7b3b
+    3b  223b3b54  3b3b2-7  10]
+NO_REP[5+17b5
+    7b456b450
+    123b23b1-7b3b
+    3b23b543b2-710]
+RTM[xxx_x_  xxx_
+    x_  xxxxxx  x__x
+    x  xxxxxx  xxxxx
+    x  xxxxxx  xxx_x_  x__x_]
+SCL_DEG[-7b-7123b456b7b+1]
+SCL_SEM[1 1 2 1 2 2 1 2 2]
+

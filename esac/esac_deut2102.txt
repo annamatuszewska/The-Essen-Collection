@@ -1,0 +1,40 @@
+ERK
+CUT[GOLDNE GOLDNE BRUECKE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1879]
+KEY[E1879   08  D 2/4]
+MEL[1234  5_5
+    5  66+16  5_3
+    5  4_25  3_1
+    3  2345  4_3
+    1  5531  553
+    1  66+16  5_3
+    5  6543  2_10 //]
+BEM[]
+MEL_SEM[2 2 1 2 0 0 2 0 3 -3 -2 -3 3 -2 -3 5 -3 -4 4 -2 2 1 2 -2 -1 -4 7 0 -3 -4 7 0 -3 -4 9 0 3 -3 -2 -3 3 2 -2 -2 -1 -2 -2]
+MEL_RAW[1234  55
+    5  66+16  53
+    5  425  31
+    3  2345  43
+    1  5531  553
+    1  66+16  53
+    5  6543  210]
+NO_REP[12345
+    56+1653
+    542531
+    3234543
+    153153
+    16+1653
+    56543210]
+RTM[xxxx  x_x
+    x  xxxx  x_x
+    x  x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  x_xx]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

@@ -1,0 +1,24 @@
+ERK
+CUT[JETZUND GEHT DAS FRUEHJAHR AN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar; Marburg]
+TRD[]
+FKT[]
+SIG[E0686A]
+KEY[E0686A  16  G 3/4]
+MEL[-5_  1_-5_1_3_5__  4_2_1__0_
+    1_  2_-5_1_3_5__  6_+165_
+    4_3_2_  1_3_5__4_5_  3__0__. //]
+BEM[]
+MEL_SEM[5 -5 5 4 3 -2 -3 -2 0 2 -7 5 4 3 2 3 -3 -2 -2 -1 -2 -2 4 3 -2 2 -3]
+MEL_RAW[-5  1-5135  4210
+    1  2-5135  6+165
+    432  13545  30]
+NO_REP[-51-51354210
+    12-51356+165
+    4321354530]
+RTM[x_  x_x_x_x_x__  x_x_x__x_
+    x_  x_x_x_x_x__  x_xxx_
+    x_x_x_  x_x_x__x_x_  x__x__.]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

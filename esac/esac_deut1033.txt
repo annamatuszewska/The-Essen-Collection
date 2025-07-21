@@ -1,0 +1,28 @@
+ERK
+CUT[EINEN RING TRAG ICH VON DIR]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0435]
+KEY[E0435   08  F 4/4]
+MEL[5_5_3_1_  2_321_0_
+    5_5_+1_3_  5_.43_0_
+    1_1_+1_+1_  4_655_0_
+    3_1_5_3_  2_321_0_ //]
+BEM[]
+MEL_SEM[0 -3 -4 2 2 -2 -2 7 0 5 -8 3 -2 -1 -4 0 12 0 -7 4 -2 0 -3 -4 7 -3 -2 2 -2 -2]
+MEL_RAW[5531  23210
+    55+13  5430
+    11+1+1  46550
+    3153  23210]
+NO_REP[53123210
+    5+135430
+    1+14650
+    315323210]
+RTM[x_x_x_x_  x_xxx_x_
+    x_x_x_x_  x_.xx_x_
+    x_x_x_x_  x_xxx_x_
+    x_x_x_x_  x_xxx_x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

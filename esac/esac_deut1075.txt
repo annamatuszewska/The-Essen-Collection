@@ -1,0 +1,36 @@
+ERK
+CUT[WENN ICH EIN KLEINS WALDVOEGLEIN WAER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse, Waltorf]
+TRD[]
+FKT[]
+SIG[E0512]
+KEY[E0512   16  G 3/8]
+MEL[5_5313  3_212_
+    2_-7-54_  4_323_
+    55654_  3_2_0_
+    234_2_  365_.3
+    234_2_  365_.3
+    3_2_.1  1__0_ //]
+BEM[]
+MEL_SEM[0 -3 -4 4 0 -2 -2 2 0 -3 -4 10 0 -1 -2 2 3 0 2 -2 -2 -1 -2 0 2 1 -3 2 5 -2 -3 -2 2 1 -3 2 5 -2 -3 0 -2 -2 0]
+MEL_RAW[55313  3212
+    2-7-54  4323
+    55654  320
+    2342  3653
+    2342  3653
+    321  10]
+NO_REP[5313212
+    2-7-54323
+    5654320
+    23423653
+    23423653
+    3210]
+RTM[x_xxxx  x_xxx_
+    x_xxx_  x_xxx_
+    xxxxx_  x_x_x_
+    xxx_x_  xxx_.x
+    xxx_x_  xxx_.x
+    x_x_.x  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

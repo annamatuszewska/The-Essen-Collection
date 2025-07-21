@@ -1,0 +1,36 @@
+ERK
+CUT[HAIJO BOBAJO]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+TRD[]
+FKT[]
+SIG[E1811]
+KEY[E1811   08  G 2/4]
+MEL[3_23  1_-5
+    -5  3323  1_-50
+    3344  243_
+    1122  -7-710
+    3344  243_
+    1122  -7-710 //]
+BEM[]
+MEL_SEM[-2 2 -4 -5 0 9 0 -2 2 -4 -5 9 0 1 0 -3 3 -1 -4 0 2 0 -3 0 1 4 0 1 0 -3 3 -1 -4 0 2 0 -3 0 1]
+MEL_RAW[323  1-5
+    -5  3323  1-50
+    3344  243
+    1122  -7-710
+    3344  243
+    1122  -7-710]
+NO_REP[3231-5
+    -53231-50
+    34243
+    12-710
+    34243
+    12-710]
+RTM[x_xx  x_x
+    x  xxxx  x_xx
+    xxxx  xxx_
+    xxxx  xxxx
+    xxxx  xxx_
+    xxxx  xxxx]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

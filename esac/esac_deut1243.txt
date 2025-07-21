@@ -1,0 +1,28 @@
+ERK
+CUT[AFM WASSA BIN I GFOAHRN]
+REG[Europa, Mitteleuropa, Deutschland, Oesterreich]
+TRD[]
+FKT[]
+SIG[E0656]
+KEY[E0656   08  G 3/4]
+MEL[1_  -7_247+2  +3+15_.
+    6  544_4-7  1_3-5
+    1_  -7_247+2  +3+15_.
+    6  544_4-7  1__ //]
+BEM[]
+MEL_SEM[-1 3 3 6 3 2 -4 -5 2 -2 -2 0 0 -6 1 4 -9 5 -1 3 3 6 3 2 -4 -5 2 -2 -2 0 0 -6 1]
+MEL_RAW[1  -7247+2  +3+15
+    6  5444-7  13-5
+    1  -7247+2  +3+15
+    6  5444-7  1]
+NO_REP[1-7247+2+3+15
+    654-713-5
+    1-7247+2+3+15
+    654-71]
+RTM[x_  x_xxxx  xxx_.
+    x  xxx_xx  x_xx
+    x_  x_xxxx  xxx_.
+    x  xxx_xx  x__]
+SCL_DEG[-5-71234567+1+2+3]
+SCL_SEM[4 1 2 2 1 2 2 2 1 2 2]
+

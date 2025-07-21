@@ -1,0 +1,32 @@
+ERK
+CUT[ES GIENG EIN KNAB SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+TRD[]
+FKT[]
+SIG[E0131B]
+KEY[E0131B  08  G 4/4]
+MEL[-5_  1_3_1_3_  5_432_
+    5_  65432_2_  3__0_
+    22  22224_32  3_.45_
+    5_  6_6_+1766  5__0_
+    54  3_3_5_54  3__0_ //]
+BEM[]
+MEL_SEM[5 4 -4 4 3 -2 -1 -2 5 2 -2 -2 -1 -2 0 2 -2 0 0 0 0 0 3 -1 -2 2 1 2 0 2 0 3 -1 -2 0 -2 0 -2 -1 0 3 0 -2 -1]
+MEL_RAW[-5  1313  5432
+    5  654322  30
+    22  2222432  345
+    5  66+1766  50
+    54  33554  30]
+NO_REP[-513135432
+    56543230
+    2432345
+    56+17650
+    5435430]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  xxxxx_x_  x__x_
+    xx  xxxxx_xx  x_.xx_
+    x_  x_x_xxxx  x__x_
+    xx  x_x_x_xx  x__x_]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

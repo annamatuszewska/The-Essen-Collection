@@ -1,0 +1,28 @@
+ERK
+CUT[DREI WUERFEL UND EIN KARTENSPIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1772]
+KEY[E1772   08  F 4/4]
+MEL[1_  1_1_3_3_  5_5_3_
+    33  6_5_4_2_  2_1_2__
+    1_1_3_3_  5_5_5__  0_
+    3_4_6_  5_4_3_.2  1__. //]
+BEM[]
+MEL_SEM[0 0 4 0 3 0 -3 0 0 5 -2 -2 -3 0 -2 2 -2 0 4 0 3 0 0 -3 1 4 -2 -2 -1 -2 -2]
+MEL_RAW[1  1133  553
+    33  6542  212
+    1133  555  0
+    346  5432  1]
+NO_REP[1353
+    3654212
+    1350
+    34654321]
+RTM[x_  x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__  x_
+    x_x_x_  x_x_x_.x  x__.]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[WIE STEHT IHR ALLE HIE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0934A]
+KEY[E0934A  04  G 4/4]
+MEL[1_  3234  5_.6  5_3_  1_
+    1_  3234  5_.6  5_3_  1_
+    5_  3_2_  1_-5_  2343  1_
+    5_  3_2_  1_-5_  2343  1_ //]
+BEM[]
+MEL_SEM[4 -2 2 1 2 2 -2 -3 -4 0 4 -2 2 1 2 2 -2 -3 -4 7 -3 -2 -2 -5 7 2 1 -1 -4 7 -3 -2 -2 -5 7 2 1 -1 -4]
+MEL_RAW[1  3234  56  53  1
+    1  3234  56  53  1
+    5  32  1-5  2343  1
+    5  32  1-5  2343  1]
+NO_REP[1323456531
+    1323456531
+    5321-523431
+    5321-523431]
+RTM[x_  xxxx  x_.x  x_x_  x_
+    x_  xxxx  x_.x  x_x_  x_
+    x_  x_x_  x_x_  xxxx  x_
+    x_  x_x_  x_x_  xxxx  x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

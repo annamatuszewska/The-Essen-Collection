@@ -1,0 +1,36 @@
+ERK
+CUT[ICH BIN DER HERRLICHE SOMMERGLANZ]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E1071]
+KEY[E1071   08  G 6/8]
+MEL[5  3_5556  5_53_
+    3  3555_6  5553_
+    3  3_55_5  5553_
+    5  3_5556  5_53_
+    3  3555_6  5553_
+    3  3_55_5  5553_ //]
+BEM[]
+MEL_SEM[-3 3 0 0 2 -2 0 -3 0 0 3 0 0 2 -2 0 0 -3 0 0 3 0 0 0 0 0 -3 3 -3 3 0 0 2 -2 0 -3 0 0 3 0 0 2 -2 0 0 -3 0 0 3 0 0 0 0 0 -3]
+MEL_RAW[5  35556  553
+    3  35556  5553
+    3  3555  5553
+    5  35556  553
+    3  35556  5553
+    3  3555  5553]
+NO_REP[535653
+    35653
+    353
+    535653
+    35653
+    353]
+RTM[x  x_xxxx  x_xx_
+    x  xxxx_x  xxxx_
+    x  x_xx_x  xxxx_
+    x  x_xxxx  x_xx_
+    x  xxxx_x  xxxx_
+    x  x_xx_x  xxxx_]
+SCL_DEG[356]
+SCL_SEM[3 2]
+

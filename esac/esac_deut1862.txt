@@ -1,0 +1,36 @@
+ERK
+CUT[JETZUND NEHM ICH MEINE BUECHSE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen]
+TRD[]
+FKT[]
+SIG[E1468A]
+KEY[E1468A  08  G 3/4]
+MEL[-5-5  1_5_31  2_4_
+    22  3_3_53  2__
+    23  4_6_+16  5_3_
+    5+1  765654  3__
+    23  4_6_+16  5_3_
+    5+1  765654  3__ //]
+BEM[]
+MEL_SEM[0 5 7 -3 -4 2 3 -3 0 2 0 3 -3 -2 0 2 1 4 3 -3 -2 -3 3 5 -1 -2 -2 2 -2 -2 -1 -2 2 1 4 3 -3 -2 -3 3 5 -1 -2 -2 2 -2 -2 -1]
+MEL_RAW[-5-5  1531  24
+    22  3353  2
+    23  46+16  53
+    5+1  765654  3
+    23  46+16  53
+    5+1  765654  3]
+NO_REP[-5153124
+    23532
+    2346+1653
+    5+17656543
+    2346+1653
+    5+17656543]
+RTM[xx  x_x_xx  x_x_
+    xx  x_x_xx  x__
+    xx  x_x_xx  x_x_
+    xx  xxxxxx  x__
+    xx  x_x_xx  x_x_
+    xx  xxxxxx  x__]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

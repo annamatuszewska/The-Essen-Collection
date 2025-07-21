@@ -1,0 +1,29 @@
+ERK
+CUT[ES IST BALD ZEIT ZUM SCHLAFEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahntal; Limburg;
+    Westerwald]
+TRD[]
+FKT[]
+SIG[E0816E]
+KEY[E0816E  08  G 4/4]
+MEL[-5_  1_5_5_53  2_321_.
+    2  3_.45_5_  6_543_
+    53  2_5_3_5_  456_5_
+    5_  6_543_5_  3_321_ //]
+BEM[]
+MEL_SEM[5 7 0 0 -3 -2 2 -2 -2 2 2 1 2 0 2 -2 -2 -1 3 -3 -2 5 -3 3 -2 2 2 -2 0 2 -2 -2 -1 3 -3 0 -2 -2]
+MEL_RAW[-5  15553  2321
+    2  3455  6543
+    53  2535  4565
+    5  65435  3321]
+NO_REP[-51532321
+    23456543
+    5325354565
+    565435321]
+RTM[x_  x_x_x_xx  x_xxx_.
+    x  x_.xx_x_  x_xxx_
+    xx  x_x_x_x_  xxx_x_
+    x_  x_xxx_x_  x_xxx_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

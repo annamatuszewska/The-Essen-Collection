@@ -1,0 +1,20 @@
+ERK
+CUT[WIR KOMMEN DAHER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Schoenau]
+TRD[]
+FKT[]
+SIG[E1198A]
+KEY[E1198A  04  G 4/4]
+MEL[-5  1111  135
+    5  5556  523 //]
+BEM[]
+MEL_SEM[5 0 0 0 0 4 3 0 0 0 0 2 -2 -5 2]
+MEL_RAW[-5  1111  135
+    5  5556  523]
+NO_REP[-5135
+    56523]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx]
+SCL_DEG[-512356]
+SCL_SEM[5 2 2 3 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[DENK ICH ALLEWEIL]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E0518]
+KEY[E0518   16  G 3/8]
+MEL[12  333_12  333_
+    5_  5_.43_  2__
+    24  4_4_24  3_3_
+    13  2_.12_  3_5_
+    24  4_4_24  3_3_
+    13  2_.12_  1__ //]
+BEM[]
+MEL_SEM[2 2 0 0 -4 2 2 0 0 3 0 -2 -1 -2 0 3 0 0 -3 3 -1 0 -4 4 -2 -2 2 2 3 -5 3 0 0 -3 3 -1 0 -4 4 -2 -2 2 -2]
+MEL_RAW[12  33312  333
+    5  543  2
+    24  4424  33
+    13  212  35
+    24  4424  33
+    13  212  1]
+NO_REP[123123
+    5432
+    24243
+    1321235
+    24243
+    132121]
+RTM[xx  xxx_xx  xxx_
+    x_  x_.xx_  x__
+    xx  x_x_xx  x_x_
+    xx  x_.xx_  x_x_
+    xx  x_x_xx  x_x_
+    xx  x_.xx_  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

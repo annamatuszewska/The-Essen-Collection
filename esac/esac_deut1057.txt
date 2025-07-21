@@ -1,0 +1,28 @@
+ERK
+CUT[EIN GUCKGUCK WOLLT AUSFLIEGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0483]
+KEY[E0483   04  F 4/4]
+MEL[1  1553  5_5
+    5  3234  2_1
+    1  3234  5_2
+    2  3234  5_22  1_0 //]
+BEM[]
+MEL_SEM[0 7 0 -3 3 0 0 -3 -2 2 1 -3 -2 0 4 -2 2 1 2 -5 0 2 -2 2 1 2 -5 0 -2]
+MEL_RAW[1  1553  55
+    5  3234  21
+    1  3234  52
+    2  3234  522  10]
+NO_REP[1535
+    5323421
+    1323452
+    232345210]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_xx  x_x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

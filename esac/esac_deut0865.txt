@@ -1,0 +1,28 @@
+ERK
+CUT[O DANNEBOM O DANNEBOM]
+REG[Europa, Mitteleuropa, Deutschland, Paderborn]
+TRD[]
+FKT[]
+SIG[E0175C]
+KEY[E0175C  08  E 4/4]
+MEL[-5_  1_5_5_5_  5_4_4_
+    4_  3b_3b_5_43b  2__0_
+    2_  3b__5_3b_  4__6b_
+    4_  3b_3b_2_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 7 0 0 0 -2 0 0 -2 0 4 -2 -2 -1 0 1 4 -4 2 3 -3 -2 0 -1 0 -2]
+MEL_RAW[-5  1555  544
+    4  3b3b543b  20
+    2  3b53b  46b
+    4  3b3b22  10]
+NO_REP[-5154
+    43b543b20
+    23b53b46b
+    43b210]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_xx  x__x_
+    x_  x__x_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5123b456b]
+SCL_SEM[5 2 1 2 2 1]
+

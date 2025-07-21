@@ -1,0 +1,28 @@
+ERK
+CUT[ES SPIELT EIN GRAF MIT EINER MAGD]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau]
+TRD[]
+FKT[]
+SIG[E0110D]
+KEY[E0110D  08  G 3/4]
+MEL[-5  123_.2  3b45_.
+    3b  456_5_  4_3b_0
+    1  352_.4  3b51_.
+    2  345_3_  2_1_0 //]
+BEM[]
+MEL_SEM[5 2 2 -2 1 2 2 -4 2 2 2 -2 -2 -2 -3 4 3 -5 3 -2 4 -7 2 2 1 2 -3 -2 -2]
+MEL_RAW[-5  1232  3b45
+    3b  4565  43b0
+    1  3524  3b51
+    2  3453  210]
+NO_REP[-512323b45
+    3b456543b0
+    135243b51
+    23453210]
+RTM[x  xxx_.x  xxx_.
+    x  xxx_x_  x_x_x
+    x  xxx_.x  xxx_.
+    x  xxx_x_  x_x_x]
+SCL_DEG[-5123b3456]
+SCL_SEM[5 2 1 1 1 2 2]
+

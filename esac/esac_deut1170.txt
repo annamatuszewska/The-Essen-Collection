@@ -1,0 +1,24 @@
+ERK
+CUT[PETERSILJE DU SCHOENES KRAUT]
+REG[Europa, Mitteleuropa, Deutschland, Grafsch. Ruppin, Gransen]
+TRD[]
+FKT[]
+SIG[E0573A]
+KEY[E0573A  16  C 2/4]
+MEL[5_+1_+17+16  5_531_
+    1_  2_243_35  542_1_0
+    3  2_.43_.5  542_1_0_ //]
+BEM[]
+MEL_SEM[5 0 -1 1 -3 -2 0 -3 -4 0 2 0 3 -1 0 3 0 -2 -3 -2 4 -2 3 -1 3 0 -2 -3 -2]
+MEL_RAW[5+1+17+16  5531
+    1  224335  54210
+    3  2435  54210]
+NO_REP[5+17+16531
+    124354210
+    324354210]
+RTM[x_x_xxxx  x_xxx_
+    x_  x_xxx_xx  xxx_x_x
+    x  x_.xx_.x  xxx_x_x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[DIE DONAU IST INS WASSER GFALLN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar; Taunus]
+TRD[]
+FKT[]
+SIG[E1113A]
+KEY[E1113A  08  G 2/4]
+MEL[-5  1112  333
+    3  234-7  1_0
+    2  21-71  2-7-7
+    2  21-71  2-7-7
+    -5  1113  5_.
+    4  3322  1_0 //]
+BEM[]
+MEL_SEM[5 0 0 2 2 0 0 0 -2 2 1 -6 1 2 0 -2 -1 1 2 -3 0 3 0 -2 -1 1 2 -3 0 -4 5 0 0 4 3 -2 -1 0 -2 0 -2]
+MEL_RAW[-5  1112  333
+    3  234-7  10
+    2  21-71  2-7-7
+    2  21-71  2-7-7
+    -5  1113  5
+    4  3322  10]
+NO_REP[-5123
+    3234-710
+    21-712-7
+    21-712-7
+    -5135
+    43210]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_.
+    x  xxxx  x_x]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

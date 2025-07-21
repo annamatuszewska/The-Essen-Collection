@@ -1,0 +1,32 @@
+ERK
+CUT[KATHRINCHEN TRAU NUR NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Lahn - Gegend]
+TRD[]
+FKT[]
+SIG[E1423]
+KEY[E1423   08  G 4/4]
+MEL[-5_  1_.23_4_  5__0_
+    6_  5_.34_5_  3__0_
+    5_  3_5_6_.5  6_5_0_
+    43  2_6_5_.6  5_3_0_
+    6_  5_5_3_6_  5_5_3_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 2 -2 -3 1 2 -3 3 -3 3 2 -2 2 -2 -2 -1 -2 7 -2 2 -2 -3 5 -2 0 -3 5 -2 0 -3]
+MEL_RAW[-5  1234  50
+    6  5345  30
+    5  3565  650
+    43  2656  530
+    6  5536  553]
+NO_REP[-5123450
+    6534530
+    53565650
+    432656530
+    653653]
+RTM[x_  x_.xx_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    x_  x_x_x_.x  x_x_x_
+    xx  x_x_x_.x  x_x_x_
+    x_  x_x_x_x_  x_x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

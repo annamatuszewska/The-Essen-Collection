@@ -1,0 +1,24 @@
+ERK
+CUT[IM HIMMEL IM HIMMEL SIND FREUDEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Oranienburg]
+TRD[]
+FKT[]
+SIG[E2034A]
+KEY[E2034A  08  F 3/4]
+MEL[-5_  1_-7_1_  2_1_3_  4_4_3_  2__
+    13  5_5_6_  5_5_4_  3_3_2_  1__
+    13  5_5_6_  5_5_4_  3_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 4 1 0 -1 -2 -2 4 3 0 2 -2 0 -2 -1 0 -2 -2 0 4 3 0 2 -2 0 -2 -1 0 -2 -2]
+MEL_RAW[-5  1-71  213  443  2
+    13  556  554  332  1
+    13  556  554  332  1]
+NO_REP[-51-71213432
+    135654321
+    135654321]
+RTM[x_  x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_x_x_  x_x_x_  x_x_x_  x__
+    xx  x_x_x_  x_x_x_  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

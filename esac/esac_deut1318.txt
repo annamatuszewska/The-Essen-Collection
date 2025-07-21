@@ -1,0 +1,36 @@
+ERK
+CUT[TRAURIGES MAEDCHEN VERZAGE NUR NICHT]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Gambach]
+TRD[]
+FKT[]
+SIG[E0711]
+KEY[E0711   16  A 3/8]
+MEL[-5_  -5_-5_-7_  2_2_
+    -5_  -5_1_2_  3__
+    -5_  -5_-7_2_  6_5_.
+    3  4_4_2_  1__
+    -5_  -5_-7_2_  6_5_.
+    3  4_4_2_  1__ //]
+BEM[]
+MEL_SEM[0 0 4 3 0 -7 0 5 2 2 -9 0 4 3 7 -2 -3 1 0 -3 -2 -5 0 4 3 7 -2 -3 1 0 -3 -2]
+MEL_RAW[-5  -5-5-7  22
+    -5  -512  3
+    -5  -5-72  65
+    3  442  1
+    -5  -5-72  65
+    3  442  1]
+NO_REP[-5-72
+    -5123
+    -5-7265
+    3421
+    -5-7265
+    3421]
+RTM[x_  x_x_x_  x_x_
+    x_  x_x_x_  x__
+    x_  x_x_x_  x_x_.
+    x  x_x_x_  x__
+    x_  x_x_x_  x_x_.
+    x  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

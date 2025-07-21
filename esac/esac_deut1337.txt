@@ -1,0 +1,28 @@
+ERK
+CUT[GRUESS DE GOTT]
+REG[Europa, Mitteleuropa, Deutschland, Wuerttemberg]
+TRD[]
+FKT[]
+SIG[E0729A]
+KEY[E0729A  08  G 4/4]
+MEL[1_3_543_  432_3_0_
+    3_2_2_2_  3_543_0_
+    1_3_543_  432_3_0_
+    1_3_543_  432_1_0_ //]
+BEM[]
+MEL_SEM[4 3 -2 -1 1 -1 -2 2 0 -2 0 0 2 3 -2 -1 -4 4 3 -2 -1 1 -1 -2 2 -4 4 3 -2 -1 1 -1 -2 -2]
+MEL_RAW[13543  43230
+    3222  35430
+    13543  43230
+    13543  43210]
+NO_REP[1354343230
+    3235430
+    1354343230
+    1354343210]
+RTM[x_x_xxx_  xxx_x_x_
+    x_x_x_x_  x_xxx_x_
+    x_x_xxx_  xxx_x_x_
+    x_x_xxx_  xxx_x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

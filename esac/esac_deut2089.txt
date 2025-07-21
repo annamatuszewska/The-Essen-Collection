@@ -1,0 +1,32 @@
+ERK
+CUT[STORCH STORCH STANNE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald, Alsbach]
+TRD[]
+FKT[]
+SIG[E1855]
+KEY[E1855   08  F 2/4]
+MEL[5566  5530
+    5566  5530
+    5566  5530
+    5566  5530
+    5_4_  3__ //]
+BEM[]
+MEL_SEM[0 2 0 -2 0 -3 3 0 2 0 -2 0 -3 3 0 2 0 -2 0 -3 3 0 2 0 -2 0 -3 3 -2 -1]
+MEL_RAW[5566  5530
+    5566  5530
+    5566  5530
+    5566  5530
+    54  3]
+NO_REP[56530
+    56530
+    56530
+    56530
+    543]
+RTM[xxxx  xxxx
+    xxxx  xxxx
+    xxxx  xxxx
+    xxxx  xxxx
+    x_x_  x__]
+SCL_DEG[3456]
+SCL_SEM[1 2 2]
+

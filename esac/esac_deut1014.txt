@@ -1,0 +1,32 @@
+ERK
+CUT[MIT LUST THAET ICH AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0418]
+KEY[E0418   08  G 4/4]
+MEL[1_  1_1_1_1_  2__2__
+    5__5_2_  5_4__3b_  2__0_
+    5_  5_5_5_5_  4_2__
+    3b_  1__2_4_  ^3b212__  1__
+    5__  7b_5_.3b4_  2_1__ //]
+BEM[]
+MEL_SEM[0 0 0 0 2 0 5 0 -5 5 -2 -2 -1 5 0 0 0 0 -2 -3 1 -3 2 3 -2 -1 -2 2 -2 7 3 -3 -4 2 -3 -2]
+MEL_RAW[1  1111  22
+    552  543b  20
+    5  5555  42
+    3b  124  ^3b212  1
+    5  7b53b4  21]
+NO_REP[12
+    52543b20
+    542
+    3b124^3b2121
+    57b53b421]
+RTM[x_  x_x_x_x_  x__x__
+    x__x_x_  x_x__x_  x__x_
+    x_  x_x_x_x_  x_x__
+    x_  x__x_x_  xxxxx__  x__
+    x__  x_x_.xx_  x_x__]
+SCL_DEG[123b457b]
+SCL_SEM[2 1 2 2 3]
+

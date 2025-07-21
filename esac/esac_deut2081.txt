@@ -1,0 +1,28 @@
+ERK
+CUT[HOPP MARJAENCHE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland]
+TRD[]
+FKT[]
+SIG[E1833]
+KEY[E1833   08  G 6/8]
+MEL[3_11-71  3_11-71
+    2_2234  6_55_
+    3  3_11-71  3_11-7
+    1  234-5-6-7  2_.1_0 //]
+BEM[]
+MEL_SEM[-4 0 -1 1 4 -4 0 -1 1 2 0 0 2 1 4 -2 0 -3 0 -4 0 -1 1 4 -4 0 -1 1 2 2 1 -10 2 2 3 -2]
+MEL_RAW[311-71  311-71
+    22234  655
+    3  311-71  311-7
+    1  234-5-6-7  210]
+NO_REP[31-7131-71
+    23465
+    31-7131-7
+    1234-5-6-7210]
+RTM[x_xxxx  x_xxxx
+    x_xxxx  x_xx_
+    x  x_xxxx  x_xxx
+    x  xxxxxx  x_.x_x]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

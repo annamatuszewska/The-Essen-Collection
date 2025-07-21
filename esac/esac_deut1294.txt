@@ -1,0 +1,28 @@
+ERK
+CUT[WILLST DU MICH DENN NICHT MEHR LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+TRD[]
+FKT[]
+SIG[E0699]
+KEY[E0699   08  F 3/4]
+MEL[13  324_-72  135_
+    13  326_5-7  1_0_
+    13  53+1_64  355_
+    13  326_5-7  1_0_ //]
+BEM[]
+MEL_SEM[4 0 -2 3 -6 3 -2 4 3 -7 4 0 -2 7 -2 -8 1 0 4 3 -3 8 -3 -4 -1 3 0 -7 4 0 -2 7 -2 -8 1]
+MEL_RAW[13  324-72  135
+    13  3265-7  10
+    13  53+164  355
+    13  3265-7  10]
+NO_REP[1324-72135
+    13265-710
+    1353+16435
+    13265-710]
+RTM[xx  xxx_xx  xxx_
+    xx  xxx_xx  x_x_
+    xx  xxx_xx  xxx_
+    xx  xxx_xx  x_x_]
+SCL_DEG[-7123456+1]
+SCL_SEM[1 2 2 1 2 2 3]
+

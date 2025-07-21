@@ -1,0 +1,32 @@
+ERK
+CUT[HAT EINS GESCHLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Dresden]
+TRD[]
+FKT[]
+SIG[E1899]
+KEY[E1899   08  G 6/8]
+MEL[-5  1_1113  111-5_
+    -5  1_1113  111-5_
+    -5  1_1111  5_0_.
+    -7  1_1111  5_0_.
+    -5  1_1115  1_0_. //]
+BEM[]
+MEL_SEM[5 0 0 0 4 -4 0 0 -5 0 5 0 0 0 4 -4 0 0 -5 0 5 0 0 0 0 7 -8 1 0 0 0 0 7 -12 5 0 0 0 7 -7]
+MEL_RAW[-5  11113  111-5
+    -5  11113  111-5
+    -5  11111  50
+    -7  11111  50
+    -5  11115  10]
+NO_REP[-5131-5
+    -5131-5
+    -5150
+    -7150
+    -51510]
+RTM[x  x_xxxx  xxxx_
+    x  x_xxxx  xxxx_
+    x  x_xxxx  x_x_.
+    x  x_xxxx  x_x_.
+    x  x_xxxx  x_x_.]
+SCL_DEG[-5-7135]
+SCL_SEM[4 1 4 3]
+

@@ -1,0 +1,24 @@
+ERK
+CUT[ES SPIELT EIN MARKGRAF MIT EINER SCHOENEN DAM]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+TRD[]
+FKT[]
+SIG[E0110G]
+KEY[E0110G  08  F 4/4]
+MEL[1_  3_3_322_  1_3_5_
+    3_  5_5_5_+1_  3_2_4_
+    2_  1_1_3_4_  5_3_1_ //]
+BEM[]
+MEL_SEM[4 0 0 -2 0 -2 4 3 -3 3 0 0 5 -8 -2 3 -3 -2 0 4 1 2 -3 -4]
+MEL_RAW[1  33322  135
+    3  555+1  324
+    2  1134  531]
+NO_REP[132135
+    35+1324
+    2134531]
+RTM[x_  x_x_xxx_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_]
+SCL_DEG[12345+1]
+SCL_SEM[2 2 1 2 5]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN JAEGER JAGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1437]
+KEY[E1437   16  F 3/8]
+MEL[1_1_3_  5__+1_  5_3_0_
+    5_5_5_  6_.54_  3__0_
+    3_3_3_  2__5_  3_1_0_
+    3_3_3_  5_.42_  1__0_ //]
+BEM[]
+MEL_SEM[0 4 3 5 -5 -3 3 0 0 2 -2 -2 -1 0 0 0 -2 5 -3 -4 4 0 0 3 -2 -3 -2]
+MEL_RAW[113  5+1  530
+    555  654  30
+    333  25  310
+    333  542  10]
+NO_REP[135+1530
+    565430
+    325310
+    354210]
+RTM[x_x_x_  x__x_  x_x_x_
+    x_x_x_  x_.xx_  x__x_
+    x_x_x_  x__x_  x_x_x_
+    x_x_x_  x_.xx_  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

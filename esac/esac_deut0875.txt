@@ -1,0 +1,20 @@
+ERK
+CUT[ES WOHNT EIN KOENIG WEIT UEBERM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Trier, Kluesserath]
+TRD[]
+FKT[]
+SIG[E0182F]
+KEY[E0182F  08  D 3/4]
+MEL[113  5_3565  4_3
+    511  1_-7242  2_1 //]
+BEM[]
+MEL_SEM[0 4 3 -3 3 2 -2 -2 -1 3 -7 0 0 -1 3 3 -3 0 -2]
+MEL_RAW[113  53565  43
+    511  1-7242  21]
+NO_REP[135356543
+    51-72421]
+RTM[xxx  x_xxxx  x_x
+    xxx  x_xxxx  x_x]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

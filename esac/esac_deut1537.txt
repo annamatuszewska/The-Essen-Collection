@@ -1,0 +1,28 @@
+ERK
+CUT[WEIL MICH DAS GLUECK GEFUEHRT]
+REG[Europa, Mitteleuropa, Deutschland, Nauen, Buschow]
+TRD[]
+FKT[]
+SIG[E0973C]
+KEY[E0973C  16  A 3/8]
+MEL[-5_1_1_  1_-712_
+    -5_2_2_  2_123_
+    1_3_3_  3_234_
+    3_21-71  2_1_0_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 2 -7 7 0 0 -2 2 2 -4 4 0 0 -2 2 1 -1 -2 -2 -1 1 2 -2]
+MEL_RAW[-511  1-712
+    -522  2123
+    133  3234
+    321-71  210]
+NO_REP[-51-712
+    -52123
+    13234
+    321-71210]
+RTM[x_x_x_  x_xxx_
+    x_x_x_  x_xxx_
+    x_x_x_  x_xxx_
+    x_xxxx  x_x_x_]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

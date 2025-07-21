@@ -1,0 +1,32 @@
+ERK
+CUT[S ISCH WAHR I WILL NIMMAEMEH LIAEGE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1107]
+KEY[E1107   16  G 3/8]
+MEL[1_  1__1_  3b_.21_  2_5_5_  5_5_
+    55  5_.43b_  3b_.21_  1__2_  2_.2
+    2_  3b__3b_  3b_.21_  2__.  -5__
+    -5_  1_.11_  3b_.21_  1_.55_  5__
+    5_  5_4_3b_  2__1_  2__.  1__ //]
+BEM[]
+MEL_SEM[0 0 3 -1 -2 2 5 0 0 0 0 0 0 -2 -2 0 -1 -2 0 2 0 0 0 1 0 0 -1 -2 2 -7 0 5 0 0 3 -1 -2 0 7 0 0 0 0 -2 -2 -1 -2 2 -2]
+MEL_RAW[1  11  3b21  255  55
+    55  543b  3b21  12  22
+    2  3b3b  3b21  2  -5
+    -5  111  3b21  155  5
+    5  543b  21  2  1]
+NO_REP[13b2125
+    543b212
+    23b212-5
+    -513b215
+    543b2121]
+RTM[x_  x__x_  x_.xx_  x_x_x_  x_x_
+    xx  x_.xx_  x_.xx_  x__x_  x_.x
+    x_  x__x_  x_.xx_  x__.  x__
+    x_  x_.xx_  x_.xx_  x_.xx_  x__
+    x_  x_x_x_  x__x_  x__.  x__]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

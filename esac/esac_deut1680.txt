@@ -1,0 +1,20 @@
+ERK
+CUT[DIE HEILGEN DREI KOENIG]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1200]
+KEY[E1200   08  G 6/8]
+MEL[5  112335  5432_
+    5  1_2335  2321_ //]
+BEM[]
+MEL_SEM[-7 0 2 2 0 3 0 -2 -1 -2 5 -7 2 2 0 3 -5 2 -2 -2]
+MEL_RAW[5  112335  5432
+    5  12335  2321]
+NO_REP[51235432
+    512352321]
+RTM[x  xxxxxx  xxxx_
+    x  x_xxxx  xxxx_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

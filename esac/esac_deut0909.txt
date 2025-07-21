@@ -1,0 +1,28 @@
+ERK
+CUT[ICH GIENG ZUM KUEHLEN WEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0203C]
+KEY[E0203C  08  G 3/4]
+MEL[-5_1_24  3_.21
+    1  234353  2__0_
+    135_.4  32543
+    2  543_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 2 3 -1 -2 -2 0 2 2 1 -1 3 -3 -2 -2 4 3 -2 -1 -2 5 -2 -1 -2 5 -2 -1 -2 -2]
+MEL_RAW[-5124  321
+    1  234353  20
+    1354  32543
+    2  5432  10]
+NO_REP[-5124321
+    123435320
+    135432543
+    2543210]
+RTM[x_x_xx  x_.xx
+    x  xxxxxx  x__x_
+    xxx_.x  xxxxx
+    x  xxx_x_  x__x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

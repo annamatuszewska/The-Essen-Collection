@@ -1,0 +1,28 @@
+ERK
+CUT[S SCHWIMME ZWEI FISCHLE IM BODESEE]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[E1035]
+KEY[E1035   16  F 3/8]
+MEL[3_3_.1  2_2_.-7  1_121_
+    5_565_  2_3_4#_  5__.
+    3_3_.1  2_2_.-7  1_5_+1_
+    6_4_.2  2_1_.-7  1__0_ //]
+BEM[]
+MEL_SEM[0 -4 2 0 -3 1 0 2 -2 7 0 2 -2 -5 2 2 1 -3 0 -4 2 0 -3 1 7 5 -3 -4 -3 0 -2 -1 1]
+MEL_RAW[331  22-7  1121
+    5565  234#  5
+    331  22-7  15+1
+    642  21-7  10]
+NO_REP[312-7121
+    565234#5
+    312-715+1
+    6421-710]
+RTM[x_x_.x  x_x_.x  x_xxx_
+    x_xxx_  x_x_x_  x__.
+    x_x_.x  x_x_.x  x_x_x_
+    x_x_.x  x_x_.x  x__x_]
+SCL_DEG[-712344#56+1]
+SCL_SEM[1 2 2 1 1 1 2 3]
+

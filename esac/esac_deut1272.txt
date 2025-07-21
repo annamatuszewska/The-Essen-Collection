@@ -1,0 +1,28 @@
+ERK
+CUT[WOL UNTER EINER LINDE SCHLIEF]
+REG[Europa, Mitteleuropa, Deutschland, Vormark, Priegnitz]
+TRD[]
+FKT[]
+SIG[E0683A]
+KEY[E0683A  16  G 2/4]
+MEL[-5_  1_.-51_2_  3_1_2__
+    3__212_  1__0_
+    34  5_5_5_34  5_3_1__
+    3__542_  1__0_ //]
+BEM[]
+MEL_SEM[5 -5 5 2 2 -4 2 2 -2 -2 2 -2 4 1 2 0 0 -3 1 2 -3 -4 4 3 -2 -3 -2]
+MEL_RAW[-5  1-512  312
+    3212  10
+    34  55534  531
+    3542  10]
+NO_REP[-51-512312
+    321210
+    34534531
+    354210]
+RTM[x_  x_.xx_x_  x_x_x__
+    x__xxx_  x__x_
+    xx  x_x_x_xx  x_x_x__
+    x__xxx_  x__x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

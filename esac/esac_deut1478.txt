@@ -1,0 +1,24 @@
+ERK
+CUT[DER KUCKUK UP DEN TUNE SATT]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Granzow]
+TRD[]
+FKT[]
+SIG[E0880B]
+KEY[E0880B  08  A 4/4]
+MEL[-5_  1_-5_1_5_  43231_
+    3_  2_2_-6_2_  1-7-6-7-5_
+    -5_  1_1_322_  -5_-6-71_ //]
+BEM[]
+MEL_SEM[5 -5 5 7 -2 -1 -2 2 -4 4 -2 0 -5 5 -2 -1 -2 2 -4 0 5 0 4 -2 0 -7 2 2 1]
+MEL_RAW[-5  1-515  43231
+    3  22-62  1-7-6-7-5
+    -5  11322  -5-6-71]
+NO_REP[-51-51543231
+    32-621-7-6-7-5
+    -5132-5-6-71]
+RTM[x_  x_x_x_x_  xxxxx_
+    x_  x_x_x_x_  xxxxx_
+    x_  x_x_xxx_  x_xxx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

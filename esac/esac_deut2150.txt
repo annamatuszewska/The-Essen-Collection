@@ -1,0 +1,24 @@
+ERK
+CUT[WIR WOLLEN ALLE FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1976]
+KEY[E1976   04  F 3/4]
+MEL[1  1_3  5_5  534  5_
+    7  +1_6  +1_5  564  3_
+    1  2_2  2_3  12_  1_.  0_ //]
+BEM[]
+MEL_SEM[0 4 3 0 0 -3 1 2 4 1 -3 3 -5 0 2 -4 -1 -4 2 0 0 2 -4 2 -2]
+MEL_RAW[1  13  55  534  5
+    7  +16  +15  564  3
+    1  22  23  12  1  0]
+NO_REP[135345
+    7+16+15643
+    1231210]
+RTM[x  x_x  x_x  xxx  x_
+    x  x_x  x_x  xxx  x_
+    x  x_x  x_x  xx_  x_.  x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

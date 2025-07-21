@@ -1,0 +1,36 @@
+ERK
+CUT[LAURENTIA LEBE LAURENTIA]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1742]
+KEY[E1742   08  G 6/8]
+MEL[-5  1_11-71  2_-5-5_
+    -5  222212  3_11_
+    3  5_.3_
+    -5  1111-71  2_-5-5_
+    -5  2_2222  3_11_
+    3  5_.3_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 2 -7 0 0 7 0 0 0 -2 2 2 -4 0 4 3 -3 -9 5 0 0 0 -1 1 2 -7 0 0 7 0 0 0 0 2 -4 0 4 3 -3]
+MEL_RAW[-5  111-71  2-5-5
+    -5  222212  311
+    3  53
+    -5  1111-71  2-5-5
+    -5  22222  311
+    3  53]
+NO_REP[-51-712-5
+    -521231
+    353
+    -51-712-5
+    -5231
+    353]
+RTM[x  x_xxxx  x_xx_
+    x  xxxxxx  x_xx_
+    x  x_.x_
+    x  xxxxxx  x_xx_
+    x  x_xxxx  x_xx_
+    x  x_.x_]
+SCL_DEG[-5-71235]
+SCL_SEM[4 1 2 2 3]
+

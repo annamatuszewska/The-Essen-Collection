@@ -1,0 +1,36 @@
+ERK
+CUT[EM KUST MER UG EN MANTEL]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen]
+TRD[]
+FKT[]
+SIG[E0875]
+KEY[E0875   08  G 2/4]
+MEL[-5  1234  565_
+    4345  3_0_
+    1234  5654
+    1234  5654
+    3234  5_4_
+    3232  1_0 //]
+BEM[]
+MEL_SEM[5 2 2 1 2 2 -2 -2 -1 1 2 -3 -4 2 2 1 2 2 -2 -2 -5 2 2 1 2 2 -2 -2 -1 -2 2 1 2 -2 -1 -2 2 -2 -2]
+MEL_RAW[-5  1234  565
+    4345  30
+    1234  5654
+    1234  5654
+    3234  54
+    3232  10]
+NO_REP[-51234565
+    434530
+    12345654
+    12345654
+    323454
+    323210]
+RTM[x  xxxx  xxx_
+    xxxx  x_x_
+    xxxx  xxxx
+    xxxx  xxxx
+    xxxx  x_x_
+    xxxx  x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[REDLICH IST DAS DEUTSCHE LEBEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1349A]
+KEY[E1349A  08 Eb 4/4]
+MEL[1_3_  2_.42_4_  433_0_
+    3_  2_.1-7-724  655_0_
+    55  +1_.76_5_  5__
+    3_1_  6_5_4_.3  3__ //]
+BEM[]
+MEL_SEM[4 -2 3 -3 3 0 -1 0 0 -2 -2 -1 0 3 3 4 -2 0 0 0 5 -1 -2 -2 0 -3 -4 9 -2 -2 -1 0]
+MEL_RAW[13  2424  4330
+    3  21-7-724  6550
+    55  +1765  5
+    31  6543  3]
+NO_REP[13242430
+    321-724650
+    5+1765
+    316543]
+RTM[x_x_  x_.xx_x_  xxx_x_
+    x_  x_.xxxxx  xxx_x_
+    xx  x_.xx_x_  x__
+    x_x_  x_x_x_.x  x__]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

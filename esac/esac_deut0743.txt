@@ -1,0 +1,32 @@
+ERK
+CUT[ES WAR EINE STOLZE JUEDIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt; Bergstrasse; Baden]
+TRD[]
+FKT[]
+SIG[E0098A]
+KEY[E0098A  16  D 3/4 2/4]
+MEL[1_  1_3_5__2__  3_2_1__0_
+    +1_  7_6_7__6__  5___0_
+    5_  +1_5_5_3_  6__6_
+    6_  6_6_+1_6_  5__3__
+    5__  65434__5__  3___0_ //]
+BEM[]
+MEL_SEM[0 4 3 -5 2 -2 -2 12 -1 -2 2 -2 -2 0 5 -5 0 -3 5 0 0 0 0 3 -3 -2 -3 3 2 -2 -2 -1 1 2 -3]
+MEL_RAW[1  1352  3210
+    +1  7676  50
+    5  +1553  66
+    6  66+16  53
+    5  654345  30]
+NO_REP[13523210
+    +1767650
+    5+1536
+    6+1653
+    565434530]
+RTM[x_  x_x_x__x__  x_x_x__x_
+    x_  x_x_x__x__  x___x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x__
+    x__  xxxxx__x__  x___x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

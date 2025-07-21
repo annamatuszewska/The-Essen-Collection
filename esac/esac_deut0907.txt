@@ -1,0 +1,44 @@
+ERK
+CUT[JETZT GEH ICH ANS BRUENNELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Dreieichenhain]
+TRD[]
+FKT[]
+SIG[E0203A]
+KEY[E0203A  08  G 3/4]
+MEL[-5_  1_.234  5_.65_
+    544654  3__
+    -5_  1_.234  5_.65_
+    544654  3__
+    35  544_6_  5_3_3_
+    542_5_  3__
+    35  544_6_  5_3_3_
+    542_5_  3__ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 2 -2 0 -2 0 4 -2 -2 -1 -9 5 2 2 1 2 2 -2 0 -2 0 4 -2 -2 -1 0 3 0 -2 0 4 -2 -3 0 3 -2 -3 5 -3 0 3 0 -2 0 4 -2 -3 0 3 -2 -3 5 -3]
+MEL_RAW[-5  1234  565
+    544654  3
+    -5  1234  565
+    544654  3
+    35  5446  533
+    5425  3
+    35  5446  533
+    5425  3]
+NO_REP[-51234565
+    546543
+    -51234565
+    546543
+    354653
+    54253
+    354653
+    54253]
+RTM[x_  x_.xxx  x_.xx_
+    xxxxxx  x__
+    x_  x_.xxx  x_.xx_
+    xxxxxx  x__
+    xx  xxx_x_  x_x_x_
+    xxx_x_  x__
+    xx  xxx_x_  x_x_x_
+    xxx_x_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[MAEDCHEN WENN ICH DICH ERBLICKE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen; Westerwald]
+TRD[]
+FKT[]
+SIG[E0566A]
+KEY[E0566A  08  F 4/4]
+MEL[1_3_5_65  4_2_1_-5_
+    11335_43  2__0__
+    1_46+1_76  5_+153_1_
+    21-726_54  3__0__ //]
+BEM[]
+MEL_SEM[4 3 2 -2 -2 -3 -2 -5 5 0 4 0 3 -2 -1 -2 -2 5 4 3 -1 -2 -2 5 -5 -3 -4 2 -2 -1 3 7 -2 -2 -1]
+MEL_RAW[13565  421-5
+    1133543  20
+    146+176  5+1531
+    21-72654  30]
+NO_REP[13565421-5
+    1354320
+    146+1765+1531
+    21-7265430]
+RTM[x_x_x_xx  x_x_x_x_
+    xxxxx_xx  x__x__
+    x_xxx_xx  x_xxx_x_
+    xxxxx_xx  x__x__]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

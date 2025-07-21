@@ -1,0 +1,20 @@
+ERK
+CUT[DIEWEIL ER UNSER SCHWESTER HAT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0946]
+KEY[E0946   04  F 4/4]
+MEL[5  312-7  132
+    5  312-7  132_  121 //]
+BEM[]
+MEL_SEM[-3 -4 2 -3 1 4 -2 5 -3 -4 2 -3 1 4 -2 -2 2 -2]
+MEL_RAW[5  312-7  132
+    5  312-7  132  121]
+NO_REP[5312-7132
+    5312-7132121]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx_  xxx]
+SCL_DEG[-71235]
+SCL_SEM[1 2 2 3]
+

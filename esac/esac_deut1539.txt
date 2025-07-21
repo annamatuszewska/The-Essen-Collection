@@ -1,0 +1,32 @@
+ERK
+CUT[ROSA WILLEN WIJ DANSEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0976]
+KEY[E0976   08  A 6/8]
+MEL[1_5554  5_.3b_
+    3b  4_.3b_3b  4_.3b_.
+    1_3b3b21  -7b_-5-5_.
+    123b2_1  -7b_-5-5_
+    5  5_.2_.  1_.^_0 //]
+BEM[]
+MEL_SEM[7 0 0 -2 2 -4 0 2 -2 0 2 -2 -3 3 0 -1 -2 -2 -3 0 5 2 1 -1 -2 -2 -3 0 12 0 -5 -2]
+MEL_RAW[15554  53b
+    3b  43b3b  43b
+    13b3b21  -7b-5-5
+    123b21  -7b-5-5
+    5  52  1^0]
+NO_REP[15453b
+    3b43b43b
+    13b21-7b-5
+    123b21-7b-5
+    521^0]
+RTM[x_xxxx  x_.x_
+    x  x_.x_x  x_.x_.
+    x_xxxx  x_xx_.
+    xxxx_x  x_xx_
+    x  x_.x_.  x_.x_x]
+SCL_DEG[-5-7b123b45]
+SCL_SEM[3 2 2 1 2 2]
+

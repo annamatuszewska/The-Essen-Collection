@@ -1,0 +1,28 @@
+ERK
+CUT[MIT  LUST TRITT ICH AN DIESEN TANZ]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0932]
+KEY[E0932   08  F 4/4]
+MEL[1  5_5_6_5_  5_4_3_0
+    4  5_5_5_4_  3_2_1_0
+    1  1_2_3_.2  1_2_3_0
+    5  5_5_5_.4  3_2_1_0 //]
+BEM[]
+MEL_SEM[7 0 2 -2 0 -2 -1 1 2 0 0 -2 -1 -2 -2 0 0 2 2 -2 -2 2 2 3 0 0 0 -2 -1 -2 -2]
+MEL_RAW[1  5565  5430
+    4  5554  3210
+    1  1232  1230
+    5  5554  3210]
+NO_REP[1565430
+    4543210
+    12321230
+    543210]
+RTM[x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_.x  x_x_x_x
+    x  x_x_x_.x  x_x_x_x]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

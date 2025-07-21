@@ -1,0 +1,28 @@
+ERK
+CUT[HOERT IHR CHRISTEN MIT VERLANGEN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Franken]
+TRD[]
+FKT[]
+SIG[E0220]
+KEY[E0220   08  G 3/4]
+MEL[-5-5  1_1_(321)  -712_
+    -71  2_2_34#  5__
+    -5-5  1_1_(321)  -712_
+    13  5_3_(542)  1__ //]
+BEM[]
+MEL_SEM[0 5 0 4 -2 -2 -1 1 2 -3 1 2 0 2 2 1 -12 0 5 0 4 -2 -2 -1 1 2 -2 4 3 -3 3 -2 -3 -2]
+MEL_RAW[-5-5  11321  -712
+    -71  2234#  5
+    -5-5  11321  -712
+    13  53542  1]
+NO_REP[-51321-712
+    -71234#5
+    -51321-712
+    13535421]
+RTM[xx  x_x_(xxx)  xxx_
+    xx  x_x_xx  x__
+    xx  x_x_(xxx)  xxx_
+    xx  x_x_(xxx)  x__]
+SCL_DEG[-5-712344#5]
+SCL_SEM[4 1 2 2 1 1 1]
+

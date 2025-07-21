@@ -1,0 +1,28 @@
+ERK
+CUT[WENN ICH IN FREIHEIT LEBEN WILL]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+TRD[]
+FKT[]
+SIG[E0531B]
+KEY[E0531B  08  F 4/4]
+MEL[13  5_+1_5342  1_3_3_
+    13  5_+1_5342  3__0_
+    33  3_3_2_54  4_.33_
+    5_  +15315_-7_  1__0_ //]
+BEM[]
+MEL_SEM[4 3 5 -5 -3 1 -3 -2 4 0 -4 4 3 5 -5 -3 1 -3 2 0 0 0 0 -2 5 -2 0 -1 0 3 5 -5 -3 -4 7 -8 1]
+MEL_RAW[13  5+15342  133
+    13  5+15342  30
+    33  33254  433
+    5  +15315-7  10]
+NO_REP[135+1534213
+    135+1534230
+    32543
+    5+15315-710]
+RTM[xx  x_x_xxxx  x_x_x_
+    xx  x_x_xxxx  x__x_
+    xx  x_x_x_xx  x_.xx_
+    x_  xxxxx_x_  x__x_]
+SCL_DEG[-712345+1]
+SCL_SEM[1 2 2 1 2 5]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[GEH MEIN HANSEI]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Bayern]
+TRD[]
+FKT[]
+SIG[E0519]
+KEY[E0519   08  D 4/4]
+MEL[5_.36_.5  5_.4-7_-7_
+    5_.46_.5  5_.31_-5_
+    1234567+1  +2_.+16_
+    22  7_.65465  1_0__. //]
+BEM[]
+MEL_SEM[-3 5 -2 0 -2 -6 0 8 -2 4 -2 0 -3 -4 -5 5 2 2 1 2 2 2 1 2 -2 -3 -7 0 9 -2 -2 -2 4 -2 -7]
+MEL_RAW[5365  54-7-7
+    5465  531-5
+    1234567+1  +2+16
+    22  765465  10]
+NO_REP[53654-7
+    546531-5
+    1234567+1+2+16
+    276546510]
+RTM[x_.xx_.x  x_.xx_x_
+    x_.xx_.x  x_.xx_x_
+    xxxxxxxx  x_.xx_
+    xx  x_.xxxxx  x_x__.]
+SCL_DEG[-5-71234567+1+2]
+SCL_SEM[4 1 2 2 1 2 2 2 1 2]
+

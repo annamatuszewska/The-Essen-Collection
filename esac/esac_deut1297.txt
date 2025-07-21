@@ -1,0 +1,28 @@
+ERK
+CUT[WILLST DU ABER NICHT RECHT LIEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Langsdorf]
+TRD[]
+FKT[]
+SIG[E0699C]
+KEY[E0699C  08 Bb 3/4]
+MEL[-3-5  1_-5_-6-7  1-5-5_
+    -71  2_.-5-6-5  -3__
+    -5-5  43211-6  -6_-5_
+    -5-7  135_42  1__ //]
+BEM[]
+MEL_SEM[3 5 -5 2 2 1 -5 0 4 1 2 -7 2 -2 -3 3 0 10 -1 -2 -2 0 -3 0 -2 0 4 1 4 3 -2 -3 -2]
+MEL_RAW[-3-5  1-5-6-7  1-5-5
+    -71  2-5-6-5  -3
+    -5-5  43211-6  -6-5
+    -5-7  13542  1]
+NO_REP[-3-51-5-6-71-5
+    -712-5-6-5-3
+    -54321-6-5
+    -5-7135421]
+RTM[xx  x_x_xx  xxx_
+    xx  x_.xxx  x__
+    xx  xxxxxx  x_x_
+    xx  xxx_xx  x__]
+SCL_DEG[-3-5-6-712345]
+SCL_SEM[3 2 2 1 2 2 1 2]
+

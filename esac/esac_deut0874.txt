@@ -1,0 +1,24 @@
+ERK
+CUT[ES WOHNT EIN KOENIG AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+TRD[]
+FKT[]
+SIG[E0182E]
+KEY[E0182E  16  G 2/4]
+MEL[13  5__2__  5_4_3_2_  1__3_2_  1__0_
+    3_  2__2_2_  -6__-7_-7_  1__-7_-6_  -5__0_
+    -5_  1__1_1_  2__5_5_  3__2_3_  1__0_ //]
+BEM[]
+MEL_SEM[4 3 -5 5 -2 -1 -2 -2 4 -2 -2 4 -2 0 0 -5 2 0 1 -1 -2 -2 0 5 0 0 2 5 0 -3 -2 2 -4]
+MEL_RAW[13  52  5432  132  10
+    3  222  -6-7-7  1-7-6  -50
+    -5  111  255  323  10]
+NO_REP[1352543213210
+    32-6-71-7-6-50
+    -512532310]
+RTM[xx  x__x__  x_x_x_x_  x__x_x_  x__x_
+    x_  x__x_x_  x__x_x_  x__x_x_  x__x_
+    x_  x__x_x_  x__x_x_  x__x_x_  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

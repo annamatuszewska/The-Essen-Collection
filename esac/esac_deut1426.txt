@@ -1,0 +1,36 @@
+ERK
+CUT[JETZT BRICHT DIE FINSTRE NACHT HEREIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+TRD[]
+FKT[]
+SIG[E0816D]
+KEY[E0816D  08  G 4/4]
+MEL[-5_  1_.-71_24  3_.21_
+    3_  2_.22_35  4_3_2_
+    13  2_.22_2_  2_354_6_
+    5_.4353_  24321_
+    13  2_.22_2_  2_354_6_
+    5_.4353_  24321_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 3 -1 -2 -2 4 -2 0 0 2 3 -2 -1 -2 -2 4 -2 0 0 0 0 2 3 -2 4 -2 -2 -1 3 -3 -2 3 -1 -2 -2 0 4 -2 0 0 0 0 2 3 -2 4 -2 -2 -1 3 -3 -2 3 -1 -2 -2]
+MEL_RAW[-5  1-7124  321
+    3  22235  432
+    13  2222  23546
+    54353  24321
+    13  2222  23546
+    54353  24321]
+NO_REP[-51-7124321
+    3235432
+    1323546
+    5435324321
+    1323546
+    5435324321]
+RTM[x_  x_.xx_xx  x_.xx_
+    x_  x_.xx_xx  x_x_x_
+    xx  x_.xx_x_  x_xxx_x_
+    x_.xxxx_  xxxxx_
+    xx  x_.xx_x_  x_xxx_x_
+    x_.xxxx_  xxxxx_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

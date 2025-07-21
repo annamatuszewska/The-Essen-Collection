@@ -1,0 +1,28 @@
+ERK
+CUT[IK WEET MY EINE SCHONE MAGT]
+REG[Europa, Mitteleuropa, Deutschland, Norddeutschland, Ditmarschen]
+TRD[]
+FKT[]
+SIG[E1090A]
+KEY[E1090A  04  C 6/4]
+MEL[1  1_11_1  5_55_
+    5  4_56_5  5_43_0
+    4445_3  4_35_3
+    4445_3  2_.1_ //]
+BEM[]
+MEL_SEM[0 0 0 0 7 0 0 0 -2 2 2 -2 0 -2 -1 1 0 0 2 -3 1 -1 3 -3 1 0 0 2 -3 -2 -2]
+MEL_RAW[1  1111  555
+    5  4565  5430
+    44453  4353
+    44453  21]
+NO_REP[15
+    54565430
+    4534353
+    45321]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_xx_x
+    xxxx_x  x_xx_x
+    xxxx_x  x_.x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

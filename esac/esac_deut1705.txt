@@ -1,0 +1,32 @@
+ERK
+CUT[HERMEN FLA DERMEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1279A]
+KEY[E1279A  08  E 4/4]
+MEL[3b_.21_3b_  4__3b_
+    12  3b_.21_3b_  4__3b_
+    45  6b_.54_3b_  4__3b_
+    3b_  4_.3b2_1_  2__1_
+    23b  4_.3b2_1_  2__1_0_ //]
+BEM[]
+MEL_SEM[-1 -2 3 2 -2 -3 2 1 -1 -2 3 2 -2 2 2 1 -1 -2 -2 2 -2 0 2 -2 -1 -2 2 -2 2 1 2 -2 -1 -2 2 -2]
+MEL_RAW[3b213b  43b
+    12  3b213b  43b
+    45  6b543b  43b
+    3b  43b21  21
+    23b  43b21  210]
+NO_REP[3b213b43b
+    123b213b43b
+    456b543b43b
+    3b43b2121
+    23b43b21210]
+RTM[x_.xx_x_  x__x_
+    xx  x_.xx_x_  x__x_
+    xx  x_.xx_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    xx  x_.xx_x_  x__x_x_]
+SCL_DEG[123b456b]
+SCL_SEM[2 1 2 2 1]
+

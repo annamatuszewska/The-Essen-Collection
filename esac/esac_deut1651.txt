@@ -1,0 +1,44 @@
+ERK
+CUT[GOENSTIGER HERR UND FREUND]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1142]
+KEY[E1142   04  F 4/4]
+MEL[3  3333  3_.
+    3  3234  5_0
+    2  2222  2_.
+    5  432_  1_0
+    1  1111  1_.
+    1  1234  5_0
+    2  2222  -7_0
+    1  112_  1_. //]
+BEM[]
+MEL_SEM[0 0 0 0 0 0 0 -2 2 1 2 -5 0 0 0 0 0 5 -2 -1 -2 -2 0 0 0 0 0 0 0 0 2 2 1 2 -5 0 0 0 0 -3 1 0 0 2 -2]
+MEL_RAW[3  3333  3
+    3  3234  50
+    2  2222  2
+    5  432  10
+    1  1111  1
+    1  1234  50
+    2  2222  -70
+    1  112  1]
+NO_REP[3
+    323450
+    2
+    543210
+    1
+    123450
+    2-70
+    121]
+RTM[x  xxxx  x_.
+    x  xxxx  x_x
+    x  xxxx  x_.
+    x  xxx_  x_x
+    x  xxxx  x_.
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxx_  x_.]
+SCL_DEG[-712345]
+SCL_SEM[1 2 2 1 2]
+

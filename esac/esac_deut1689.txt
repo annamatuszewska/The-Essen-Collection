@@ -1,0 +1,28 @@
+ERK
+CUT[ICH KUMM ZUM SUMMER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glogau]
+TRD[]
+FKT[]
+SIG[E1225A]
+KEY[E1225A  08  F 3/4]
+MEL[5_5_5_  6_5_0_
+    432_2_  3_1_0_
+    555_4_  6_6_0_
+    432_2_  3_1_0_ //]
+BEM[]
+MEL_SEM[0 0 2 -2 -2 -1 -2 0 2 -4 7 0 0 -2 4 0 -4 -1 -2 0 2 -4]
+MEL_RAW[555  650
+    4322  310
+    5554  660
+    4322  310]
+NO_REP[5650
+    432310
+    5460
+    432310]
+RTM[x_x_x_  x_x_x_
+    xxx_x_  x_x_x_
+    xxx_x_  x_x_x_
+    xxx_x_  x_x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

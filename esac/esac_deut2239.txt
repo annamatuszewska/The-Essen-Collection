@@ -1,0 +1,28 @@
+ERK
+CUT[STERBEN IST EIN HARTE BUSS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Battenberg, Nennertehausen]
+TRD[]
+FKT[]
+SIG[E2162]
+KEY[E2162   16  F 3/4 4/4]
+MEL[1_2_  3__.1_(1_2_3_)  3__2__
+    1_2_  3__.1_(1_2_3_)  3__2__
+    1_2_  3_5_5__(4_5_6_)  5___(+1_7_6_)  5___
+    5_+1_  5__.3_5_4_3_24  3___0__ //]
+BEM[]
+MEL_SEM[2 2 -4 0 2 2 0 -2 -2 2 2 -4 0 2 2 0 -2 -2 2 2 3 0 -2 2 2 -2 5 -1 -2 -2 0 5 -5 -3 3 -2 -1 -2 3 -1]
+MEL_RAW[12  31123  32
+    12  31123  32
+    12  355456  5+176  5
+    5+1  5354324  30]
+NO_REP[1231232
+    1231232
+    12354565+1765
+    5+1535432430]
+RTM[x_x_  x__.x_(x_x_x_)  x__x__
+    x_x_  x__.x_(x_x_x_)  x__x__
+    x_x_  x_x_x__(x_x_x_)  x___(x_x_x_)  x___
+    x_x_  x__.x_x_x_x_xx  x___x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

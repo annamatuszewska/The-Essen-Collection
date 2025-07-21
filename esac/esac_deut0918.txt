@@ -1,0 +1,36 @@
+ERK
+CUT[ICH LEGTE MICH NIEDER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Lahnkreis, Niedertiefenbach]
+TRD[]
+FKT[]
+SIG[E0205B]
+KEY[E0205B  08  G 3/4]
+MEL[-5_1_3_  2_1_-7_
+    234_3_  2__
+    34  565_4_  3_2_1_
+    443_2_  1__
+    34  565_4_  3_2_1_
+    443_2_  1__. //]
+BEM[]
+MEL_SEM[5 4 -2 -2 -1 3 2 1 -1 -2 2 1 2 2 -2 -2 -1 -2 -2 5 0 -1 -2 -2 4 1 2 2 -2 -2 -1 -2 -2 5 0 -1 -2 -2]
+MEL_RAW[-513  21-7
+    2343  2
+    34  5654  321
+    4432  1
+    34  5654  321
+    4432  1]
+NO_REP[-51321-7
+    23432
+    345654321
+    4321
+    345654321
+    4321]
+RTM[x_x_x_  x_x_x_
+    xxx_x_  x__
+    xx  xxx_x_  x_x_x_
+    xxx_x_  x__
+    xx  xxx_x_  x_x_x_
+    xxx_x_  x__.]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

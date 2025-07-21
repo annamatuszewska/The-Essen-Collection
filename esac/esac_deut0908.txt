@@ -1,0 +1,36 @@
+ERK
+CUT[JETZT GEH ICH ANS BRUENNELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wetterau, Butzbach]
+TRD[]
+FKT[]
+SIG[E0203B]
+KEY[E0203B  08  G 3/4]
+MEL[-5_  -5_3_2_  1_.-71_
+    2_3_5_  2__
+    -71  2_2_46  5_543_
+    443_2_  1__
+    -71  2_2_46  5_543_
+    443_2_  1__ //]
+BEM[]
+MEL_SEM[0 9 -2 -2 -1 1 2 2 3 -5 -3 1 2 0 3 4 -2 0 -2 -1 1 0 -1 -2 -2 -1 1 2 0 3 4 -2 0 -2 -1 1 0 -1 -2 -2]
+MEL_RAW[-5  -532  1-71
+    235  2
+    -71  2246  5543
+    4432  1
+    -71  2246  5543
+    4432  1]
+NO_REP[-5321-71
+    2352
+    -71246543
+    4321
+    -71246543
+    4321]
+RTM[x_  x_x_x_  x_.xx_
+    x_x_x_  x__
+    xx  x_x_xx  x_xxx_
+    xxx_x_  x__
+    xx  x_x_xx  x_xxx_
+    xxx_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

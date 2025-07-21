@@ -1,0 +1,28 @@
+ERK
+CUT[KOMM ZU MIR IN GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken ?]
+TRD[]
+FKT[]
+SIG[E0530]
+KEY[E0530   08  G 3/4]
+MEL[-5_  123_21  2-7-5_
+    5_  543_21  2__
+    23  4_4_32  1-71_
+    4_  321_-7_  1__ //]
+BEM[]
+MEL_SEM[5 2 2 -2 -2 2 -3 -4 12 0 -2 -1 -2 -2 2 0 2 1 0 -1 -2 -2 -1 1 5 -1 -2 -2 -1 1]
+MEL_RAW[-5  12321  2-7-5
+    5  54321  2
+    23  4432  1-71
+    4  321-7  1]
+NO_REP[-5123212-7-5
+    543212
+    234321-71
+    4321-71]
+RTM[x_  xxx_xx  xxx_
+    x_  xxx_xx  x__
+    xx  x_x_xx  xxx_
+    x_  xxx_x_  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

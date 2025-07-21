@@ -1,0 +1,32 @@
+ERK
+CUT[WER KANNS VERDENKEN MICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Hennethal]
+TRD[]
+FKT[]
+SIG[E1733]
+KEY[E1733   08  G 4/4]
+MEL[-5_  1_3_322_  1__
+    2__  3_5_543_  2__0__
+    5_.4321_  6_6_5__
+    5_543_3_  322_1__
+    4_6_5_3_  322_1_ //]
+BEM[]
+MEL_SEM[5 4 0 -2 0 -2 2 2 3 0 -2 -1 -2 5 -2 -1 -2 -2 9 0 -2 0 0 -2 -1 0 0 -2 0 -2 5 4 -2 -3 0 -2 0 -2]
+MEL_RAW[-5  13322  1
+    2  35543  20
+    54321  665
+    55433  3221
+    4653  3221]
+NO_REP[-51321
+    2354320
+    5432165
+    54321
+    465321]
+RTM[x_  x_x_xxx_  x__
+    x__  x_x_xxx_  x__x__
+    x_.xxxx_  x_x_x__
+    x_xxx_x_  xxx_x__
+    x_x_x_x_  xxx_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

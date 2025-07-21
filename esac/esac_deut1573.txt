@@ -1,0 +1,28 @@
+ERK
+CUT[E BISSELE LIEB]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Schwaben]
+TRD[]
+FKT[]
+SIG[E1015]
+KEY[E1015   16  G 3/8]
+MEL[1_  3_3_.4  6_5_0
+    5  5_4_.4  4_3_
+    34  3_2_2_  2_1_.
+    1  24-7_-7_  1__ //]
+BEM[]
+MEL_SEM[4 0 1 4 -2 0 0 -2 0 0 -1 0 1 -1 -2 0 0 -2 0 2 3 -6 0 1]
+MEL_RAW[1  334  650
+    5  544  43
+    34  322  21
+    1  24-7-7  1]
+NO_REP[134650
+    543
+    34321
+    124-71]
+RTM[x_  x_x_.x  x_x_x
+    x  x_x_.x  x_x_
+    xx  x_x_x_  x_x_.
+    x  xxx_x_  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

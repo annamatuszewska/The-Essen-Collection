@@ -1,0 +1,28 @@
+ERK
+CUT[LINCHEN GING EINMAL SPAZIEREN]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+TRD[]
+FKT[]
+SIG[E0712A]
+KEY[E0712A  16  A 2/4]
+MEL[-5_1_1_1_  -7_2_1_-5_
+    1_1_3_53  2__0__
+    4_4_4_32  3_5_1_1_
+    24321_-7_  1__0__ //]
+BEM[]
+MEL_SEM[5 0 0 -1 3 -2 -5 5 0 4 3 -3 -2 3 0 0 -1 -2 2 3 -7 0 2 3 -1 -2 -2 -1 1]
+MEL_RAW[-5111  -721-5
+    11353  20
+    44432  3511
+    24321-7  10]
+NO_REP[-51-721-5
+    135320
+    432351
+    24321-710]
+RTM[x_x_x_x_  x_x_x_x_
+    x_x_x_xx  x__x__
+    x_x_x_xx  x_x_x_x_
+    xxxxx_x_  x__x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

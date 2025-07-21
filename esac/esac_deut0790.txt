@@ -1,0 +1,32 @@
+ERK
+CUT[ES WAR EIN WACKER MAEGDLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0118]
+KEY[E0118   08  A 3/4]
+MEL[1_  1__1_  5__4_  5__3b_  2__
+    2_  5__4_  3b__2_  1__3b_  2__
+    2_  1_-7_1_  -5__
+    2_  3b__3b_  1__2_  3b_.45_  5__
+    4_  3b_5_4_  3b_2__  1__.  1_0_ //]
+BEM[]
+MEL_SEM[0 0 7 -2 2 -4 -1 0 5 -2 -2 -1 -2 3 -1 0 -2 -1 1 -5 7 1 0 -3 2 1 2 2 0 -2 -2 4 -2 -2 -1 -2 0]
+MEL_RAW[1  11  54  53b  2
+    2  54  3b2  13b  2
+    2  1-71  -5
+    2  3b3b  12  3b45  5
+    4  3b54  3b2  1  10]
+NO_REP[15453b2
+    2543b213b2
+    21-71-5
+    23b123b45
+    43b543b210]
+RTM[x_  x__x_  x__x_  x__x_  x__
+    x_  x__x_  x__x_  x__x_  x__
+    x_  x_x_x_  x__
+    x_  x__x_  x__x_  x_.xx_  x__
+    x_  x_x_x_  x_x__  x__.  x_x_]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

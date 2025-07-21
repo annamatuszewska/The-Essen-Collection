@@ -1,0 +1,36 @@
+ERK
+CUT[WER NUR DEN LIEBEN GOTT LAESST WALTEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E2002]
+KEY[E2002   04  A 4/4]
+MEL[-5  123b2  12-7_  -5
+    -7b-7b-6b  -511-7  1_0
+    -5  123b2  12-7_  -5
+    -7b-7b-6b  -511-7  1_0
+    2  3b455  443b
+    5  43b21  3b21 //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 2 -3 -4 3 0 -2 -1 5 0 -1 1 -5 5 2 1 -1 -2 2 -3 -4 3 0 -2 -1 5 0 -1 1 2 1 2 2 0 -2 0 -2 4 -2 -2 -1 -2 3 -1 -2]
+MEL_RAW[-5  123b2  12-7  -5
+    -7b-7b-6b  -511-7  10
+    -5  123b2  12-7  -5
+    -7b-7b-6b  -511-7  10
+    2  3b455  443b
+    5  43b21  3b21]
+NO_REP[-5123b212-7-5
+    -7b-6b-51-710
+    -5123b212-7-5
+    -7b-6b-51-710
+    23b4543b
+    543b213b21]
+RTM[x  xxxx  xxx_  x
+    xxx  xxxx  x_x
+    x  xxxx  xxx_  x
+    xxx  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx]
+SCL_DEG[-5-6b-7b-7123b45]
+SCL_SEM[1 2 1 1 2 1 2 2]
+

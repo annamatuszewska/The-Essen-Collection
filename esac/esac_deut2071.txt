@@ -1,0 +1,44 @@
+ERK
+CUT[HANS PITTERKEN LIET SIEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Meurs]
+TRD[]
+FKT[]
+SIG[E1820]
+KEY[E1820   08  C 2/4]
+MEL[-5  11-5-5  -6-6-50
+    11-5-5  -6-6-5
+    -5  11-5-5  -6-6-50
+    11-5-5  -6-6-50
+    3321  3_30
+    2223  1110
+    3321  3_30
+    2223  1110 //]
+BEM[]
+MEL_SEM[5 0 -5 0 2 0 -2 5 0 -5 0 2 0 -2 0 5 0 -5 0 2 0 -2 5 0 -5 0 2 0 -2 9 0 -2 -2 4 0 -2 0 0 2 -4 0 0 4 0 -2 -2 4 0 -2 0 0 2 -4 0 0]
+MEL_RAW[-5  11-5-5  -6-6-50
+    11-5-5  -6-6-5
+    -5  11-5-5  -6-6-50
+    11-5-5  -6-6-50
+    3321  330
+    2223  1110
+    3321  330
+    2223  1110]
+NO_REP[-51-5-6-50
+    1-5-6-5
+    -51-5-6-50
+    1-5-6-50
+    32130
+    2310
+    32130
+    2310]
+RTM[x  xxxx  xxxx
+    xxxx  xxx
+    x  xxxx  xxxx
+    xxxx  xxxx
+    xxxx  x_xx
+    xxxx  xxxx
+    xxxx  x_xx
+    xxxx  xxxx]
+SCL_DEG[-5-6123]
+SCL_SEM[2 3 2 2]
+

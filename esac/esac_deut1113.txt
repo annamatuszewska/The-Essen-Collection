@@ -1,0 +1,28 @@
+ERK
+CUT[ICH GIENG EINMAL SPAZIERE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau; Dillenburg]
+TRD[]
+FKT[]
+SIG[E0533A]
+KEY[E0533A  08  G 2/4]
+MEL[-5  111-5  1_1-5  1_0
+    5  5555  6_6
+    5  4446  5_0
+    3  3333  4_45  3_0 //]
+BEM[]
+MEL_SEM[5 0 0 -5 5 0 -5 5 7 0 0 0 0 2 0 -2 -2 0 0 4 -2 -3 0 0 0 0 1 0 2 -3]
+MEL_RAW[-5  111-5  11-5  10
+    5  5555  66
+    5  4446  50
+    3  3333  445  30]
+NO_REP[-51-51-510
+    56
+    54650
+    34530]
+RTM[x  xxxx  x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_xx  x_x]
+SCL_DEG[-513456]
+SCL_SEM[5 4 1 2 2]
+

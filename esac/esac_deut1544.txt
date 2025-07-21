@@ -1,0 +1,44 @@
+ERK
+CUT[GUDEN ABEND SPELMANN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Langenberg]
+TRD[]
+FKT[]
+SIG[E0983]
+KEY[E0983   16  G 3/8]
+MEL[-5-5  3_3_2_  1__
+    -5_  3_3_3_  1__
+    11  3_3_2_  1_1_
+    11  3_3_2_  1__
+    3_  5_5_5_  6_6_
+    4_  4_4_6_  5__
+    4_  3_3_3_  5_5_
+    3_  2_2_2_  1__ //]
+BEM[]
+MEL_SEM[0 9 0 -2 -2 -5 9 0 0 -4 0 0 4 0 -2 -2 0 0 0 4 0 -2 -2 4 3 0 0 2 0 -4 0 0 4 -2 -2 -1 0 0 3 0 -3 -2 0 0 -2]
+MEL_RAW[-5-5  332  1
+    -5  333  1
+    11  332  11
+    11  332  1
+    3  555  66
+    4  446  5
+    4  333  55
+    3  222  1]
+NO_REP[-5321
+    -531
+    1321
+    1321
+    356
+    465
+    435
+    321]
+RTM[xx  x_x_x_  x__
+    x_  x_x_x_  x__
+    xx  x_x_x_  x_x_
+    xx  x_x_x_  x__
+    x_  x_x_x_  x_x_
+    x_  x_x_x_  x__
+    x_  x_x_x_  x_x_
+    x_  x_x_x_  x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

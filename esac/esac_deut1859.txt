@@ -1,0 +1,32 @@
+ERK
+CUT[GUTN ABEND JUNGFR RESL]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Landshut]
+TRD[]
+FKT[]
+SIG[E1466A]
+KEY[E1466A  08  F 3/4]
+MEL[1_  1_4_4_  2_4_
+    3_  3_222_  1_0_
+    1_  1_4_4_  2_4_
+    3_  3_2_2_  1__
+    5_  5_642-7  1__ //]
+BEM[]
+MEL_SEM[0 5 0 -3 3 -1 0 -2 0 0 -2 0 0 5 0 -3 3 -1 0 -2 0 -2 7 0 2 -4 -3 -3 1]
+MEL_RAW[1  144  24
+    3  3222  10
+    1  144  24
+    3  322  1
+    5  5642-7  1]
+NO_REP[1424
+    3210
+    1424
+    321
+    5642-71]
+RTM[x_  x_x_x_  x_x_
+    x_  x_xxx_  x_x_
+    x_  x_x_x_  x_x_
+    x_  x_x_x_  x__
+    x_  x_xxxx  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

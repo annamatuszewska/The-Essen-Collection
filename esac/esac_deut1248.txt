@@ -1,0 +1,28 @@
+ERK
+CUT[SCHAETZCHEN SAG WIE WIRDS DIR WERDEN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Westerwald]
+TRD[]
+FKT[]
+SIG[E0661]
+KEY[E0661   08 Bb 4/4]
+MEL[-5_-5_1_.-5  -6-5-6-71-5-5_
+    -5_-6_-5_.-4  -3-5131_0_
+    2_4_3_.3  2_2_3_1_
+    -6-71-6-5_.-5  -5-7243_0_ //]
+BEM[]
+MEL_SEM[0 5 -5 2 -2 2 2 1 -5 0 0 2 -2 -2 -1 3 5 4 -4 2 3 -1 0 -2 0 2 -4 -3 2 1 -3 -2 0 0 4 3 3 -1]
+MEL_RAW[-5-51-5  -6-5-6-71-5-5
+    -5-6-5-4  -3-51310
+    2433  2231
+    -6-71-6-5-5  -5-72430]
+NO_REP[-51-5-6-5-6-71-5
+    -5-6-5-4-3-51310
+    243231
+    -6-71-6-5-72430]
+RTM[x_x_x_.x  xxxxxxx_
+    x_x_x_.x  xxxxx_x_
+    x_x_x_.x  x_x_x_x_
+    xxxxx_.x  xxxxx_x_]
+SCL_DEG[-3-4-5-6-71234]
+SCL_SEM[1 2 2 2 1 2 2 1]
+

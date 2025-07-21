@@ -1,0 +1,24 @@
+ERK
+CUT[ES RITT EIN RITTER WOL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0181]
+KEY[E0181   08  G 4/4]
+MEL[34  5_5_5_65  544_4_
+    54  3_3_321_  322_2_
+    32  1_3_531_  322_1_ //]
+BEM[]
+MEL_SEM[1 2 0 0 2 -2 0 -2 0 0 2 -2 -1 0 0 -2 -2 4 -2 0 0 2 -2 -2 4 3 -3 -4 4 -2 0 -2]
+MEL_RAW[34  55565  5444
+    54  33321  3222
+    32  13531  3221]
+NO_REP[345654
+    5432132
+    3213531321]
+RTM[xx  x_x_x_xx  xxx_x_
+    xx  x_x_xxx_  xxx_x_
+    xx  x_x_xxx_  xxx_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[WAS TRUG MARIA UNTER IHREM HERZEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+TRD[]
+FKT[]
+SIG[E1189]
+KEY[E1189   16  G 2/4]
+MEL[-5_  1_1_1_2_  3_2_1_1_
+    3__5432  3__1_
+    13  5_5_5_5_  6_5_4_3_
+    2_3_4_4_  5_4_3_2_
+    3__5432  3__1_ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 -2 -2 0 4 3 -2 -1 -2 2 -4 0 4 3 0 0 0 2 -2 -2 -1 -2 2 1 0 2 -2 -1 -2 2 3 -2 -1 -2 2 -4]
+MEL_RAW[-5  1112  3211
+    35432  31
+    13  5555  6543
+    2344  5432
+    35432  31]
+NO_REP[-512321
+    3543231
+    1356543
+    2345432
+    3543231]
+RTM[x_  x_x_x_x_  x_x_x_x_
+    x__xxxx  x__x_
+    xx  x_x_x_x_  x_x_x_x_
+    x_x_x_x_  x_x_x_x_
+    x__xxxx  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

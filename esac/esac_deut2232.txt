@@ -1,0 +1,32 @@
+ERK
+CUT[ALLES IST VERGAENGLICH]
+REG[Europa, Mitteleuropa, Deutschland, Altmark]
+TRD[]
+FKT[]
+SIG[E2149]
+KEY[E2149   08  F 4/4]
+MEL[1_.23_3_  3_.21_0_
+    2_2_-7_-72  1__0_
+    3_  2_4_-7_-7_  1__3_
+    3_  2_2_-7_-5_  1__3_0_
+    322_-7_-7_  1__.0_ //]
+BEM[]
+MEL_SEM[2 2 0 0 -2 -2 2 0 -3 0 3 -2 4 -2 3 -6 0 1 4 0 -2 0 -3 -4 5 4 0 -2 0 -3 0 1]
+MEL_RAW[1233  3210
+    22-7-72  10
+    3  24-7-7  13
+    3  22-7-5  130
+    322-7-7  10]
+NO_REP[123210
+    2-7210
+    324-713
+    32-7-5130
+    32-710]
+RTM[x_.xx_x_  x_.xx_x_
+    x_x_x_xx  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_x_
+    xxx_x_x_  x__.x_]
+SCL_DEG[-5-71234]
+SCL_SEM[4 1 2 2 1]
+

@@ -1,0 +1,40 @@
+ERK
+CUT[KOMMT HER IHR LIEBEN SCHWESTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0939]
+KEY[E0939   04  F 4/4]
+MEL[1  5511  551
+    1  5511  551_
+    5_65  4322  1_0_
+    5_65  4322  1_0
+    2  2221  -712
+    2  2221  -712_  0
+    431  2211  1__ //]
+BEM[]
+MEL_SEM[7 0 -7 0 7 0 -7 0 7 0 -7 0 7 0 -7 7 2 -2 -2 -1 -2 0 -2 7 2 -2 -2 -1 -2 0 -2 2 0 0 0 -2 -1 1 2 0 0 0 0 -2 -1 1 2 3 -1 -4 2 0 -2 0 0]
+MEL_RAW[1  5511  551
+    1  5511  551
+    565  4322  10
+    565  4322  10
+    2  2221  -712
+    2  2221  -712  0
+    431  2211  1]
+NO_REP[15151
+    15151
+    56543210
+    56543210
+    21-712
+    21-7120
+    43121]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx_
+    x_xx  xxxx  x_x_
+    x_xx  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx_  x
+    xxx  xxxx  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

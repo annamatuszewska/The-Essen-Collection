@@ -1,0 +1,36 @@
+ERK
+CUT[IM SOMMER DA GEHN WIR UEBER LAND]
+REG[Europa, Mitteleuropa, Deutschland, Berlin]
+TRD[]
+FKT[]
+SIG[E1888A]
+KEY[E1888A  08  G 2/4]
+MEL[-5  1_1-5  1_1
+    -5  1-513  2_0
+    3  4422  331
+    1  2_-7-7  135
+    3  4422  331
+    1  2_-7-7  1_0 //]
+BEM[]
+MEL_SEM[5 0 -5 5 0 -5 5 -5 5 4 -2 2 1 0 -3 0 2 0 -4 0 2 -3 0 1 4 3 -3 1 0 -3 0 2 0 -4 0 2 -3 0 1]
+MEL_RAW[-5  11-5  11
+    -5  1-513  20
+    3  4422  331
+    1  2-7-7  135
+    3  4422  331
+    1  2-7-7  10]
+NO_REP[-51-51
+    -51-51320
+    34231
+    12-7135
+    34231
+    12-710]
+RTM[x  x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  x_xx  xxx
+    x  xxxx  xxx
+    x  x_xx  x_x]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

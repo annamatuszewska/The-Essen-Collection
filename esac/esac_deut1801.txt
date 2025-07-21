@@ -1,0 +1,36 @@
+ERK
+CUT[ES WAR EIN REICHER KAUFMANNSSOHN]
+REG[Europa, Mitteleuropa, Deutschland, Franken, Wuerzburg]
+TRD[]
+FKT[]
+SIG[E1398]
+KEY[E1398   16  F 6/8]
+MEL[13  5__5_5__5_  5__3_3__
+    1_  6_.66_+1_7_6_  6_5_5_3__
+    5_  5_.44_2__
+    6_  6_.55_3__55  5__0__.
+    5_  5_.44_2__
+    6_  6_.55_3__55  5__0__. //]
+BEM[]
+MEL_SEM[4 3 0 0 0 0 -3 0 -4 9 0 0 3 -1 -2 0 -2 0 -3 3 0 -2 0 -3 7 0 -2 0 -3 3 0 0 0 0 -2 0 -3 7 0 -2 0 -3 3 0 0]
+MEL_RAW[13  5555  533
+    1  666+176  6553
+    5  5442
+    6  655355  50
+    5  5442
+    6  655355  50]
+NO_REP[1353
+    16+17653
+    542
+    65350
+    542
+    65350]
+RTM[xx  x__x_x__x_  x__x_x__
+    x_  x_.xx_x_x_x_  x_x_x_x__
+    x_  x_.xx_x__
+    x_  x_.xx_x__xx  x__x__.
+    x_  x_.xx_x__
+    x_  x_.xx_x__xx  x__x__.]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

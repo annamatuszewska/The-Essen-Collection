@@ -1,0 +1,44 @@
+ERK
+CUT[ES IST NICHTS LUSTGERS AUF DER WELT]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen, Franken]
+TRD[]
+FKT[]
+SIG[E1346]
+KEY[E1346   08  G 6/8]
+MEL[-5  1_13_3  5_53_
+    1  2_25_5  3_.0_
+    -5  1_13_3  5_53_
+    1  2_25_5  3_.0_
+    2  2_32_2  3_53_
+    1  2_12_5  3_.0_
+    -5  1_13_3  5_53_
+    1  2_25_-7  1_.0_ //]
+BEM[]
+MEL_SEM[5 0 4 0 3 0 -3 -4 2 0 5 0 -3 -9 5 0 4 0 3 0 -3 -4 2 0 5 0 -3 -2 0 2 -2 0 2 3 -3 -4 2 -2 2 5 -3 -9 5 0 4 0 3 0 -3 -4 2 0 5 -8 1]
+MEL_RAW[-5  1133  553
+    1  2255  30
+    -5  1133  553
+    1  2255  30
+    2  2322  353
+    1  2125  30
+    -5  1133  553
+    1  225-7  10]
+NO_REP[-51353
+    12530
+    -51353
+    12530
+    232353
+    1212530
+    -51353
+    125-710]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_]
+SCL_DEG[-5-71235]
+SCL_SEM[4 1 2 2 3]
+

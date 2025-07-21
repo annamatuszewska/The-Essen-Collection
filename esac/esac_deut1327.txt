@@ -1,0 +1,28 @@
+ERK
+CUT[SCHWARZES BAND DU MUSST VERGEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0720]
+KEY[E0720   16  G 3/4]
+MEL[1_-5_  1__3__2_1_  2__4__
+    3_2_  3__5__4_3_  2__0__
+    5_4_  3_4_5_5_6543  2__4__
+    3_2_  1__3__2_.1  1__0__ //]
+BEM[]
+MEL_SEM[-5 5 4 -2 -2 2 3 -1 -2 2 3 -2 -1 -2 5 -2 -1 1 2 0 2 -2 -2 -1 -2 3 -1 -2 -2 4 -2 -2 0]
+MEL_RAW[1-5  1321  24
+    32  3543  20
+    54  34556543  24
+    32  1321  10]
+NO_REP[1-5132124
+    32354320
+    54345654324
+    3213210]
+RTM[x_x_  x__x__x_x_  x__x__
+    x_x_  x__x__x_x_  x__x__
+    x_x_  x_x_x_x_xxxx  x__x__
+    x_x_  x__x__x_.x  x__x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,44 @@
+ERK
+CUT[NUN DANKET ALLE GOTT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1986]
+KEY[E1986   04  G 4/4]
+MEL[5  5566  5_.
+    3  4323  2_1
+    5  5566  5_.
+    3  4323  2_1
+    2  2233  2_.
+    2  3554#  5_.
+    5  6543  4_.
+    3  2322  1_. //]
+BEM[]
+MEL_SEM[0 0 2 0 -2 -3 1 -1 -2 2 -2 -2 7 0 0 2 0 -2 -3 1 -1 -2 2 -2 -2 2 0 0 2 0 -2 0 2 3 0 -1 1 0 2 -2 -2 -1 1 -1 -2 2 -2 0 -2]
+MEL_RAW[5  5566  5
+    3  4323  21
+    5  5566  5
+    3  4323  21
+    2  2233  2
+    2  3554#  5
+    5  6543  4
+    3  2322  1]
+NO_REP[565
+    3432321
+    565
+    3432321
+    232
+    2354#5
+    565434
+    32321]
+RTM[x  xxxx  x_.
+    x  xxxx  x_x
+    x  xxxx  x_.
+    x  xxxx  x_x
+    x  xxxx  x_.
+    x  xxxx  x_.
+    x  xxxx  x_.
+    x  xxxx  x_.]
+SCL_DEG[12344#56]
+SCL_SEM[2 2 1 1 1 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[MAIKAEFER FLIEG]
+REG[Europa, Mitteleuropa, Deutschland, Weissenfels]
+TRD[]
+FKT[]
+SIG[E1850]
+KEY[E1850   08  G 2/4]
+MEL[5_42  1_0
+    5  5542  1_0
+    3  3333  255
+    5  5542  1110 //]
+BEM[]
+MEL_SEM[-2 -3 -2 7 0 0 -2 -3 -2 4 0 0 0 0 -2 5 0 0 0 0 -2 -3 -2 0 0]
+MEL_RAW[542  10
+    5  5542  10
+    3  3333  255
+    5  5542  1110]
+NO_REP[54210
+    54210
+    325
+    54210]
+RTM[x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxxx]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

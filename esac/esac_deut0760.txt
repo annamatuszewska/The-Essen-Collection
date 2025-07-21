@@ -1,0 +1,36 @@
+ERK
+CUT[DA DRUNTEN IN DEM TIEFEN THALE]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend; Taunus]
+TRD[]
+FKT[]
+SIG[E0108C]
+KEY[E0108C  08 Eb 4/4]
+MEL[12  3_3_3543  322_0_
+    23  4_4_4654  433_0_
+    34  5_345_67  +1_766_5_
+    5_67+1_76  5_453_
+    34  5_345_67  +1_766_5_
+    5_67+1_76  5_453_ //]
+BEM[]
+MEL_SEM[2 2 0 0 3 -2 -1 0 -2 0 0 2 1 0 0 4 -2 -2 0 -1 0 0 1 2 -3 1 2 2 2 1 -1 -2 0 -2 0 2 2 1 -1 -2 -2 -2 2 -3 0 1 2 -3 1 2 2 2 1 -1 -2 0 -2 0 2 2 1 -1 -2 -2 -2 2 -3]
+MEL_RAW[12  333543  3220
+    23  444654  4330
+    34  534567  +17665
+    567+176  5453
+    34  534567  +17665
+    567+176  5453]
+NO_REP[12354320
+    23465430
+    34534567+1765
+    567+1765453
+    34534567+1765
+    567+1765453]
+RTM[xx  x_x_xxxx  xxx_x_
+    xx  x_x_xxxx  xxx_x_
+    xx  x_xxx_xx  x_xxx_x_
+    x_xxx_xx  x_xxx_
+    xx  x_xxx_xx  x_xxx_x_
+    x_xxx_xx  x_xxx_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

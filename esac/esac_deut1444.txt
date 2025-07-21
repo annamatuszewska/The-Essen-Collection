@@ -1,0 +1,28 @@
+ERK
+CUT[ACH MUTTER S HAT FREIER HIER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Liegnitz]
+TRD[]
+FKT[]
+SIG[E0837]
+KEY[E0837   08  C 3/8]
+MEL[-5  113  111  -5-5-5  1_
+    -5  113  111  -5-5-5  1_
+    -5  222  1-6-5  333  2_
+    5  222  333  -6-6-7  1_ //]
+BEM[]
+MEL_SEM[5 0 4 -4 0 0 -5 0 0 5 -5 5 0 4 -4 0 0 -5 0 0 5 -5 7 0 0 -2 -3 -2 9 0 0 -2 5 -5 0 0 2 0 0 -7 0 2 1]
+MEL_RAW[-5  113  111  -5-5-5  1
+    -5  113  111  -5-5-5  1
+    -5  222  1-6-5  333  2
+    5  222  333  -6-6-7  1]
+NO_REP[-5131-51
+    -5131-51
+    -521-6-532
+    523-6-71]
+RTM[x  xxx  xxx  xxx  x_
+    x  xxx  xxx  xxx  x_
+    x  xxx  xxx  xxx  x_
+    x  xxx  xxx  xxx  x_]
+SCL_DEG[-5-6-71235]
+SCL_SEM[2 2 1 2 2 3]
+

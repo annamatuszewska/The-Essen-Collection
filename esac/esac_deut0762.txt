@@ -1,0 +1,24 @@
+ERK
+CUT[ES FREIT EINE JUNGE MARKGRAEFIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0109A]
+KEY[E0109A  08  F 4/4]
+MEL[13  5_5_5_65  544_0_
+    54  3_3_321_  2_.32_
+    32  1_3_531_  2__1_ //]
+BEM[]
+MEL_SEM[4 3 0 0 2 -2 0 -2 0 2 -2 -1 0 0 -2 -2 2 2 -2 2 -2 -2 4 3 -3 -4 2 -2]
+MEL_RAW[13  55565  5440
+    54  33321  232
+    32  13531  21]
+NO_REP[1356540
+    54321232
+    321353121]
+RTM[xx  x_x_x_xx  xxx_x_
+    xx  x_x_xxx_  x_.xx_
+    xx  x_x_xxx_  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

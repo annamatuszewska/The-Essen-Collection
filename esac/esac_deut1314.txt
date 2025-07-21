@@ -1,0 +1,28 @@
+ERK
+CUT[DER HIMMEL IST SO TRUEBE]
+REG[Europa, Mitteleuropa, Deutschland, Hannover, Dransfeld, Imbsen]
+TRD[]
+FKT[]
+SIG[E0709]
+KEY[E0709   08  A 3/4]
+MEL[-5_  1_-5_-5-5  -5-4-4_
+    -51  -7_.-6-5-4  -3__
+    -5_  3_2_1-7  -7-6-6_
+    21  -7_.-5-6-7  1_0_ //]
+BEM[]
+MEL_SEM[5 -5 0 0 0 -2 0 2 5 -1 -2 -2 -2 -1 3 9 -2 -2 -1 0 -2 0 5 -2 -1 -4 2 2 1]
+MEL_RAW[-5  1-5-5-5  -5-4-4
+    -51  -7-6-5-4  -3
+    -5  321-7  -7-6-6
+    21  -7-5-6-7  10]
+NO_REP[-51-5-4
+    -51-7-6-5-4-3
+    -5321-7-6
+    21-7-5-6-710]
+RTM[x_  x_x_xx  xxx_
+    xx  x_.xxx  x__
+    x_  x_x_xx  xxx_
+    xx  x_.xxx  x_x_]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

@@ -1,0 +1,44 @@
+ERK
+CUT[DER SCHAEFER TRAEGT SORGEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Messel]
+TRD[]
+FKT[]
+SIG[E0508A]
+KEY[E0508A  08  F 3/4]
+MEL[-5_  1_-5_1_  3_1_
+    3_  5_6543  3_2_
+    4_  4_6_+16  5_3_
+    35  544_46  5__
+    35  542_2_  1__
+    4_  4_6_+16  5_3_
+    35  544_46  5__
+    35  542_2_  1__ //]
+BEM[]
+MEL_SEM[5 -5 5 4 -4 4 3 2 -2 -2 -1 0 -2 3 0 4 3 -3 -2 -3 0 3 0 -2 0 0 4 -2 -3 3 0 -2 -3 0 -2 5 0 4 3 -3 -2 -3 0 3 0 -2 0 0 4 -2 -3 3 0 -2 -3 0 -2]
+MEL_RAW[-5  1-51  31
+    3  56543  32
+    4  46+16  53
+    35  54446  5
+    35  5422  1
+    4  46+16  53
+    35  54446  5
+    35  5422  1]
+NO_REP[-51-5131
+    3565432
+    46+1653
+    35465
+    35421
+    46+1653
+    35465
+    35421]
+RTM[x_  x_x_x_  x_x_
+    x_  x_xxxx  x_x_
+    x_  x_x_xx  x_x_
+    xx  xxx_xx  x__
+    xx  xxx_x_  x__
+    x_  x_x_xx  x_x_
+    xx  xxx_xx  x__
+    xx  xxx_x_  x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

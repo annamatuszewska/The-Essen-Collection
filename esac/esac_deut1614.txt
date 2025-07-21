@@ -1,0 +1,28 @@
+ERK
+CUT[ICH KUMM AUS FREMDEN LANDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1062B]
+KEY[E1062B  08  F 4/4]
+MEL[1  5_5_6_5_  5_.43_0
+    3  3_5_5_35  4_2_1_0
+    -5  1_2_3_3_  1_2_3_0
+    3  3_5_5_3_  4_2_1_0 //]
+BEM[]
+MEL_SEM[7 0 2 -2 0 -2 -1 0 0 3 0 -3 3 -2 -3 -2 -5 5 2 2 0 -4 2 2 0 0 3 0 -3 1 -3 -2]
+MEL_RAW[1  5565  5430
+    3  35535  4210
+    -5  1233  1230
+    3  3553  4210]
+NO_REP[1565430
+    35354210
+    -51231230
+    3534210]
+RTM[x  x_x_x_x_  x_.xx_x
+    x  x_x_x_xx  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

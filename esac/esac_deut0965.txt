@@ -1,0 +1,36 @@
+ERK
+CUT[DIE FRANZOSEN BRECHEN EIN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E0342]
+KEY[E0342   08  G 3/4]
+MEL[-5_  1_132-7  1__
+    2_  3_3542  3__
+    12  3_3_34  5_.4
+    3_  322123  4_.3
+    2_  3_5432  1__
+    2_  3_5432  1__ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -3 1 2 2 0 3 -2 -3 2 -4 2 2 0 0 1 2 -2 -1 0 -2 0 -2 2 2 1 -1 -2 2 3 -2 -1 -2 -2 2 2 3 -2 -1 -2 -2]
+MEL_RAW[-5  1132-7  1
+    2  33542  3
+    12  3334  54
+    3  322123  43
+    2  35432  1
+    2  35432  1]
+NO_REP[-5132-71
+    235423
+    123454
+    3212343
+    2354321
+    2354321]
+RTM[x_  x_xxxx  x__
+    x_  x_xxxx  x__
+    xx  x_x_xx  x_.x
+    x_  xxxxxx  x_.x
+    x_  x_xxxx  x__
+    x_  x_xxxx  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

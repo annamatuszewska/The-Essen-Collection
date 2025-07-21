@@ -1,0 +1,36 @@
+ERK
+CUT[ACH SCHOENSTER SCHATZ VERZEIH ES MIR]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.M.]
+TRD[]
+FKT[]
+SIG[E0559]
+KEY[E0559   08 Eb 6/8]
+MEL[5  5_31_3  5_31_
+    1  4_6+176  6_.5_
+    3  4_6654  3_554
+    3  2_5542  2_.1_
+    3  4_6654  3_554
+    3  2_5542  2_.1_ //]
+BEM[]
+MEL_SEM[0 -3 -4 4 3 -3 -4 0 5 4 3 -1 -2 0 -2 -3 1 4 0 -2 -2 -1 3 0 -2 -1 -2 5 0 -2 -3 0 -2 4 1 4 0 -2 -2 -1 3 0 -2 -1 -2 5 0 -2 -3 0 -2]
+MEL_RAW[5  5313  531
+    1  46+176  65
+    3  46654  3554
+    3  25542  21
+    3  46654  3554
+    3  25542  21]
+NO_REP[5313531
+    146+1765
+    34654354
+    325421
+    34654354
+    325421]
+RTM[x  x_xx_x  x_xx_
+    x  x_xxxx  x_.x_
+    x  x_xxxx  x_xxx
+    x  x_xxxx  x_.x_
+    x  x_xxxx  x_xxx
+    x  x_xxxx  x_.x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

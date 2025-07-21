@@ -1,0 +1,28 @@
+ERK
+CUT[IST DENN DIESES WIRKLICH WAHR]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Posen; Schwaben]
+TRD[]
+FKT[]
+SIG[E0349]
+KEY[E0349   08  G 2/4]
+MEL[-5111  -72-5_
+    -5222  2542
+    1333  355_
+    234-7  2_1_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 3 -7 0 7 0 0 0 5 -2 -3 -2 4 0 0 0 3 0 -5 2 1 -6 3 -2]
+MEL_RAW[-5111  -72-5
+    -5222  2542
+    1333  355
+    234-7  21]
+NO_REP[-51-72-5
+    -52542
+    135
+    234-721]
+RTM[xxxx  xxx_
+    xxxx  xxxx
+    xxxx  xxx_
+    xxxx  x_x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

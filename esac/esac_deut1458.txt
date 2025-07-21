@@ -1,0 +1,32 @@
+ERK
+CUT[RECHT VERGNUEGET KANN MAN LEBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus; Limburg]
+TRD[]
+FKT[]
+SIG[E0862]
+KEY[E0862   16  F 2/4]
+MEL[1__2__  3_5_5_43  3__2__
+    1__2__  3_5_5_43  3__2__
+    1_.35_+1_  6_.56543
+    2_.34_6_  5_.45432
+    1__2__  3_5_5_43  3__2__ //]
+BEM[]
+MEL_SEM[2 2 3 0 -2 -1 0 -2 -2 2 2 3 0 -2 -1 0 -2 -2 4 3 5 -3 -2 2 -2 -2 -1 -2 2 1 4 -2 -2 2 -2 -1 -2 -2 2 2 3 0 -2 -1 0 -2]
+MEL_RAW[12  35543  32
+    12  35543  32
+    135+1  656543
+    2346  545432
+    12  35543  32]
+NO_REP[1235432
+    1235432
+    135+1656543
+    2346545432
+    1235432]
+RTM[x__x__  x_x_x_xx  x__x__
+    x__x__  x_x_x_xx  x__x__
+    x_.xx_x_  x_.xxxxx
+    x_.xx_x_  x_.xxxxx
+    x__x__  x_x_x_xx  x__x__]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

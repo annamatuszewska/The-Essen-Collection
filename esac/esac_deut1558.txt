@@ -1,0 +1,24 @@
+ERK
+CUT[HOPSA MEI LORCHE DREH DICH MAL DRUM]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kreis Wetzlar]
+TRD[]
+FKT[]
+SIG[E1001A]
+KEY[E1001A  08  G 3/8]
+MEL[333  3_5  544  3_0
+    333  544  244  433
+    333  3_5  544  3_0 //]
+BEM[]
+MEL_SEM[0 0 0 3 0 -2 0 -1 0 0 0 3 -2 0 -3 3 0 0 -1 0 0 0 0 0 3 0 -2 0 -1]
+MEL_RAW[333  35  544  30
+    333  544  244  433
+    333  35  544  30]
+NO_REP[35430
+    354243
+    35430]
+RTM[xxx  x_x  xxx  x_x
+    xxx  xxx  xxx  xxx
+    xxx  x_x  xxx  x_x]
+SCL_DEG[2345]
+SCL_SEM[2 1 2]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[MARTIN WAR EIN FROMMER MANN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1270A]
+KEY[E1270A  04  F 4/4]
+MEL[5_3_  5_3_
+    1234  553_
+    1234  553_
+    1234  553_
+    6543  221_ //]
+BEM[]
+MEL_SEM[-3 3 -3 -4 2 2 1 2 0 -3 -4 2 2 1 2 0 -3 -4 2 2 1 2 0 -3 5 -2 -2 -1 -2 0 -2]
+MEL_RAW[53  53
+    1234  553
+    1234  553
+    1234  553
+    6543  221]
+NO_REP[5353
+    123453
+    123453
+    123453
+    654321]
+RTM[x_x_  x_x_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

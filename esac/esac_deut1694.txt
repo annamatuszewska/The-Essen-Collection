@@ -1,0 +1,32 @@
+ERK
+CUT[HIER KOMMEN WIR HER VOR DIESES HAUS]
+REG[Europa, Mitteleuropa, Deutschland, Ober- Bergisches Land, Gunnersbach]
+TRD[]
+FKT[]
+SIG[E1253]
+KEY[E1253   08  G 2/4]
+MEL[-5  1111  311_
+    3_33  543
+    3  5432  321_
+    2_22  123_
+    4321  -7-6-6 //]
+BEM[]
+MEL_SEM[5 0 0 0 4 -4 0 4 0 0 3 -2 -1 0 3 -2 -1 -2 2 -2 -2 2 0 0 -2 2 2 1 -1 -2 -2 -1 -2 0]
+MEL_RAW[-5  1111  311
+    333  543
+    3  5432  321
+    222  123
+    4321  -7-6-6]
+NO_REP[-5131
+    3543
+    35432321
+    2123
+    4321-7-6]
+RTM[x  xxxx  xxx_
+    x_xx  xxx
+    x  xxxx  xxx_
+    x_xx  xxx_
+    xxxx  xxx]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

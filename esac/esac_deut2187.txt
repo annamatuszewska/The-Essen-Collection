@@ -1,0 +1,24 @@
+ERK
+CUT[WIE FAELSCHLICH DIE JUDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wuerges; Reifenberg]
+TRD[]
+FKT[]
+SIG[E2038]
+KEY[E2038   16  G 3/8]
+MEL[-5_  1_.23_  2_.12_  3_4_3_  2__
+    23  4_4_32  345_43  2_2_32  1__
+    23  4_4_32  345_43  2_2_32  1__ //]
+BEM[]
+MEL_SEM[5 2 2 -2 -2 2 2 1 -1 -2 0 2 1 0 -1 -2 2 1 2 -2 -1 -2 0 2 -2 -2 2 2 1 0 -1 -2 2 1 2 -2 -1 -2 0 2 -2 -2]
+MEL_RAW[-5  123  212  343  2
+    23  4432  34543  2232  1
+    23  4432  34543  2232  1]
+NO_REP[-51232123432
+    23432345432321
+    23432345432321]
+RTM[x_  x_.xx_  x_.xx_  x_x_x_  x__
+    xx  x_x_xx  xxx_xx  x_x_xx  x__
+    xx  x_x_xx  xxx_xx  x_x_xx  x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

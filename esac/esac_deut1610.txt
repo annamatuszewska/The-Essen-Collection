@@ -1,0 +1,28 @@
+ERK
+CUT[DREI WOCHEN VOR OSTERN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau; Rheinland]
+TRD[]
+FKT[]
+SIG[E1056]
+KEY[E1056   08  G 3/4]
+MEL[34  5_3_5_  4_2_
+    23  4_6_4_  3_0_
+    34  5_3_5_  4_2_
+    23  4_2_-7_  1_0_ //]
+BEM[]
+MEL_SEM[1 2 -3 3 -2 -3 0 2 1 4 -4 -1 0 1 2 -3 3 -2 -3 0 2 1 -3 -3 1]
+MEL_RAW[34  535  42
+    23  464  30
+    34  535  42
+    23  42-7  10]
+NO_REP[3453542
+    2346430
+    3453542
+    2342-710]
+RTM[xx  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    xx  x_x_x_  x_x_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

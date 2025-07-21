@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN VOEGLEIN HOCHZEIT MACHN]
+REG[Europa, Mitteleuropa, Deutschland, Charlottenburg]
+TRD[]
+FKT[]
+SIG[E0163B]
+KEY[E0163B  16  C 2/4]
+MEL[-5_  1_1_3_2_  2_1_1_
+    -5_  -6_-7_1_-6_  -6_-5_-5_
+    -5-5  1_1_1_11  3_3_3_
+    33  2_2_2_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 0 -2 0 -5 2 2 1 -3 0 -2 0 0 0 5 0 0 0 0 4 0 0 0 0 -2 0 0 -3 1]
+MEL_RAW[-5  1132  211
+    -5  -6-71-6  -6-5-5
+    -5-5  11111  333
+    33  222-7  10]
+NO_REP[-51321
+    -5-6-71-6-5
+    -513
+    32-710]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

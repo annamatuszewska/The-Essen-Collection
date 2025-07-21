@@ -1,0 +1,28 @@
+ERK
+CUT[DIE MUTTER SPRICHT ICH WILLS NICHT LEIDEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Taunus; Dillkreis]
+TRD[]
+FKT[]
+SIG[E0651]
+KEY[E0651   08  C 3/4]
+MEL[-5-5-5  -3_.-3-3-3  -3-6-5
+    -5-4-3  -2_.-3-4-6  -5_0
+    -3-3-4  -5_.111  -7_-6
+    2-7-6  -5_.-5-6-7  1_0 //]
+BEM[]
+MEL_SEM[0 0 -3 0 0 0 0 5 -2 0 -2 -1 -2 2 1 4 -2 -3 0 1 2 5 0 0 -1 -2 5 -3 -2 -2 0 2 2 1]
+MEL_RAW[-5-5-5  -3-3-3-3  -3-6-5
+    -5-4-3  -2-3-4-6  -50
+    -3-3-4  -5111  -7-6
+    2-7-6  -5-5-6-7  10]
+NO_REP[-5-3-6-5
+    -5-4-3-2-3-4-6-50
+    -3-4-51-7-6
+    2-7-6-5-6-710]
+RTM[xxx  x_.xxx  xxx
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x
+    xxx  x_.xxx  x_x]
+SCL_DEG[-2-3-4-5-6-712]
+SCL_SEM[2 1 2 2 2 1 2]
+

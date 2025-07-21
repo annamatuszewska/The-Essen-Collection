@@ -1,0 +1,20 @@
+ERK
+CUT[SO MUSS ER UNSER SCHWAGER SEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0946A]
+KEY[E0946A  04  G 4/4]
+MEL[5  312-7  111
+    5  5555  653 //]
+BEM[]
+MEL_SEM[-3 -4 2 -3 1 0 0 7 0 0 0 0 2 -2 -3]
+MEL_RAW[5  312-7  111
+    5  5555  653]
+NO_REP[5312-71
+    5653]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx]
+SCL_DEG[-712356]
+SCL_SEM[1 2 2 3 2]
+

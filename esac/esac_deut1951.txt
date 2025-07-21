@@ -1,0 +1,24 @@
+ERK
+CUT[LUSTIG LUSTIG DEUTSCHE BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Barmen]
+TRD[]
+FKT[]
+SIG[E1611]
+KEY[E1611   08  D 3/4]
+MEL[13  5_5_65  4_4_
+    54  3_3_43  2_2_
+    22  2_3_45  3__ //]
+BEM[]
+MEL_SEM[4 3 0 2 -2 -2 0 2 -2 -1 0 1 -1 -2 0 0 0 0 2 1 2 -3]
+MEL_RAW[13  5565  44
+    54  3343  22
+    22  2345  3]
+NO_REP[135654
+    543432
+    23453]
+RTM[xx  x_x_xx  x_x_
+    xx  x_x_xx  x_x_
+    xx  x_x_xx  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

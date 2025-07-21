@@ -1,0 +1,20 @@
+ERK
+CUT[IM HEMMEL IM HEMMEL YS FROEUDE]
+REG[Europa, Mitteleuropa, Deutschland, Rostock]
+TRD[]
+FKT[]
+SIG[E2034B]
+KEY[E2034B  04  F 3/4]
+MEL[1  112  -7-6-5  112  -7_
+    -7  112  332  11-7  1_ //]
+BEM[]
+MEL_SEM[0 0 2 -3 -2 -2 5 0 2 -3 0 1 0 2 2 0 -2 -2 0 -1 1]
+MEL_RAW[1  112  -7-6-5  112  -7
+    -7  112  332  11-7  1]
+NO_REP[12-7-6-512-7
+    -712321-71]
+RTM[x  xxx  xxx  xxx  x_
+    x  xxx  xxx  xxx  x_]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

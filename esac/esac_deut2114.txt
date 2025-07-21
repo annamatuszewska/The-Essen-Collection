@@ -1,0 +1,28 @@
+ERK
+CUT[FUCHS BEISS MICH NICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1897]
+KEY[E1897   16  G 2/4]
+MEL[5_  34321_5_  34321_
+    5_  6_5_4_3_  2_2_2__
+    2_2_-7_-5_  5_5_3_
+    5_  3_1_212-7  1__0_ //]
+BEM[]
+MEL_SEM[-3 1 -1 -2 -2 7 -3 1 -1 -2 -2 7 2 -2 -2 -1 -2 0 0 0 0 -3 -4 12 0 -3 3 -3 -4 2 -2 2 -3 1]
+MEL_RAW[5  343215  34321
+    5  6543  222
+    22-7-5  553
+    5  31212-7  10]
+NO_REP[534321534321
+    565432
+    2-7-53
+    531212-710]
+RTM[x_  xxxxx_x_  xxxxx_
+    x_  x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x_
+    x_  x_x_xxxx  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

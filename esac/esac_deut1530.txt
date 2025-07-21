@@ -1,0 +1,36 @@
+ERK
+CUT[DER MAI DER MAI DER LUSTIGE MAI]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+TRD[]
+FKT[]
+SIG[E0962]
+KEY[E0962   08  G 4/4]
+MEL[-5  1_.23_5_  3_231_0
+    2  3_5_6_5_  2_.55_0
+    -5  1_123_5_  54323_0
+    5  6_543213  2__1_0_
+    3_.21_2_  32345_0
+    5  6_543213  2__1_0 //]
+BEM[]
+MEL_SEM[5 2 2 3 -3 -2 2 -4 2 2 3 2 -2 -5 5 0 -12 5 0 2 2 3 0 -2 -1 -2 2 3 2 -2 -2 -1 -2 -2 4 -2 -2 4 -2 -2 2 2 -2 2 1 2 0 2 -2 -2 -1 -2 -2 4 -2 -2]
+MEL_RAW[-5  1235  32310
+    2  3565  2550
+    -5  11235  543230
+    5  6543213  210
+    3212  323450
+    5  6543213  210]
+NO_REP[-5123532310
+    23565250
+    -5123543230
+    56543213210
+    3212323450
+    56543213210]
+RTM[x  x_.xx_x_  x_xxx_x
+    x  x_x_x_x_  x_.xx_x
+    x  x_xxx_x_  xxxxx_x
+    x  x_xxxxxx  x__x_x_
+    x_.xx_x_  xxxxx_x
+    x  x_xxxxxx  x__x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

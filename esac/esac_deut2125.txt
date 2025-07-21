@@ -1,0 +1,36 @@
+ERK
+CUT[ICH WILL IN GARTEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Paderborn]
+TRD[]
+FKT[]
+SIG[E1914]
+KEY[E1914   08  A 3/4]
+MEL[-5_  1_.-712  3b12_
+    5_  43b2_4_  3b21_3b_  2__5_  3b__
+    -5_  1_.-712  3b12__
+    5_.45_  43b2__
+    2_5_4_  43b2__
+    2_43b2_  3b21_3b_  2__5_  1__ //]
+BEM[]
+MEL_SEM[5 -1 1 2 1 -3 2 5 -2 -2 -1 3 -2 -1 -2 3 -1 5 -4 -8 5 -1 1 2 1 -3 2 5 -2 2 -2 -2 -1 0 5 -2 0 -2 -1 0 3 -2 -1 1 -1 -2 3 -1 5 -7]
+MEL_RAW[-5  1-712  3b12
+    5  43b24  3b213b  25  3b
+    -5  1-712  3b12
+    545  43b2
+    254  43b2
+    243b2  3b213b  25  1]
+NO_REP[-51-7123b12
+    543b243b213b253b
+    -51-7123b12
+    54543b2
+    2543b2
+    243b23b213b251]
+RTM[x_  x_.xxx  xxx_
+    x_  xxx_x_  xxx_x_  x__x_  x__
+    x_  x_.xxx  xxx__
+    x_.xx_  xxx__
+    x_x_x_  xxx__
+    x_xxx_  xxx_x_  x__x_  x__]
+SCL_DEG[-5-7123b45]
+SCL_SEM[4 1 2 1 2 2]
+

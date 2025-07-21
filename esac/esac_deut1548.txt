@@ -1,0 +1,28 @@
+ERK
+CUT[WILLST DU MEINEN WILHELM HABN]
+REG[Europa, Mitteleuropa, Deutschland, Mark, Luckenwalde; Jueterbogk]
+TRD[]
+FKT[]
+SIG[E0991]
+KEY[E0991   08 Bb 2/4]
+MEL[-5111  -72-5_
+    -5444  351_
+    1355  423_
+    1122  -7-71_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 3 -7 0 10 0 0 -1 3 -7 0 4 3 0 -2 -3 2 -4 0 2 0 -3 0 1]
+MEL_RAW[-5111  -72-5
+    -5444  351
+    1355  423
+    1122  -7-71]
+NO_REP[-51-72-5
+    -54351
+    135423
+    12-71]
+RTM[xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

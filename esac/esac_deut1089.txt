@@ -1,0 +1,32 @@
+ERK
+CUT[GESTERN ABEND IN DER STILLEN RUH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Dreieichenhain]
+TRD[]
+FKT[]
+SIG[E0522A]
+KEY[E0522A  16  F 4/4 3/4 2/4]
+MEL[1_2_  3_.33_3_3__2_3_  4___0__
+    4_3_  2_.22_2_2__1_2_  3___0___
+    5_.43_3_5__  2_2_2_123__  0__
+    1_2_  3_.33_3_5__4_3_  2__.
+    3_5_4_2__  1__0___ //]
+BEM[]
+MEL_SEM[2 2 0 0 0 0 -2 2 1 0 -1 -2 0 0 0 0 -2 2 2 3 -2 -1 0 3 -5 0 0 -2 2 2 -4 2 2 0 0 0 3 -2 -1 -2 2 3 -2 -3 -2]
+MEL_RAW[12  3333323  40
+    43  2222212  30
+    54335  222123  0
+    12  3333543  2
+    3542  10]
+NO_REP[1232340
+    4321230
+    543521230
+    1235432
+    354210]
+RTM[x_x_  x_.xx_x_x__x_x_  x___x__
+    x_x_  x_.xx_x_x__x_x_  x___x___
+    x_.xx_x_x__  x_x_x_xxx__  x__
+    x_x_  x_.xx_x_x__x_x_  x__.
+    x_x_x_x__  x__x___]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

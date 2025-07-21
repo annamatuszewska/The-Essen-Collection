@@ -1,0 +1,28 @@
+ERK
+CUT[STERBEN IST EIN SCHWERER BUSS]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E2159]
+KEY[E2159   08  G 4/4]
+MEL[5_.43b_2_  1_-5_-5__
+    5_.43b_2_  1_-5_-5__
+    3b_3b_5_5_  3b_3b_5__
+    6b__5__  4__3b__  2_2_1__ //]
+BEM[]
+MEL_SEM[-2 -2 -1 -2 -5 0 12 -2 -2 -1 -2 -5 0 8 0 4 0 -4 0 4 1 -1 -2 -2 -1 0 -2]
+MEL_RAW[543b2  1-5-5
+    543b2  1-5-5
+    3b3b55  3b3b5
+    6b5  43b  221]
+NO_REP[543b21-5
+    543b21-5
+    3b53b5
+    6b543b21]
+RTM[x_.xx_x_  x_x_x__
+    x_.xx_x_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x__x__  x__x__  x_x_x__]
+SCL_DEG[-5123b456b]
+SCL_SEM[5 2 1 2 2 1]
+

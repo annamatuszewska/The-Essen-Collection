@@ -1,0 +1,28 @@
+ERK
+CUT[LOOF AN DE LENGE]
+REG[Europa, Mitteleuropa, Deutschland, Ost - Preussen, Koenigsberg]
+TRD[]
+FKT[]
+SIG[E1182]
+KEY[E1182   16  G 2/4]
+MEL[-5__3_.2  1__-5_
+    -5_  -6_-6_-7_-7_  1__-5_
+    -5_  -6__-7__  1__-5_
+    -5_  -6__-7__  1__-5__ //]
+BEM[]
+MEL_SEM[9 -2 -2 -5 0 2 0 2 0 1 -5 0 2 2 1 -5 0 2 2 1 -5]
+MEL_RAW[-532  1-5
+    -5  -6-6-7-7  1-5
+    -5  -6-7  1-5
+    -5  -6-7  1-5]
+NO_REP[-5321-5
+    -5-6-71-5
+    -5-6-71-5
+    -5-6-71-5]
+RTM[x__x_.x  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x__x__  x__x_
+    x_  x__x__  x__x__]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

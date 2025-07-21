@@ -1,0 +1,28 @@
+ERK
+CUT[ES LIESS SICH EIN BAUR EIN PALTROCK SCHNEIDN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1717]
+KEY[E1717   04  F 4/4]
+MEL[1  5566  553
+    1  5566  553
+    5  4325  432
+    4  3_2_  1_0 //]
+BEM[]
+MEL_SEM[7 0 2 0 -2 0 -3 -4 7 0 2 0 -2 0 -3 3 -2 -1 -2 5 -2 -1 -2 3 -1 -2 -2]
+MEL_RAW[1  5566  553
+    1  5566  553
+    5  4325  432
+    4  32  10]
+NO_REP[15653
+    15653
+    54325432
+    43210]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  x_x_  x_x]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[STRASSBURG MUSS ICH LASSEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+TRD[]
+FKT[]
+SIG[E1600B]
+KEY[E1600B  16  F 3/4]
+MEL[1_3_  5__5__6543  3_.23__
+    2_3_  4__.6_5_4_  3__0__
+    2_3_  4__6__5432  3_.45__
+    +1_6_  5__3__5_54  3__0__ //]
+BEM[]
+MEL_SEM[4 3 0 2 -2 -2 -1 0 -2 2 -2 2 1 4 -2 -2 -1 -2 2 1 4 -2 -2 -1 -2 2 1 2 5 -3 -2 -3 3 0 -2 -1]
+MEL_RAW[13  556543  323
+    23  4654  30
+    23  465432  345
+    +16  53554  30]
+NO_REP[135654323
+    23465430
+    23465432345
+    +16535430]
+RTM[x_x_  x__x__xxxx  x_.xx__
+    x_x_  x__.x_x_x_  x__x__
+    x_x_  x__x__xxxx  x_.xx__
+    x_x_  x__x__x_xx  x__x__]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

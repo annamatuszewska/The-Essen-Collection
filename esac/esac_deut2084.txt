@@ -1,0 +1,28 @@
+ERK
+CUT[RAEGE RAEGE TROPFE]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1843]
+KEY[E1843   16  G 2/4]
+MEL[5_6_5_6_  5__3__
+    5_6_5_6_  5__3__
+    5_6_556_  5_4_3__
+    5_6_556_  5_4_3_0_ //]
+BEM[]
+MEL_SEM[2 -2 2 -2 -3 3 2 -2 2 -2 -3 3 2 -2 0 2 -2 -2 -1 3 2 -2 0 2 -2 -2 -1]
+MEL_RAW[5656  53
+    5656  53
+    56556  543
+    56556  5430]
+NO_REP[565653
+    565653
+    5656543
+    56565430]
+RTM[x_x_x_x_  x__x__
+    x_x_x_x_  x__x__
+    x_x_xxx_  x_x_x__
+    x_x_xxx_  x_x_x_x_]
+SCL_DEG[3456]
+SCL_SEM[1 2 2]
+

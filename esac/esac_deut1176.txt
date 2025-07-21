@@ -1,0 +1,24 @@
+ERK
+CUT[IK UND MYN LYSBET]
+REG[Europa, Mitteleuropa, Deutschland, Ditmarsch]
+TRD[]
+FKT[]
+SIG[E0577]
+KEY[E0577   08  D 3/8]
+MEL[135  135  666  5_0
+    666  5_5  444  33
+    3  222  1_0 //]
+BEM[]
+MEL_SEM[4 3 -7 4 3 2 0 0 -2 2 0 0 -2 0 -2 0 0 -1 0 0 -2 0 0 -2]
+MEL_RAW[135  135  666  50
+    666  55  444  33
+    3  222  10]
+NO_REP[135135650
+    6543
+    3210]
+RTM[xxx  xxx  xxx  x_x
+    xxx  x_x  xxx  xx
+    x  xxx  x_x]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

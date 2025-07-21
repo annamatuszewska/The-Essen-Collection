@@ -1,0 +1,32 @@
+ERK
+CUT[NU UP JI RUTERS]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0408A]
+KEY[E0408A  16  G 6/8]
+MEL[1_  1__5_5__4_  5__3b_2__
+    2_  4__4_4_3b_2_  3b_3b_2_1__
+    1_  1_3b_3b_3b_2_1_  2__.-5__0_
+    3b__3b_3b__3b_  2_.44_4__
+    2_  3b_5_5_5_4_3b_  2__.1__ //]
+BEM[]
+MEL_SEM[0 7 0 -2 2 -4 -1 0 3 0 0 -2 -1 1 0 -1 -2 0 0 3 0 0 -1 -2 2 -7 8 0 0 0 -1 3 0 0 -3 1 4 0 0 -2 -2 -1 -2]
+MEL_RAW[1  1554  53b2
+    2  4443b2  3b3b21
+    1  13b3b3b21  2-50
+    3b3b3b3b  2444
+    2  3b55543b  21]
+NO_REP[15453b2
+    243b23b21
+    13b212-50
+    3b24
+    23b543b21]
+RTM[x_  x__x_x__x_  x__x_x__
+    x_  x__x_x_x_x_  x_x_x_x__
+    x_  x_x_x_x_x_x_  x__.x__x_
+    x__x_x__x_  x_.xx_x__
+    x_  x_x_x_x_x_x_  x__.x__]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

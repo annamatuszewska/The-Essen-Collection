@@ -1,0 +1,52 @@
+ERK
+CUT[IM SOMMER DA IST DIE SCHOENSTE ZEIT]
+REG[Europa, Mitteleuropa, Deutschland, Weissenfels]
+TRD[]
+FKT[]
+SIG[E1889]
+KEY[E1889   08  G 2/4]
+MEL[5  5_35  5_3
+    5  4424  3_0
+    5  5_35  5_3
+    5  4424  3_0
+    3  2444  355
+    5  5542  111
+    5  5_35  5_3
+    5  4422  1_0
+    5  5_35  5_3
+    5  4422  1_0 //]
+BEM[]
+MEL_SEM[0 -3 3 0 -3 3 -2 0 -3 3 -1 3 0 -3 3 0 -3 3 -2 0 -3 3 -1 0 -2 3 0 0 -1 3 0 0 0 0 -2 -3 -2 0 0 7 0 -3 3 0 -3 3 -2 0 -3 0 -2 7 0 -3 3 0 -3 3 -2 0 -3 0 -2]
+MEL_RAW[5  535  53
+    5  4424  30
+    5  535  53
+    5  4424  30
+    3  2444  355
+    5  5542  111
+    5  535  53
+    5  4422  10
+    5  535  53
+    5  4422  10]
+NO_REP[5353
+    542430
+    5353
+    542430
+    32435
+    5421
+    5353
+    54210
+    5353
+    54210]
+RTM[x  x_xx  x_x
+    x  xxxx  x_x
+    x  x_xx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  xxx
+    x  x_xx  x_x
+    x  xxxx  x_x
+    x  x_xx  x_x
+    x  xxxx  x_x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

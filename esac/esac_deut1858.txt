@@ -1,0 +1,32 @@
+ERK
+CUT[A LIEDLA Z SINGA]
+REG[Europa, Mitteleuropa, Deutschland, Bayern, Landshut]
+TRD[]
+FKT[]
+SIG[E1466]
+KEY[E1466   08  F 3/4]
+MEL[5_  6_4_.6  5_3_.
+    5  4_2_24  4_3_0
+    5  6_4_6_  5_3_.
+    5  4_2_-72  1_3_
+    5_  4_2_2_  1__ //]
+BEM[]
+MEL_SEM[2 -4 4 -2 -3 3 -2 -3 0 3 0 -1 3 2 -4 4 -2 -3 3 -2 -3 -3 3 -2 4 3 -2 -3 0 -2]
+MEL_RAW[5  646  53
+    5  4224  430
+    5  646  53
+    5  42-72  13
+    5  422  1]
+NO_REP[564653
+    542430
+    564653
+    542-7213
+    5421]
+RTM[x_  x_x_.x  x_x_.
+    x  x_x_xx  x_x_x
+    x  x_x_x_  x_x_.
+    x  x_x_xx  x_x_
+    x_  x_x_x_  x__]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

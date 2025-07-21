@@ -1,0 +1,28 @@
+ERK
+CUT[BUKO VON HALBERSTADT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1817]
+KEY[E1817   16  F 2/4]
+MEL[5__3_2_  1_1_-5__
+    5_5_3_2_  1_1_-5_0_
+    1_1_2_1_  4__2_
+    5_  43212_-5_  1__1_0_ //]
+BEM[]
+MEL_SEM[-3 -2 -2 0 -5 12 0 -3 -2 -2 0 -5 5 0 2 -2 5 -3 5 -2 -1 -2 -2 2 -7 5 0]
+MEL_RAW[532  11-5
+    5532  11-50
+    1121  42
+    5  43212-5  110]
+NO_REP[5321-5
+    5321-50
+    12142
+    543212-510]
+RTM[x__x_x_  x_x_x__
+    x_x_x_x_  x_x_x_x_
+    x_x_x_x_  x__x_
+    x_  xxxxx_x_  x__x_x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

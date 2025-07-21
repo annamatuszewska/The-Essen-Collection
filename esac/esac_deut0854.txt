@@ -1,0 +1,28 @@
+ERK
+CUT[NAECHTEN ALS ICH SCHLAFEN GING]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0173]
+KEY[E0173   08  G 3/4]
+MEL[-5  1-51_1_  -712_.
+    2  321_2_  432_0
+    4  352_.4  351_.
+    2  315_31  2_1_0 //]
+BEM[]
+MEL_SEM[5 -5 5 0 -1 1 2 0 2 -2 -2 2 3 -1 -2 3 -1 3 -5 3 -1 3 -7 2 2 -4 7 -3 -4 2 -2]
+MEL_RAW[-5  1-511  -712
+    2  3212  4320
+    4  3524  351
+    2  31531  210]
+NO_REP[-51-51-712
+    232124320
+    43524351
+    231531210]
+RTM[x  xxx_x_  xxx_.
+    x  xxx_x_  xxx_x
+    x  xxx_.x  xxx_.
+    x  xxx_xx  x_x_x]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[O WUNDERBARES GLUECK]
+REG[Europa, Mitteleuropa, Deutschland, Oderbruch, Gross - Neuendorf]
+TRD[]
+FKT[]
+SIG[E1402]
+KEY[E1402   08 Bb 2/4]
+MEL[1_  -7-6-5-4  -3_
+    -5_  -642-7  1_0
+    1  3111  2_-7
+    -5  3111  2_-7
+    1  -7-6-5-4  -3_
+    -5_  -642-7  1_ //]
+BEM[]
+MEL_SEM[-1 -2 -2 -2 -1 3 2 8 -3 -3 1 0 4 -4 0 0 2 -3 -4 9 -4 0 0 2 -3 1 -1 -2 -2 -2 -1 3 2 8 -3 -3 1]
+MEL_RAW[1  -7-6-5-4  -3
+    -5  -642-7  10
+    1  3111  2-7
+    -5  3111  2-7
+    1  -7-6-5-4  -3
+    -5  -642-7  1]
+NO_REP[1-7-6-5-4-3
+    -5-642-710
+    1312-7
+    -5312-7
+    1-7-6-5-4-3
+    -5-642-71]
+RTM[x_  xxxx  x_
+    x_  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_
+    x_  xxxx  x_]
+SCL_DEG[-3-4-5-6-71234]
+SCL_SEM[1 2 2 2 1 2 2 1]
+

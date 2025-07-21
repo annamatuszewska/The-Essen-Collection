@@ -1,0 +1,28 @@
+ERK
+CUT[WIR HABEN IM FELDE GESTANDEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse, Waltdorf]
+TRD[]
+FKT[]
+SIG[E1316]
+KEY[E1316   08  F 4/4]
+MEL[-5_  1_123234  5__3_
+    5_  6_5_4654  3__2_
+    12  3_543_2_  1__
+    2__  3_543_5_  3__. //]
+BEM[]
+MEL_SEM[5 0 2 2 -2 2 1 2 -3 3 2 -2 -2 4 -2 -2 -1 -2 -2 2 2 3 -2 -1 -2 -2 2 2 3 -2 -1 3 -3]
+MEL_RAW[-5  1123234  53
+    5  654654  32
+    12  35432  1
+    2  35435  3]
+NO_REP[-512323453
+    565465432
+    12354321
+    2354353]
+RTM[x_  x_xxxxxx  x__x_
+    x_  x_x_xxxx  x__x_
+    xx  x_xxx_x_  x__
+    x__  x_xxx_x_  x__.]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

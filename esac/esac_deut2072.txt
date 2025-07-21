@@ -1,0 +1,28 @@
+ERK
+CUT[BOM BAM BEIER]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[E1822]
+KEY[E1822   16  G 2/4]
+MEL[1__2__  3__1_
+    -5_  1_1_2_2_  3__1_
+    3_  2_2_1__  3_221__
+    5_.11_1_  1_-7_1__ //]
+BEM[]
+MEL_SEM[2 2 -4 -5 5 0 2 0 2 -4 4 -2 0 -2 4 -2 0 -2 7 -7 0 0 0 -1 1]
+MEL_RAW[12  31
+    -5  1122  31
+    3  221  3221
+    5111  1-71]
+NO_REP[1231
+    -51231
+    321321
+    51-71]
+RTM[x__x__  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x__  x_xxx__
+    x_.xx_x_  x_x_x__]
+SCL_DEG[-5-71235]
+SCL_SEM[4 1 2 2 3]
+

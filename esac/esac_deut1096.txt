@@ -1,0 +1,24 @@
+ERK
+CUT[SCHEINT DER MOND SO SCHOEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Schwaben; Schlesien]
+TRD[]
+FKT[]
+SIG[E0524]
+KEY[E0524   16  G 3/4]
+MEL[1_.3  3_.22__-7_4_  4_.33__
+    1_3_  5_.55_5_5_5_  5_+1_3__
+    3_.5  5_.44_6_5_4_  4__3__ //]
+BEM[]
+MEL_SEM[4 0 -2 0 -3 6 0 -1 0 -4 4 3 0 0 0 0 0 0 5 -8 0 3 0 -2 0 4 -2 -2 0 -1]
+MEL_RAW[13  322-74  433
+    13  555555  5+13
+    35  544654  43]
+NO_REP[132-743
+    135+13
+    3546543]
+RTM[x_.x  x_.xx__x_x_  x_.xx__
+    x_x_  x_.xx_x_x_x_  x_x_x__
+    x_.x  x_.xx_x_x_x_  x__x__]
+SCL_DEG[-7123456+1]
+SCL_SEM[1 2 2 1 2 2 3]
+

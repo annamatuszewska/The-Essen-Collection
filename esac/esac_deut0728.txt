@@ -1,0 +1,28 @@
+ERK
+CUT[ES WAR EINMAL EIN FEINER KNAB]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+TRD[]
+FKT[]
+SIG[E0093A]
+KEY[E0093A  08  F 4/4]
+MEL[13  5_+1_6_4_  5_-7_1_
+    13  6_5_5_31  5_3_2_
+    23  4_.53_21  +1_6_5_.
+    5  7_.7+1_6_  5_-7_1_ //]
+BEM[]
+MEL_SEM[4 3 5 -3 -4 2 -8 1 0 4 5 -2 0 -3 -4 7 -3 -2 0 2 1 2 -3 -2 -2 12 -3 -2 0 4 0 1 -3 -2 -8 1]
+MEL_RAW[13  5+164  5-71
+    13  65531  532
+    23  45321  +165
+    5  77+16  5-71]
+NO_REP[135+1645-71
+    136531532
+    2345321+165
+    57+165-71]
+RTM[xx  x_x_x_x_  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_.xx_xx  x_x_x_.
+    x  x_.xx_x_  x_x_x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

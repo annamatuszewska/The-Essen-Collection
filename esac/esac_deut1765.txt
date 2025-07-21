@@ -1,0 +1,28 @@
+ERK
+CUT[SEID LUSTIG IHR BRUEDER]
+REG[Europa, Mitteleuropa, Deutschland, Ober - Rhein]
+TRD[]
+FKT[]
+SIG[E1361]
+KEY[E1361   16  C 3/8]
+MEL[1_  1_3_3_  2_4_0_
+    2_4_4_  32345_
+    3_2_3_  5__4_
+    2_4_.5  3__ //]
+BEM[]
+MEL_SEM[0 4 0 -2 3 -3 3 0 -1 -2 2 1 2 -3 -2 2 3 -2 -3 3 2 -3]
+MEL_RAW[1  133  240
+    244  32345
+    323  54
+    245  3]
+NO_REP[13240
+    2432345
+    32354
+    2453]
+RTM[x_  x_x_x_  x_x_x_
+    x_x_x_  xxxxx_
+    x_x_x_  x__x_
+    x_x_.x  x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

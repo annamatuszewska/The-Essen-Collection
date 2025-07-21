@@ -1,0 +1,28 @@
+ERK
+CUT[NU FALL DU REIF]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0447]
+KEY[E0447   04  A 4/4]
+MEL[-5  1122  333
+    2  1234  5_.
+    5  3332  123
+    3  2112  1_. //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 0 -2 -2 2 2 1 2 0 -3 0 0 -2 -2 2 2 0 -2 -2 0 2 -2]
+MEL_RAW[-5  1122  333
+    2  1234  5
+    5  3332  123
+    3  2112  1]
+NO_REP[-5123
+    212345
+    532123
+    32121]
+RTM[x  xxxx  xxx
+    x  xxxx  x_.
+    x  xxxx  xxx
+    x  xxxx  x_.]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

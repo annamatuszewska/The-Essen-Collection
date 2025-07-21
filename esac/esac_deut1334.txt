@@ -1,0 +1,28 @@
+ERK
+CUT[GUTEN ABEND LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[E0728A]
+KEY[E0728A  08  G 4/4]
+MEL[1_.2  3_3_2_5_  1_0_
+    3_.4  5_5_6_5_  4__.
+    23  4_4_5_54  3__.
+    12  3_3_2_5_  1_0_ //]
+BEM[]
+MEL_SEM[2 2 0 -2 5 -7 4 1 2 0 2 -2 -2 -3 2 1 0 2 0 -2 -1 -4 2 2 0 -2 5 -7]
+MEL_RAW[12  3325  10
+    34  5565  4
+    23  44554  3
+    12  3325  10]
+NO_REP[1232510
+    345654
+    234543
+    1232510]
+RTM[x_.x  x_x_x_x_  x_x_
+    x_.x  x_x_x_x_  x__.
+    xx  x_x_x_xx  x__.
+    xx  x_x_x_x_  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

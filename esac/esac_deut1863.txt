@@ -1,0 +1,44 @@
+ERK
+CUT[ES GIENG EINMAL BEI MONDENSCHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn; Wetterau; Elsass]
+TRD[]
+FKT[]
+SIG[E1469]
+KEY[E1469   08  C 6/8]
+MEL[3  3_11_6  6_55_
+    3  5_42_5  1_.0_
+    3  3_11_6  6_55_
+    3  5_42_5  1_.0_
+    3  2_2234#  5_77_
+    7  6_7+1_4#  5_.0_
+    3  3_11_6  6_55_
+    3  5_42_5  1_.0_ //]
+BEM[]
+MEL_SEM[0 -4 0 9 0 -2 0 -3 3 -2 -3 5 -7 4 0 -4 0 9 0 -2 0 -3 3 -2 -3 5 -7 4 -2 0 0 2 2 1 4 0 0 -2 2 1 -6 1 -3 0 -4 0 9 0 -2 0 -3 3 -2 -3 5 -7]
+MEL_RAW[3  3116  655
+    3  5425  10
+    3  3116  655
+    3  5425  10
+    3  22234#  577
+    7  67+14#  50
+    3  3116  655
+    3  5425  10]
+NO_REP[3165
+    3542510
+    3165
+    3542510
+    3234#57
+    767+14#50
+    3165
+    3542510]
+RTM[x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xxxx  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_x  x_.x_]
+SCL_DEG[12344#567+1]
+SCL_SEM[2 2 1 1 1 2 2 1]
+

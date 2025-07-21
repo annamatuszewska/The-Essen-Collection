@@ -1,0 +1,28 @@
+ERK
+CUT[SCHOENSTER SCHATZ THU MIR ERLAUBEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter- Lahn- und Dillkreis]
+TRD[]
+FKT[]
+SIG[E1428]
+KEY[E1428   08  G 4/4]
+MEL[-5-5  1_-5_1_3_  2_.-7-5_
+    -5-7  2_466_54  3__0_
+    11  4_6_+1_76  5_.35_
+    65  4_-5_3_2_  1__0_ //]
+BEM[]
+MEL_SEM[0 5 -5 5 4 -2 -3 -4 0 4 3 3 4 0 -2 -2 -1 -4 0 5 4 3 -1 -2 -2 -3 3 2 -2 -2 -10 9 -2 -2]
+MEL_RAW[-5-5  1-513  2-7-5
+    -5-7  246654  30
+    11  46+176  535
+    65  4-532  10]
+NO_REP[-51-5132-7-5
+    -5-72465430
+    146+176535
+    654-53210]
+RTM[xx  x_x_x_x_  x_.xx_
+    xx  x_xxx_xx  x__x_
+    xx  x_x_x_xx  x_.xx_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

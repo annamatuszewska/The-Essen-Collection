@@ -1,0 +1,24 @@
+ERK
+CUT[ICH SAH EINMAL ZWEI HASEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+TRD[]
+FKT[]
+SIG[E1110]
+KEY[E1110   04  G 4/4]
+MEL[1  3332  3_2
+    1  1234  5_5
+    4  312_  1_0 //]
+BEM[]
+MEL_SEM[4 0 0 -2 2 -2 -2 0 2 2 1 2 0 -2 -1 -4 2 -2]
+MEL_RAW[1  3332  32
+    1  1234  55
+    4  312  10]
+NO_REP[13232
+    12345
+    431210]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxx_  x_x]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[ICH STAND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Lahnkreis; Dillkreis; Rheinland]
+TRD[]
+FKT[]
+SIG[E0115]
+KEY[E0115   08  G 3/4]
+MEL[1_  1_-5_33  3_1_
+    5_  6_5_44  3__
+    11  6_66+16  655_
+    5+1  6_5_44  3__ //]
+BEM[]
+MEL_SEM[0 -5 9 0 0 -4 7 2 -2 -2 0 -1 -4 0 9 0 0 3 -3 0 -2 0 0 5 -3 -2 -2 0 -1]
+MEL_RAW[1  1-533  31
+    5  6544  3
+    11  666+16  655
+    5+1  6544  3]
+NO_REP[1-531
+    56543
+    16+165
+    5+16543]
+RTM[x_  x_x_xx  x_x_
+    x_  x_x_xx  x__
+    xx  x_xxxx  xxx_
+    xx  x_x_xx  x__]
+SCL_DEG[-513456+1]
+SCL_SEM[5 4 1 2 2 3]
+

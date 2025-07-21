@@ -1,0 +1,36 @@
+ERK
+CUT[WENN DIE NACHTIGALLEN SCHLAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E1731]
+KEY[E1731   08  D 3/4]
+MEL[1-71234  5_5_0_
+    565432  1_1_0_
+    5_5_0_  6_6_0_
+    7_7_7_  +15351_
+    5555+2_  5555+3_
+    565432  1_1_0_ //]
+BEM[]
+MEL_SEM[-1 1 2 2 1 2 0 0 2 -2 -2 -1 -2 -2 0 7 0 2 0 2 0 0 1 -5 -3 3 -7 7 0 0 0 7 -7 0 0 0 9 -9 2 -2 -2 -1 -2 -2 0]
+MEL_RAW[1-71234  550
+    565432  110
+    550  660
+    777  +15351
+    5555+2  5555+3
+    565432  110]
+NO_REP[1-7123450
+    56543210
+    5060
+    7+15351
+    5+25+3
+    56543210]
+RTM[xxxxxx  x_x_x_
+    xxxxxx  x_x_x_
+    x_x_x_  x_x_x_
+    x_x_x_  xxxxx_
+    xxxxx_  xxxxx_
+    xxxxxx  x_x_x_]
+SCL_DEG[-71234567+1+2+3]
+SCL_SEM[1 2 2 1 2 2 2 1 2 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[ICH GEH AUF DIE KIRCHMESS]
+REG[Europa, Mitteleuropa, Deutschland, Meiningerland, Vachdorf]
+TRD[]
+FKT[]
+SIG[E0995]
+KEY[E0995   08  C 6/8]
+MEL[-5  111222  3332_
+    -5  -5-5-6-7_2  1-6-4#-5_
+    -5  -5-5-6-7-71  2232_
+    -5  -5-5-6-7-71  2232_
+    5  303202  1_35_
+    5  303202  10__ //]
+BEM[]
+MEL_SEM[5 0 0 2 0 0 2 0 0 -2 -7 0 0 2 2 3 -2 -3 -3 1 0 0 0 2 2 0 1 2 0 2 -2 -7 0 0 2 2 0 1 2 0 2 -2 5 -3 0 -2 0 -2 4 3 0 -3 0 -2 0 -2]
+MEL_RAW[-5  111222  3332
+    -5  -5-5-6-72  1-6-4#-5
+    -5  -5-5-6-7-71  2232
+    -5  -5-5-6-7-71  2232
+    5  303202  135
+    5  303202  10]
+NO_REP[-51232
+    -5-6-721-6-4#-5
+    -5-6-71232
+    -5-6-71232
+    5303202135
+    530320210]
+RTM[x  xxxxxx  xxxx_
+    x  xxxx_x  xxxx_
+    x  xxxxxx  xxxx_
+    x  xxxxxx  xxxx_
+    x  xxxxxx  x_xx_
+    x  xxxxxx  xx__]
+SCL_DEG[-4#-5-6-71235]
+SCL_SEM[1 2 2 1 2 2 3]
+

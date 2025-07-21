@@ -1,0 +1,28 @@
+ERK
+CUT[JETZT KOMMT DIE FROHE STUNDE]
+REG[Europa, Mitteleuropa, Deutschland, Taunus, Wuerges]
+TRD[]
+FKT[]
+SIG[E0641A]
+KEY[E0641A  08 Bb 6/8]
+MEL[-5  -5_-4-3-51  1_2-7_
+    -5  -5-72234  4_53_
+    1  2_2232  1_23_
+    3  4_4454  3__0 //]
+BEM[]
+MEL_SEM[0 -2 -1 3 5 0 2 -3 -4 0 4 3 0 2 1 0 2 -3 -4 2 0 0 2 -2 -2 2 2 0 1 0 0 2 -2 -1]
+MEL_RAW[-5  -5-4-3-51  12-7
+    -5  -5-72234  453
+    1  22232  123
+    3  44454  30]
+NO_REP[-5-4-3-512-7
+    -5-723453
+    1232123
+    345430]
+RTM[x  x_xxxx  x_xx_
+    x  xxxxxx  x_xx_
+    x  x_xxxx  x_xx_
+    x  x_xxxx  x__x]
+SCL_DEG[-3-4-5-712345]
+SCL_SEM[1 2 4 1 2 2 1 2]
+

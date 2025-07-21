@@ -1,0 +1,28 @@
+ERK
+CUT[ICH STAND AUF HOHEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land, Langenberg]
+TRD[]
+FKT[]
+SIG[E0115A]
+KEY[E0115A  08  G 3/4]
+MEL[-5_  1_.233  322_
+    32  1_.133  2__
+    35  5_3_35  5_3_
+    35  4_.255  3__ //]
+BEM[]
+MEL_SEM[5 2 2 0 0 -2 0 2 -2 -2 0 4 0 -2 2 3 0 -3 0 3 0 -3 0 3 -2 -3 5 0 -3]
+MEL_RAW[-5  1233  322
+    32  1133  2
+    35  5335  53
+    35  4255  3]
+NO_REP[-51232
+    32132
+    35353
+    354253]
+RTM[x_  x_.xxx  xxx_
+    xx  x_.xxx  x__
+    xx  x_x_xx  x_x_
+    xx  x_.xxx  x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

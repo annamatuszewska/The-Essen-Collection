@@ -1,0 +1,44 @@
+ERK
+CUT[EIN SULTAN HATT EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Glatz]
+TRD[]
+FKT[]
+SIG[E2127A]
+KEY[E2127A  08  G 3/4]
+MEL[-5  111_2_  433_.
+    4  354_3_  2_1_0
+    -5  111_2_  433_.
+    4  354_3_  2_1_0
+    5  553_5_  534_.
+    4  321_2_  -5_1_0
+    5  553_5_  534_.
+    4  321_2_  -5_1_0 //]
+BEM[]
+MEL_SEM[5 0 0 2 3 -1 0 1 -1 3 -2 -1 -2 -2 -5 5 0 0 2 3 -1 0 1 -1 3 -2 -1 -2 -2 7 0 0 -3 3 0 -3 1 0 -1 -2 -2 2 -7 5 7 0 0 -3 3 0 -3 1 0 -1 -2 -2 2 -7 5]
+MEL_RAW[-5  1112  433
+    4  3543  210
+    -5  1112  433
+    4  3543  210
+    5  5535  534
+    4  3212  -510
+    5  5535  534
+    4  3212  -510]
+NO_REP[-51243
+    43543210
+    -51243
+    43543210
+    53534
+    43212-510
+    53534
+    43212-510]
+RTM[x  xxx_x_  xxx_.
+    x  xxx_x_  x_x_x
+    x  xxx_x_  xxx_.
+    x  xxx_x_  x_x_x
+    x  xxx_x_  xxx_.
+    x  xxx_x_  x_x_x
+    x  xxx_x_  xxx_.
+    x  xxx_x_  x_x_x]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

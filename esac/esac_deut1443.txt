@@ -1,0 +1,36 @@
+ERK
+CUT[HANSEL DEIN GRETELEIN IST EIN FAULS SCHLAMPERLEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0836]
+KEY[E0836   08  D 3/4]
+MEL[1_3_5_  4_42-7_
+    2_4_6_  5_543_
+    4_2_-7_  2__.  1__0_
+    3_5_+1_  +2_+2+17_
+    4#_6_+1_  7_765_
+    +1_6_4#_  6__.  5__0_ //]
+BEM[]
+MEL_SEM[4 3 -2 0 -3 -3 3 3 4 -2 0 -2 -1 1 -3 -3 3 -2 4 3 5 2 0 -2 -1 -5 3 3 -1 0 -2 -2 5 -3 -3 3 -2]
+MEL_RAW[135  442-7
+    246  5543
+    42-7  2  10
+    35+1  +2+2+17
+    4#6+1  7765
+    +164#  6  50]
+NO_REP[13542-7
+    246543
+    42-7210
+    35+1+2+17
+    4#6+1765
+    +164#650]
+RTM[x_x_x_  x_xxx_
+    x_x_x_  x_xxx_
+    x_x_x_  x__.  x__x_
+    x_x_x_  x_xxx_
+    x_x_x_  x_xxx_
+    x_x_x_  x__.  x__x_]
+SCL_DEG[-712344#567+1+2]
+SCL_SEM[1 2 2 1 1 1 2 2 1 2]
+

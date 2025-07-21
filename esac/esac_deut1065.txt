@@ -1,0 +1,36 @@
+ERK
+CUT[KEIN FEUER KEINE KOHLE KANN BRENNEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0507]
+KEY[E0507   08  F 3/4]
+MEL[-5_  1_1_22  3_3_.
+    4  5_6543  2__
+    5_  6_46+16  655_
+    35  543_2_  1_.
+    324  3_.546  5_+10
+    35  543_2_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 1 2 2 -2 -2 -1 -2 5 2 -4 4 3 -3 0 -2 0 -3 3 0 -2 -1 -2 -2 4 -2 3 -1 3 -2 4 -2 5 -8 3 0 -2 -1 -2 -2]
+MEL_RAW[-5  1122  33
+    4  56543  2
+    5  646+16  655
+    35  5432  1
+    324  3546  5+10
+    35  5432  1]
+NO_REP[-5123
+    4565432
+    5646+165
+    354321
+    32435465+10
+    354321]
+RTM[x_  x_x_xx  x_x_.
+    x  x_xxxx  x__
+    x_  x_xxxx  xxx_
+    xx  xxx_x_  x_.
+    xxx  x_.xxx  x_xx
+    xx  xxx_x_  x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

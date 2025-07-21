@@ -1,0 +1,32 @@
+ERK
+CUT[FALL HEREIN FALL HEREIN DU KUEHLER TAU]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0447A]
+KEY[E0447A  16  A 2/4]
+MEL[1_-6_-6__  1_-6_-6__
+    1__2_.1  -6__0_
+    12  1_-7b_-5_-7b_  -6__0_
+    -6_  -5_-5_-511_  1_3_3_
+    3_  2_2_542_  1__0__ //]
+BEM[]
+MEL_SEM[-3 0 3 -3 0 3 2 -2 -3 3 2 -2 -2 -3 3 -1 0 -2 0 0 5 0 0 4 0 0 -2 0 5 -2 -3 -2]
+MEL_RAW[1-6-6  1-6-6
+    121  -60
+    12  1-7b-5-7b  -60
+    -6  -5-5-511  133
+    3  22542  10]
+NO_REP[1-61-6
+    121-60
+    121-7b-5-7b-60
+    -6-513
+    3254210]
+RTM[x_x_x__  x_x_x__
+    x__x_.x  x__x_
+    xx  x_x_x_x_  x__x_
+    x_  x_x_xxx_  x_x_x_
+    x_  x_x_xxx_  x__x__]
+SCL_DEG[-5-6-7b12345]
+SCL_SEM[2 1 2 2 2 1 2]
+

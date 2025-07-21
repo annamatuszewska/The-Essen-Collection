@@ -1,0 +1,33 @@
+ERK
+CUT[ES WOLLT EIN JAEGER JAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheingau, Lorchgau; Hessen,
+    Dill - Kreis, Taunus, Waldeck]
+TRD[]
+FKT[]
+SIG[E1436A]
+KEY[E1436A  08 Eb 4/4]
+MEL[13  5_.+15432  1_5_3_
+    5_  66554435  2__0_
+    55  5_5_5_5_  3_5_1_
+    11  66666_+16  5_+1_3_
+    33  22665_45  3__0_ //]
+BEM[]
+MEL_SEM[4 3 5 -5 -2 -1 -2 -2 7 -3 3 2 0 -2 0 -2 0 -1 3 -5 5 0 0 0 0 0 -3 3 -7 0 0 9 0 0 0 0 3 -3 -2 5 -8 0 0 -2 0 7 0 -2 -2 2 -3]
+MEL_RAW[13  5+15432  153
+    5  66554435  20
+    55  5555  351
+    11  66666+16  5+13
+    33  2266545  30]
+NO_REP[135+15432153
+    56543520
+    5351
+    16+165+13
+    32654530]
+RTM[xx  x_.xxxxx  x_x_x_
+    x_  xxxxxxxx  x__x_
+    xx  x_x_x_x_  x_x_x_
+    xx  xxxxx_xx  x_x_x_
+    xx  xxxxx_xx  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

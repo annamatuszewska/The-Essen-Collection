@@ -1,0 +1,28 @@
+ERK
+CUT[IN GLUCKGLUCK LEB ICH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E1626]
+KEY[E1626   08  F 3/4]
+MEL[53+1  6666+16  5_3
+    523  444424  4_3
+    53+1  6666+16  5_3
+    523  444424  4_3 //]
+BEM[]
+MEL_SEM[-3 8 -3 0 0 0 3 -3 -2 -3 3 -5 2 1 0 0 0 -3 3 0 -1 3 -3 8 -3 0 0 0 3 -3 -2 -3 3 -5 2 1 0 0 0 -3 3 0 -1]
+MEL_RAW[53+1  6666+16  53
+    523  444424  43
+    53+1  6666+16  53
+    523  444424  43]
+NO_REP[53+16+1653
+    5234243
+    53+16+1653
+    5234243]
+RTM[xxx  xxxxxx  x_x
+    xxx  xxxxxx  x_x
+    xxx  xxxxxx  x_x
+    xxx  xxxxxx  x_x]
+SCL_DEG[23456+1]
+SCL_SEM[2 1 2 2 3]
+

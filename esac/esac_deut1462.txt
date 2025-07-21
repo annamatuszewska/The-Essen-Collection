@@ -1,0 +1,41 @@
+ERK
+CUT[MERK AUF O CHRIST]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Lahnkreis, Becheln;
+    Kreis St. Goarshausen, Welterod]
+TRD[]
+FKT[]
+SIG[E0867]
+KEY[E0867   08  F 6/8]
+MEL[-5  1_1321  2_22_
+    3  1_1321  2_.
+    5_.  4_.3_.  2_.0_
+    2  2_3432  1_354
+    3  2_3432  1_354
+    3  2_.1_3  5_65_
+    4  3_.2_.  1_.0_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 2 0 0 2 -4 0 4 -2 -2 2 5 -2 -1 -2 0 0 2 1 -1 -2 -2 4 3 -2 -1 -2 2 1 -1 -2 -2 4 3 -2 -1 -2 -2 4 3 2 -2 -2 -1 -2 -2]
+MEL_RAW[-5  11321  222
+    3  11321  2
+    5  43  20
+    2  23432  1354
+    3  23432  1354
+    3  213  565
+    4  32  10]
+NO_REP[-513212
+    313212
+    54320
+    234321354
+    3234321354
+    3213565
+    43210]
+RTM[x  x_xxxx  x_xx_
+    x  x_xxxx  x_.
+    x_.  x_.x_.  x_.x_
+    x  x_xxxx  x_xxx
+    x  x_xxxx  x_xxx
+    x  x_.x_x  x_xx_
+    x  x_.x_.  x_.x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

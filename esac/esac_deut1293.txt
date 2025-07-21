@@ -1,0 +1,36 @@
+ERK
+CUT[IST ALLES DUNKEL]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen Saathen]
+TRD[]
+FKT[]
+SIG[E0698B]
+KEY[E0698B  08 Bb 3/4]
+MEL[-5-3-4  -6-5-5-5-3-5  133
+    321  2_442-7  1_0
+    331  2_442-7  135
+    531  2_442-7  1_0
+    331  2_442-7  135
+    531  2_442-7  1_0 //]
+BEM[]
+MEL_SEM[-3 1 4 -2 0 0 -3 3 5 4 0 0 -2 -2 2 3 0 -3 -3 1 4 0 -4 2 3 0 -3 -3 1 4 3 0 -3 -4 2 3 0 -3 -3 1 4 0 -4 2 3 0 -3 -3 1 4 3 0 -3 -4 2 3 0 -3 -3 1]
+MEL_RAW[-5-3-4  -6-5-5-5-3-5  133
+    321  2442-7  10
+    331  2442-7  135
+    531  2442-7  10
+    331  2442-7  135
+    531  2442-7  10]
+NO_REP[-5-3-4-6-5-3-513
+    321242-710
+    31242-7135
+    531242-710
+    31242-7135
+    531242-710]
+RTM[xxx  xxxxxx  xxx
+    xxx  x_xxxx  x_x
+    xxx  x_xxxx  xxx
+    xxx  x_xxxx  x_x
+    xxx  x_xxxx  xxx
+    xxx  x_xxxx  x_x]
+SCL_DEG[-3-4-5-6-712345]
+SCL_SEM[1 2 2 2 1 2 2 1 2]
+

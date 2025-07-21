@@ -1,0 +1,28 @@
+ERK
+CUT[SCHOENSTER SCHATZ MEIN ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+TRD[]
+FKT[]
+SIG[E0649A]
+KEY[E0649A  16 Eb 3/4]
+MEL[1__  1_.35__+1_6_  5_3_5_
+    5_5_5_  6_5_4__3__  2___
+    5__  3_.21__2_6_  5__3_
+    3_3_3_  5__.4_2__  1___ //]
+BEM[]
+MEL_SEM[0 4 3 5 -3 -2 -3 3 0 0 0 2 -2 -2 -1 -2 5 -3 -2 -2 2 7 -2 -3 0 0 0 3 -2 -3 -2]
+MEL_RAW[1  135+16  535
+    555  6543  2
+    5  32126  53
+    333  542  1]
+NO_REP[135+16535
+    565432
+    53212653
+    35421]
+RTM[x__  x_.xx__x_x_  x_x_x_
+    x_x_x_  x_x_x__x__  x___
+    x__  x_.xx__x_x_  x__x_
+    x_x_x_  x__.x_x__  x___]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

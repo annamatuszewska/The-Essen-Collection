@@ -1,0 +1,24 @@
+ERK
+CUT[ES WAR EINMAL EIN BAUER]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau, Luebben]
+TRD[]
+FKT[]
+SIG[E1571]
+KEY[E1571   08  F 3/4]
+MEL[-5_  123b_2_  155_0
+    5  55+1_7_  6_5_0
+    5  55642-7  2_1_ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 7 0 0 0 0 5 -1 -2 -2 0 0 0 2 -4 -3 -3 3 -2]
+MEL_RAW[-5  123b2  1550
+    5  55+17  650
+    5  55642-7  21]
+NO_REP[-5123b2150
+    5+17650
+    5642-721]
+RTM[x_  xxx_x_  xxx_x
+    x  xxx_x_  x_x_x
+    x  xxxxxx  x_x_]
+SCL_DEG[-5-7123b4567+1]
+SCL_SEM[4 1 2 1 2 2 2 2 1]
+

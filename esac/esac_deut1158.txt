@@ -1,0 +1,28 @@
+ERK
+CUT[WAHRE FREUNDSCHAFT SOLL NICHT WANKEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Brandenburg; Hessen]
+TRD[]
+FKT[]
+SIG[E0568]
+KEY[E0568   08  F 4/4]
+MEL[53  1_.11_.3  322_0_
+    13  5_.54345  3__0_
+    11  6_.6+1_76  655_0_
+    35  5_654_.-7  1__0_ //]
+BEM[]
+MEL_SEM[-3 -4 0 0 4 0 -2 0 -2 4 3 0 -2 -1 1 2 -3 -4 0 9 0 3 -1 -2 0 -2 0 -3 3 0 2 -2 -2 -6 1]
+MEL_RAW[53  1113  3220
+    13  554345  30
+    11  66+176  6550
+    35  5654-7  10]
+NO_REP[531320
+    135434530
+    16+17650
+    35654-710]
+RTM[xx  x_.xx_.x  xxx_x_
+    xx  x_.xxxxx  x__x_
+    xx  x_.xx_xx  xxx_x_
+    xx  x_xxx_.x  x__x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

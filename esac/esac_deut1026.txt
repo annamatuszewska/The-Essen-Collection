@@ -1,0 +1,32 @@
+ERK
+CUT[WENN ALLE BAECHLEIN FLIESSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Dillkreis; Lahnkreis]
+TRD[]
+FKT[]
+SIG[E0429B]
+KEY[E0429B  16  G 6/8]
+MEL[1_  1_3_3_3_5_5_  3__.2__
+    6_  5_4_3_2__.  1__.0__
+    13  5__5_5__6_  5_4_4_6__.
+    3__.5__.  5_2_2_2__
+    6_  5_4_3_2__.  1__.0__ //]
+BEM[]
+MEL_SEM[0 4 0 0 3 0 -3 -2 7 -2 -2 -1 -2 -2 0 4 3 0 0 2 -2 -2 0 4 -5 3 0 -5 0 0 7 -2 -2 -1 -2 -2]
+MEL_RAW[1  133355  32
+    6  5432  10
+    13  5556  5446
+    35  5222
+    6  5432  10]
+NO_REP[13532
+    6543210
+    1356546
+    352
+    6543210]
+RTM[x_  x_x_x_x_x_x_  x__.x__
+    x_  x_x_x_x__.  x__.x__
+    xx  x__x_x__x_  x_x_x_x__.
+    x__.x__.  x_x_x_x__
+    x_  x_x_x_x__.  x__.x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

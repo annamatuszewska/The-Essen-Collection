@@ -1,0 +1,24 @@
+ERK
+CUT[DAS MAEGDLEIN WILL EIN FREIER HABN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+TRD[]
+FKT[]
+SIG[E0859C]
+KEY[E0859C  16  F 6/8]
+MEL[-5_  1__1_1__+1_  +1_7_6_5__
+    3_  4__3_2__1_  -7_.12_-5__
+    12  3__4_531_12  3__4_531_ //]
+BEM[]
+MEL_SEM[5 0 0 12 0 -1 -2 -2 -3 1 -1 -2 -2 -1 1 2 -7 5 2 2 1 2 -3 -4 0 2 2 1 2 -3 -4]
+MEL_RAW[-5  111+1  +1765
+    3  4321  -712-5
+    12  3453112  34531]
+NO_REP[-51+1765
+    34321-712-5
+    1234531234531]
+RTM[x_  x__x_x__x_  x_x_x_x__
+    x_  x__x_x__x_  x_.xx_x__
+    xx  x__x_xxx_xx  x__x_xxx_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

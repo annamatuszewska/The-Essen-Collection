@@ -1,0 +1,24 @@
+ERK
+CUT[AUF AUF SCHAETZLE STEH AUF]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0820]
+KEY[E0820   16  G 6/8]
+MEL[1__0_2__0_  3_4_2_1__0_
+    3_5_5_5_434_  2_4_4_4_323_
+    1__0_2__0_  3_4_2_1__0_ //]
+BEM[]
+MEL_SEM[2 2 1 -3 -2 4 3 0 0 -2 -1 1 -3 3 0 0 -1 -2 2 -4 2 2 1 -3 -2]
+MEL_RAW[1020  34210
+    3555434  2444323
+    1020  34210]
+NO_REP[102034210
+    3543424323
+    102034210]
+RTM[x__x_x__x_  x_x_x_x__x_
+    x_x_x_x_xxx_  x_x_x_x_xxx_
+    x__x_x__x_  x_x_x_x__x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

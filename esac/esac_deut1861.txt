@@ -1,0 +1,36 @@
+ERK
+CUT[JETZUND NEHM ICH MEINE BUECHSE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Marburg, Eschwege]
+TRD[]
+FKT[]
+SIG[E1468]
+KEY[E1468   08  G 3/4]
+MEL[-5-5  1_5_31  2_4_
+    22  3_3_53  2__
+    23  4_6_+16  5_3_
+    23  4_4654  3__
+    23  4_6_+16  5_3_
+    23  4_4654  3__ //]
+BEM[]
+MEL_SEM[0 5 7 -3 -4 2 3 -3 0 2 0 3 -3 -2 0 2 1 4 3 -3 -2 -3 -2 2 1 0 4 -2 -2 -1 -2 2 1 4 3 -3 -2 -3 -2 2 1 0 4 -2 -2 -1]
+MEL_RAW[-5-5  1531  24
+    22  3353  2
+    23  46+16  53
+    23  44654  3
+    23  46+16  53
+    23  44654  3]
+NO_REP[-5153124
+    23532
+    2346+1653
+    2346543
+    2346+1653
+    2346543]
+RTM[xx  x_x_xx  x_x_
+    xx  x_x_xx  x__
+    xx  x_x_xx  x_x_
+    xx  x_xxxx  x__
+    xx  x_x_xx  x_x_
+    xx  x_xxxx  x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

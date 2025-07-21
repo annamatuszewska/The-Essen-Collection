@@ -1,0 +1,28 @@
+ERK
+CUT[ICH KANN UND MAG NICHT FROEHLICH SEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wuettemberg, Stuttgart; Mannheim]
+TRD[]
+FKT[]
+SIG[E0766]
+KEY[E0766   16  G 3/4]
+MEL[-5_1_2_  1_5_4_3_2_1_  2__0_
+    -5_1_2_  1_5_4_3_2_1_  2__0_
+    5_3_4_  5__6_5_4_3_  4__5_
+    543_5_  3__0_ //]
+BEM[]
+MEL_SEM[5 2 -2 7 -2 -1 -2 -2 2 -7 5 2 -2 7 -2 -1 -2 -2 2 5 -3 1 2 2 -2 -2 -1 1 2 0 -2 -1 3 -3]
+MEL_RAW[-512  154321  20
+    -512  154321  20
+    534  56543  45
+    5435  30]
+NO_REP[-51215432120
+    -51215432120
+    5345654345
+    543530]
+RTM[x_x_x_  x_x_x_x_x_x_  x__x_
+    x_x_x_  x_x_x_x_x_x_  x__x_
+    x_x_x_  x__x_x_x_x_  x__x_
+    xxx_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

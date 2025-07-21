@@ -1,0 +1,24 @@
+ERK
+CUT[DER KUCKUK AUF DEM ZAUNE]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1738]
+KEY[E1738   16  G 2/4]
+MEL[5__  3_3_3_3_  5_4_2__
+    1_1_1_11  2_-7-7-5__  0__
+    5__  3_3_3_3_  5_4_2__  1__ //]
+BEM[]
+MEL_SEM[-3 0 0 0 3 -2 -3 -2 0 0 0 0 2 -3 0 -4 12 -3 0 0 0 3 -2 -3 -2]
+MEL_RAW[5  3333  542
+    11111  2-7-7-5  0
+    5  3333  542  1]
+NO_REP[53542
+    12-7-50
+    535421]
+RTM[x__  x_x_x_x_  x_x_x__
+    x_x_x_xx  x_xxx__  x__
+    x__  x_x_x_x_  x_x_x__  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

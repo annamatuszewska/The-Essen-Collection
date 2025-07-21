@@ -1,0 +1,28 @@
+ERK
+CUT[IN LAUTERBACH HAB ICH MEIN STRUEMPFEL VERLOREN]
+REG[Europa, Mitteleuropa, Deutschland, Oberrhein; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1010]
+KEY[E1010   16  G 3/8]
+MEL[-5_  5_.55_  3_2_1_  2__-7_  -5_-5_
+    -5_  6_.65_  4_3_2_  5__.  ^__
+    -5_  5_.55_  3_2_1_  2__-7_  -5_-5_
+    -5_  6_.65_  4_3_2_  1__.  ^_0_ //]
+BEM[]
+MEL_SEM[12 0 0 -3 -2 -2 2 -3 -4 0 0 14 0 -2 -2 -1 -2 5 -12 12 0 0 -3 -2 -2 2 -3 -4 0 0 14 0 -2 -2 -1 -2 -2]
+MEL_RAW[-5  555  321  2-7  -5-5
+    -5  665  432  5  ^
+    -5  555  321  2-7  -5-5
+    -5  665  432  1  ^0]
+NO_REP[-53212-7-5
+    -5654325^
+    -53212-7-5
+    -5654321^0]
+RTM[x_  x_.xx_  x_x_x_  x__x_  x_x_
+    x_  x_.xx_  x_x_x_  x__.  x__
+    x_  x_.xx_  x_x_x_  x__x_  x_x_
+    x_  x_.xx_  x_x_x_  x__.  x_x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

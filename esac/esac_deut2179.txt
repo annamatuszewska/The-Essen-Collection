@@ -1,0 +1,20 @@
+ERK
+CUT[ES SANGEN DREI ENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Marburg]
+TRD[]
+FKT[]
+SIG[E2032A]
+KEY[E2032A  08  F 3/4]
+MEL[13  5_.654  3_.235  4_4_3_  2__
+    32  1_1_2_  3_3_46  5_.423  1__ //]
+BEM[]
+MEL_SEM[4 3 2 -2 -2 -1 -2 2 3 -2 0 -1 -2 2 -2 -2 0 2 2 0 1 4 -2 -2 -3 2 -4]
+MEL_RAW[13  5654  3235  443  2
+    32  112  3346  5423  1]
+NO_REP[1356543235432
+    321234654231]
+RTM[xx  x_.xxx  x_.xxx  x_x_x_  x__
+    xx  x_x_x_  x_x_xx  x_.xxx  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

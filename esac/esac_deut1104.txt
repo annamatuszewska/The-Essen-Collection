@@ -1,0 +1,28 @@
+ERK
+CUT[HOERT IHR NICHT DEN JAEGER BLASEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau, Hennethal]
+TRD[]
+FKT[]
+SIG[E0528B]
+KEY[E0528B  08  G 4/4]
+MEL[1_2_2_2_  2345431_
+    -6_1_1_1_  1_43322_
+    -4-6123_1_  -72477__
+    5_754_2_  4_432__ //]
+BEM[]
+MEL_SEM[2 0 0 0 2 1 2 -2 -1 -4 -3 3 0 0 0 5 -1 0 -2 0 -9 4 3 2 2 -4 -1 3 3 6 0 -4 4 -4 -2 -3 3 0 -1 -2]
+MEL_RAW[1222  2345431
+    -6111  143322
+    -4-61231  -72477
+    57542  4432]
+NO_REP[12345431
+    -61432
+    -4-61231-7247
+    57542432]
+RTM[x_x_x_x_  xxxxxxx_
+    x_x_x_x_  x_xxxxx_
+    xxxxx_x_  xxxxx__
+    x_xxx_x_  x_xxx__]
+SCL_DEG[-4-6-7123457]
+SCL_SEM[4 2 1 2 2 1 2 4]
+

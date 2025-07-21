@@ -1,0 +1,36 @@
+ERK
+CUT[SCHOENSTER HERR JESU]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E2009]
+KEY[E2009   08  A 4/4]
+MEL[5_12-7_-7_  123b45_5_
+    7b_3b_456b5  4_.3b3b__
+    5_43b4_4_  6b_545_5_
+    -7_1_-5_3b4  2_.11__
+    5_43b4_4_  6b_545_5_
+    -7_1_-5_3b4  2_.11__ //]
+BEM[]
+MEL_SEM[-7 2 -3 0 1 2 1 2 2 0 3 -7 2 2 1 -1 -2 -2 0 4 -2 -2 2 0 3 -1 -2 2 0 -8 1 -5 8 2 -3 -2 0 7 -2 -2 2 0 3 -1 -2 2 0 -8 1 -5 8 2 -3 -2 0]
+MEL_RAW[512-7-7  123b455
+    7b3b456b5  43b3b
+    543b44  6b5455
+    -71-53b4  211
+    543b44  6b5455
+    -71-53b4  211]
+NO_REP[512-7123b45
+    7b3b456b543b
+    543b46b545
+    -71-53b421
+    543b46b545
+    -71-53b421]
+RTM[x_xxx_x_  xxxxx_x_
+    x_x_xxxx  x_.xx__
+    x_xxx_x_  x_xxx_x_
+    x_x_x_xx  x_.xx__
+    x_xxx_x_  x_xxx_x_
+    x_x_x_xx  x_.xx__]
+SCL_DEG[-5-7123b456b7b]
+SCL_SEM[4 1 2 1 2 2 1 2]
+

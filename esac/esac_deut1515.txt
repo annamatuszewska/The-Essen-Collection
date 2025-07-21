@@ -1,0 +1,32 @@
+ERK
+CUT[WOLT IHR HOERN EIN NEWS GEDICHT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0938]
+KEY[E0938   04  F 6/4 4/4]
+MEL[1_13_4  5_55_
+    5  1_13_4  5_.5_
+    5  6_55_4  3_33_
+    3  2_22_
+    2  5534  2_1_ //]
+BEM[]
+MEL_SEM[0 4 1 2 0 0 0 -7 0 4 1 2 0 0 2 -2 0 -2 -1 0 0 0 -2 0 0 0 5 0 -3 1 -3 -2]
+MEL_RAW[1134  555
+    5  1134  55
+    5  6554  333
+    3  222
+    2  5534  21]
+NO_REP[1345
+    51345
+    56543
+    32
+    253421]
+RTM[x_xx_x  x_xx_
+    x  x_xx_x  x_.x_
+    x  x_xx_x  x_xx_
+    x  x_xx_
+    x  xxxx  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

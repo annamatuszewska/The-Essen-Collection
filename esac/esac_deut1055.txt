@@ -1,0 +1,28 @@
+ERK
+CUT[DER GUTZGAUCH HAT SICH ZU TODE GEFALLN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0481]
+KEY[E0481   04  C 3/4]
+MEL[1  5_5  4_4  5_5  1_
+    1  5_4  7b_6  5_4  5_
+    5  +1_+1  6_6  7b_7b  5_
+    1  3b_4  5_4  3b_2  1_ //]
+BEM[]
+MEL_SEM[7 0 -2 0 2 0 -7 0 7 -2 5 -1 -2 -2 2 0 5 0 -3 0 1 0 -3 -7 3 2 2 -2 -2 -1 -2]
+MEL_RAW[1  55  44  55  1
+    1  54  7b6  54  5
+    5  +1+1  66  7b7b  5
+    1  3b4  54  3b2  1]
+NO_REP[15451
+    1547b6545
+    5+167b5
+    13b4543b21]
+RTM[x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_
+    x  x_x  x_x  x_x  x_]
+SCL_DEG[123b4567b+1]
+SCL_SEM[2 1 2 2 2 1 2]
+

@@ -1,0 +1,40 @@
+ERK
+CUT[MEIN VATER IST EIN SCHNEIDER]
+REG[Europa, Mitteleuropa, Deutschland, Oderberg, Hohen Saathen]
+TRD[]
+FKT[]
+SIG[E1624]
+KEY[E1624   16  G 3/8]
+MEL[3_  1_3_33  1_3_
+    3_  1_3_3_  5_4_
+    2_  -7_2_22  -7_2_
+    2_  5_5_55  5_6_
+    4_  333_3_  333_5_  +1_5_
+    4_  222_2_  222_
+    2_  5_6542  1_0_ //]
+BEM[]
+MEL_SEM[-4 4 0 0 -4 4 0 -4 4 0 3 -2 -3 -3 3 0 0 -3 3 0 5 0 0 0 0 2 -4 -1 0 0 0 0 0 0 3 5 -5 -2 -3 0 0 0 0 0 0 0 5 2 -2 -2 -3 -2]
+MEL_RAW[3  1333  13
+    3  133  54
+    2  -7222  -72
+    2  5555  56
+    4  3333  3335  +15
+    4  2222  222
+    2  56542  10]
+NO_REP[31313
+    31354
+    2-72-72
+    256
+    435+15
+    42
+    25654210]
+RTM[x_  x_x_xx  x_x_
+    x_  x_x_x_  x_x_
+    x_  x_x_xx  x_x_
+    x_  x_x_xx  x_x_
+    x_  xxx_x_  xxx_x_  x_x_
+    x_  xxx_x_  xxx_
+    x_  x_xxxx  x_x_]
+SCL_DEG[-7123456+1]
+SCL_SEM[1 2 2 1 2 2 3]
+

@@ -1,0 +1,24 @@
+ERK
+CUT[SCHEIDEN IST EIN HARTE PEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter - Lahnkreis; Limburg]
+TRD[]
+FKT[]
+SIG[E0730]
+KEY[E0730   16  F 4/4]
+MEL[1_.-5  -5__3__3__5_3_  3__2__0__
+    5_+1_  6__.5_4_.34_.6  5___0__
+    3_2_  3__5__4_.34_.5  3___0__ //]
+BEM[]
+MEL_SEM[-5 0 9 0 3 -3 0 -2 5 5 -3 -2 -2 -1 1 4 -2 -3 -2 2 3 -2 -1 1 2 -3]
+MEL_RAW[1-5  -53353  320
+    5+1  654346  50
+    32  354345  30]
+NO_REP[1-535320
+    5+165434650
+    3235434530]
+RTM[x_.x  x__x__x__x_x_  x__x__x__
+    x_x_  x__.x_x_.xx_.x  x___x__
+    x_x_  x__x__x_.xx_.x  x___x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

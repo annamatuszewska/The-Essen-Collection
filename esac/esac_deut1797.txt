@@ -1,0 +1,36 @@
+ERK
+CUT[ZU STRASSBURG AUF DER SCHANZ]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Dreieichenstein]
+TRD[]
+FKT[]
+SIG[E1393]
+KEY[E1393   08  F 4/4]
+MEL[-5_  1_.-51_2_  3__0_
+    1_  3_.32_2_  1__0_
+    12  3_3_3_23  4__0_
+    43  22222_12  3_
+    543_2_  13243_
+    54  3_2_1_ //]
+BEM[]
+MEL_SEM[5 -5 5 2 2 -4 4 0 -2 0 -2 0 2 2 0 0 -2 2 1 0 -1 -2 0 0 0 0 -2 2 2 3 -2 -1 -2 -2 4 -2 3 -1 3 -2 -1 -2 -2]
+MEL_RAW[-5  1-512  30
+    1  3322  10
+    12  33323  40
+    43  2222212  3
+    5432  13243
+    54  321]
+NO_REP[-51-51230
+    13210
+    1232340
+    432123
+    543213243
+    54321]
+RTM[x_  x_.xx_x_  x__x_
+    x_  x_.xx_x_  x__x_
+    xx  x_x_x_xx  x__x_
+    xx  xxxxx_xx  x_
+    xxx_x_  xxxxx_
+    xx  x_x_x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

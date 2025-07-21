@@ -1,0 +1,36 @@
+ERK
+CUT[IN DEN GARTEN WOLLN WIR GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau]
+TRD[]
+FKT[]
+SIG[E0528A]
+KEY[E0528A  08  F 6/8]
+MEL[1_31_3  1_35_4
+    -7_22_2  2544_3
+    1355_3  4_6+1_.
+    6_+15_3  5421_0
+    1355_3  4_6+1_.
+    6_+15_3  5421_0 //]
+BEM[]
+MEL_SEM[4 -4 4 -4 4 3 -2 -6 3 0 0 0 5 -2 0 -1 -4 4 3 0 -3 1 4 3 -3 3 -5 -3 3 -2 -3 -2 0 4 3 0 -3 1 4 3 -3 3 -5 -3 3 -2 -3 -2]
+MEL_RAW[1313  1354
+    -7222  25443
+    13553  46+1
+    6+153  54210
+    13553  46+1
+    6+153  54210]
+NO_REP[13131354
+    -72543
+    135346+1
+    6+15354210
+    135346+1
+    6+15354210]
+RTM[x_xx_x  x_xx_x
+    x_xx_x  xxxx_x
+    xxxx_x  x_xx_.
+    x_xx_x  xxxx_x
+    xxxx_x  x_xx_.
+    x_xx_x  xxxx_x]
+SCL_DEG[-7123456+1]
+SCL_SEM[1 2 2 1 2 2 3]
+

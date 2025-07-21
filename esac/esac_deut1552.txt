@@ -1,0 +1,20 @@
+ERK
+CUT[EI SIN D'R DENN DEI HOSENBENGEL]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Kassel, Schwalmgrund]
+TRD[]
+FKT[]
+SIG[E0994A]
+KEY[E0994A  08  C 2/4]
+MEL[5  3555  3555  +1765  5_40
+    2444  2444  6543  4_30 //]
+BEM[]
+MEL_SEM[-3 3 0 0 -3 3 0 0 5 -1 -2 -2 0 -2 -3 3 0 0 -3 3 0 0 4 -2 -2 -1 1 -1]
+MEL_RAW[5  3555  3555  +1765  540
+    2444  2444  6543  430]
+NO_REP[53535+176540
+    24246543430]
+RTM[x  xxxx  xxxx  xxxx  x_xx
+    xxxx  xxxx  xxxx  x_xx]
+SCL_DEG[234567+1]
+SCL_SEM[2 1 2 2 2 1]
+

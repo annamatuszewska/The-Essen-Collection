@@ -1,0 +1,20 @@
+ERK
+CUT[CONSTANZ LIEGT AM BODENSEE]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[E1178]
+KEY[E1178   16  G 2/4]
+MEL[3_3_3_3_  32345__
+    4_3_2_5_  3_2_1__ //]
+BEM[]
+MEL_SEM[0 0 0 0 -2 2 1 2 -2 -1 -2 5 -3 -2 -2]
+MEL_RAW[3333  32345
+    4325  321]
+NO_REP[32345
+    4325321]
+RTM[x_x_x_x_  xxxxx__
+    x_x_x_x_  x_x_x__]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

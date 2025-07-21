@@ -1,0 +1,28 @@
+ERK
+CUT[ALLE LEUTE SOLLENS WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Unter - Taunus, Wuerges]
+TRD[]
+FKT[]
+SIG[E0619]
+KEY[E0619   16  G 2/4]
+MEL[5_3_5_3_  23454_3_
+    5_3_5_3_  23454_3_
+    6_6_+1_76  655_+1__
+    2345654_  433_3__ //]
+BEM[]
+MEL_SEM[-3 3 -3 -2 2 1 2 -2 -1 3 -3 3 -3 -2 2 1 2 -2 -1 5 0 3 -1 -2 0 -2 0 5 -10 2 1 2 2 -2 -2 0 -1 0 0]
+MEL_RAW[5353  234543
+    5353  234543
+    66+176  655+1
+    2345654  4333]
+NO_REP[5353234543
+    5353234543
+    6+1765+1
+    23456543]
+RTM[x_x_x_x_  xxxxx_x_
+    x_x_x_x_  xxxxx_x_
+    x_x_x_xx  xxx_x__
+    xxxxxxx_  xxx_x__]
+SCL_DEG[234567+1]
+SCL_SEM[2 1 2 2 2 1]
+

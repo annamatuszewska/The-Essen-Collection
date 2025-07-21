@@ -1,0 +1,44 @@
+ERK
+CUT[SIEH AN MEINES LIEBES KIND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Unter- Lahn- u. Dillkreis]
+TRD[]
+FKT[]
+SIG[E0831A]
+KEY[E0831A  08  G 3/4]
+MEL[-5_1234  5_543_
+    5_6_5_  4_3_0_
+    -5_1234  5_543_
+    5_6_5_  4_3_0_
+    5_5_5_  6_.42_
+    234_4_  355_0_
+    5_5_5_  5_67+1_
+    6_5_3_  2_1_0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 0 -2 -1 3 2 -2 -2 -1 -9 5 2 2 1 2 0 -2 -1 3 2 -2 -2 -1 3 0 0 2 -4 -3 0 2 1 0 -1 3 0 0 0 0 0 2 2 1 -3 -2 -3 -2 -2]
+MEL_RAW[-51234  5543
+    565  430
+    -51234  5543
+    565  430
+    555  642
+    2344  3550
+    555  567+1
+    653  210]
+NO_REP[-51234543
+    565430
+    -51234543
+    565430
+    5642
+    234350
+    567+1
+    653210]
+RTM[x_xxxx  x_xxx_
+    x_x_x_  x_x_x_
+    x_xxxx  x_xxx_
+    x_x_x_  x_x_x_
+    x_x_x_  x_.xx_
+    xxx_x_  xxx_x_
+    x_x_x_  x_xxx_
+    x_x_x_  x_x_x_]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

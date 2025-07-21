@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN JUNGMAGD FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein, Lobberich]
+TRD[]
+FKT[]
+SIG[E0122A]
+KEY[E0122A  08  D 4/4]
+MEL[-7b_  3b_3b_543b4  5_543b_
+    5_  6b_5_543b4  5_543b_
+    -7b_  3b_.45_3b5  43b2_1_
+    -7b_  3b_.45_3b5  43b2_1_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 2 2 0 -2 -2 4 1 -1 0 -2 -2 2 2 0 -2 -2 -5 5 2 2 -4 4 -2 -2 -1 -2 -2 5 2 2 -4 4 -2 -2 -1 -2]
+MEL_RAW[-7b  3b3b543b4  5543b
+    5  6b5543b4  5543b
+    -7b  3b453b5  43b21
+    -7b  3b453b5  43b21]
+NO_REP[-7b3b543b4543b
+    56b543b4543b
+    -7b3b453b543b21
+    -7b3b453b543b21]
+RTM[x_  x_x_xxxx  x_xxx_
+    x_  x_x_xxxx  x_xxx_
+    x_  x_.xx_xx  xxx_x_
+    x_  x_.xx_xx  xxx_x_]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

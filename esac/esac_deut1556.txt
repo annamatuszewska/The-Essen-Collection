@@ -1,0 +1,16 @@
+ERK
+CUT[DA DROBEN AUF DEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland ?]
+TRD[]
+FKT[]
+SIG[E0999]
+KEY[E0999   08  G 3/4]
+MEL[4_  4_-5_-7_  1__ //]
+BEM[]
+MEL_SEM[0 -10 4 1]
+MEL_RAW[4  4-5-7  1]
+NO_REP[4-5-71]
+RTM[x_  x_x_x_  x__]
+SCL_DEG[-5-714]
+SCL_SEM[4 1 5]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[AUF DIESER WELT HAB ICH KEIN FREUD]
+REG[Europa, Mitteleuropa, Deutschland, West -; Mitteldeutschland]
+TRD[]
+FKT[]
+SIG[E0569]
+KEY[E0569   16 Bb 3/4]
+MEL[-5__  1_-7-6-5__-6__  -5_-5-4-3_
+    -5_1_2_  3__3__2_2_  1__0_
+    1_1_1_  -6__-4_2_2_2_  -7__-5_
+    -5_1_2_  3__3__2_2_  1__0__ //]
+BEM[]
+MEL_SEM[5 -1 -2 -2 2 -2 0 -2 -1 3 5 2 2 0 -2 0 -2 0 0 0 -3 -4 9 0 0 -3 -4 0 5 2 2 0 -2 0 -2]
+MEL_RAW[-5  1-7-6-5-6  -5-5-4-3
+    -512  3322  10
+    111  -6-4222  -7-5
+    -512  3322  10]
+NO_REP[-51-7-6-5-6-5-4-3
+    -5123210
+    1-6-42-7-5
+    -5123210]
+RTM[x__  x_xxx__x__  x_xxx_
+    x_x_x_  x__x__x_x_  x__x_
+    x_x_x_  x__x_x_x_x_  x__x_
+    x_x_x_  x__x__x_x_  x__x__]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

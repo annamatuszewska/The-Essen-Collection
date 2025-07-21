@@ -1,0 +1,36 @@
+ERK
+CUT[SCHNEIDER DEN MAG ICH NET]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Hanau]
+TRD[]
+FKT[]
+SIG[E0842]
+KEY[E0842   16  F 3/8]
+MEL[1_3_5_  5_.+15_
+    6_+1_6_  5__0_
+    666654  5_5_3_
+    2_442_  1_6_5_
+    666654  5_5_3_
+    2_442_  1__0_ //]
+BEM[]
+MEL_SEM[4 3 0 5 -5 2 3 -3 -2 2 0 0 0 -2 -2 2 0 -3 -2 3 0 -3 -2 9 -2 2 0 0 0 -2 -2 2 0 -3 -2 3 0 -3 -2]
+MEL_RAW[135  5+15
+    6+16  50
+    666654  553
+    2442  165
+    666654  553
+    2442  10]
+NO_REP[135+15
+    6+1650
+    65453
+    242165
+    65453
+    24210]
+RTM[x_x_x_  x_.xx_
+    x_x_x_  x__x_
+    xxxxxx  x_x_x_
+    x_xxx_  x_x_x_
+    xxxxxx  x_x_x_
+    x_xxx_  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

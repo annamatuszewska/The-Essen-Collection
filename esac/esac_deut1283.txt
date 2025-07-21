@@ -1,0 +1,32 @@
+ERK
+CUT[SCHOENSTER SCHATZ MEIN AUGENTROST]
+REG[Europa, Mitteleuropa, Deutschland, Rheingau, Niederwald; Lahn - Tal]
+TRD[]
+FKT[]
+SIG[E0692]
+KEY[E0692   16  F 3/4]
+MEL[-5_  1_.11__.2_  3_.33__.
+    3_  2_3_4__2__  4__3__0_
+    5_  5_3_6__.5_  5_4_4__.
+    54  3_3_5__.3_  3_2_2__0_
+    32  1_6_5__3__  2__1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 0 0 0 -2 2 1 -3 3 -1 3 0 -3 5 -2 0 -2 0 2 -2 -1 0 3 -3 0 -2 0 2 -2 -2 9 -2 -3 -2 -2]
+MEL_RAW[-5  1112  333
+    3  2342  430
+    5  5365  544
+    54  3353  3220
+    32  1653  210]
+NO_REP[-5123
+    32342430
+    53654
+    5435320
+    321653210]
+RTM[x_  x_.xx__.x_  x_.xx__.
+    x_  x_x_x__x__  x__x__x_
+    x_  x_x_x__.x_  x_x_x__.
+    xx  x_x_x__.x_  x_x_x__x_
+    xx  x_x_x__x__  x__x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

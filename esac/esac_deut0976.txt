@@ -1,0 +1,36 @@
+ERK
+CUT[ES KANN JA NICHT IMMER SO BLEIBEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0353]
+KEY[E0353   08  F 4/4]
+MEL[12  3_333543  522_0_
+    23  4_446_54  5__0_
+    1_  6_66+1_76  655_0_
+    5+1  +1_355_42  1__0_
+    1_  6_66+1_76  655_0_
+    5+1  +1_355_42  1__0_ //]
+BEM[]
+MEL_SEM[2 2 0 0 0 3 -2 -1 3 -5 0 0 2 1 0 0 4 -2 -2 2 -7 9 0 0 3 -1 -2 0 -2 0 0 5 0 -8 3 0 -2 -3 -2 0 9 0 0 3 -1 -2 0 -2 0 0 5 0 -8 3 0 -2 -3 -2]
+MEL_RAW[12  3333543  5220
+    23  444654  50
+    1  666+176  6550
+    5+1  +135542  10
+    1  666+176  6550
+    5+1  +135542  10]
+NO_REP[123543520
+    23465450
+    16+17650
+    5+1354210
+    16+17650
+    5+1354210]
+RTM[xx  x_xxxxxx  xxx_x_
+    xx  x_xxx_xx  x__x_
+    x_  x_xxx_xx  xxx_x_
+    xx  x_xxx_xx  x__x_
+    x_  x_xxx_xx  xxx_x_
+    xx  x_xxx_xx  x__x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

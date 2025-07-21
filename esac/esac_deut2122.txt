@@ -1,0 +1,28 @@
+ERK
+CUT[DA KOM ALL EIN KANOENNEKEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E1907]
+KEY[E1907   08  G 2/4]
+MEL[-5  1111  -7-6-5_
+    -6-6-7-7  1_0
+    -5  1111  -7-6-5_
+    -6-6-7-7  1_0 //]
+BEM[]
+MEL_SEM[5 0 0 0 -1 -2 -2 2 0 2 0 1 -5 5 0 0 0 -1 -2 -2 2 0 2 0 1]
+MEL_RAW[-5  1111  -7-6-5
+    -6-6-7-7  10
+    -5  1111  -7-6-5
+    -6-6-7-7  10]
+NO_REP[-51-7-6-5
+    -6-710
+    -51-7-6-5
+    -6-710]
+RTM[x  xxxx  xxx_
+    xxxx  x_x
+    x  xxxx  xxx_
+    xxxx  x_x]
+SCL_DEG[-5-6-71]
+SCL_SEM[2 2 1]
+

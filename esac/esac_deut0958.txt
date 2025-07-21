@@ -1,0 +1,36 @@
+ERK
+CUT[HIER STEHEN WIRAUF UNSERN KRUECKEN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E0334A]
+KEY[E0334A  08 Bb 4/4]
+MEL[535  1__0+1+1+1  7_5_0
+    7+16  5_365424  4_3_0
+    323  544_0_34  655_0
+    323  544_0_34  655_0
+    +1+1+1  6_543_2_  54345
+    +1+1+1  6_545_-7_  1__0 //]
+BEM[]
+MEL_SEM[-3 3 -7 12 0 0 -1 -4 4 1 -3 -2 -3 5 -2 -2 -3 3 0 -1 0 -2 2 3 -2 0 -1 1 4 -2 0 -3 -2 2 3 -2 0 -1 1 4 -2 0 5 0 0 -3 -2 -2 -1 -2 5 -2 -1 1 2 5 0 0 -3 -2 -2 2 -8 1]
+MEL_RAW[535  10+1+1+1  750
+    7+16  5365424  430
+    323  544034  6550
+    323  544034  6550
+    +1+1+1  65432  54345
+    +1+1+1  6545-7  10]
+NO_REP[53510+1750
+    7+16536542430
+    32354034650
+    32354034650
+    +16543254345
+    +16545-710]
+RTM[xxx  x__xxxx  x_x_x
+    xxx  x_xxxxxx  x_x_x
+    xxx  xxx_x_xx  xxx_x
+    xxx  xxx_x_xx  xxx_x
+    xxx  x_xxx_x_  xxxxx
+    xxx  x_xxx_x_  x__x]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

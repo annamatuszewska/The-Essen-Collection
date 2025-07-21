@@ -1,0 +1,32 @@
+ERK
+CUT[VETTER MICHEL WOHNT]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark]
+TRD[]
+FKT[]
+SIG[E1748]
+KEY[E1748   16  D 2/4]
+MEL[55  +1_765_55  66665_
+    55  66665_
+    5_  6_6_7_7_  +1__0_
+    5_  3555655_  3555655_
+    +17+1+2+3__  5+1351_ //]
+BEM[]
+MEL_SEM[0 5 -1 -2 -2 0 0 2 0 0 0 -2 0 0 2 0 0 0 -2 0 2 0 2 0 1 -5 -3 3 0 0 2 -2 0 -3 3 0 0 2 -2 0 5 -1 1 2 2 -9 5 -8 3 -7]
+MEL_RAW[55  +176555  66665
+    55  66665
+    5  6677  +10
+    5  3555655  3555655
+    +17+1+2+3  5+1351]
+NO_REP[5+176565
+    565
+    567+10
+    535653565
+    +17+1+2+35+1351]
+RTM[xx  x_xxx_xx  xxxxx_
+    xx  xxxxx_
+    x_  x_x_x_x_  x__x_
+    x_  xxxxxxx_  xxxxxxx_
+    xxxxx__  xxxxx_]
+SCL_DEG[13567+1+2+3]
+SCL_SEM[4 3 2 2 1 2 2]
+

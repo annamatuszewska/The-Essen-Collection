@@ -1,0 +1,28 @@
+ERK
+CUT[DER KAISER UND DER KOENIG]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald; Franken]
+TRD[]
+FKT[]
+SIG[E2119]
+KEY[E2119   08  G 4/4]
+MEL[-5_  1_.32_1_  -7_2_0_
+    -7_  -6_.22_1-6  -5__0_
+    12  3_3_2_35  543_0_
+    32  1_.3322_  1__0_ //]
+BEM[]
+MEL_SEM[5 4 -2 -2 -1 3 -3 -2 5 0 -2 -3 -2 5 2 2 0 -2 2 3 0 -2 -1 0 -2 -2 4 0 -2 0 -2]
+MEL_RAW[-5  1321  -720
+    -7  -6221-6  -50
+    12  33235  5430
+    32  13322  10]
+NO_REP[-51321-720
+    -7-621-6-50
+    123235430
+    3213210]
+RTM[x_  x_.xx_x_  x_x_x_
+    x_  x_.xx_xx  x__x_
+    xx  x_x_x_xx  xxx_x_
+    xx  x_.xxxx_  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

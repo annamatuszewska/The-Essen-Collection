@@ -1,0 +1,28 @@
+ERK
+CUT[BLEIBT BEISAMMEN DENN ES DAUERT NET MEHR LANGE]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Messel]
+TRD[]
+FKT[]
+SIG[E1179]
+KEY[E1179   08  D 2/4]
+MEL[-3-4  -5-5-5-5  -5-5
+    11  -6-6-6-6  -6-6
+    22  -7_-5-5  -5_
+    -6-7  1111  11 //]
+BEM[]
+MEL_SEM[1 2 0 0 0 0 0 5 0 -3 0 0 0 0 0 5 0 -3 -4 0 0 2 2 1 0 0 0 0 0]
+MEL_RAW[-3-4  -5-5-5-5  -5-5
+    11  -6-6-6-6  -6-6
+    22  -7-5-5  -5
+    -6-7  1111  11]
+NO_REP[-3-4-5
+    1-6
+    2-7-5
+    -6-71]
+RTM[xx  xxxx  xx
+    xx  xxxx  xx
+    xx  x_xx  x_
+    xx  xxxx  xx]
+SCL_DEG[-3-4-5-6-712]
+SCL_SEM[1 2 2 2 1 2]
+

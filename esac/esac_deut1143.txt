@@ -1,0 +1,28 @@
+ERK
+CUT[MEIN SCHATZ DER IST AUF DIE WANDERSCHAFT]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0557A]
+KEY[E0557A  08  D 4/4]
+MEL[12  3b_1_1_12  3b_1_1_
+    2_  3b_3b3b4_3b4  5_.6b5_
+    3b4  5_56b7b_5_  6b543b2_.
+    2  3b23b45_42  1_-7_1_ //]
+BEM[]
+MEL_SEM[2 1 -3 0 0 2 1 -3 0 2 1 0 0 2 -2 2 2 1 -1 -4 2 2 0 1 2 -3 1 -1 -2 -2 -1 0 1 -1 1 2 2 -2 -3 -2 -1 1]
+MEL_RAW[12  3b1112  3b11
+    2  3b3b3b43b4  56b5
+    3b4  556b7b5  6b543b2
+    2  3b23b4542  1-71]
+NO_REP[123b123b1
+    23b43b456b5
+    3b456b7b56b543b2
+    23b23b45421-71]
+RTM[xx  x_x_x_xx  x_x_x_
+    x_  x_xxx_xx  x_.xx_
+    xx  x_xxx_x_  xxxxx_.
+    x  xxxxx_xx  x_x_x_]
+SCL_DEG[-7123b456b7b]
+SCL_SEM[1 2 1 2 2 1 2]
+

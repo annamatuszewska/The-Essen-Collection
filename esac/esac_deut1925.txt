@@ -1,0 +1,36 @@
+ERK
+CUT[HERR JESU LASS DEIN BITTERN TOD UND PEIN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Taunus, Wuerges]
+TRD[]
+FKT[]
+SIG[E1583]
+KEY[E1583   16  G 2/4]
+MEL[-5_  1_.-71_2_  3__2_
+    2_  3_345_54  3__.
+    -5_  1_.-71_2_  3__2_
+    2_  3_345_54  3__.
+    12  3_5_2_32  1__0_
+    12  3_5_2_32  1__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 -2 0 2 0 1 2 0 -2 -1 -9 5 -1 1 2 2 -2 0 2 0 1 2 0 -2 -1 -4 2 2 3 -5 2 -2 -2 0 2 2 3 -5 2 -2 -2]
+MEL_RAW[-5  1-712  32
+    2  334554  3
+    -5  1-712  32
+    2  334554  3
+    12  35232  10
+    12  35232  10]
+NO_REP[-51-71232
+    234543
+    -51-71232
+    234543
+    123523210
+    123523210]
+RTM[x_  x_.xx_x_  x__x_
+    x_  x_xxx_xx  x__.
+    x_  x_.xx_x_  x__x_
+    x_  x_xxx_xx  x__.
+    xx  x_x_x_xx  x__x_
+    xx  x_x_x_xx  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

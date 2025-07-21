@@ -1,0 +1,28 @@
+ERK
+CUT[ES HATT EIN BAUR EIN TOECHTERLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0119B]
+KEY[E0119B  08  F 3/4]
+MEL[-5  -511353  322_0
+    2  234_5_  433_0
+    1  116_.5  465_0
+    4  31543_  2_1_0 //]
+BEM[]
+MEL_SEM[0 5 0 4 3 -3 0 -2 0 0 0 2 1 2 -2 -1 0 -4 0 0 9 -2 -2 4 -2 -2 -1 -4 7 -2 -1 -2 -2]
+MEL_RAW[-5  -511353  3220
+    2  2345  4330
+    1  1165  4650
+    4  31543  210]
+NO_REP[-5135320
+    2345430
+    1654650
+    431543210]
+RTM[x  xxxxxx  xxx_x
+    x  xxx_x_  xxx_x
+    x  xxx_.x  xxx_x
+    x  xxxxx_  x_x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

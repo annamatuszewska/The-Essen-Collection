@@ -1,0 +1,24 @@
+ERK
+CUT[IM MAIEN DIE VOEGELEIN SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn]
+TRD[]
+FKT[]
+SIG[E0960A]
+KEY[E0960A  08  A 6/8]
+MEL[-5  11-7-6-62  1-7-6-5_
+    -5  -3-4-5-6_-5  1_23_
+    -5  -5-5-5-6_-6  -7-6-71_ //]
+BEM[]
+MEL_SEM[5 0 -1 -2 0 5 -2 -1 -2 -2 0 -3 1 2 2 -2 5 2 2 -9 0 0 0 2 0 2 -2 2 1]
+MEL_RAW[-5  11-7-6-62  1-7-6-5
+    -5  -3-4-5-6-5  123
+    -5  -5-5-5-6-6  -7-6-71]
+NO_REP[-51-7-621-7-6-5
+    -5-3-4-5-6-5123
+    -5-6-7-6-71]
+RTM[x  xxxxxx  xxxx_
+    x  xxxx_x  x_xx_
+    x  xxxx_x  xxxx_]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[JETZUND BRICHT DIE NACHT HEREIN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge]
+TRD[]
+FKT[]
+SIG[E0816C]
+KEY[E0816C  08  F 4/4]
+MEL[-5_  12345_55  43453_0
+    5  +176_7_5_  654#_5_0
+    5  +1_.56_6_  56543_0
+    3  5_5_6543  4_5_3_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 0 0 -2 -1 1 2 -3 3 5 -1 -2 2 -4 2 -2 -1 1 0 5 -5 2 0 -2 2 -2 -2 -1 0 3 0 2 -2 -2 -1 1 2 -3]
+MEL_RAW[-5  1234555  434530
+    5  +17675  654#50
+    5  +1566  565430
+    3  556543  453]
+NO_REP[-512345434530
+    5+17675654#50
+    5+156565430
+    356543453]
+RTM[x_  xxxxx_xx  xxxxx_x
+    x  xxx_x_x_  xxx_x_x
+    x  x_.xx_x_  xxxxx_x
+    x  x_x_xxxx  x_x_x_]
+SCL_DEG[-512344#567+1]
+SCL_SEM[5 2 2 1 1 1 2 2 1]
+

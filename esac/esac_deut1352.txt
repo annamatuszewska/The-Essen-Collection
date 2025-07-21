@@ -1,0 +1,28 @@
+ERK
+CUT[ICH HABE DEN FRUEHLING GESEHEN]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg, Gransee]
+TRD[]
+FKT[]
+SIG[E073BC]
+KEY[E073BC  08  F 4/4]
+MEL[-5_  3_321_65  5_.43_
+    21  -7_225_42  3__0_
+    54  3555+1765  4_6_+1_
+    76  5_556542  1__0_ //]
+BEM[]
+MEL_SEM[9 0 -2 -2 9 -2 0 -2 -1 -2 -2 -1 3 0 5 -2 -3 2 3 -2 -1 3 0 0 5 -1 -2 -2 -2 4 3 -1 -2 -2 0 0 2 -2 -2 -3 -2]
+MEL_RAW[-5  332165  543
+    21  -722542  30
+    54  3555+1765  46+1
+    76  5556542  10]
+NO_REP[-53216543
+    21-7254230
+    5435+176546+1
+    765654210]
+RTM[x_  x_xxx_xx  x_.xx_
+    xx  x_xxx_xx  x__x_
+    xx  xxxxxxxx  x_x_x_
+    xx  x_xxxxxx  x__x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

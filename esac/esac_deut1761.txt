@@ -1,0 +1,33 @@
+ERK
+CUT[WER BEKUEMMERT SICH]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen; Elsass;
+    Hessen, Schlesien; Brandenburg]
+TRD[]
+FKT[]
+SIG[E1357]
+KEY[E1357   16  G 3/8 2/4]
+MEL[-5-5  1_.122  3_3_
+    13  5_.34_5_  3__0_
+    13  5_5_65  544_
+    54  3_3_53  322_
+    13  5_.34_5_  3__0_ //]
+BEM[]
+MEL_SEM[0 5 0 2 0 2 0 -4 4 3 -3 1 2 -3 -4 4 3 0 2 -2 0 -2 0 2 -2 -1 0 3 -3 0 -2 0 -2 4 3 -3 1 2 -3]
+MEL_RAW[-5-5  1122  33
+    13  5345  30
+    13  5565  544
+    54  3353  322
+    13  5345  30]
+NO_REP[-5123
+    13534530
+    135654
+    543532
+    13534530]
+RTM[xx  x_.xxx  x_x_
+    xx  x_.xx_x_  x__x_
+    xx  x_x_xx  xxx_
+    xx  x_x_xx  xxx_
+    xx  x_.xx_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

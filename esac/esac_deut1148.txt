@@ -1,0 +1,32 @@
+ERK
+CUT[ACH SCHOENSTER SCHATZ MEIN AUGENTROST]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Odenwald]
+TRD[]
+FKT[]
+SIG[E0560A]
+KEY[E0560A  08  G 3/4]
+MEL[-512  3_3_22  1_0
+    234  565345  3_0
+    534  5_6543  4_0
+    532  354321  2_0
+    234  565345  3_0 //]
+BEM[]
+MEL_SEM[5 2 2 0 -2 0 -2 2 2 1 2 2 -2 -3 1 2 -3 3 -3 1 2 2 -2 -2 -1 1 2 -3 -2 2 3 -2 -1 -2 -2 2 0 2 1 2 2 -2 -3 1 2 -3]
+MEL_RAW[-512  3322  10
+    234  565345  30
+    534  56543  40
+    532  354321  20
+    234  565345  30]
+NO_REP[-5123210
+    23456534530
+    5345654340
+    53235432120
+    23456534530]
+RTM[xxx  x_x_xx  x_x
+    xxx  xxxxxx  x_x
+    xxx  x_xxxx  x_x
+    xxx  xxxxxx  x_x
+    xxx  xxxxxx  x_x]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

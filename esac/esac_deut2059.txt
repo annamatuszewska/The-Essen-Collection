@@ -1,0 +1,28 @@
+ERK
+CUT[ZUFRIEDENHEIT IST MEIN VERGNUEGEN]
+REG[Europa, Mitteleuropa, Deutschland, Bergisches Land]
+TRD[]
+FKT[]
+SIG[E1804]
+KEY[E1804   08 Bb 4/4]
+MEL[-5_  1_.-5-31-6-6  -6_-5_0_
+    1_  -71234_2_  2_1_0_
+    -7_  2_.321-7-6  -5__0_
+    -5_  -31-3-51_1_  33334_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 -5 -3 8 -3 0 0 -2 5 -1 1 2 2 1 -3 0 -2 -1 3 2 -2 -2 -1 -2 -2 0 -3 8 -8 3 5 0 4 0 0 0 1 -3 -2]
+MEL_RAW[-5  1-5-31-6-6  -6-50
+    1  -712342  210
+    -7  2321-7-6  -50
+    -5  -31-3-511  333342  10]
+NO_REP[-51-5-31-6-50
+    1-71234210
+    -72321-7-6-50
+    -5-31-3-5134210]
+RTM[x_  x_.xxxxx  x_x_x_
+    x_  xxxxx_x_  x_x_x_
+    x_  x_.xxxxx  x__x_
+    x_  xxxxx_x_  xxxxx_x_  x__x_]
+SCL_DEG[-3-5-6-71234]
+SCL_SEM[3 2 2 1 2 2 1]
+

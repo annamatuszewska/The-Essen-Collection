@@ -1,0 +1,28 @@
+ERK
+CUT[ICH MUSS REISEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Schwalbach, Hennethal]
+TRD[]
+FKT[]
+SIG[E0783]
+KEY[E0783   16  D 3/4]
+MEL[1_35  5__4_3_4_6_  6__5__
+    1_35  5__4_3_4_6_  6__5__
+    5_67  +1__.+2_+1_6_  5__0_
+    +1_6_32  3__5_556_32  3__0__ //]
+BEM[]
+MEL_SEM[4 3 0 -2 -1 1 4 0 -2 -7 4 3 0 -2 -1 1 4 0 -2 0 2 2 1 2 -2 -3 -2 5 -3 -5 -2 2 3 0 0 2 -5 -2 2]
+MEL_RAW[135  54346  65
+    135  54346  65
+    567  +1+2+16  50
+    +1632  3555632  30]
+NO_REP[13543465
+    13543465
+    567+1+2+1650
+    +16323563230]
+RTM[x_xx  x__x_x_x_x_  x__x__
+    x_xx  x__x_x_x_x_  x__x__
+    x_xx  x__.x_x_x_  x__x_
+    x_x_xx  x__x_xxx_xx  x__x__]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

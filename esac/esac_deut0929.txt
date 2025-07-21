@@ -1,0 +1,32 @@
+ERK
+CUT[ES HUETET EIN SCHAEFER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oppenheim; Lerchheim]
+TRD[]
+FKT[]
+SIG[E0212B]
+KEY[E0212B  08  A 6/8]
+MEL[-5  -511133  3555_5  3__0
+    -5  -511133  3555_5  3__0
+    3  3_55_5  6_53_5  3__0
+    3  3_55_5  6_53_
+    5  3112_-5  1__0 //]
+BEM[]
+MEL_SEM[0 5 0 0 4 0 0 3 0 0 0 -3 -9 0 5 0 0 4 0 0 3 0 0 0 -3 0 0 3 0 0 2 -2 -3 3 -3 0 0 3 0 0 2 -2 -3 3 -3 -4 0 2 -7 5]
+MEL_RAW[-5  -511133  35555  30
+    -5  -511133  35555  30
+    3  3555  6535  30
+    3  3555  653
+    5  3112-5  10]
+NO_REP[-513530
+    -513530
+    35653530
+    35653
+    5312-510]
+RTM[x  xxxxxx  xxxx_x  x__x
+    x  xxxxxx  xxxx_x  x__x
+    x  x_xx_x  x_xx_x  x__x
+    x  x_xx_x  x_xx_
+    x  xxxx_x  x__x]
+SCL_DEG[-512356]
+SCL_SEM[5 2 2 3 2]
+

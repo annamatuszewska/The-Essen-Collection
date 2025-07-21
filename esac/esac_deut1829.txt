@@ -1,0 +1,36 @@
+ERK
+CUT[DIE REISE NACH JUETLAND]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Lahn - Gegend]
+TRD[]
+FKT[]
+SIG[E1429]
+KEY[E1429   08 Bb 3/4]
+MEL[-3_  -5_-3_-5_  -533_
+    1_  1_.23_  2__
+    23  4_.254  3_.2
+    1_  2_1_-7_  5__
+    65  4_.254  3_.2
+    1_  2_1_-7_  1__ //]
+BEM[]
+MEL_SEM[3 -3 3 0 9 0 -4 0 2 2 -2 0 2 1 -3 5 -2 -1 -2 -2 2 -2 -1 8 2 -2 -2 -3 5 -2 -1 -2 -2 2 -2 -1 1]
+MEL_RAW[-3  -5-3-5  -533
+    1  123  2
+    23  4254  32
+    1  21-7  5
+    65  4254  32
+    1  21-7  1]
+NO_REP[-3-5-3-53
+    1232
+    23425432
+    121-75
+    65425432
+    121-71]
+RTM[x_  x_x_x_  xxx_
+    x_  x_.xx_  x__
+    xx  x_.xxx  x_.x
+    x_  x_x_x_  x__
+    xx  x_.xxx  x_.x
+    x_  x_x_x_  x__]
+SCL_DEG[-3-5-7123456]
+SCL_SEM[3 4 1 2 2 1 2 2]
+

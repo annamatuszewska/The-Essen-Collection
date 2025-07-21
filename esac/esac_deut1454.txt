@@ -1,0 +1,28 @@
+ERK
+CUT[ICH SOLL UND MUSS EIN BULEN HABEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0859]
+KEY[E0859   08  F 4/4]
+MEL[5__5_5_  5_5_4_5_  3__1__
+    3_.45_6_  ^_5__4_  5___
+    5__5_5_  5_5_4_5_  3__1__
+    3_456_5_  ^_432_2_  1___ //]
+BEM[]
+MEL_SEM[0 0 0 0 -2 2 -3 -4 4 1 2 2 -2 -2 2 0 0 0 0 0 -2 2 -3 -4 4 1 2 2 -2 -2 -1 -2 0 -2]
+MEL_RAW[555  5545  31
+    3456  ^54  5
+    555  5545  31
+    34565  ^4322  1]
+NO_REP[54531
+    3456^545
+    54531
+    34565^4321]
+RTM[x__x_x_  x_x_x_x_  x__x__
+    x_.xx_x_  x_x__x_  x___
+    x__x_x_  x_x_x_x_  x__x__
+    x_xxx_x_  x_xxx_x_  x___]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

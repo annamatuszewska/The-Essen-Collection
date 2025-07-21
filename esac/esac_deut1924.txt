@@ -1,0 +1,32 @@
+ERK
+CUT[HOERT IHR HERRN UND LASST EUCH  SAGEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen]
+TRD[]
+FKT[]
+SIG[E1582]
+KEY[E1582   08  C 4/4]
+MEL[1_.15_5_  3_5_3_1_
+    1_1_5_.5  3_5_3_1
+    1  1_1_5_5_  3_5_1_.
+    1  1_1_5_.5  3_5_1__
+    1_1_1_.1  1___ //]
+BEM[]
+MEL_SEM[0 7 0 -3 3 -3 -4 0 0 7 0 -3 3 -3 -4 0 0 0 7 0 -3 3 -7 0 0 0 7 0 -3 3 -7 0 0 0 0 0]
+MEL_RAW[1155  3531
+    1155  3531
+    1  1155  351
+    1  1155  351
+    1111  1]
+NO_REP[153531
+    153531
+    15351
+    15351
+    1]
+RTM[x_.xx_x_  x_x_x_x_
+    x_x_x_.x  x_x_x_x
+    x  x_x_x_x_  x_x_x_.
+    x  x_x_x_.x  x_x_x__
+    x_x_x_.x  x___]
+SCL_DEG[135]
+SCL_SEM[4 3]
+

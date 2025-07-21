@@ -1,0 +1,29 @@
+ERK
+CUT[ES WAR EINMAL EIN ARMER MANN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Siebengebirge; Hessen;
+    Nassau]
+TRD[]
+FKT[]
+SIG[E2109]
+KEY[E2109   08  G 4/4]
+MEL[12  3_3_3_23  4_4_4_
+    3_  2_2_2_12  3_3_3_
+    12  3_3_322_  1__0_
+    12  3_3_322_  1__0_ //]
+BEM[]
+MEL_SEM[2 2 0 0 -2 2 1 0 0 -1 -2 0 0 -2 2 2 0 0 -4 2 2 0 0 -2 0 -2 0 2 2 0 0 -2 0 -2]
+MEL_RAW[12  33323  444
+    3  22212  333
+    12  33322  10
+    12  33322  10]
+NO_REP[123234
+    32123
+    123210
+    123210]
+RTM[xx  x_x_x_xx  x_x_x_
+    x_  x_x_x_xx  x_x_x_
+    xx  x_x_xxx_  x__x_
+    xx  x_x_xxx_  x__x_]
+SCL_DEG[1234]
+SCL_SEM[2 2 1]
+

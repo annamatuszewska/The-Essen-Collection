@@ -1,0 +1,28 @@
+ERK
+CUT[ICH HAB DIE NACHT GETRAEUMET]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0207]
+KEY[E0207   16  E 6/8]
+MEL[-5_  1__2_3b_.21_  5__.4__
+    4_  3b_.21_-7__1_  2__.0__
+    1_  5__5_3b_.21_  +1__.6b__
+    4_  3b_.21_2_.1-7_  1__.0__ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 7 -2 0 -2 -1 -2 -1 1 2 -2 7 0 -4 -1 -2 12 -4 -3 -2 -1 -2 2 -2 -1 1]
+MEL_RAW[-5  123b21  54
+    4  3b21-71  20
+    1  553b21  +16b
+    4  3b2121-7  10]
+NO_REP[-5123b2154
+    43b21-7120
+    153b21+16b
+    43b2121-710]
+RTM[x_  x__x_x_.xx_  x__.x__
+    x_  x_.xx_x__x_  x__.x__
+    x_  x__x_x_.xx_  x__.x__
+    x_  x_.xx_x_.xx_  x__.x__]
+SCL_DEG[-5-7123b456b+1]
+SCL_SEM[4 1 2 1 2 2 1 4]
+

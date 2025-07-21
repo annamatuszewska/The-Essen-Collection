@@ -1,0 +1,41 @@
+ERK
+CUT[ES SOLL SICH JA KEINER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Nassau; Oberhessen;
+    Westerwald; Wetterau]
+TRD[]
+FKT[]
+SIG[E0693A]
+KEY[E0693A  08  G 3/4]
+MEL[-5_  1_1_2_  3_3_
+    66  5_5_4_  4_3_
+    -5_  1_1_2_  3_3_
+    66  5_5_4_  4_3_
+    1_  -766_5_  544_
+    3_  2_3_46  6_5_
+    3_  255_4_  3__ //]
+BEM[]
+MEL_SEM[5 0 2 2 0 5 0 -2 0 -2 0 -1 -9 5 0 2 2 0 5 0 -2 0 -2 0 -1 -4 -1 10 0 -2 0 -2 0 -1 -2 2 1 4 0 -2 -3 -2 5 0 -2 -1]
+MEL_RAW[-5  112  33
+    66  554  43
+    -5  112  33
+    66  554  43
+    1  -7665  544
+    3  2346  65
+    3  2554  3]
+NO_REP[-5123
+    6543
+    -5123
+    6543
+    1-7654
+    323465
+    32543]
+RTM[x_  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    x_  x_x_x_  x_x_
+    xx  x_x_x_  x_x_
+    x_  xxx_x_  xxx_
+    x_  x_x_xx  x_x_
+    x_  xxx_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

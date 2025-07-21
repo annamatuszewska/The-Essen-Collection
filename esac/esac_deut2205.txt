@@ -1,0 +1,36 @@
+ERK
+CUT[IHR CHRISTEN GROSS UND KLEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Neisse]
+TRD[]
+FKT[]
+SIG[E2079]
+KEY[E2079   08  F 4/4]
+MEL[-5_  1_133_2_  1__0_
+    12  3_355_4_  3__0_
+    23  4__3_3_  2__0_
+    53  2_21-7_13  2__0_
+    53  2_21-7_13  2__0_
+    24  3__2_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 4 0 -2 -2 0 2 2 0 3 0 -2 -1 -2 2 1 -1 0 -2 5 -3 -2 0 -2 -1 1 4 -2 5 -3 -2 0 -2 -1 1 4 -2 0 3 -1 -2 0 -2]
+MEL_RAW[-5  11332  10
+    12  33554  30
+    23  433  20
+    53  221-713  20
+    53  221-713  20
+    24  322  10]
+NO_REP[-513210
+    1235430
+    234320
+    5321-71320
+    5321-71320
+    243210]
+RTM[x_  x_xxx_x_  x__x_
+    xx  x_xxx_x_  x__x_
+    xx  x__x_x_  x__x_
+    xx  x_xxx_xx  x__x_
+    xx  x_xxx_xx  x__x_
+    xx  x__x_x_  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

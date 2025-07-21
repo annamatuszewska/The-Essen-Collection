@@ -1,0 +1,28 @@
+ERK
+CUT[ES WAR EIN KOENIG WOL AN DEM RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Mittel - Franken, Ziegelanger]
+TRD[]
+FKT[]
+SIG[E2114]
+KEY[E2114   16  G 3/4]
+MEL[1_  1_3_5__.3_  4_5_6__0_
+    5_  5_.44__3_2_  3_4_5__0_
+    1_  1_3_5__3__  2__1__0_
+    1_  1_3_5__3__  2__1__0_ //]
+BEM[]
+MEL_SEM[0 4 3 -3 1 2 2 -2 0 -2 0 -1 -2 2 1 2 -7 0 4 3 -3 -2 -2 0 0 4 3 -3 -2 -2]
+MEL_RAW[1  1353  4560
+    5  54432  3450
+    1  1353  210
+    1  1353  210]
+NO_REP[13534560
+    54323450
+    1353210
+    1353210]
+RTM[x_  x_x_x__.x_  x_x_x__x_
+    x_  x_.xx__x_x_  x_x_x__x_
+    x_  x_x_x__x__  x__x__x_
+    x_  x_x_x__x__  x__x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

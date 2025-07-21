@@ -1,0 +1,28 @@
+ERK
+CUT[KAISER DER NAPOLEON]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E0349B]
+KEY[E0349B  16  G 2/4]
+MEL[-5_1_1_1_  -7_2_2__
+    2_2_2_2_  3_5_5__
+    3_.33_3_  5_.44__
+    2_2_5_.4  4__3__ //]
+BEM[]
+MEL_SEM[5 0 0 -1 3 0 0 0 0 0 2 3 0 -3 0 0 0 3 -2 0 -3 0 5 -2 0 -1]
+MEL_RAW[-5111  -722
+    2222  355
+    3333  544
+    2254  43]
+NO_REP[-51-72
+    235
+    354
+    2543]
+RTM[x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x_.xx_x_  x_.xx__
+    x_x_x_.x  x__x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

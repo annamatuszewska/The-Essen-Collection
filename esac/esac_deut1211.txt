@@ -1,0 +1,28 @@
+ERK
+CUT[ALLE LEUTE SOLLENS WISSEN]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau, Dill - Kreis]
+TRD[]
+FKT[]
+SIG[E0619A]
+KEY[E0619A  08  G 4/4]
+MEL[355_355_  43454_3_
+    355_355_  43454_3_
+    6_6_+1_76  5_5_+1_0_
+    22346_54  5_333__ //]
+BEM[]
+MEL_SEM[3 0 -3 3 0 -2 -1 1 2 -2 -1 0 3 0 -3 3 0 -2 -1 1 2 -2 -1 5 0 3 -1 -2 -2 0 5 -10 0 2 1 4 -2 -2 2 -3 0 0]
+MEL_RAW[355355  434543
+    355355  434543
+    66+176  55+10
+    2234654  5333]
+NO_REP[3535434543
+    3535434543
+    6+1765+10
+    23465453]
+RTM[xxx_xxx_  xxxxx_x_
+    xxx_xxx_  xxxxx_x_
+    x_x_x_xx  x_x_x_x_
+    xxxxx_xx  x_xxx__]
+SCL_DEG[234567+1]
+SCL_SEM[2 1 2 2 2 1]
+

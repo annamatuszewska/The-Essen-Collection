@@ -1,0 +1,32 @@
+ERK
+CUT[ES FUHR EIN BAUR INS HOLZ]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg; Thueringen]
+TRD[]
+FKT[]
+SIG[E0987]
+KEY[E0987   08  G 2/4]
+MEL[-5  1111  1_0
+    2  3333  3_0
+    3  5555  544_
+    3_3_  322
+    5  3322  1_0 //]
+BEM[]
+MEL_SEM[5 0 0 0 0 2 2 0 0 0 0 0 3 0 0 0 0 -2 0 -1 0 0 -2 0 5 -3 0 -2 0 -2]
+MEL_RAW[-5  1111  10
+    2  3333  30
+    3  5555  544
+    33  322
+    5  3322  10]
+NO_REP[-510
+    230
+    354
+    32
+    53210]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  xxx_
+    x_x_  xxx
+    x  xxxx  x_x]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

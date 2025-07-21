@@ -1,0 +1,28 @@
+ERK
+CUT[WAS SIND DIE GASSEN SO ENGE]
+REG[Europa, Mitteleuropa, Deutschland, Kreis Wetzlar, Burgsolms]
+TRD[]
+FKT[]
+SIG[E0107D]
+KEY[E0107D  16  C 6/8]
+MEL[13  5__5_5_4_2_  5__.3_0_
+    13  5__5_5_4_2_  5__.3_0_
+    1_  6__6_5_6_7_  +1_7_6_5__
+    +1_  5_6_5_4_3_2_  6_5_4_3__ //]
+BEM[]
+MEL_SEM[4 3 0 0 -2 -3 5 -3 -4 4 3 0 0 -2 -3 5 -3 -4 9 0 -2 2 2 1 -1 -2 -2 5 -5 2 -2 -2 -1 -2 7 -2 -2 -1]
+MEL_RAW[13  55542  530
+    13  55542  530
+    1  66567  +1765
+    +1  565432  6543]
+NO_REP[13542530
+    13542530
+    16567+1765
+    +15654326543]
+RTM[xx  x__x_x_x_x_  x__.x_x_
+    xx  x__x_x_x_x_  x__.x_x_
+    x_  x__x_x_x_x_  x_x_x_x__
+    x_  x_x_x_x_x_x_  x_x_x_x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN VOGEL HOCHZEIT MACHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Bunzlau; Hainau]
+TRD[]
+FKT[]
+SIG[E0163]
+KEY[E0163   16  G 2/4]
+MEL[3_  5_3_5_3_  4_2_4__
+    3_3_5_3_  2_5_5_
+    -5-5  1_1_1_33  2_2_2_
+    54  343_232_  1__0_ //]
+BEM[]
+MEL_SEM[3 -3 3 -3 1 -3 3 -1 0 3 -3 -2 5 0 -12 0 5 0 0 4 0 -2 0 0 5 -2 -1 1 -1 -2 2 -2 -2]
+MEL_RAW[3  5353  424
+    3353  255
+    -5-5  11133  222
+    54  343232  10]
+NO_REP[35353424
+    35325
+    -5132
+    5434323210]
+RTM[x_  x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  xxx_xxx_  x__x_]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

@@ -1,0 +1,28 @@
+ERK
+CUT[HE HE FERNDIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E1563]
+KEY[E1563   16  A 6/8]
+MEL[1_  1__5_5__4_  5_.43b_2__
+    3b_  1_.-71_2__3b_  1_-7_1_2__
+    3b_  1_-7_1_2__
+    5_  5__2_3b__2_  1__.0__ //]
+BEM[]
+MEL_SEM[0 7 0 -2 2 -2 -2 -1 1 -3 -1 1 2 1 -3 -1 1 2 1 -3 -1 1 2 5 0 -5 1 -1 -2]
+MEL_RAW[1  1554  543b2
+    3b  1-7123b  1-712
+    3b  1-712
+    5  523b2  10]
+NO_REP[154543b2
+    3b1-7123b1-712
+    3b1-712
+    523b210]
+RTM[x_  x__x_x__x_  x_.xx_x__
+    x_  x_.xx_x__x_  x_x_x_x__
+    x_  x_x_x_x__
+    x_  x__x_x__x_  x__.x__]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

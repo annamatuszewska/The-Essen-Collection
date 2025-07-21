@@ -1,0 +1,32 @@
+ERK
+CUT[DREI GAENS IM HABERSTROH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1785]
+KEY[E1785   08  F 4/4]
+MEL[1_  1_1_1_.2  3__0_
+    3_  3_3_3_.4  5__0_
+    3_  5_5_5_.4  3__1_
+    1_  3_5_3_.2  1__-5_
+    5_  5_5_5_5_  5__. //]
+BEM[]
+MEL_SEM[0 0 0 2 2 0 0 0 0 1 2 -3 3 0 0 -2 -1 -4 0 4 3 -3 -2 -2 -5 12 0 0 0 0 0]
+MEL_RAW[1  1112  30
+    3  3334  50
+    3  5554  31
+    1  3532  1-5
+    5  5555  5]
+NO_REP[1230
+    3450
+    35431
+    135321-5
+    5]
+RTM[x_  x_x_x_.x  x__x_
+    x_  x_x_x_.x  x__x_
+    x_  x_x_x_.x  x__x_
+    x_  x_x_x_.x  x__x_
+    x_  x_x_x_x_  x__.]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

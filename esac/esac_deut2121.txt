@@ -1,0 +1,28 @@
+ERK
+CUT[ES KAM EIN MANN AUS NINNEVEH]
+REG[Europa, Mitteleuropa, Deutschland, Sachsen, Dresden]
+TRD[]
+FKT[]
+SIG[E1904]
+KEY[E1904   08  G 2/4]
+MEL[-5  1113  11-50  1310
+    21-7-6  -533
+    -5  1113  11-50  1310
+    21-7-6  -533 //]
+BEM[]
+MEL_SEM[5 0 0 4 -4 0 -5 5 4 -4 2 -2 -1 -2 -2 9 0 -9 5 0 0 4 -4 0 -5 5 4 -4 2 -2 -1 -2 -2 9 0]
+MEL_RAW[-5  1113  11-50  1310
+    21-7-6  -533
+    -5  1113  11-50  1310
+    21-7-6  -533]
+NO_REP[-5131-501310
+    21-7-6-53
+    -5131-501310
+    21-7-6-53]
+RTM[x  xxxx  xxxx  xxxx
+    xxxx  xxx
+    x  xxxx  xxxx  xxxx
+    xxxx  xxx]
+SCL_DEG[-5-6-7123]
+SCL_SEM[2 2 1 2 2]
+

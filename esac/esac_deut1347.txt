@@ -1,0 +1,36 @@
+ERK
+CUT[EINST LEBT ICH SO GLUECKLICH]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Oberhessen; Nassau]
+TRD[]
+FKT[]
+SIG[E0737]
+KEY[E0737   08 Eb 3/4]
+MEL[12  3_3_23  4_4_
+    23  466_65  5__
+    13  5_5_65  542_
+    5_  7_.654  3__
+    13  5_5_65  542_
+    5_  7_.654  3__ //]
+BEM[]
+MEL_SEM[2 2 0 -2 2 1 0 -3 2 1 4 0 0 -2 0 -7 4 3 0 2 -2 0 -2 -3 5 4 -2 -2 -2 -1 -4 4 3 0 2 -2 0 -2 -3 5 4 -2 -2 -2 -1]
+MEL_RAW[12  3323  44
+    23  46665  5
+    13  5565  542
+    5  7654  3
+    13  5565  542
+    5  7654  3]
+NO_REP[123234
+    23465
+    1356542
+    576543
+    1356542
+    576543]
+RTM[xx  x_x_xx  x_x_
+    xx  xxx_xx  x__
+    xx  x_x_xx  xxx_
+    x_  x_.xxx  x__
+    xx  x_x_xx  xxx_
+    x_  x_.xxx  x__]
+SCL_DEG[1234567]
+SCL_SEM[2 2 1 2 2 2]
+

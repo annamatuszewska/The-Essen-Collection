@@ -1,0 +1,32 @@
+ERK
+CUT[HOPCHEN HOP HOP HEI]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E1708]
+KEY[E1708   08  F 4/4]
+MEL[3_.32_.1  1___
+    3_.32_.1  1___
+    3_3_3_5_  4_3_2__
+    3_3_3_5_  4_3_2__
+    3_.32_.1  1___ //]
+BEM[]
+MEL_SEM[0 -2 -2 0 4 0 -2 -2 0 4 0 0 3 -2 -1 -2 2 0 0 3 -2 -1 -2 2 0 -2 -2 0]
+MEL_RAW[3321  1
+    3321  1
+    3335  432
+    3335  432
+    3321  1]
+NO_REP[321
+    321
+    35432
+    35432
+    321]
+RTM[x_.xx_.x  x___
+    x_.xx_.x  x___
+    x_x_x_x_  x_x_x__
+    x_x_x_x_  x_x_x__
+    x_.xx_.x  x___]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[REGE REGE SCHUURE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Duesseldorf]
+TRD[]
+FKT[]
+SIG[E1840]
+KEY[E1840   08  G 2/4]
+MEL[5536  5_33
+    5536  5_33
+    5536  5_3
+    6  5536  553_
+    5536  553_ //]
+BEM[]
+MEL_SEM[0 -3 5 -2 -3 0 3 0 -3 5 -2 -3 0 3 0 -3 5 -2 -3 5 -2 0 -3 5 -2 0 -3 3 0 -3 5 -2 0 -3]
+MEL_RAW[5536  533
+    5536  533
+    5536  53
+    6  5536  553
+    5536  553]
+NO_REP[53653
+    53653
+    53653
+    653653
+    53653]
+RTM[xxxx  x_xx
+    xxxx  x_xx
+    xxxx  x_x
+    x  xxxx  xxx_
+    xxxx  xxx_]
+SCL_DEG[356]
+SCL_SEM[3 2]
+

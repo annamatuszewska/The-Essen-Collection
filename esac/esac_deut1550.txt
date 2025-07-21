@@ -1,0 +1,32 @@
+ERK
+CUT[SPIELT MIR MAL DIE SIEBEN SPRUENGE]
+REG[Europa, Mitteleuropa, Deutschland, Uckermark, Grenzow]
+TRD[]
+FKT[]
+SIG[E0992A]
+KEY[E0992A  08  G 2/4]
+MEL[1353  4231
+    1353  421_
+    2222  2-7-5_
+    2222  2-7-5
+    5  3_.5  3__ //]
+BEM[]
+MEL_SEM[4 3 -3 1 -3 2 -4 0 4 3 -3 1 -3 -2 2 0 0 0 0 -3 -4 7 0 0 0 0 -3 -4 12 -3 3 -3]
+MEL_RAW[1353  4231
+    1353  421
+    2222  2-7-5
+    2222  2-7-5
+    5  35  3]
+NO_REP[13534231
+    1353421
+    2-7-5
+    2-7-5
+    5353]
+RTM[xxxx  xxxx
+    xxxx  xxx_
+    xxxx  xxx_
+    xxxx  xxx
+    x  x_.x  x__]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[DA DROBEN VOR DER HIMMLISCHEN THUER]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Wetterau; Wetterfeld]
+TRD[]
+FKT[]
+SIG[E2036]
+KEY[E2036   08  F 3/4]
+MEL[-5_  1_3_53  2_1-7
+    -6-5  1_3_53  2__
+    55  6_.546  5_.4
+    3_  4_3_2_  1__
+    55  6_.546  5_.4
+    3_  4_3_2_  1__ //]
+BEM[]
+MEL_SEM[5 4 3 -3 -2 -2 -1 -2 -2 5 4 3 -3 -2 5 0 2 -2 -2 4 -2 -2 -1 1 -1 -2 -2 7 0 2 -2 -2 4 -2 -2 -1 1 -1 -2 -2]
+MEL_RAW[-5  1353  21-7
+    -6-5  1353  2
+    55  6546  54
+    3  432  1
+    55  6546  54
+    3  432  1]
+NO_REP[-5135321-7
+    -6-513532
+    5654654
+    34321
+    5654654
+    34321]
+RTM[x_  x_x_xx  x_xx
+    xx  x_x_xx  x__
+    xx  x_.xxx  x_.x
+    x_  x_x_x_  x__
+    xx  x_.xxx  x_.x
+    x_  x_x_x_  x__]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

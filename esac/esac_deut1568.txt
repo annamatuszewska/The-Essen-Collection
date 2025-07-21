@@ -1,0 +1,28 @@
+ERK
+CUT[ZU LAUTERBACH HAB ICH MEIN STRUMPF VERLOREN]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland]
+TRD[]
+FKT[]
+SIG[E1009]
+KEY[E1009   08  G 3/4]
+MEL[-5_  5_.53_  1_1_1_  2__-5_  -5__
+    -5_  6_.54_  4_3_2_  5__.  ^_0_
+    -5_  5_.53_  1_1_1_  2__-5_  -5__
+    -5_  7_.65_  5_4_2_  1__.  ^_0_ //]
+BEM[]
+MEL_SEM[12 0 -3 -4 0 0 2 -7 0 0 14 -2 -2 0 -1 -2 5 -12 12 0 -3 -4 0 0 2 -7 0 0 16 -2 -2 0 -2 -3 -2]
+MEL_RAW[-5  553  111  2-5  -5
+    -5  654  432  5  ^0
+    -5  553  111  2-5  -5
+    -5  765  542  1  ^0]
+NO_REP[-5312-5
+    -5654325^0
+    -5312-5
+    -5765421^0]
+RTM[x_  x_.xx_  x_x_x_  x__x_  x__
+    x_  x_.xx_  x_x_x_  x__.  x_x_
+    x_  x_.xx_  x_x_x_  x__x_  x__
+    x_  x_.xx_  x_x_x_  x__.  x_x_]
+SCL_DEG[-51234567]
+SCL_SEM[5 2 2 1 2 2 2]
+

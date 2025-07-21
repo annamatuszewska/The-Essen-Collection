@@ -1,0 +1,32 @@
+ERK
+CUT[IN DEN GARTEN WOLLN WIR GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Sueddeutschland, Franken]
+TRD[]
+FKT[]
+SIG[E0528]
+KEY[E0528   08  G 4/4]
+MEL[1_.23_3_  2_231_-5_
+    3_.45_5_  4_453_1_
+    5_5_6_6_  4_465__
+    3_354__  2_243__
+    1_.35_5_  544_3_0_ //]
+BEM[]
+MEL_SEM[2 2 0 -2 0 2 -4 -5 9 1 2 0 -2 0 2 -3 -4 7 0 2 0 -4 0 4 -2 -3 0 3 -2 -3 0 3 -1 -4 4 3 0 0 -2 0 -1]
+MEL_RAW[1233  2231-5
+    3455  44531
+    5566  4465
+    3354  2243
+    1355  54430]
+NO_REP[123231-5
+    3454531
+    56465
+    354243
+    135430]
+RTM[x_.xx_x_  x_xxx_x_
+    x_.xx_x_  x_xxx_x_
+    x_x_x_x_  x_xxx__
+    x_xxx__  x_xxx__
+    x_.xx_x_  xxx_x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

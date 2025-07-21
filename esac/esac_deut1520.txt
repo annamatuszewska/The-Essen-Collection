@@ -1,0 +1,28 @@
+ERK
+CUT[NUN REUEN MICH DIE GUTEN SCHUCH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0945]
+KEY[E0945   04  F 4/4]
+MEL[1  3_3_  4_4_  5_5_  5_0
+    5  7b_6_  5_4_  5_5_  1_.
+    1  3_3_  4_4_  5_5_  5_0
+    5  7b_6_  5_4_  5_5_  1_. //]
+BEM[]
+MEL_SEM[4 0 1 0 2 0 0 0 3 -1 -2 -2 2 0 -7 0 4 0 1 0 2 0 0 0 3 -1 -2 -2 2 0 -7]
+MEL_RAW[1  33  44  55  50
+    5  7b6  54  55  1
+    1  33  44  55  50
+    5  7b6  54  55  1]
+NO_REP[13450
+    57b65451
+    13450
+    57b65451]
+RTM[x  x_x_  x_x_  x_x_  x_x
+    x  x_x_  x_x_  x_x_  x_.
+    x  x_x_  x_x_  x_x_  x_x
+    x  x_x_  x_x_  x_x_  x_.]
+SCL_DEG[134567b]
+SCL_SEM[4 1 2 2 1]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[DORT UNT IN SELBEN GRUENDLA]
+REG[Europa, Mitteleuropa, Deutschland; Oesterreich, Boehmen]
+TRD[]
+FKT[]
+SIG[E0655]
+KEY[E0655   08 Bb 4/4]
+MEL[-5_  1_1_1_1_  3_3_0_
+    23  4_3_3213  2__0_
+    35  4_3_2321  -7_-5_0_
+    -5-7  2_2_2_12  4_3_0_
+    23  4_3_1_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 0 4 0 -2 2 1 -1 0 -2 -2 4 -2 2 3 -2 -1 -2 2 -2 -2 -1 -4 0 4 3 0 0 -2 2 3 -1 -2 2 1 -1 -4 2 -2]
+MEL_RAW[-5  1111  330
+    23  433213  20
+    35  432321  -7-50
+    -5-7  22212  430
+    23  4312  10]
+NO_REP[-5130
+    234321320
+    35432321-7-50
+    -5-7212430
+    23431210]
+RTM[x_  x_x_x_x_  x_x_x_
+    xx  x_x_xxxx  x__x_
+    xx  x_x_xxxx  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

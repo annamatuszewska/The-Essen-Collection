@@ -1,0 +1,28 @@
+ERK
+CUT[ICH HABE MEIN FEINSLIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0536A]
+KEY[E0536A  08  F 3/4]
+MEL[1  553_1_  542_0
+    2  442_6_  531_0
+    -5  113_5_  +1__
+    6_  53542_  1__0 //]
+BEM[]
+MEL_SEM[7 0 -3 -4 7 -2 -3 0 3 0 -3 7 -2 -3 -4 -5 5 0 4 3 5 -3 -2 -3 3 -2 -3 -2]
+MEL_RAW[1  5531  5420
+    2  4426  5310
+    -5  1135  +1
+    6  53542  10]
+NO_REP[15315420
+    24265310
+    -5135+1
+    65354210]
+RTM[x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x
+    x  xxx_x_  x__
+    x_  xxxxx_  x__x]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

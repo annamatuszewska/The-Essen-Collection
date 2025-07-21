@@ -1,0 +1,28 @@
+ERK
+CUT[ZU MAIEN DIE VOEGELCHEN SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn, Kessenich]
+TRD[]
+FKT[]
+SIG[E0960]
+KEY[E0960   08  A 3/8]
+MEL[5  545  3b45  44-7b  3b3b
+    5  545  3b45  44-7b  3b3b
+    2  112  3b3b2  1_-7  11
+    2  112  3b3b2  1_-7  11 //]
+BEM[]
+MEL_SEM[0 -2 2 -4 2 2 -2 0 -7 5 0 4 0 -2 2 -4 2 2 -2 0 -7 5 0 -1 -2 0 2 1 0 -1 -2 -1 1 0 2 -2 0 2 1 0 -1 -2 -1 1 0]
+MEL_RAW[5  545  3b45  44-7b  3b3b
+    5  545  3b45  44-7b  3b3b
+    2  112  3b3b2  1-7  11
+    2  112  3b3b2  1-7  11]
+NO_REP[5453b454-7b3b
+    5453b454-7b3b
+    2123b21-71
+    2123b21-71]
+RTM[x  xxx  xxx  xxx  xx
+    x  xxx  xxx  xxx  xx
+    x  xxx  xxx  x_x  xx
+    x  xxx  xxx  x_x  xx]
+SCL_DEG[-7b-7123b45]
+SCL_SEM[1 1 2 1 2 2]
+

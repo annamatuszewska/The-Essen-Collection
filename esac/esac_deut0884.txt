@@ -1,0 +1,20 @@
+ERK
+CUT[ES GIENG EIN JUNG KUECHENJUNG]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+TRD[]
+FKT[]
+SIG[E0186D]
+KEY[E0186D  16  C 3/8]
+MEL[-5_  1_-7_-6_  -5_.-3-1_  -2_.-3-4_  -4_-3_
+    -5_  -6_-7_1_  -5_-5_1_  2_2_3_  1__ //]
+BEM[]
+MEL_SEM[5 -1 -2 -2 -3 -4 2 2 1 0 -1 3 2 2 1 -5 0 5 2 0 2 -4]
+MEL_RAW[-5  1-7-6  -5-3-1  -2-3-4  -4-3
+    -5  -6-71  -5-51  223  1]
+NO_REP[-51-7-6-5-3-1-2-3-4-3
+    -5-6-71-51231]
+RTM[x_  x_x_x_  x_.xx_  x_.xx_  x_x_
+    x_  x_x_x_  x_x_x_  x_x_x_  x__]
+SCL_DEG[-1-2-3-4-5-6-7123]
+SCL_SEM[2 2 1 2 2 2 1 2 2]
+

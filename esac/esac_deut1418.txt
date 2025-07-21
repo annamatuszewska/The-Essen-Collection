@@ -1,0 +1,32 @@
+ERK
+CUT[DES ABENDS WENN ES DUNKEL WIRD]
+REG[Europa, Mitteleuropa, Deutschland, Rheinpfalz, Mussbach a.d. Hardt]
+TRD[]
+FKT[]
+SIG[E0813B]
+KEY[E0813B  08  G 4/4]
+MEL[-5_  1_.-71_2_  3_.42_
+    13  5_5_4_4_  3_5_2_
+    5_  35555_65  5_434_
+    54  3_333_5_  2_.12_
+    32  1_3_2_4_  3_6_5_3_  2__1_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 2 1 -3 -2 4 3 0 -2 0 -1 3 -5 5 -3 3 0 0 0 2 -2 0 -2 -1 1 2 -2 -1 0 0 0 3 -5 -2 2 2 -2 -2 4 -2 3 -1 5 -2 -3 -2 -2]
+MEL_RAW[-5  1-712  342
+    13  5544  352
+    5  3555565  5434
+    54  33335  212
+    32  1324  3653  21]
+NO_REP[-51-712342
+    1354352
+    53565434
+    5435212
+    321324365321]
+RTM[x_  x_.xx_x_  x_.xx_
+    xx  x_x_x_x_  x_x_x_
+    x_  xxxxx_xx  x_xxx_
+    xx  x_xxx_x_  x_.xx_
+    xx  x_x_x_x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

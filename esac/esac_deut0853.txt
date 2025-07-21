@@ -1,0 +1,28 @@
+ERK
+CUT[DIE EULE AUF DEM ZAUNE SASS]
+REG[Europa, Mitteleuropa, Deutschland, Neisse, Walldorf]
+TRD[]
+FKT[]
+SIG[E0171]
+KEY[E0171   08  F 3/4]
+MEL[-5  -5-51_1_  123_0
+    2  111_2_  3_2_0
+    1  135_54  352_0
+    1  353_1_  2_1_0 //]
+BEM[]
+MEL_SEM[0 0 5 0 0 2 2 -2 -2 0 0 2 2 -2 -2 0 4 3 0 -2 -1 3 -5 -2 4 3 -3 -4 2 -2]
+MEL_RAW[-5  -5-511  1230
+    2  1112  320
+    1  13554  3520
+    1  3531  210]
+NO_REP[-51230
+    212320
+    13543520
+    13531210]
+RTM[x  xxx_x_  xxx_x
+    x  xxx_x_  x_x_x
+    x  xxx_xx  xxx_x
+    x  xxx_x_  x_x_x]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

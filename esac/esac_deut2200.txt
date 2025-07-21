@@ -1,0 +1,28 @@
+ERK
+CUT[MARIA GING AUS WANDERN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Schnurgast]
+TRD[]
+FKT[]
+SIG[E2061]
+KEY[E2061   08  G 4/4]
+MEL[-5_  1_1_1_3_  1__-5_
+    -5_  1_1_2_2_  3__0_
+    12  3__4_6_  5__3_
+    3_  5_.54_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 4 -4 -5 0 5 0 2 0 2 -4 2 2 1 4 -2 -3 0 3 0 -2 -3 -2]
+MEL_RAW[-5  1113  1-5
+    -5  1122  30
+    12  346  53
+    3  5542  10]
+NO_REP[-5131-5
+    -51230
+    1234653
+    354210]
+RTM[x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    xx  x__x_x_  x__x_
+    x_  x_.xx_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

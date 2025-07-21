@@ -1,0 +1,28 @@
+ERK
+CUT[WOHL UNTER GRUENEN BAEUMELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Oderbreg, Hohen - Saathen]
+TRD[]
+FKT[]
+SIG[E0683B]
+KEY[E0683B  16  G 2/4]
+MEL[-5_  1_.23_4_  5_.31__
+    3__5_+16  5__0_
+    5_  6_654_3_  2_.-7-5__
+    1__322-7  1__0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 -3 -4 4 3 5 -3 -2 0 2 0 -2 -2 -1 -2 -3 -4 5 4 -2 0 -3 1]
+MEL_RAW[-5  1234  531
+    35+16  50
+    5  66543  2-7-5
+    1322-7  10]
+NO_REP[-51234531
+    35+1650
+    565432-7-5
+    132-710]
+RTM[x_  x_.xx_x_  x_.xx__
+    x__x_xx  x__x_
+    x_  x_xxx_x_  x_.xx__
+    x__xxxx  x__x_]
+SCL_DEG[-5-7123456+1]
+SCL_SEM[4 1 2 2 1 2 2 3]
+

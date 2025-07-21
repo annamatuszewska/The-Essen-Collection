@@ -1,0 +1,44 @@
+ERK
+CUT[DER DEUTSCH-FRANZOS BEKLAGT SICH SEHR]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0311]
+KEY[E0311   04  F 4/4]
+MEL[3  2123  432
+    3  21-71  2_1
+    3  2123  432
+    3  21-71  2_1
+    1  2343  212
+    3  21-71  2_1
+    1  -6-711  231
+    3  21-71  2_1 //]
+BEM[]
+MEL_SEM[-2 -2 2 2 1 -1 -2 2 -2 -2 -1 1 2 -2 4 -2 -2 2 2 1 -1 -2 2 -2 -2 -1 1 2 -2 0 2 2 1 -1 -2 -2 2 2 -2 -2 -1 1 2 -2 0 -3 2 1 0 2 2 -4 4 -2 -2 -1 1 2 -2]
+MEL_RAW[3  2123  432
+    3  21-71  21
+    3  2123  432
+    3  21-71  21
+    1  2343  212
+    3  21-71  21
+    1  -6-711  231
+    3  21-71  21]
+NO_REP[32123432
+    321-7121
+    32123432
+    321-7121
+    12343212
+    321-7121
+    1-6-71231
+    321-7121]
+RTM[x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x
+    x  xxxx  xxx
+    x  xxxx  x_x]
+SCL_DEG[-6-71234]
+SCL_SEM[2 1 2 2 1]
+

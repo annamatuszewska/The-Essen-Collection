@@ -1,0 +1,36 @@
+ERK
+CUT[VEILE ROSE BLIAEMELEIN]
+REG[Europa, Mitteleuropa, Deutschland; Frankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1262]
+KEY[E1262   16  G 2/4]
+MEL[1_.23_4_  5_.65_
+    3_  4_.34_5_  3_.23_
+    -5_  1_1_2_2_  3_5_5_
+    -5_  1_1_2_2_  3_5_5__
+    3_5_1__  3_5_1__
+    2_2_3_3_  5_5_1__ //]
+BEM[]
+MEL_SEM[2 2 1 2 2 -2 -3 1 -1 1 2 -3 -2 2 -9 5 0 2 0 2 3 0 -12 5 0 2 0 2 3 0 -3 3 -7 4 3 -7 2 0 2 0 3 0 -7]
+MEL_RAW[1234  565
+    3  4345  323
+    -5  1122  355
+    -5  1122  355
+    351  351
+    2233  551]
+NO_REP[1234565
+    34345323
+    -51235
+    -51235
+    351351
+    2351]
+RTM[x_.xx_x_  x_.xx_
+    x_  x_.xx_x_  x_.xx_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x__
+    x_x_x__  x_x_x__
+    x_x_x_x_  x_x_x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

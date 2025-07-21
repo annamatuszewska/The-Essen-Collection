@@ -1,0 +1,36 @@
+ERK
+CUT[FRUEHMORGENS ALS DER TAG ANBRACH]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau]
+TRD[]
+FKT[]
+SIG[E0358]
+KEY[E0358   08  G 4/4]
+MEL[-5_  1_1_2_2_  3_321_
+    2_  3_3_4_4_  5_543_
+    5_  6_5_4__  3__0_
+    3_  5_5_6_5_  54432_
+    2_  3_3_5_3_  322_2_
+    3_  5_3_2__  1__0_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 -2 -2 2 2 0 1 0 2 0 -2 -1 3 2 -2 -2 -1 0 3 0 2 -2 0 -2 0 -1 -2 0 2 0 3 -3 0 -2 0 0 2 3 -3 -2 -2]
+MEL_RAW[-5  1122  3321
+    2  3344  5543
+    5  654  30
+    3  5565  54432
+    2  3353  3222
+    3  532  10]
+NO_REP[-512321
+    234543
+    565430
+    3565432
+    23532
+    353210]
+RTM[x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x_xxx_
+    x_  x_x_x__  x__x_
+    x_  x_x_x_x_  xxxxx_
+    x_  x_x_x_x_  xxx_x_
+    x_  x_x_x__  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

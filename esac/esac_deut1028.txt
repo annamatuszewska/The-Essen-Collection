@@ -1,0 +1,28 @@
+ERK
+CUT[UND IN DEM SCHNEEGEBIRGE]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Breslau]
+TRD[]
+FKT[]
+SIG[E0429D]
+KEY[E0429D  08  F 3/4]
+MEL[1  135_5_  6_5_0
+    4  321353  2__0
+    2  442_2_  135_0
+    +1  543_2_  1__0 //]
+BEM[]
+MEL_SEM[0 4 3 0 2 -2 -2 -1 -2 -2 4 3 -3 -2 0 3 0 -3 0 -2 4 3 5 -5 -2 -1 -2 -2]
+MEL_RAW[1  1355  650
+    4  321353  20
+    2  4422  1350
+    +1  5432  10]
+NO_REP[135650
+    432135320
+    2421350
+    +1543210]
+RTM[x  xxx_x_  x_x_x
+    x  xxxxxx  x__x
+    x  xxx_x_  xxx_x
+    x  xxx_x_  x__x]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

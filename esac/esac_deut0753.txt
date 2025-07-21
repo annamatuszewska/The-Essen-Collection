@@ -1,0 +1,28 @@
+ERK
+CUT[GRAF FRIEDRICH WOLLT AUSREITEN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau, Conradsdorf]
+TRD[]
+FKT[]
+SIG[E0107A]
+KEY[E0107A  08  F 3/4]
+MEL[-5_  123_3_  2_1_0
+    1  345_5_  4_3
+    333  5_4222  4_3
+    112  3_5_22  1__ //]
+BEM[]
+MEL_SEM[5 2 2 0 -2 -2 0 4 1 2 0 -2 -1 0 0 0 3 -2 -3 0 0 3 -1 -4 0 2 2 3 -5 0 -2]
+MEL_RAW[-5  1233  210
+    1  3455  43
+    333  54222  43
+    112  3522  1]
+NO_REP[-5123210
+    134543
+    354243
+    123521]
+RTM[x_  xxx_x_  x_x_x
+    x  xxx_x_  x_x
+    xxx  x_xxxx  x_x
+    xxx  x_x_xx  x__]
+SCL_DEG[-512345]
+SCL_SEM[5 2 2 1 2]
+

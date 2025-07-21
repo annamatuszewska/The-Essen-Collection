@@ -1,0 +1,40 @@
+ERK
+CUT[DING DING THALERRING]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+TRD[]
+FKT[]
+SIG[E1874]
+KEY[E1874   08  G 2/4]
+MEL[5_3_  553
+    1  1234  555_
+    5533  553
+    1  1234  5_3_
+    5533  5_3_
+    5533  5_3_
+    5432  1_0_ //]
+BEM[]
+MEL_SEM[-3 3 0 -3 -4 0 2 2 1 2 0 0 0 0 -3 0 3 0 -3 -4 0 2 2 1 2 -3 3 0 -3 0 3 -3 3 0 -3 0 3 -3 3 -2 -1 -2 -2]
+MEL_RAW[53  553
+    1  1234  555
+    5533  553
+    1  1234  53
+    5533  53
+    5533  53
+    5432  10]
+NO_REP[5353
+    12345
+    5353
+    123453
+    5353
+    5353
+    543210]
+RTM[x_x_  xxx
+    x  xxxx  xxx_
+    xxxx  xxx
+    x  xxxx  x_x_
+    xxxx  x_x_
+    xxxx  x_x_
+    xxxx  x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

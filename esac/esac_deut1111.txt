@@ -1,0 +1,28 @@
+ERK
+CUT[HAB ICH MEIN TAG KEIN GUT GETHAN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0532]
+KEY[E0532   08  G 4/4]
+MEL[-7b_  3b_5_4_2_  3b_1_-7b_
+    -7b_  3b_5_4_2_  3b__0_
+    -7b_  3b_5_4_2_  3b_21-7b_
+    1_  2_-5_-6_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 4 -2 -3 1 -3 -2 0 5 4 -2 -3 1 -5 5 4 -2 -3 1 -1 -2 -2 2 2 -7 2 2 1]
+MEL_RAW[-7b  3b542  3b1-7b
+    -7b  3b542  3b0
+    -7b  3b542  3b21-7b
+    1  2-5-6-7  10]
+NO_REP[-7b3b5423b1-7b
+    -7b3b5423b0
+    -7b3b5423b21-7b
+    12-5-6-710]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_xxx_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-6-7b-7123b45]
+SCL_SEM[2 1 1 1 2 1 2 2]
+

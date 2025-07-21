@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN MAEDL ZUM TANZE GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0174]
+KEY[E0174   08  G 3/4]
+MEL[-5  -511_1_  -712_.
+    2  111_2_  3_2_0
+    1  323_5_  432_
+    2_  114_3_  2_1_0 //]
+BEM[]
+MEL_SEM[0 5 0 0 -1 1 2 0 -2 0 0 2 2 -2 -2 4 -2 2 3 -2 -1 -2 0 -2 0 5 -1 -2 -2]
+MEL_RAW[-5  -5111  -712
+    2  1112  320
+    1  3235  432
+    2  1143  210]
+NO_REP[-51-712
+    212320
+    13235432
+    2143210]
+RTM[x  xxx_x_  xxx_.
+    x  xxx_x_  x_x_x
+    x  xxx_x_  xxx_
+    x_  xxx_x_  x_x_x]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

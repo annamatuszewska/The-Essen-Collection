@@ -1,0 +1,20 @@
+ERK
+CUT[ES WAR EINAML EIN FEINER KNAB]
+REG[Europa, Mitteleuropa, Deutschland, Franken; Niederrhein; Odenwald]
+TRD[]
+FKT[]
+SIG[E0093]
+KEY[E0093   16  F 3/4]
+MEL[-5_1_3_  5__3_5_6_5_  4__3_
+    5_5_3_  3__2_3_542_  2__1_ //]
+BEM[]
+MEL_SEM[5 4 3 -3 3 2 -2 -2 -1 3 0 -3 0 -2 2 3 -2 -3 0 -2]
+MEL_RAW[-513  53565  43
+    553  323542  21]
+NO_REP[-5135356543
+    53235421]
+RTM[x_x_x_  x__x_x_x_x_  x__x_
+    x_x_x_  x__x_x_xxx_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

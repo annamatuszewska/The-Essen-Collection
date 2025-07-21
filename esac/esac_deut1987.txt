@@ -1,0 +1,32 @@
+ERK
+CUT[EN GROFSMID SAT IN GODER ROO]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Muenster]
+TRD[]
+FKT[]
+SIG[E1698]
+KEY[E1698   16  G 2/4]
+MEL[-5_  -5_-5_-5_1_  -7_-6_-5_
+    -5_  1_5_3_3_  3_2_2_
+    2_  3_1_-5_3_  2_-7_-5_
+    -5_  1_.-71_3_  5__.
+    4_  3_3_2_2_  1__. //]
+BEM[]
+MEL_SEM[0 0 0 5 -1 -2 -2 0 5 7 -3 0 0 -2 0 0 2 -4 -5 9 -2 -3 -4 0 5 -1 1 4 3 -2 -1 0 -2 0 -2]
+MEL_RAW[-5  -5-5-51  -7-6-5
+    -5  1533  322
+    2  31-53  2-7-5
+    -5  1-713  5
+    4  3322  1]
+NO_REP[-51-7-6-5
+    -51532
+    231-532-7-5
+    -51-7135
+    4321]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x__.
+    x_  x_x_x_x_  x__.]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

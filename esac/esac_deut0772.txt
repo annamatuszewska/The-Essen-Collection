@@ -1,0 +1,24 @@
+ERK
+CUT[ES RITT EIN REITER FRISCH WOHLGEMUTH]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+TRD[]
+FKT[]
+SIG[E0110H]
+KEY[E0110H  16  F 6/8]
+MEL[1_  3_.43_1_3_5_  +1__6_5__
+    3_  2__3_4__5_  3__2_1__
+    3_  2__3_4__5_  3__2_1__ //]
+BEM[]
+MEL_SEM[4 1 -1 -4 4 3 5 -3 -2 -3 -2 2 1 2 -3 -2 -2 4 -2 2 1 2 -3 -2 -2]
+MEL_RAW[1  343135  +165
+    3  2345  321
+    3  2345  321]
+NO_REP[1343135+165
+    32345321
+    32345321]
+RTM[x_  x_.xx_x_x_x_  x__x_x__
+    x_  x__x_x__x_  x__x_x__
+    x_  x__x_x__x_  x__x_x__]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

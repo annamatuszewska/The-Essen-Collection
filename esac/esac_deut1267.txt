@@ -1,0 +1,32 @@
+ERK
+CUT[WIE GRUENE IST DIE LINDE]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland, Bonn, Kessenich]
+TRD[]
+FKT[]
+SIG[E0679G]
+KEY[E0679G  08  E 4/4]
+MEL[15  5_.45_+1_  6_.54_0_
+    5_+1_7b_6_  5__0_
+    5_  5_.5+1_+15  5_.+1+17b
+    6b5  5_42543b1  5__.
+    6b_  5_42543b2  1__0_ //]
+BEM[]
+MEL_SEM[7 0 -2 2 5 -3 -2 -2 2 5 -2 -1 -2 0 0 0 5 0 -5 0 5 0 -2 -2 -1 0 -2 -3 5 -2 -2 -3 7 1 -1 -2 -3 5 -2 -2 -1 -2]
+MEL_RAW[15  545+1  6540
+    5+17b6  50
+    5  55+1+15  5+1+17b
+    6b5  542543b1  5
+    6b  542543b2  10]
+NO_REP[1545+16540
+    5+17b650
+    5+15+17b
+    6b542543b15
+    6b542543b210]
+RTM[xx  x_.xx_x_  x_.xx_x_
+    x_x_x_x_  x__x_
+    x_  x_.xx_xx  x_.xxx
+    xx  x_xxxxxx  x__.
+    x_  x_xxxxxx  x__x_]
+SCL_DEG[123b456b67b+1]
+SCL_SEM[2 1 2 2 1 1 1 2]
+

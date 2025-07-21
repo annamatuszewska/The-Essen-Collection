@@ -1,0 +1,36 @@
+ERK
+CUT[DIE REISE NACH SUEDLAND]
+REG[Europa, Mitteleuropa, Deutschland; Fankreich, Elsass]
+TRD[]
+FKT[]
+SIG[E1430]
+KEY[E1430   08 Bb 3/4]
+MEL[-5_  1_1_2_  3_3_
+    12  3_.343  2__
+    23  4_.654  3_.2
+    13  2_1_-7_  5__
+    23  4_.653  3_.2
+    13  2_1_-7_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 2 0 -4 2 2 0 1 -1 -2 0 2 1 4 -2 -2 -1 -2 -2 4 -2 -2 -1 8 -5 2 1 4 -2 -3 0 -2 -2 4 -2 -2 -1 1]
+MEL_RAW[-5  112  33
+    12  3343  2
+    23  4654  32
+    13  21-7  5
+    23  4653  32
+    13  21-7  1]
+NO_REP[-5123
+    123432
+    23465432
+    1321-75
+    2346532
+    1321-71]
+RTM[x_  x_x_x_  x_x_
+    xx  x_.xxx  x__
+    xx  x_.xxx  x_.x
+    xx  x_x_x_  x__
+    xx  x_.xxx  x_.x
+    xx  x_x_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

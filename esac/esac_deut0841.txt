@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN VOGEL HOCHZEIT MACHEN]
+REG[Europa, Mitteleuropa, Deutschland, Danzig]
+TRD[]
+FKT[]
+SIG[E0163A]
+KEY[E0163A  08  G 2/4]
+MEL[-5  1234  5555
+    64+16  6550
+    444_  333_
+    2342  211 //]
+BEM[]
+MEL_SEM[5 2 2 1 2 0 0 0 2 -4 7 -3 0 -2 0 -2 0 0 -1 0 0 -2 2 1 -3 0 -2 0]
+MEL_RAW[-5  1234  5555
+    64+16  6550
+    444  333
+    2342  211]
+NO_REP[-512345
+    64+1650
+    43
+    23421]
+RTM[x  xxxx  xxxx
+    xxxx  xxxx
+    xxx_  xxx_
+    xxxx  xxx]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

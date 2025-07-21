@@ -1,0 +1,28 @@
+ERK
+CUT[DA DROBEN AUF JENEM BERGE]
+REG[Europa, Mitteleuropa, Deutschland, Brandenburg]
+TRD[]
+FKT[]
+SIG[E0419C]
+KEY[E0419C  16  G 6/8]
+MEL[-5_  1_.35_5_.4#5_  3__.2__
+    -5_  1_.23_3_.21_  2___0_
+    5_  3_.45_3_.45_  6__+165__
+    4_  3_.43_2_1_2_  1___0_ //]
+BEM[]
+MEL_SEM[5 4 3 0 -1 1 -3 -2 -7 5 2 2 0 -2 -2 2 5 -3 1 2 -3 1 2 2 3 -3 -2 -2 -1 1 -1 -2 -2 2 -2]
+MEL_RAW[-5  13554#5  32
+    -5  123321  20
+    5  345345  6+165
+    4  343212  10]
+NO_REP[-51354#532
+    -51232120
+    53453456+165
+    434321210]
+RTM[x_  x_.xx_x_.xx_  x__.x__
+    x_  x_.xx_x_.xx_  x___x_
+    x_  x_.xx_x_.xx_  x__xxx__
+    x_  x_.xx_x_x_x_  x___x_]
+SCL_DEG[-512344#56+1]
+SCL_SEM[5 2 2 1 1 1 2 3]
+

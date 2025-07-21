@@ -1,0 +1,28 @@
+ERK
+CUT[WIR WOLLEN EINS SINGEN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E1075]
+KEY[E1075   16  A 3/8]
+MEL[1_  1_3_3_  3_2_1_  2_4_4_  4_3_
+    2_  3_3_56  5_4_3_  3_2_2_  2__
+    1_  1_3_35  5_.43_  6__.  5__
+    5_  5_4_3_  3_5_3_  2__.  1__ //]
+BEM[]
+MEL_SEM[0 4 0 0 -2 -2 2 3 0 0 -1 -2 2 0 3 2 -2 -2 -1 0 -2 0 0 -2 0 4 0 3 0 -2 -1 5 -2 0 0 -2 -1 0 3 -3 -2 -2]
+MEL_RAW[1  133  321  244  43
+    2  3356  543  322  2
+    1  1335  543  6  5
+    5  543  353  2  1]
+NO_REP[1321243
+    23565432
+    1354365
+    5435321]
+RTM[x_  x_x_x_  x_x_x_  x_x_x_  x_x_
+    x_  x_x_xx  x_x_x_  x_x_x_  x__
+    x_  x_x_xx  x_.xx_  x__.  x__
+    x_  x_x_x_  x_x_x_  x__.  x__]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

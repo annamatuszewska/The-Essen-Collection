@@ -1,0 +1,36 @@
+ERK
+CUT[WOL IN DER HAUPTSTADT DANZIG]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Hainau]
+TRD[]
+FKT[]
+SIG[E0215A]
+KEY[E0215A  16  D 2/4]
+MEL[1_  5_5_654_  3__54
+    3_  4_4_6_4_  4__3_
+    1_  6_6_+176_  5__65
+    4_  3_3_542_  2__1_
+    1_  6_6_+176_  5__65
+    4_  3_3_542_  2__1_ //]
+BEM[]
+MEL_SEM[7 0 2 -2 -2 -1 3 -2 -1 1 0 4 -4 0 -1 -4 9 0 3 -1 -2 -2 2 -2 -2 -1 0 3 -2 -3 0 -2 0 9 0 3 -1 -2 -2 2 -2 -2 -1 0 3 -2 -3 0 -2]
+MEL_RAW[1  55654  354
+    3  4464  43
+    1  66+176  565
+    4  33542  21
+    1  66+176  565
+    4  33542  21]
+NO_REP[15654354
+    34643
+    16+176565
+    435421
+    16+176565
+    435421]
+RTM[x_  x_x_xxx_  x__xx
+    x_  x_x_x_x_  x__x_
+    x_  x_x_xxx_  x__xx
+    x_  x_x_xxx_  x__x_
+    x_  x_x_xxx_  x__xx
+    x_  x_x_xxx_  x__x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

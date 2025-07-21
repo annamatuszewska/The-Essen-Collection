@@ -1,0 +1,36 @@
+ERK
+CUT[BIMBAUM DIE GLOCK IST KRANK]
+REG[Europa, Mitteleuropa, Deutschland, Erfurt, Stotternheim]
+TRD[]
+FKT[]
+SIG[E1823]
+KEY[E1823   08  G 2/4]
+MEL[5_31  553_
+    5_31  553_
+    5531  5_30
+    5531  5_30
+    5531  5_3_
+    6543  2_1_ //]
+BEM[]
+MEL_SEM[-3 -4 7 0 -3 3 -3 -4 7 0 -3 3 0 -3 -4 7 -3 3 0 -3 -4 7 -3 3 0 -3 -4 7 -3 5 -2 -2 -1 -2 -2]
+MEL_RAW[531  553
+    531  553
+    5531  530
+    5531  530
+    5531  53
+    6543  21]
+NO_REP[53153
+    53153
+    531530
+    531530
+    53153
+    654321]
+RTM[x_xx  xxx_
+    x_xx  xxx_
+    xxxx  x_xx
+    xxxx  x_xx
+    xxxx  x_x_
+    xxxx  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

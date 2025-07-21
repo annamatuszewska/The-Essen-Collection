@@ -1,0 +1,32 @@
+ERK
+CUT[DER MEIE BRINGT UNS BLUEMLEIN VIEL]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0931]
+KEY[E0931   08  G 4/4]
+MEL[1_  5__5_1_  5__5_
+    7b_  6_5_4_3_  45645_
+    5_  3_3_4_4_  5__3_
+    3_  4_4_5_5_  3__1_
+    1_  4_4_2_2_  1__0_ //]
+BEM[]
+MEL_SEM[7 0 -7 7 0 3 -1 -2 -2 -1 1 2 2 -4 2 0 -3 0 1 0 2 -3 0 1 0 2 0 -3 -4 0 5 0 -3 0 -2]
+MEL_RAW[1  551  55
+    7b  6543  45645
+    5  3344  53
+    3  4455  31
+    1  4422  10]
+NO_REP[1515
+    7b654345645
+    53453
+    34531
+    14210]
+RTM[x_  x__x_x_  x__x_
+    x_  x_x_x_x_  xxxxx_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[1234567b]
+SCL_SEM[2 2 1 2 2 1]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[IM MAIEN WENN ALL DIE VOEGLEIN SINGEN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0961]
+KEY[E0961   08  A 3/4]
+MEL[1_  1__12  3b_3b_3b_  2_.1-7b-6  -5_-5_
+    2_  2__23b  2_2_3b_  4__3b2  3b__
+    2_  1_-7__  -5_1__  2__
+    -5-6  -7__1_  2__1_  4_.3b2_  3b__
+    2_  1_.21_  -7__2_  1__.  ^__ //]
+BEM[]
+MEL_SEM[0 0 2 1 0 0 -1 -2 -2 -1 -2 0 7 0 0 1 -1 0 1 2 -2 -1 1 -1 -2 -1 -4 5 2 -7 2 2 1 2 -2 5 -2 -1 1 -1 -2 2 -2 -1 3 -2]
+MEL_RAW[1  112  3b3b3b  21-7b-6  -5-5
+    2  223b  223b  43b2  3b
+    2  1-7  -51  2
+    -5-6  -71  21  43b2  3b
+    2  121  -72  1  ^]
+NO_REP[123b21-7b-6-5
+    23b23b43b23b
+    21-7-512
+    -5-6-712143b23b
+    2121-721^]
+RTM[x_  x__xx  x_x_x_  x_.xxx  x_x_
+    x_  x__xx  x_x_x_  x__xx  x__
+    x_  x_x__  x_x__  x__
+    xx  x__x_  x__x_  x_.xx_  x__
+    x_  x_.xx_  x__x_  x__.  x__]
+SCL_DEG[-5-6-7b-7123b4]
+SCL_SEM[2 1 1 1 2 1 2]
+

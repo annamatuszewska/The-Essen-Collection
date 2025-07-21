@@ -1,0 +1,28 @@
+ERK
+CUT[WAT SCHWEMMT OP USEN DUIKE]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Soest]
+TRD[]
+FKT[]
+SIG[E1560]
+KEY[E1560   16 Bb 3/8]
+MEL[-5_  1_1_2-7  1_1_-5_  1__
+    1_  4_4_2_  3_3_1_  2__-7_  1__
+    -5_  1_1_1_  1-6-5_-5_  1__2_  1__
+    -5_  4_4_2_  3_3_1_  2__-7_  1__ //]
+BEM[]
+MEL_SEM[5 0 2 -3 1 0 -5 5 0 5 0 -3 2 0 -4 2 -3 1 -5 5 0 0 0 -3 -2 0 5 2 -2 -5 10 0 -3 2 0 -4 2 -3 1]
+MEL_RAW[-5  112-7  11-5  1
+    1  442  331  2-7  1
+    -5  111  1-6-5-5  12  1
+    -5  442  331  2-7  1]
+NO_REP[-512-71-51
+    142312-71
+    -51-6-5121
+    -542312-71]
+RTM[x_  x_x_xx  x_x_x_  x__
+    x_  x_x_x_  x_x_x_  x__x_  x__
+    x_  x_x_x_  xxx_x_  x__x_  x__
+    x_  x_x_x_  x_x_x_  x__x_  x__]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

@@ -1,0 +1,32 @@
+ERK
+CUT[MARIA DURCH NEN DORNWALD GING]
+REG[Europa, Mitteleuropa, Deutschland, Eichsfelde]
+TRD[]
+FKT[]
+SIG[E1193]
+KEY[E1193   08  G 4/4]
+MEL[-5_  1_.23b_5_  3b_212__
+    3b_3b3b4__  5__0_
+    3b4  5_.45_6b5  4_.3b4_
+    54  3b_.23b_43b  2_.12__
+    1_.23b_5_  3b21__ //]
+BEM[]
+MEL_SEM[5 2 1 4 -4 -1 -2 2 1 0 0 2 2 -4 2 2 -2 2 1 -1 -2 -2 2 2 -2 -2 -1 1 2 -2 -1 -2 2 -2 2 1 4 -4 -1 -2]
+MEL_RAW[-5  123b5  3b212
+    3b3b3b4  50
+    3b4  5456b5  43b4
+    54  3b23b43b  212
+    123b5  3b21]
+NO_REP[-5123b53b212
+    3b450
+    3b45456b543b4
+    543b23b43b212
+    123b53b21]
+RTM[x_  x_.xx_x_  x_xxx__
+    x_xxx__  x__x_
+    xx  x_.xx_xx  x_.xx_
+    xx  x_.xx_xx  x_.xx__
+    x_.xx_x_  xxx__]
+SCL_DEG[-5123b456b]
+SCL_SEM[5 2 1 2 2 1]
+
